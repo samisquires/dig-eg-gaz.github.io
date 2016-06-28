@@ -1,0 +1,16 @@
+# main links links
+main:
+  - title: "About"
+    url: /about/
+
+  - title: "Contents"
+    url: /contents/
+    
+  - title: "How To"
+    url: /how-to/
+
+  - title: "Resources"
+    url: /resources/
+    
+  - title: "Syllabus"
+    url: https://docs.google.com/document/d/1HRh9jvHUBwWkuWcWJAZOQMQqMI8PFhut0MMUiUSEsag/edit?usp=sharing
