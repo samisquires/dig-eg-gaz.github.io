@@ -6,7 +6,7 @@ header:
   image_fullwidth: "cherif-pacha-1.jpg"
 ---
 
-Through close reading of the Egyptian Gazette, an English-language daily newspaper published in Alexandria, we will compile comprehensive data about local events during a single year, 1905. Each student will be responsible for one weeks (6 issues, totaling 40 pages) of the paper; together we will cover the year.
+Through close reading of the Egyptian Gazette, an English-language daily newspaper published in Alexandria, we will compile comprehensive data about local events during a single year, 1905. Each student will be responsible for one week (6 issues, totaling 40 pages) of the paper; together we will cover the year.
 
 This class brings together 
 

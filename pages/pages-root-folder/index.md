@@ -6,11 +6,11 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: masthead.jpg
 widget1:
   title: "Blog"
   url: 'http://dig-eg-gaz.github.io/blog/'
-  image: logo.jpg
+  image: port-skyline.jpg
   text: 'Reflections on the content of the <em>Egyptian Gazette</em>, and the work of digitization. Authored by the students in IFS 2116.'
 widget2:
   title: "Instructions"
@@ -20,7 +20,7 @@ widget2:
 widget3:
   title: "Contents"
   url: 'http://dig-eg-gaz.github.io/contents/'
-  image: logo.jpg
+  image: square.jpg
   text: 'Full text of the paper will slowly unroll here.'
 #
 # Use the call for action to show a button on the frontpage
