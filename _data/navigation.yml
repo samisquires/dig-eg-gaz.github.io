@@ -7,11 +7,11 @@
   side: left
 
 - title: "Contents"
-  url: "/Contents/"
+  url: "/contents/"
   side: left
   dropdown:
   - title: "Contents by Date"
-    url: "/Contents/"
+    url: "/contents/"
   - title: "Advertisements"
     url: "/design/typography/typography/"
 
