@@ -11,7 +11,7 @@
   side: left
   dropdown:
   - title: "Contents by Date"
-    url: "/contents/"
+    url: "/contents"
   - title: "Advertisements"
     url: "/design/typography/typography/"
 
@@ -20,9 +20,9 @@
   side: left
   dropdown:
   - title: "Microfilm Instructions"
-    url: "/how-to/microfilm-instructions/"
+    url: "/how-to/microfilm-instructions"
   - title: "OCR Instructions"
-    url: "/how-to/ocr-instructions/"
+    url: "/how-to/ocr-instructions"
     
 - title: Resources
   url: "/resources/"
