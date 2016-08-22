@@ -4,8 +4,7 @@ title: OCR instructions
 permalink: /how-to/OCR-instructions/
 author: Will Hanley
 header:
-  overlay_image: front-page.jpg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  title: masthead.jpg
 ---
 
 1. Download [AABBY Finereader](http://trial.abbyyusa.com/download-fr12pro). The 30 day, 100 page free trial that they offer *should* be enough time to complete your OCR work for this class. If you don't complete it on time, you have the option to buy the software for about $100. The Windows version works better than the Mac version.

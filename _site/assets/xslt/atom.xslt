@@ -223,52 +223,12 @@
 
                       
 
-                      <li><a href="/design/grid/">Grid &amp; Colors</a></li>
+                      <li><a href="/Contents/">Contents by Date</a></li>
                     
 
                       
 
-                      <li><a href="/design/typography/typography/">Typography</a></li>
-                    
-
-                      
-
-                      <li><a href="/design/page/">Page/Post</a></li>
-                    
-
-                      
-
-                      <li><a href="/design/post-left-sidebar/">Post-Left-Sidebar</a></li>
-                    
-
-                      
-
-                      <li><a href="/design/post-right-sidebar/">Post-Right-Sidebar</a></li>
-                    
-
-                      
-
-                      <li><a href="/design/page-fullwidth/">Page Full-Width</a></li>
-                    
-
-                      
-
-                      <li><a href="/blog/">Blog-Page</a></li>
-                    
-
-                      
-
-                      <li><a href="/design/video/">Video</a></li>
-                    
-
-                      
-
-                      <li><a href="/design/gallery/">Gallery</a></li>
-                    
-
-                      
-
-                      <li><a href="/design/portfolio/">Portfolio</a></li>
+                      <li><a href="/design/typography/typography/">Advertisements</a></li>
                     
                   </ul>
 
@@ -294,37 +254,12 @@
 
                       
 
-                      <li><a href="/how-to/microfilm-tutorial/">Microfilm Instructions</a></li>
+                      <li><a href="/how-to/microfilm-instructions/">Microfilm Instructions</a></li>
                     
 
                       
 
-                      <li><a href="/design/header-image-pattern/">Header with Image and Pattern</a></li>
-                    
-
-                      
-
-                      <li><a href="/design/header-image-color/">Header with image and color</a></li>
-                    
-
-                      
-
-                      <li><a href="/design/header-logo-only/">Header Only With Logo</a></li>
-                    
-
-                      
-
-                      <li><a href="/design/header-with-text/">Header With Text</a></li>
-                    
-
-                      
-
-                      <li><a href="/design/no-header/">No Header</a></li>
-                    
-
-                      
-
-                      <li><a href="/design/no-header-but-image/">No Header but Image</a></li>
+                      <li><a href="/how-to/ocr-instructions/">OCR Instructions</a></li>
                     
                   </ul>
 

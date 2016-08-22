@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>/</id>
 	<title>Digital Egyptian Gazette</title>
-	<updated>2016-06-29T13:50:23-04:00</updated>
+	<updated>2016-08-22T13:28:48-04:00</updated>
 
 	<subtitle>A daily newspaper from turn-of-the-century Egypt, in marked up full text.</subtitle>
 
@@ -28,6 +28,36 @@
 
 	<generator uri="http://jekyllrb.com" version="3.0.2">Jekyll</generator>
 
+	
+		<entry>
+			<id>/Welcome/</id>
+			<title>Welcome</title>
+			<link href="/Welcome/" rel="alternate" type="text/html" title="Welcome" />
+			<updated>2016-08-21T00:00:00-04:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Will Hanley</name>
+					
+					
+						<email>whanley@fsu.edu</email>
+					
+					
+						<uri>http://nationality-history.info/</uri>
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="/Welcome/">&lt;p&gt;Test&lt;/p&gt;
+</content>
+
+			
+			
+
+			<published>2016-08-21T00:00:00-04:00</published>
+		</entry>
 	
 		<entry>
 			<id>/design/mediaelement_js/</id>
@@ -531,6 +561,7 @@ element&lt;/td&gt;
       &lt;td&gt;is used to group footer content in an HTML table&lt;/td&gt;
       &lt;td&gt;no styling needed&lt;/td&gt;
     &lt;/tr&gt;
+&amp;lt;/table&amp;gt;
 
 
 
@@ -538,9 +569,8 @@ element&lt;/td&gt;
 
 
 
-
-&lt;!-- /.medium-8.columns --&gt;
-&lt;!-- /.row --&gt;
+&amp;lt;/div&amp;gt;&lt;!-- /.medium-8.columns --&gt;
+&amp;lt;/div&amp;gt;&lt;!-- /.row --&gt;
 
 
 &lt;/tbody&gt;&lt;/table&gt;
@@ -1033,81 +1063,6 @@ image:
 			
 
 			<published>2014-10-09T00:00:00-04:00</published>
-		</entry>
-	
-		<entry>
-			<id>/design/header-image-pattern/</id>
-			<title>Header Image With Pattern</title>
-			<link href="/design/header-image-pattern/" rel="alternate" type="text/html" title="Header Image With Pattern" />
-			<updated>2014-10-08T00:00:00-04:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Will Hanley</name>
-					
-					
-						<email>whanley@fsu.edu</email>
-					
-					
-						<uri>http://nationality-history.info/</uri>
-					
-				</author>
-			
-			<summary>Feeling Responsive allows you to use all kinds of headers. This example shows a header image in front of a pattern.</summary>
-			<content type="html" xml:base="/design/header-image-pattern/">&lt;p&gt;It’s so easy to do. Just define in front matter an image and a pattern image. Instead of a pattern you can also use a color. Have a look at the &lt;a href=&quot;/design/header-image-color/&quot;&gt;example with a background color&lt;/a&gt;.
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;front-matter-code&quot;&gt;Front Matter Code&lt;/h2&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;header:
-    image:  &quot;header_unsplash_2-970x.jpg&quot;
-    pattern:  &quot;pattern_concrete.jpg&quot;
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-
-    
-      &lt;li&gt;&lt;a href=&quot;/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-
-  
-&lt;/ul&gt;
-
-</content>
-
-			
-				<category term="design" />
-			
-			
-				<category term="design" />
-			
-				<category term="pattern" />
-			
-				<category term="header" />
-			
-
-			<published>2014-10-08T00:00:00-04:00</published>
 		</entry>
 	
 </feed>

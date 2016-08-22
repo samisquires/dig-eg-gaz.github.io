@@ -9,6 +9,15 @@
 		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Welcome</title>
+				<link>/Welcome/</link>
+				<pubDate>Sun, 21 Aug 2016 00:00:00 -0400</pubDate>
+				<description>&lt;p&gt;Test&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">/Welcome/</guid>
+			</item>
+		
+			<item>
 				<title>Play Audio &amp; Video with media&amp;shy;element.js</title>
 				<link>/design/mediaelement_js/</link>
 				<pubDate>Thu, 15 Oct 2015 00:00:00 -0400</pubDate>
@@ -464,6 +473,7 @@ element&lt;/td&gt;
       &lt;td&gt;is used to group footer content in an HTML table&lt;/td&gt;
       &lt;td&gt;no styling needed&lt;/td&gt;
     &lt;/tr&gt;
+&amp;lt;/table&amp;gt;
 
 
 
@@ -471,9 +481,8 @@ element&lt;/td&gt;
 
 
 
-
-&lt;!-- /.medium-8.columns --&gt;
-&lt;!-- /.row --&gt;
+&amp;lt;/div&amp;gt;&lt;!-- /.medium-8.columns --&gt;
+&amp;lt;/div&amp;gt;&lt;!-- /.row --&gt;
 
 
 &lt;/tbody&gt;&lt;/table&gt;
@@ -761,52 +770,6 @@ image:
 
 </description>
 				<guid isPermaLink="true">/design/header-full-width-image/</guid>
-			</item>
-		
-			<item>
-				<title>Header Image With Pattern</title>
-				<link>/design/header-image-pattern/</link>
-				<pubDate>Wed, 08 Oct 2014 00:00:00 -0400</pubDate>
-				<description>&lt;p&gt;It’s so easy to do. Just define in front matter an image and a pattern image. Instead of a pattern you can also use a color. Have a look at the &lt;a href=&quot;/design/header-image-color/&quot;&gt;example with a background color&lt;/a&gt;.
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;front-matter-code&quot;&gt;Front Matter Code&lt;/h2&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;header:
-    image:  &quot;header_unsplash_2-970x.jpg&quot;
-    pattern:  &quot;pattern_concrete.jpg&quot;
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-
-    
-      &lt;li&gt;&lt;a href=&quot;/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-
-  
-&lt;/ul&gt;
-
-</description>
-				<guid isPermaLink="true">/design/header-image-pattern/</guid>
 			</item>
 		
 	</channel>
