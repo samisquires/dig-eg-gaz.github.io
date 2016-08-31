@@ -8,6 +8,7 @@ header:
 
 # Instructions sets
 
+1. [How to use GitHub](github-instructions)
 1. [How to scan microfilm](microfilm-instructions)
 2. [How to OCR text](OCR-instructions)
 3. [How to perform structural markup]
