@@ -9,6 +9,8 @@ header:
 
 [Github repository](https://github.com/dig-eg-gaz) - containing all the materials used in this project
 
+[Slack Team](dig-eg-gaz.slack.com) - the team where you can communicate with classmates, and get help with the git platform
+
 [Table boilerplates](https://github.com/dig-eg-gaz/boilerplates) - copy and paste for standard-format tables, then fill in the details that change from issue to issue.
 
 [EG ODD](https://github.com/dig-eg-gaz/resources/blob/master/egSchema.odd) - describes the schema used in this project
