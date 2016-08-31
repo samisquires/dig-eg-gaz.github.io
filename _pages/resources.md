@@ -19,12 +19,6 @@ header:
 
 [Matthew Miguez’s page](http://myweb.fsu.edu/mmiguez/tei/index.html) - metadata librarian at FSU.
 
-### Github tutorials
-
-- [Github flow](https://guides.github.com/introduction/flow/): describes branch, commit, pull, etc. 5 minute read.
-- [Hello world](https://guides.github.com/activities/hello-world/): step-by-step explanation of key functions via web interface. 10 minute read.
-- [Understanding Github](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/): very clear introductory discussion, focusing on command line interface.
-
 ### Boilerplates
 
 [This powerpoint presentation](https://docs.google.com/presentation/d/1vMoj-5ktfUAsfXrEbQJqy8vSsKhYiVyGVIZZqefrJW0/edit?authuser=0) displays the page content structure of several issues during the month of July 1905.

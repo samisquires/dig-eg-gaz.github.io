@@ -19,6 +19,8 @@
   url: "/how-to/"
   side: left
   dropdown:
+  - title: "GitHub Instructions"
+    url: "/how-to/github-instructions"
   - title: "Microfilm Instructions"
     url: "/how-to/microfilm-instructions"
   - title: "OCR Instructions"
