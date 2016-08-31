@@ -15,8 +15,7 @@ header:
 5. Once the sequence of areas is correct, click the "read" icon again. The program will reread the text in the order you've indicated. 
 6. Click on the "verification" icon, and proceed to correct the text. When verifying the text, remember that you are only correcting the automatic reading. *Do not* correct any errors you might find in the newspaper itself--not even minor spelling errors. We want to preserve the newspaper in its original text, warts and all.
 7. Once you've verified some or all of the text, save your verification work. (If you close Finereader without saving the verification separately, you will lose your work). To do this, use the "Save" icon in the middle top of the page. Choose "Plain text" as the document layout, and click "Save." Name the document following the standard format of YYYY-MM-DD-p#. If you click "Format options," and check "Use blank line as paragraph separator," it will make your work easier later on. You can now close Finereader without losing your verification work.
-
-[I should make a screencast video of this process].
+8. Once you've finished work on the page, upload it to your personal GitHub repository.
 
 ## FAQs
 
