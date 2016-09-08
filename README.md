@@ -1,4 +1,5 @@
-# [Join the slack team!](dig-eg-gaz.slack.com)
+# [Join the slack team!](https://dig-eg-gaz.slack.com)
+
 All you need is your @my.fsu.edu email address.
 
 If you would like to learn more about Slack, watch [this](https://www.youtube.com/watch?v=B6zVzWU95Sw) video!

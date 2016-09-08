@@ -9,7 +9,7 @@ header:
 
 [Github repository](https://github.com/dig-eg-gaz) - containing all the materials used in this project
 
-[Slack Team](dig-eg-gaz.slack.com) - the team where you can communicate with classmates, and get help with the git platform
+[Slack Team](http://dig-eg-gaz.slack.com) - the team where you can communicate with classmates, and get help with the git platform
 
 [Table boilerplates](https://github.com/dig-eg-gaz/boilerplates) - copy and paste for standard-format tables, then fill in the details that change from issue to issue.
 
@@ -21,14 +21,13 @@ header:
 
 [Matthew Miguez’s page](http://myweb.fsu.edu/mmiguez/tei/index.html) - metadata librarian at FSU.
 
-### Slack
+# Slack
 
-[Join the dig-eg-gaz slack team!](http://dig-eg-gaz.slack.com)
-All you need is your @my.fsu.edu email address.
+[Join the dig-eg-gaz slack team!](http://dig-eg-gaz.slack.com) All you need is your @my.fsu.edu email address.
 
 If you would like to learn more about Slack, watch [this](https://www.youtube.com/watch?v=B6zVzWU95Sw) video!
 
-Slack is the standard for communication in technical teams, but it's gaining traction as an email replacement in a very wide variety of companies and organizations.  Slack supports integrations with a wide variety of services and applications.
+Slack is the standard for communication in technical teams, but it's gaining traction as an email replacement in a very wide variety of companies and organizations. Slack supports integrations with a wide variety of services and applications.
 
 **But how does it do its magic?** Slack organizes all communication into dedicated channels, where people can have focused conversations, and can always find a place to ask important questions.
 
