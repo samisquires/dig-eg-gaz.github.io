@@ -24,15 +24,15 @@ Week|Start date (Monday)|End date (Saturday)|Repository|Status
 12|March 20, 1905|March 25, 1905|[Claudia Jimeno]()|Not in organization
 13|March 27, 1905|April 1, 1905|[Courtney Coyle]()|Not in organization
 14|April 3, 1905|April 8, 1905|[David Gressgott](https://github.com/djdaviedave/dig-eg-gaz)|Empty
-15|April 10, 1905|April 15, 1905|[Riley Ouellette](https://github.com/rouellette07/dig-eg-gaz)|Empty (weeks confused?)
-16|April 17, 1905|April 22, 1905|[Alex Caliendo](https://github.com/RGOODY3210/dig-eg-gaz)|Empty (weeks confused?)
+15|April 10, 1905|April 15, 1905|[Alex Caliendo](https://github.com/RGOODY3210/dig-eg-gaz)|Empty
+16|April 17, 1905|April 22, 1905|[Riley Ouellette](https://github.com/rouellette07/dig-eg-gaz)|Empty
 17|April 24, 1905|April 29, 1905|[Jacob Stefonek](https://github.com/JacobStefonek/dig-eg-gaz)|Some images
 18|May 1, 1905|May 6, 1905|[Dante Grieco](https://github.com/dgg15/dig-eg-gaz)|Empty; missing May 1.
 19|May 8, 1905|May 13, 1905|[Cassandra Frederick]()|Not in organization
 20|May 15, 1905|May 20, 1905|[Valerie Curcio]()|Not in organization
 21|May 22, 1905|May 27, 1905|[Anet Crespo](https://github.com/ac15at/dig-eg-gaz)|Empty
 22|May 29, 1905|June 3, 1905|[John White](https://github.com/jcw3/dig-eg-gaz)|Some images (offsite)
-23|June 5, 1905|June 10, 1905|[Shae Hammack]()|Not in organization
+23|June 5, 1905|June 10, 1905|[Joseph Chack-On](https://github.com/jochack/dig-eg-gaz)|Empty
 24|June 12, 1905|June 17, 1905|[Thomas Corzo]()|Not in organization
 25|June 19, 1905|June 24, 1905|[Kedric Heyward](https://github.com/Kheyward/dig-eg-gaz)|Empty
 26|June 26, 1905|July 1, 1905|[Max Conway](https://github.com/maxconwayfsu/dig-eg-gaz)|Empty
@@ -40,7 +40,7 @@ Week|Start date (Monday)|End date (Saturday)|Repository|Status
 28|July 10, 1905|July 15, 1905|[Will Hanley](https://github.com/whanley/digital-Egyptian-Gazette/tree/master/my-content)|Mostly encoded
 29|July 17, 1905|July 22, 1905|[Tristan Garcia]()|Not in organization
 30|July 24, 1905|July 29, 1905|[Brayan Barbosa](https://github.com/brayanbar/dig-eg-gaz)|Empty
-31|July 31, 1905|August 5, 1905|[Andrea Maria Avila](https://github.com/ama15m) or [jochack](https://github.com/jochack/dig-eg-gaz)|Empty
+31|July 31, 1905|August 5, 1905|[Andrea Maria Avila](https://github.com/ama15m)|Empty
 32|August 7, 1905|August 12, 1905|[Melizza Black](https://github.com/MelizzaBlack/dig-eg-gaz)|Empty
 33|August 14, 1905|August 19, 1905|[Henry Thompson](https://github.com/Hat15/Dig-eg-gaz)|Empty
 34|August 21, 1905|August 26, 1905|[Charlie Rymer]()|Not in organization
