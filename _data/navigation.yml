@@ -12,6 +12,8 @@
   dropdown:
   - title: "Contents by Date"
     url: "/contents"
+  - title: "Status by Week"
+    url: "/weeks/"
   - title: "Advertisements"
     url: "/design/typography/typography/"
 
