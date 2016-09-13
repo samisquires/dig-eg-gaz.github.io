@@ -31,7 +31,7 @@ Week|Start date (Monday)|End date (Saturday)|Repository|Status
 19|May 8, 1905|May 13, 1905|[Cassandra Frederick]()|Not in organization
 20|May 15, 1905|May 20, 1905|[Valerie Curcio]()|Not in organization
 21|May 22, 1905|May 27, 1905|[Anet Crespo](https://github.com/ac15at/dig-eg-gaz)|Empty
-22|May 29, 1905|June 3, 1905|[John White](https://github.com/jcw3/dig-eg-gaz)|Some images (offsite)
+22|May 29, 1905|June 3, 1905|[John White](https://github.com/jcw3/dig-eg-gaz)|Some images and text (offsite)
 23|June 5, 1905|June 10, 1905|[Joseph Chack-On](https://github.com/jochack/dig-eg-gaz)|Empty
 24|June 12, 1905|June 17, 1905|[Thomas Corzo]()|Not in organization
 25|June 19, 1905|June 24, 1905|[Kedric Heyward](https://github.com/Kheyward/dig-eg-gaz)|Empty
@@ -51,8 +51,8 @@ Week|Start date (Monday)|End date (Saturday)|Repository|Status
 39|September 25, 1905|September 30, 1905|[Logan Wills](https://github.com/lcw16b/dig-eg-gaz)|Empty
 40|October 2, 1905|October 7, 1905|[Gwen Zapata](https://github.com/Lionex)|Empty
 41|October 9, 1905|October 14, 1905|[Christian Ragland]()|Not in organization
-42|October 16, 1905|October 21, 1905|[Brooklyn Vincent]()|Not in organization
-43|October 23, 1905|October 28, 1905|[Johanna Eugenio]()|Not in organization
+42|October 16, 1905|October 21, 1905|[Brooklyn Vincent](https://github.com/bjv15/dig-eg-gaz)|Empty
+43|October 23, 1905|October 28, 1905|[Johanna Eugenio](https://github.com/jhannaeugenio/dig-eg-gaz)|Some text
 44|October 30, 1905|November 4, 1905|[]()|Unassigned
 45|November 6, 1905|November 11, 1905|[Olivia Evanoff]()|Not in organization
 46|November 13, 1905|November 18, 1905|[Emma Taylor](https://github.com/ekt16/dig-eg-gaz)|Empty
