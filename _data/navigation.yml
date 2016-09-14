@@ -21,13 +21,15 @@
   url: "/how-to/"
   side: left
   dropdown:
+  - title: "Text Editor Instructions"
+    url: "/how-to/text-editor-instructions"
   - title: "GitHub Instructions"
     url: "/how-to/github-instructions"
   - title: "Microfilm Instructions"
     url: "/how-to/microfilm-instructions"
   - title: "OCR Instructions"
     url: "/how-to/OCR-instructions"
-    
+
 - title: Resources
   url: "/resources/"
   side: left
