@@ -50,7 +50,7 @@ Week|Start date (Monday)|End date (Saturday)|Repository|Images|Text|Encoding
 38|September 18, 1905|September 23, 1905|[Alexander Amorello](https://github.com/AlexanderOlleroma/Dig_eg_gaz)|many||
 39|September 25, 1905|September 30, 1905|[Logan Wills](https://github.com/lcw16b/dig-eg-gaz)|all||
 40|October 2, 1905|October 7, 1905|[Gwen Zapata](https://github.com/Lionex/dig-eg-gaz)|many||
-41|October 9, 1905|October 14, 1905|[Christian Ragland]()|Not in organization
+41|October 9, 1905|October 14, 1905|[Christian Ragland](https://github.com/christianragland/dig-eg-gaz)|
 42|October 16, 1905|October 21, 1905|[Brooklyn Vincent](https://github.com/bjv15/dig-eg-gaz)|Empty
 43|October 23, 1905|October 28, 1905|[Johanna Eugenio](https://github.com/jhannaeugenio/dig-eg-gaz)|Some text
 44|October 30, 1905|November 4, 1905|[Henry Thompson](https://github.com/Hat15/Dig-eg-gaz)|Empty
@@ -58,7 +58,7 @@ Week|Start date (Monday)|End date (Saturday)|Repository|Images|Text|Encoding
 46|November 13, 1905|November 18, 1905|[Emma Taylor](https://github.com/ekt16/dig-eg-gaz)|One|one|
 47|November 20, 1905|November 25, 1905|[Amber Fling](https://github.com/alf15c/dig-eg-gaz)|Empty
 48|November 27, 1905|December 2, 1905|[Samantha Lappin](https://github.com/Fibinocci1123/Dig-eg-gaz)|most||
-49|December 4, 1905|December 9, 1905|[]()|Unassigned
+49|December 4, 1905|December 9, 1905|[Phill Dimacali](https://github.com/phillpd96)|Empty
 50|December 11, 1905|December 16, 1905|[Justin Esteve](https://github.com/jesteve3/dig-eg-gaz)|All|one|
 51|December 18, 1905|December 23, 1905|[Jacob Amador](https://github.com/jacobamador19/dig-eg-gaz)|Empty
 52|December 25, 1905|December 30, 1905|[Celita Summa](https://github.com/CelitaS/dig-eg-gaz)|all (missing December 25)|
