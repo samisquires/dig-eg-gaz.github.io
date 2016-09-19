@@ -42,7 +42,7 @@ Week|Start date (Monday)|End date (Saturday)|Repository|Status
 30|July 24, 1905|July 29, 1905|[Brayan Barbosa](https://github.com/brayanbar/dig-eg-gaz)|Empty
 31|July 31, 1905|August 5, 1905|[Andrea Maria Avila](https://github.com/ama15m)|Empty
 32|August 7, 1905|August 12, 1905|[Melizza Black](https://github.com/MelizzaBlack/dig-eg-gaz)|Empty
-33|August 14, 1905|August 19, 1905|[Henry Thompson](https://github.com/Hat15/Dig-eg-gaz)|Empty
+33|August 14, 1905|August 19, 1905|[]()|Unassigned
 34|August 21, 1905|August 26, 1905|[Charlie Rymer]()|Not in organization
 35|August 28, 1905|September 2, 1905|[Erek Cyr](https://github.com/ErekCyr/dig-eg-gaz)|Images complete?
 36|September 4, 1905|September 9, 1905|[Hannah Sain](https://github.com/hds15b/dig-eg-gaz)|Empty
@@ -53,7 +53,7 @@ Week|Start date (Monday)|End date (Saturday)|Repository|Status
 41|October 9, 1905|October 14, 1905|[Christian Ragland]()|Not in organization
 42|October 16, 1905|October 21, 1905|[Brooklyn Vincent](https://github.com/bjv15/dig-eg-gaz)|Empty
 43|October 23, 1905|October 28, 1905|[Johanna Eugenio](https://github.com/jhannaeugenio/dig-eg-gaz)|Some text
-44|October 30, 1905|November 4, 1905|[]()|Unassigned
+44|October 30, 1905|November 4, 1905|[Henry Thompson](https://github.com/Hat15/Dig-eg-gaz)|Empty
 45|November 6, 1905|November 11, 1905|[Olivia Evanoff]()|Not in organization
 46|November 13, 1905|November 18, 1905|[Emma Taylor](https://github.com/ekt16/dig-eg-gaz)|Empty
 47|November 20, 1905|November 25, 1905|[Amber Fling](https://github.com/alf15c/dig-eg-gaz)|Empty
