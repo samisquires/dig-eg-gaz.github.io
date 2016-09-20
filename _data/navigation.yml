@@ -29,6 +29,8 @@
     url: "/how-to/microfilm-instructions"
   - title: "OCR Instructions"
     url: "/how-to/OCR-instructions"
+  - title: "TEI-XML Instructions"
+    url: "/how-to/tei-xml-instructions"
 
 - title: Resources
   url: "/resources/"
