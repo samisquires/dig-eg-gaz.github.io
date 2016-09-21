@@ -8,10 +8,11 @@ header:
 
 # Instructions sets
 
+1. [How to use a plain text editor](text-editor-instructions)
 1. [How to use GitHub](github-instructions)
 1. [How to scan microfilm](microfilm-instructions)
 2. [How to OCR text](OCR-instructions)
-3. [How to perform structural markup]
+3. [How to perform structural markup in TEI-XML](tei-xml-instructions)
 4. [How to perform content markup]
 
 # Further instructions
