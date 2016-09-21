@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Boilerplates
-permalink: /boilerplates/
+title: Advertisements
+permalink: /advertisements/
 header:
-  overlay_image: front-page.jpg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  image_fullwidth: masthead.jpg
 ---
 
 [This powerpoint presentation](https://docs.google.com/presentation/d/1vMoj-5ktfUAsfXrEbQJqy8vSsKhYiVyGVIZZqefrJW0/edit?authuser=0) displays the page content structure of several issues during the month of July 1905.
