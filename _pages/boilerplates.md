@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Advertisements
-permalink: /advertisements/
+title: Boilerplates
+permalink: /boilerplates/
 header:
   image_fullwidth: masthead.jpg
 ---
