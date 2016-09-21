@@ -4,7 +4,7 @@ title: Text editor instructions
 permalink: /how-to/text-editor-instructions/
 author: Will Hanley
 header:
-  title: masthead.jpg
+  image_fullwidth: masthead.jpg
 ---
 One of the aims of this class is to transform the *Egyptian Gazette* into an interchangeable format that everyone can use. To do so, we must begin with plain text documents, which contain no hidden extra code. Word processor documents (.doc files, for example) can only be opened with word processors. Plain text documents can be opened with all and any text editors. That's what we want to use. For more detailed background on plain text editing, see this [plain text tutorial](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown).
 

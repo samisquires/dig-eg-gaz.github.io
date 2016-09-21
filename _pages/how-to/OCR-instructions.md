@@ -4,7 +4,7 @@ title: OCR instructions
 permalink: /how-to/OCR-instructions/
 author: Will Hanley
 header:
-  title: masthead.jpg
+  image_fullwidth: masthead.jpg
 ---
 
 ## If you are using Windows:

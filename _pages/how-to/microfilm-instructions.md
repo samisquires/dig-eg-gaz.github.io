@@ -4,7 +4,7 @@ title: Microfilm instructions
 permalink: /how-to/microfilm-instructions/
 author: Will Hanley
 image:
-    title: masthead.jpg
+  image_fullwidth: masthead.jpg
 ---
 
 

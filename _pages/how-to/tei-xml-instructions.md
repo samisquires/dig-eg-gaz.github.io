@@ -4,14 +4,14 @@ title: TEI-XML instructions
 permalink: /how-to/tei-xml-instructions/
 author: Will Hanley
 header:
-  title: masthead.jpg
+  image_fullwidth: masthead.jpg
 ---
 
 ## Objective
 These instructions guide you in transforming your plain text page files into a marked-up xml document that conforms to the standards of [TEI](http://www.tei-c.org) (the Text Encoding Initiative).
 
 ## 1. Set up your text editor
-You can do the first parts of this work in your Atom text editor. Eventually, as your work becomes more sophisticated, you may wish to try the full-function Oxygen XML Editor, which offers a [free 30-day trial](http://www.oxygenxml.com/xml_editor/register.html). For now, however, learn the basics using Atom. But before you start, go to Packages > Settings View > Install, and install the language-xml package.
+You can do the first parts of this work in your Atom text editor. Eventually, as your work becomes more sophisticated, you may wish to try the full-function Oxygen XML Editor, which offers a [free 30-day trial](http://www.oxygenxml.com/xml_editor/register.html). For now, however, learn the basics using Atom. But before you start, go to Packages > Settings View > Install, and install the `language-xml` and the `less-than-slash` packages.
 
 ## 2. Create an xml file
 Copy and paste [this template](https://raw.githubusercontent.com/dig-eg-gaz/boilerplates/master/empty-issue.xml) into a new document. Name this document using the date of the issue and an xml extension (YYYY-MM-DD.xml). (This document will eventually contain all of the pages of the issue, so it is not necessary to add the page number to the document name.) and save it to a new folder (called "xml-content" or something similar) in your personal repository. When you save your document using the .xml extension in the name, Atom should render the xml code that the template contains in color, and will show "no issues" in green at the bottom of the page.
