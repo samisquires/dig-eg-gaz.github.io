@@ -16,11 +16,13 @@ Advertisements and financial reports form the greatest part of the templated con
 
 ### 1. Daily Weather Report
 
+![Daily Weather Report](daily-weather-report-1905-07-12.png "Daily Weather Report")
+
 This element typically appears on page 2. A template is [here](https://github.com/dig-eg-gaz/boilerplates/blob/master/Daily-Weather-Report.xml). It may be most efficient to use the author view in Oxygen to enter particulars.
 
 ### 2. Newspaper Subscriptions
 
-This elementy typically appears on page 2. A template is [here](https://github.com/dig-eg-gaz/boilerplates/blob/master/Newspaper-Subscriptions.xml). Sometimes material is placed in the middle of these two sections.
+This element typically appears on page 2. A template is [here](https://github.com/dig-eg-gaz/boilerplates/blob/master/Newspaper-Subscriptions.xml). Sometimes material is placed in the middle of these two sections.
 
 ## Advertisements
 
