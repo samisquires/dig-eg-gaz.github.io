@@ -15,5 +15,4 @@ Images available [here](https://github.com/dig-eg-gaz/advertisements/tree/master
 
 ### aac1	Allen, Alderson & Co.
 xml text: [aac1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/aac1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/aac1-Allen-Alderson-and-Co.png)
-![Image of Ad](masthead.jpg)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/aac1-Allen-Alderson-and-Co.png?raw=true)
