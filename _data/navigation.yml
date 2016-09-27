@@ -14,6 +14,8 @@
     url: "/contents"
   - title: "Status by Week"
     url: "/weeks/"
+  - title: "Boilerplates"
+      url: "/boilerplates/"
   - title: "Advertisements"
     url: "/advertisements"
 
@@ -40,8 +42,6 @@
     url: "https://docs.google.com/document/d/1HRh9jvHUBwWkuWcWJAZOQMQqMI8PFhut0MMUiUSEsag/edit?usp=sharing"
   - title: "GitHub"
     url: "https://github.com/dig-eg-gaz"
-  - title: "Boilerplates"
-    url: "/boilerplates/"
   - title: "Changelog"
     url: "/changelog/"
   - title: "Roadmap"
