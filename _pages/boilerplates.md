@@ -23,10 +23,10 @@ Tables in the *Egyptian Gazette* were produced using boilerplates. This page's d
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/arrivages-minet-el-bassal.png?raw=true)
 
 ### Association des Courtiers en Marchandises
-![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/association-courtiers.png, association-courtiers-b.png?raw=true)
+![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/association-des-courtiers.png?raw=true)
 
 ### Association des Courtiers en Marchandises (Service Special)
-![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/association-courtiers.png, association-courtiers-service-special.png?raw=true)
+![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/association-courtiers-service-special.png?raw=true)
 
 ### Bourse Khediviale
 [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/Bourse-Khediviale.xml)
