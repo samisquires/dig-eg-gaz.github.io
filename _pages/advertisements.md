@@ -77,6 +77,7 @@ xml text: [bcp1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 xml text: [bcp2](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bcp2.xml) bcp2-Becks-and-Co.png?raw=true)
 
 ### bis1 British India S. N. Company, Limited
+[bis1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bis1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bis1-British-India-SN-Company-Limited.png?raw=true)
 
 ### blm1 Bibby Line Mail Steamers
@@ -116,6 +117,7 @@ xml text: [dbc1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/dbc1-Davies-Bryan-and-Co.png?raw=true)
 
 ### dll1 Deutsche Levante-Linie
+xml text: [dll1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/dll1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/dll1-Deutsche-Levant-Linie.png?raw=true)
 
 ### doa1 Deutsche Ost-Afrika Linie
@@ -240,6 +242,7 @@ xml text: [mic1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/mma1-Messageries-Maritimes.png?raw=true)
 
 ### mss1 The Moss S. S. Company, Ltd.
+[mss1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/mss1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/mss1-The-Moss-SS-Company-Ltd.png?raw=true)
 
 ### nbe1 National Bank of Egypt
@@ -287,6 +290,7 @@ xml text: [opl1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 xml text: [pel1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pel1.xml) pel1-Pelican-Brand.png?raw=true)
 
 ### phc1 P. Henderson & Co.'s Line.
+[phc1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/phc1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/phc1-P-Henderson-Cos-Line.png?raw=true)
 
 ### pos1 Peninsular and Oriental S.N. Company
@@ -314,6 +318,7 @@ xml text: [ric1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sde1-Sudan-Development-Exploration-Company-Limited.png?raw=true)
 
 ### sgr1 Sudan Government Railways
+[sgr1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sgr1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sgr1-Sudan-Government-Railways.png?raw=true)
 
 ### sio1 Sun Insurance Office
