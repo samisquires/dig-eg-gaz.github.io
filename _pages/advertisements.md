@@ -121,6 +121,7 @@ xml text: [dll1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/dll1-Deutsche-Levant-Linie.png?raw=true)
 
 ### doa1 Deutsche Ost-Afrika Linie
+xml text: [doa1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/doa1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/doa1-Deutsche Ost-Afrika-Linie.png?raw=true)
 
 ### edl1 Egyptian Delta Light Railways Co., Limited
@@ -239,6 +240,7 @@ xml text: [mic1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/mic1-Marine-Insurance-Company-Limited.png?raw=true)
 
 ### mma1 Messageries Maritimes
+xml text: [mma1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/mma1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/mma1-Messageries-Maritimes.png?raw=true)
 
 ### mss1 The Moss S. S. Company, Ltd.
