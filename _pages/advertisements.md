@@ -19,6 +19,7 @@ xml text: [aac1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 ![Image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/aac1-Allen-Alderson-and-Co.png?raw=true)
 
 ### aan1 Anglo-American Nile Streamer & Hotel Coy.
+xml text: [aan1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/aan1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/aan1-Anglo-American-Nile-Steamer-Hotel-Coy.png?raw=true)
 
 ### aan2 Anglo-American Nile Streamer & Hotel Coy.
@@ -53,6 +54,7 @@ xml text: [all1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/all1-Anchor-Line-Limited.png?raw=true)
 
 ### als1 Austrian Lloyd's Steam Navigation
+xml text: [als1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/als1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/als1-Austrian-Lloyds-Steam-Navigation.png?raw=true)
 
 ### baa1 Boehme & Anderer
@@ -60,9 +62,11 @@ xml text: [baa1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/baa1-Boehme-and-Anderer.png?raw=true)
 
 ### bal1 Bank of Athens, Limited
+xml text: [bal1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bal1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bal1-Bank-of-Athens-Limited.png?raw=true)
 
 ### bam1 Bell's Asia Minor Steamship Co.
+xml text: [bam1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bam1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bam1-Bells-Asia-Minor-Steamship-Co.png?raw=true)
 
 ### bcc1 British Chamber of Commerce
@@ -133,12 +137,15 @@ xml text: [eeh1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/eeh1-Eastern-Exchange-Hotel.png?raw=true)
 
 ### ela1 Edinburgh Life Assurance Company.
+xml text: [ela1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ela1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ela1-Edinburgh-Life-Assurance-Company.png?raw=true)
 
 ### ell1 Ellerman Lines, Limited
+xml text: [ell1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ell1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ell1-Ellerman-Lines-Limited.png?raw=true)
 
 ### ell2 The Ellerman Lines, Limited
+xml text: [ell2](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ell2.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ell2-The-Ellerman-Lines-Limited.png?raw=true)
 
 ### epi1 English Pension, Italian Riviera
@@ -195,6 +202,7 @@ xml text: [hcs1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/icc1-Ind-Coope-Co-Ltd.png?raw=true)
 
 ### iob1 Imperial Ottoman Bank
+xml text: [iob1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/iob1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/iob1-Imperial-Ottoman-Bank.png?raw=true)
 
 ### isr1 International Sleeping and Restaurant Cars Company
@@ -244,10 +252,11 @@ xml text: [mma1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/mma1-Messageries-Maritimes.png?raw=true)
 
 ### mss1 The Moss S. S. Company, Ltd.
-[mss1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/mss1.xml)
+xml text: [mss1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/mss1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/mss1-The-Moss-SS-Company-Ltd.png?raw=true)
 
 ### nbe1 National Bank of Egypt
+xml text: [nbe1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nbe1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nbe1-National-Bank-of-Egypt.png?raw=true)
 
 ### ncs1 Nile Cold Storage
@@ -266,13 +275,15 @@ xml text: [mma1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nll1-Norddeutscher-Lloyd.png?raw=true)
 
 ### nll2 Norddeutscher Lloyd
+xml text: [nll2](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nll2.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nll2-Norddeutscher-Lloyd-II.png?raw=true)
 
-### nml1 The National Mutual Life Association of Australia, Limited
+### nml1 The National Mutual Life Association of Australasia, Limited
+xml text: [nml2](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nml2.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nml1-The-National-Mutual-Life-Association-of-Australia-Limited.png?raw=true)
 
 ### nrp1 Nouveau Remede Purgatif
-xml text: [errors](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/erro.xml)
+xml text (containing errors?): [nrp1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nrp1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nrp1-Nouveau-Remede-Purgatif.png?raw=true)
 
 ### nsa1 N. Spathis
@@ -286,6 +297,7 @@ xml text: [opl1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/opl1-Orient-Pacific-Line-of-Royal-Mail-Steamers.png?raw=true)
 
 ### pap1 The Papyanni Line
+xml text: [pap1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pap1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pap1-The-Papyanni-Line.png?raw=true)
 
 ### pel1 Pelican Brand
@@ -300,6 +312,7 @@ xml text: [pos1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pos1-Peninsular-and-Oriental-S-N-Company.png?raw=true)
 
 ### pri1 Prince Line
+xml text: [pri1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pri1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pri1-Prince-Line.png?raw=true)
 
 ### pss1 Port Said Savoy Hotel
@@ -317,6 +330,7 @@ xml text: [ric1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ric1-Royal-Insurance-Coy.png?raw=true)
 
 ### sde1 Sudan Development & Exploration Company, Limited
+xml text (with errors): [sde1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sde1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sde1-Sudan-Development-Exploration-Company-Limited.png?raw=true)
 
 ### sgr1 Sudan Government Railways
@@ -345,10 +359,11 @@ xml text: [tas1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/tas1-T-A-Spartali-Co.png?raw=true)
 
 ### tce1 Telephone Company of Egypt, Limited
+xml text: [tce1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/tce1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ce1-Telephone-Company-of-Egypt-Limited.png?raw=true)
 
 ### tcs1 Thos. Cook & Son
-xml text: [tcs1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text cs1.xml)
+xml text: [tcs1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/tcs1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/tcs1-Thos-Cook-Son.png?raw=true)
 
 ### tcs2 Thos. Cook & Son
