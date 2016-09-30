@@ -156,6 +156,7 @@ xml text: [epi1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/epm1-English-Penmakers.png?raw=true)
 
 ### etc1 The Eastern Telegraph Company, Limited
+xml text: [etc1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/etc1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/etc1-Eastern-Telegraph.png?raw=true)
 
 ### fus1 Fussell’s Cream
