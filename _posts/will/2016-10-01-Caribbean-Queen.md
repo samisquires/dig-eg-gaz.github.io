@@ -10,15 +10,13 @@ meta_description: ""
 date: 2016-09-28
 categories:
 author: will
-  -
 tags: ads shipping
-  -
 #
 # Styling
 #
 image:
   header: ""
-  thumb: "https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pri1-Prince-Line.png?raw=true"
+  thumb: "Prince-Line-locations.png"
   homepage: ""
   caption: ""
   url: ""
@@ -27,7 +25,7 @@ Back in 1984, Billy Ocean had a big hit with his song "[Caribbean Queen](https:/
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Cahch0_M06c" frameborder="0" allowfullscreen></iframe>
 
-I got to thinking about "Caribbean Queen" when I was preparing an [xml version of the Prince Lines advertisement](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pri1.xml) that appeared on the front page of most issues of the *Egyptian Gazette* in 1905.
+I got to thinking about "Caribbean Queen" while I was preparing an [xml version of the Prince Lines advertisement](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pri1.xml) that appeared on the front page of most issues of the *Egyptian Gazette* in 1905.
 
 ![Prince Lines](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pri1-Prince-Line.png?raw=true)
 
