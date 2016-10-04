@@ -13,12 +13,17 @@ header:
 1. [How to scan microfilm](microfilm-instructions)
 2. [How to OCR text](OCR-instructions)
 3. [How to perform structural markup in TEI-XML](tei-xml-instructions)
+4. [How to use boilerplates](boilerplate-instructions)
 4. [How to perform content markup]
 
 # Further instructions
 
 1. [How to map places mentioned in the Egyptian Gazette]
 2. [How to identify people mentioned in the Egyptian Gazette]
+
+# Course work
+
+1. [How to produce blog posts](blogging-instructions)
 
 # Technical notes
 
