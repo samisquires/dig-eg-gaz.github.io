@@ -20,7 +20,7 @@ Once you've identified the relevant template, copy and paste the xml into your o
 
 ### 1. Daily Weather Report
 
-![Daily Weather Report](daily-weather-report-1905-07-12.png "Daily Weather Report")
+![Daily Weather Report](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/daily-weather-report-1905-07-12.png?raw=true "Daily Weather Report")
 
 This element typically appears on page 2. A template is [here](https://github.com/dig-eg-gaz/boilerplates/blob/master/Daily-Weather-Report.xml). It may be most efficient to use the author view in Oxygen to enter particulars.
 
@@ -34,6 +34,7 @@ These elements come side by side on page 2, though sometimes material is placed 
 ### 3. Calendars
 
 ![Calendar of Coming Events](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/calendar-of-coming-events.png?raw=true)
+
 ![Calendar of the Week](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/calendar-of-the-week.png?raw=true)
 
 These calendars are lightly formatted. The Calendar of the Week seems to have been changed only once per week.
