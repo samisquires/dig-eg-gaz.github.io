@@ -20,7 +20,7 @@ Once you've identified the relevant template, copy and paste the xml into your o
 
 ### 1. Daily Weather Report
 
-![Daily Weather Report](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/daily-weather-report-1905-07-12.png?raw=true "Daily Weather Report")
+![Daily Weather Report](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/daily-weather-report.png?raw=true "Daily Weather Report")
 
 This element typically appears on page 2. A template is [here](https://github.com/dig-eg-gaz/boilerplates/blob/master/Daily-Weather-Report.xml). It may be most efficient to use the author view in Oxygen to enter particulars.
 
