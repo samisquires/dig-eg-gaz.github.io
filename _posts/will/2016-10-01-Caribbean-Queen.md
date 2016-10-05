@@ -5,18 +5,18 @@ layout: page
 #
 subheadline: ""
 title: "Billy Ocean meets Prince Lines"
-teaser: ""
+teaser: "On internationalization and localization"
 meta_description: ""
 date: 2016-09-28
 categories:
 author: will
-tags: ads shipping
+tags: -ads -shipping
 #
 # Styling
 #
 image:
   header: ""
-  thumb: "Prince-Line-locations.png"
+  thumb: "https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/blog-images/Prince-Line-locations.png?raw=true"
   homepage: ""
   caption: ""
   url: ""
