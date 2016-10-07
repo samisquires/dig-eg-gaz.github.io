@@ -100,6 +100,7 @@ xml text: [cbb1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cbb1-Callard-Bowser-Butter-scotch.png?raw=true)
 
 ### ccc1 The Cleopatra Cigarette Co.
+xml text: [ccc1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ccc1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ccc1-The-Cleopatra-Cigarette-Co.png?raw=true)
 
 ### cgg1 Champagne George Goulet
@@ -114,6 +115,7 @@ xml text: [clh1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/clh1-Cigares-de-la-Havane.png?raw=true)
 
 ### cun1 Cunard Line
+xml text: [cun1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cun1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cun1-Cunard-Line.png?raw=true)
 
 ### dbc1 Davies Bryan & Co.
@@ -163,6 +165,7 @@ xml text: [etc1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/fus1-Fussells-Cream.png?raw=true)
 
 ### gac1 Guardian Assurance Company Limited
+xml text: [gac1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/gac1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/gac1-Guardian-Assurance-Company-Limited.png?raw=true)
 
 ### ggd1 G. G. Drossos & Co.
@@ -180,6 +183,7 @@ xml text: [gmc1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/gwy1-Gwynnes-Limited.png?raw=true)
 
 ### hbc1 Hotel Bristol Cairo
+xml text: [hbc1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hbc1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hbc1-Hotel-Bristol-Cairo.png?raw=true)
 
 ### hbh1 Hall’s Boar’s Head
@@ -207,6 +211,7 @@ xml text: [iob1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/iob1-Imperial-Ottoman-Bank.png?raw=true)
 
 ### isr1 International Sleeping and Restaurant Cars Company
+xml text: [isr1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/isr1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/isr1-International-Sleeping-and-Restaurant-Cars-Company.png?raw=true)
 
 ### jbc1 John B Caffari
@@ -230,6 +235,7 @@ xml text: [kml1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/kml1-Khedivial-Mail-Line.png?raw=true)
 
 ### lac1 London Assurance Corporation
+xml text: [lac1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/lac1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/lac1-London-Assurance-Corporation.png?raw=true)
 
 ### map1 Maple & Co.
@@ -261,18 +267,23 @@ xml text: [nbe1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nbe1-National-Bank-of-Egypt.png?raw=true)
 
 ### ncs1 Nile Cold Storage
+xml text: [ncs1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ncs1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ncs1-Nile-Cold-Storage.png?raw=true)
 
 ### nfl1 Northern Fire and Life Assurance Coy
+xml text: [nfl1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nfl1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nfl1-Northern-Fire-and-Life-Assurance-Coy.png?raw=true)
 
 ### ngi1 Navigation Generale Italienne
+xml text: [ngi1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ngi1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ngi1-Navigation-Generale-Italienne.png?raw=true)
 
 ### nkh1 New Khedivial Hotel Alexandria
+xml text: [nkh1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nkh1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nkh1-New-Khedivial-Hotel-Alexandria.png?raw=true)
 
 ### nll1 Norddeutscher Lloyd
+xml text: [nll1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nll1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nll1-Norddeutscher-Lloyd.png?raw=true)
 
 ### nll2 Norddeutscher Lloyd
@@ -317,6 +328,7 @@ xml text: [pri1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pri1-Prince-Line.png?raw=true)
 
 ### pss1 Port Said Savoy Hotel
+xml text: [pss1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pss1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pss1-Port-Said-Savoy-Hotel.png?raw=true)
 
 ### pwl1 Papier Wlinsi
@@ -324,6 +336,7 @@ xml text: [pwl1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pwl1-Papier-Wlinsi.png?raw=true)
 
 ### rea1 Royal Exchange Assurance
+xml text: [rea1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/rea1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/rea1-Royal-Exchange-Assurance.png?raw=true)
 
 ### ric1 Royal Insurance Coy
@@ -339,6 +352,7 @@ xml text (with errors): [sde1](https://github.com/dig-eg-gaz/advertisements/blob
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sgr1-Sudan-Government-Railways.png?raw=true)
 
 ### sio1 Sun Insurance Office
+xml text: [sio1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sio1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sio1-Sun-Insurance-Office.png?raw=true)
 
 ### sla1 Standard Life Assurance Company
