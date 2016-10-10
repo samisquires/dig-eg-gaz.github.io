@@ -22,7 +22,7 @@ The header (the material in the opening lines of the document, between the two -
 
 ## 4. Write a post in markdown and add images
 
-Aim for at least 200 words, but it's fine if you write more. Integrate some links into your post, and use an image or two.
+You will write your text using [Markdown](https://en.wikipedia.org/wiki/Markdown), a very simple markup language but a different one from xml, which you are using for the newspaper pages. Here's a [tutorial](http://www.markdowntutorial.com/) and here's a [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Aim for at least 200 words, but it's fine if you write more. Integrate some links into your post, and use an image or two.
 
 ## 5. Working with images
 
