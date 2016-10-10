@@ -18,7 +18,7 @@ header:
 
 # Further instructions
 
-1. [How to map places mentioned in the Egyptian Gazette]
+1. [How to map places mentioned in the Egyptian Gazette](tagging-people-and-places-instructions)
 2. [How to identify people mentioned in the Egyptian Gazette]
 
 # Course work
