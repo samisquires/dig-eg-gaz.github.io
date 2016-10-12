@@ -124,7 +124,12 @@ xml text: [cun1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 
 ### dbc1 Davies Bryan & Co.
 xml text: [dbc1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/dbc1.xml)
+
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/dbc1-Davies-Bryan-and-Co.png?raw=true)
+
+### dcl1 DCL Scotch Whisky
+xml text: [dcl1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/dcl1.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ggd1-DCL-Scotch-Whisky.png?raw=true)
 
 ### dll1 Deutsche Levante-Linie
 xml text: [dll1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/dll1.xml)
@@ -174,10 +179,6 @@ xml text: [fus1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 xml text: [gac1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/gac1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/gac1-Guardian-Assurance-Company-Limited.png?raw=true)
 
-### ggd1 G. G. Drossos & Co.
-xml text: [ggd1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ggd1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ggd1-G-G-Drossos-Co.png?raw=true)
-
 ### ghb1 Grand Hotel Bonnard
 xml text: [ghb1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ghb1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ghb1-Grand-Hotel-Bonnard.png?raw=true)
@@ -226,7 +227,7 @@ xml text: [iob1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 xml text: [isr1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/isr1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/isr1-International-Sleeping-and-Restaurant-Cars-Company.png?raw=true)
 
-### jbc1-John-B-Caffari John B Caffari’s Economical Stores
+### jbc1 John B Caffari’s Economical Stores
 xml text: [jbc1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/jbc1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/jbc1-John-B-Caffaris-Economical-Stores.png?raw=true)
 
@@ -303,8 +304,8 @@ xml text: [nll2](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nll2-Norddeutscher-Lloyd-II.png?raw=true)
 
 ### nml1 The National Mutual Life Association of Australasia, Limited
-xml text: [nml2](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nml2.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nml1-The-National-Mutual-Life-Association-of-Australia-Limited.png?raw=true)
+xml text: [nml1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nml1.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nml1-The-National-Mutual-Life-Association-of-Australasia-Limited.png?raw=true)
 
 ### nrp1 Nouveau Remede Purgatif
 xml text (containing errors?): [nrp1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nrp1.xml)
@@ -327,7 +328,7 @@ xml text: [pel1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pel1-Pelican-Brand.png?raw=true)
 
 ### phc1 P. Henderson & Co.'s Line.
-[phc1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/phc1.xml)
+xml text: [phc1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/phc1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/phc1-P-Henderson-Cos-Line.png?raw=true)
 
 ### pos1 Peninsular and Oriental S.N. Company
@@ -388,7 +389,7 @@ xml text: [tas1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 
 ### tce1 Telephone Company of Egypt, Limited
 xml text: [tce1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/tce1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ce1-Telephone-Company-of-Egypt-Limited.png?raw=true)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/tce1-Telephone-Company-of-Egypt-Limited.png?raw=true)
 
 ### tcs1 Thos. Cook & Son
 xml text: [tcs1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/tcs1.xml)
@@ -400,11 +401,11 @@ xml text: [tcs2](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 
 ### thc1 Thornes High Class Whiskey
 xml text: [thc1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/thc1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hc1-Thornes-High-Class-Whiskey.png?raw=true)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/thc1-Thornes-High-Class-Whiskey.png?raw=true)
 
 ### twh1 The Tosh Whiskey
 xml text: [twh1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/twh1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/wh1-The-Tosh-Whiskey.png?raw=true)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/twh1-The-Tosh-Whiskey.png?raw=true)
 
 ### wam1 Walker & Meimarachi
 xml text: [wam1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/wam1.xml)
@@ -412,6 +413,7 @@ xml text: [wam1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 
 ### whc1 White Horse Cellar
 xml text: [whc1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/whc1.xml)
+
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/whc1-White-Horse-Cellar.png?raw=true)
 
 ### whr1 Windsor Hotel Restaurant
