@@ -129,7 +129,7 @@ xml text: [dbc1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 
 ### dcl1 DCL Scotch Whisky
 xml text: [dcl1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/dcl1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ggd1-DCL-Scotch-Whisky.png?raw=true)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/dcl1-DCL-Scotch-Whisky.png?raw=true)
 
 ### dll1 Deutsche Levante-Linie
 xml text: [dll1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/dll1.xml)

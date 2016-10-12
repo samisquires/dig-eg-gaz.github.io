@@ -33,7 +33,7 @@ Once you've completed some of the structural tagging of your page, it's time to 
 
 ## 6. Add more complex tags
 There are more tags that you can add:
-- `<cb/>` for column breaks
+- `<cb/>` for column breaks. For mixed columns, see [this guidance](http://dcs.library.virginia.edu/digital-stewardship-services/tei-encoding-guidelines/#cb).
 - `<div type="section">` to wrap multiple items
 - `<dateline>` for datelines
 - `<byline>` for authors
