@@ -243,6 +243,22 @@ xml text: [jma1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 xml text: [jma2](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/jma2.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/jma2-J-Margosches.png?raw=true)
 
+### jma3 J. Margosches
+xml text: [jma3](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/jma3.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/jma3-J-Margosches.png?raw=true)
+
+### jma4 J. Margosches
+xml text: [jma4](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/jma4.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/jma4-J-Margosches.png?raw=true)
+
+### jma5 J. Margosches
+xml text: [jma5](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/jma5.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/jma5-J-Margosches.png?raw=true)
+
+### jma6 J. Margosches
+xml text: [jma6](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/jma6.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/jma6-J-Margosches.png?raw=true)
+
 ### kml1 Khedivial Mail Line
 xml text: [kml1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/kml1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/kml1-Khedivial-Mail-Line.png?raw=true)
@@ -250,6 +266,10 @@ xml text: [kml1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 ### lac1 London Assurance Corporation
 xml text: [lac1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/lac1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/lac1-London-Assurance-Corporation.png?raw=true)
+
+### lea1 Lea and Perrins'
+xml text: [lea1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/lea1.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/lea1.png?raw=true)
 
 ### map1 Maple & Co.
 xml text: [map1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/map1.xml)
@@ -406,6 +426,10 @@ xml text: [thc1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 ### twh1 The Tosh Whiskey
 xml text: [twh1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/twh1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/twh1-The-Tosh-Whiskey.png?raw=true)
+
+### vdt1 Val de Travers
+xml text: [vdt1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/vdt1.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/vdt1-Val-de-Travers.png?raw=true)
 
 ### wam1 Walker & Meimarachi
 xml text: [wam1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/wam1.xml)
