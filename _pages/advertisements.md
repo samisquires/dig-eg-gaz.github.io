@@ -98,6 +98,10 @@ xml text: [bov1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 xml text: [cah1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cah1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cah1-Carlton-Hotel.png?raw=true)
 
+### cah2 Carlton Hotel
+xml text: [cah2](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cah2.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cah2-Carlton-Hotel.png?raw=true)
+
 ### cbb1 Callard & Bowser's Butter-Scotch
 xml text: [cbb1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cbb1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cbb1-Callard-Bowser-Butter-scotch.png?raw=true)
@@ -121,6 +125,10 @@ xml text: [clh1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 ### cun1 Cunard Line
 xml text: [cun1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cun1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cun1-Cunard-Line.png?raw=true)
+
+### dia1 Diamonds
+xml text: [dia1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/dia1.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/dia1-Diamonds.png?raw=true)
 
 ### dbc1 Davies Bryan & Co.
 xml text: [dbc1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/dbc1.xml)
@@ -206,6 +214,10 @@ xml text: [hbr1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 ### hcs1 Hotel-Casino San Stefano
 xml text: [hcs1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hcs1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hcs1-Hotel-Casino-San-Stefano.png?raw=true)
+
+### hdi1 Halls Distemper
+xml text: [hdi1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hdi1.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hdi1-Halls-Distemper.png?raw=true)
 
 ### hdr1 H. D. Rawlings Limited
 xml text: [hdr1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hdr1.xml)
@@ -403,6 +415,10 @@ xml text: [ssw1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 xml text: [sun1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sun1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sun1-Sunlight.png?raw=true)
 
+### sun2 Sunlight
+xml text: [sun2](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sun2.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sun2-Sunlight.png?raw=true)
+
 ### tas1 T. A. Spartali & Co.
 xml text: [tas1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text as1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/tas1-T-A-Spartali-Co.png?raw=true)
@@ -422,6 +438,10 @@ xml text: [tcs2](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 ### thc1 Thornes High Class Whiskey
 xml text: [thc1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/thc1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/thc1-Thornes-High-Class-Whiskey.png?raw=true)
+
+### tsc1 The Seasonable Complaint
+xml text: [tsc1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/tsc1.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/tsc1-The-Seasonable-Complaint.png?raw=true)
 
 ### twh1 The Tosh Whiskey
 xml text: [twh1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/twh1.xml)
