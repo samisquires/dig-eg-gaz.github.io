@@ -18,7 +18,7 @@ Advertisements and financial reports form the greatest part of the templated con
 
 Once you've identified the relevant template, copy and paste the xml into your own file, then customize the template content to match your issue's content. **Important**: Only copy the material contained within the `<body> </body>` tags--the rest of the file should not appear in your issue file. To do so, select the text like this:
 
-![copy-paste-example](advertisment-copy-paste.png)
+![copy-paste-example](https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/advertisement-copy-paste.png?raw=true)
 
 Paste only this portion of the text into your issue document.
 
