@@ -22,7 +22,7 @@ Enter your name into the template (under `<editor>`), today's date (under `<edit
 ## 4. Add structural tags
 Wrap the text in tags. For now, we'll limit ourselves to three tags:
 -  `<div type="item">`, which you can use for articles, items, or any division of the page that makes sense to you,
-- `<head>`, which indicates a headline,
+- `<head>`, which indicates a headline (the headline must be the first element in the item),
 - `<p>`, which indicates a paragraph.
 
 Oxygen offers many shortcuts to make this work go faster. Highlight the text you wish to wrap, then hit `command-E`. You will be offered a menu of tags. Choose the one you want. If you want to add more tags of the same type, hit `command-slash`.
@@ -39,7 +39,7 @@ Once you've completed some of the structural tagging of your page, it's time to 
 
 ## 7. Add more complex tags
 There are more tags that you can add:
-- `<cb/>` for column breaks. For mixed columns, see [this guidance](http://dcs.library.virginia.edu/digital-stewardship-services/tei-encoding-guidelines/#cb).
-- `<div type="section">` to wrap multiple items
-- `<dateline>` for datelines
-- `<byline>` for authors
+- **`<cb/>`** for column breaks. Be sure to put this tag at the *beginning* of the column. Add the number of the column, as well, thus: `<cb n="1"/>` For mixed columns, see [this guidance](http://dcs.library.virginia.edu/digital-stewardship-services/tei-encoding-guidelines/#cb).
+- **`<div type="section">`** to wrap multiple items that belong together, for instance in the international or local news sections.
+- **`<dateline>`** for datelines. There can only be one dateline per division. In the international news section, this means that you must make a new `<div type="item">` for each newswire report.
+- **`<byline>`** for authors. There can only be one byline per division.
