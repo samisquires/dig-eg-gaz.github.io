@@ -90,6 +90,10 @@ xml text: [bis1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 xml text: [blm1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/blm1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/blm1-Bibby-Line-Mail-Steamers.png?raw=true)
 
+### bor1 Borwick's Baking Powder
+xml text: [bor1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bor1.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bor1-Borwicks-Baking-Powder.png?raw=true)
+
 ### bov1 Bovril
 xml text: [bov1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bov1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bov1-Bovril.png?raw=true)
@@ -218,6 +222,10 @@ xml text: [hcs1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 ### hdi1 Halls Distemper
 xml text: [hdi1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hdi1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hdi1-Halls-Distemper.png?raw=true)
+
+### hdi2 Halls Distemper
+xml text: [hdi2](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hdi2.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hdi2-Halls-Distemper.png?raw=true)
 
 ### hdr1 H. D. Rawlings Limited
 xml text: [hdr1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hdr1.xml)
