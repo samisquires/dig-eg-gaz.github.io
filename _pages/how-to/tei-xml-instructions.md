@@ -14,7 +14,7 @@ These instructions guide you in transforming your plain text page files into a m
 Download the full-function Oxygen XML Editor, which offers a [free 30-day trial](http://www.oxygenxml.com/xml_editor/register.html).
 
 ## 2. Create an xml file
-Copy and paste [this template](https://raw.githubusercontent.com/dig-eg-gaz/boilerplates/master/empty-issue.xml) into a new document. Name this document using the date of the issue and an xml extension (YYYY-MM-DD.xml). (This document will eventually contain all of the pages of the issue, so it is not necessary to add the page number to the document name.) Save this document on your hard drive.
+Copy and paste [this template](https://raw.githubusercontent.com/dig-eg-gaz/boilerplates/master/empty-issue.xml) into a new document. **Important**: the new document will have `<?xml version="1.0" encoding="UTF-8"?>` as its first line, and it's also the first line of the template; delete one of them, otherwise your document will be ill-formed. Name this document using the date of the issue and an xml extension (YYYY-MM-DD.xml). (This document will eventually contain all of the pages of the issue, so it is not necessary to add the page number to the document name.) Save this document on your hard drive.
 
 ## 3. Fill in the header and paste in a page of text
 Enter your name into the template (under `<editor>`), today's date (under `<edition>`, in text and numeric formats), and the issue date (under `<bibl>`, in text and numeric formats). Save your file. Open a page 3 text file that you've corrected, and copy the contents. Return to the xml file and locate the `<div type="page" n="3"> </div>` pair of tags. Paste page 3 text in between these tags. Atom will immediately tell you that you have many errors and issues. Don't fret--we'll address them in the next step. Save the file.
@@ -31,7 +31,13 @@ Oxygen offers many shortcuts to make this work go faster. Highlight the text you
 
 Once you've completed some of the structural tagging of your page, it's time to save it to GitHub. We're going to use the "fork" and "pull" functions of GitHub to do this. First, "**fork**" the [dig-eg-gaz/content](https://github.com/dig-eg-gaz/content) repository by clicking on the "fork" icon on the top right. You will be offered the chance to fork the repository under your own username--do so. This will make a copy of the repository in your own GitHub account, in which you should save your .xml page files. Later, when your page files are complete, you can fold them back into the organization content repository by sending me a **pull request**. You do this by clicking the "new pull request" button the top left above your list of files. I will then see the pull request and either merge your files into the organization's content or request that you change something before doing so.
 
-## 6. Add more complex tags
+## 6. Common errors
+- **&**: the ampersand is represented as `&amp;` in xml. `&` alone will create an error.
+- **>** or **<**: the OCR process produces stray angle brackets. The editor thinks these are part of a xml tag, and it causes an error.
+- anything not in a `<div>`
+- doubled `<?xml version="1.0" encoding="UTF-8"?>` lines at the opening of the xml document.
+
+## 7. Add more complex tags
 There are more tags that you can add:
 - `<cb/>` for column breaks. For mixed columns, see [this guidance](http://dcs.library.virginia.edu/digital-stewardship-services/tei-encoding-guidelines/#cb).
 - `<div type="section">` to wrap multiple items

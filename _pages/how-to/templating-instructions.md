@@ -16,7 +16,11 @@ While parts of the *Egyptian Gazette* were composed fresh each day, much of each
 
 Advertisements and financial reports form the greatest part of the templated content, and each is dealt with in separate sections. The complete catalog of advertisements is [here](https://dig-eg-gaz.github.io/advertisements/). And the complete catalog of financial tables is [here](https://dig-eg-gaz.github.io/financial-tables/). Below we discuss a few other miscellaneous templates.
 
-Once you've identified the relevant template, copy and paste the xml into your own file, then customize the template content to match your issue's content. *Important*: Only copy the material contained within the `<body> </body>` tags--the rest of the file should not appear in your issue file.
+Once you've identified the relevant template, copy and paste the xml into your own file, then customize the template content to match your issue's content. **Important**: Only copy the material contained within the `<body> </body>` tags--the rest of the file should not appear in your issue file. To do so, select the text like this:
+
+![copy-paste-example](advertisment-copy-paste.png)
+
+Paste only this portion of the text into your issue document.
 
 ### 1. Daily Weather Report
 
