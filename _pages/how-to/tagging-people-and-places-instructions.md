@@ -19,3 +19,14 @@ The key element we will use to link our places to other date sets is `ref=`. We 
 - Goad fire insurance maps of [Alexandria](https://iiif.lib.harvard.edu/manifests/view/drs:15525296$3i) and [Cairo](https://iiif.lib.harvard.edu/manifests/view/drs:15525297$1i)
 - [David Rumsey map collection](http://www.davidrumsey.com/luna/servlet/view/all?sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No)
 - [Wikimapia](http://wikimapia.org)
+
+## Tagging persons
+The basic tag we will use is `<persName>`. Full details of usage are [here](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ND.html#NDPER).
+
+Work to link persons to references such as wikidata or viaf. For instance, you might describe Cromer thus:
+```
+<persName ref="https://www.wikidata.org/wiki/Q336487">
+ <forename>Evelyn</forename>
+ <surname>Baring</surname>, <roleName>1st Earl of Cromer</roleName>
+</persName>
+```
