@@ -13,4 +13,9 @@ The greatest use for the encoded *Egyptian Gazette* will come in linking its con
 ## Tagging places
 The basic tag that we will use is `<placeName>`. Full details of usage are [here](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ND.html#NDPLAC) and  [here](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-placeName.html).
 
-The key element we will use to link our places to other date sets is `ref=`. We can use this to link to authorities such as wikidata, geonames, or [geohack](https://tools.wmflabs.org/geohack/geohack.php?pagename=Alexandria&params=31_12_N_29_55_E_type:city(4546231)_region:EG).
+The key element we will use to link our places to other date sets is `ref=`. We can use this to link to authorities such as wikidata, geonames, or [geohack](https://tools.wmflabs.org/geohack/geohack.php?pagename=Alexandria&params=31_12_N_29_55_E)
+
+### Resources
+- Goad fire insurance maps of [Alexandria](https://iiif.lib.harvard.edu/manifests/view/drs:15525296$3i) and [Cairo](https://iiif.lib.harvard.edu/manifests/view/drs:15525297$1i)
+- [David Rumsey map collection](http://www.davidrumsey.com/luna/servlet/view/all?sort=Pub_List_No_InitialSort%2CPub_Date%2CPub_List_No%2CSeries_No)
+- [Wikimapia](http://wikimapia.org)
