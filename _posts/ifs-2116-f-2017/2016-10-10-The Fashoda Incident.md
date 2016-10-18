@@ -11,7 +11,7 @@ tags: Fashoda
   Freycinet
 header: no
 image:
-      title: https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/_posts/ifs-2116-f-2017/fashoda.png?raw=true
+      title: "https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/_posts/ifs-2116-f-2017/fashoda.png?raw=true"
       caption: The Fashoda Incident
       caption_url:
 ---
