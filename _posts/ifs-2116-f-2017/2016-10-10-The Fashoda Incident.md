@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "The Fashoda Incident"
-teaser: "One of the many times Britian and France were on the brink of war."
+teaser: "One of the many times Britain and France were on the brink of war."
 date: 2016-10-10
 author: Jacob Stefonek
 tags: Fashoda
@@ -9,12 +9,12 @@ tags: Fashoda
   France
   Colonialism
   Freycinet
+header: no
 image:
-  header: ""
-  thumb: "https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/_posts/ifs-2116-f-2017/fashoda.png?raw=true"
+      title: https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/_posts/ifs-2116-f-2017/fashoda.png?raw=true
+      caption: The Fashoda Incident
+      caption_url:
 ---
-
-![Fashoda](https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/_posts/ifs-2116-f-2017/fashoda.png?raw=true)
 
 This small newspaper section addresses the infamous [Fashoda Incident](https://www.britannica.com/event/Fashoda-Incident) that occurred between Britain and France during a period of intense colonialism in Africa. It shares that the ex-Prime Minister of France, [M. de Freycinet](https://www.britannica.com/biography/Charles-Louis-de-Saulces-de-Freycinet), is writing a book that promotes peace and cooperation between France and Britain.
 
