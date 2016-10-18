@@ -11,9 +11,9 @@ tags: Fashoda
   Freycinet
 header: no
 image:
-      title: "https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/_posts/ifs-2116-f-2017/fashoda.png?raw=true"
-      caption: The Fashoda Incident
-      caption_url:
+  title: "https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/_posts/ifs-2116-f-2017/fashoda.png?raw=true"
+  caption: The Fashoda Incident
+  caption_url:
 ---
 
 This small newspaper section addresses the infamous [Fashoda Incident](https://www.britannica.com/event/Fashoda-Incident) that occurred between Britain and France during a period of intense colonialism in Africa. It shares that the ex-Prime Minister of France, [M. de Freycinet](https://www.britannica.com/biography/Charles-Louis-de-Saulces-de-Freycinet), is writing a book that promotes peace and cooperation between France and Britain.

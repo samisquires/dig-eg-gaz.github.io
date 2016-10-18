@@ -3,8 +3,7 @@ layout: page
 title: Resources
 permalink: /resources/
 header:
-  overlay_image: front-page.jpg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  image_fullwidth: front-page.jpg
 ---
 
 [Github repository](https://github.com/dig-eg-gaz) - containing all the materials used in this project

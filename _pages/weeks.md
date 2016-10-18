@@ -3,8 +3,7 @@ layout: page
 title: Weeks of 1905
 permalink: /weeks/
 header:
-  overlay_image: front-page.jpg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  image_fullwidth: front-page.jpg
 ---
 
 Note: Links to personal repositories containing work in progress.
