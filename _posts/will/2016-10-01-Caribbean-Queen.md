@@ -9,11 +9,11 @@ categories:
 author: will
 tags: -ads -shipping
 image:
-  header: ""
-  thumb: "https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/blog-images/Prince-Line-locations.png"
-  homepage: ""
-  caption: ""
-  url: ""
+  header: "https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pri1-Prince-Line.png?raw=true"
+  thumb: "https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pri1-Prince-Line.png?raw=true"
+  homepage: "https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pri1-Prince-Line.png?raw=true"
+  caption: "https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pri1-Prince-Line.png?raw=true"
+  url: "https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pri1-Prince-Line.png?raw=true"
 ---
 Back in 1984, Billy Ocean had a big hit with his song "[Caribbean Queen](https://en.wikipedia.org/wiki/Caribbean_Queen)." It was a versatile song in global terms, as Ocean recorded versions that charted in other markets: "African Queen" and "European Queen" didn't require much extra reworking to benefit from [internationalization and localization](https://en.wikipedia.org/wiki/Internationalization_and_localization).
 
