@@ -3,10 +3,9 @@ layout: page
 subheadline: "Will Hanley"
 title: "Billy Ocean meets Prince Lines"
 teaser: "On internationalization and localization"
-meta_description: ""
 date: 2016-09-28
 categories:
-  - advertisements
+  - curiosities
 author: will
 tags:
   -ads

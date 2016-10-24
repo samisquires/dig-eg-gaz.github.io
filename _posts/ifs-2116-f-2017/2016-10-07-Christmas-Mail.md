@@ -1,15 +1,21 @@
 ---
 layout: page
+subheadline: "Samantha Lappin"
 title: "Christmas Mail"
 teaser: ""
 date: 2016-10-07
+categories:
+  - curiosities
 author: Samantha Lappin
-tags: Christmas
-  post
-  mail
+tags:
+  - Christmas
+  - post
+  - mail
 header: no
 image:
-  title: "https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/_posts/ifs-2116-f-2017/Dec1_3c.jpg?raw=true"
+  title: https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/_posts/ifs-2116-f-2017/Dec1_3c.jpg?raw=true
+  thumb: https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/_posts/ifs-2116-f-2017/Dec1_3c.jpg?raw=true
+  homepage: https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/_posts/ifs-2116-f-2017/Dec1_3c.jpg?raw=true
   caption: December 1, 1905
   caption_url:
 ---
