@@ -1,17 +1,23 @@
 ---
 layout: page
+subheadline: "Jacob Stefonek"
 title: "The Fashoda Incident"
 teaser: "One of the many times Britain and France were on the brink of war."
 date: 2016-10-10
+categories:
+  - curiosities
 author: Jacob Stefonek
-tags: Fashoda
-  Britain
-  France
-  Colonialism
-  Freycinet
+tags:
+  - Fashoda
+  - Britain
+  - France
+  - Colonialism
+  - Freycinet
 header: no
 image:
-  title: "https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/_posts/ifs-2116-f-2017/fashoda.png?raw=true"
+  title: https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/_posts/ifs-2116-f-2017/fashoda.png?raw=true
+  thumb: https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/_posts/ifs-2116-f-2017/fashoda.png?raw=true
+  homepage: https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/_posts/ifs-2116-f-2017/fashoda.png?raw=true
   caption: The Fashoda Incident
   caption_url:
 ---
