@@ -1,19 +1,23 @@
 ---
 layout: page
-subheadline: ""
+subheadline: "On internationalization and localization"
 title: "Billy Ocean meets Prince Lines"
-teaser: "On internationalization and localization"
+teaser: "How are global markets reflected in localized marketing?"
 meta_description: ""
 date: 2016-09-28
 categories:
+  - advertisements
 author: will
-tags: -ads -shipping
+tags:
+  -ads
+  -shipping
+header: no
 image:
-  header: "https://github.com/dig-eg-gaz/advertisements/raw/master/ad-images/pri1-Prince-Line.png"
-  thumb: "https://github.com/dig-eg-gaz/advertisements/raw/master/ad-images/pri1-Prince-Line.png"
-  homepage: "https://github.com/dig-eg-gaz/advertisements/raw/master/ad-images/pri1-Prince-Line.png"
-  caption: "https://github.com/dig-eg-gaz/advertisements/raw/master/ad-images/pri1-Prince-Line.png"
-  url: "https://github.com/dig-eg-gaz/advertisements/raw/master/ad-images/pri1-Prince-Line.png"
+  title: https://github.com/dig-eg-gaz/advertisements/raw/master/ad-images/pri1-Prince-Line.png
+  thumb: https://github.com/dig-eg-gaz/advertisements/raw/master/ad-images/pri1-Prince-Line.png
+  homepage: https://github.com/dig-eg-gaz/advertisements/raw/master/ad-images/pri1-Prince-Line.png
+  caption: Prince Lines advertisement
+  url: https://dig-eg-gaz.github.io/advertisements/#pri1-prince-line
 ---
 Back in 1984, Billy Ocean had a big hit with his song "[Caribbean Queen](https://en.wikipedia.org/wiki/Caribbean_Queen)." It was a versatile song in global terms, as Ocean recorded versions that charted in other markets: "African Queen" and "European Queen" didn't require much extra reworking to benefit from [internationalization and localization](https://en.wikipedia.org/wiki/Internationalization_and_localization).
 
