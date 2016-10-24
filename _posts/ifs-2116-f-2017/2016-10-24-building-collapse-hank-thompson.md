@@ -8,9 +8,9 @@ categories:
   - curiosities
 author: Hank Thompson
 tags:
-  -construction
-  -death
-  -investigation
+  - construction
+  - death
+  - investigation
 header: no
 image:
   header: blog-images/house-collapse.png
