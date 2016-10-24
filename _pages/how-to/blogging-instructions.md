@@ -14,11 +14,11 @@ Fork a copy of the organization [blog-posts](https://github.com/dig-eg-gaz/blog-
 
 ## 2. Name your post
 
-Open the default file that the forked repository contains in a text editor (such as Atom) and save it with a unique name following this format: `2016-09-01-post-name.md`. Plug in today's date and a distinctive name for your post.
+Paste this [default text](https://raw.githubusercontent.com/dig-eg-gaz/blog-posts/master/2016-00-00-post-name.md) into a text editor (such as Atom) and save it with a unique name following this format: `2016-09-01-yourlastname-post-name.md`. Plug in today's date and a distinctive name for your post.
 
 ## 3. Fill in the header
 
-The header (the material in the opening lines of the document, between the two --- lines) is very important. It tells the website how to treat your blog post. Give your post at tile, enter the date and your name, and give it a few content tags. If you like, write a short teaser. Enter the name of an image that you would like to appear beside the post.
+The header (the material in the opening lines of the document, between the two --- lines) is very important. It tells the website how to treat your blog post. Enter your name (in quotation marks) as the subheadline. Give your post a title and provide a one to two sentence teaser. Enter the date and your name. Use the category "curiosities" for post 1, "technical" for post 2, and "serial questions" for post 3. List a few tags that reflect the subject matter that your post covers. Enter the name of an image that you would like to appear to promote the post on the header, thumb, and homepage lines, and give that image a caption and (if appropriate) a link.
 
 ## 4. Write a post in markdown and add images
 
@@ -26,7 +26,7 @@ You will write your text using [Markdown](https://en.wikipedia.org/wiki/Markdown
 
 ## 5. Working with images
 
-To include images, add a line to your post in the following format: `![Image label](image-file-name.png)`. Save these images in the forked folder.
+Include an image clipped from your issue of the paper, and any other images that might add to the impact of your post. To include images, add a line to your post in the following format: `![Image label](image-file-name.png)`. Save these images in the forked folder.
 
 ## 6. Send a pull request to the group repository
 
