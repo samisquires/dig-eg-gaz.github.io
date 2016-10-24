@@ -12,9 +12,9 @@ tags:
   -shipping
 header: no
 image:
-  title: pri1-Prince-Line.png
-  thumb: pri1-Prince-Line.png
-  homepage: pri1-Prince-Line.png
+  title: blog-images/pri1-Prince-Line.png
+  thumb: blog-images/pri1-Prince-Line.png
+  homepage: blog-images/pri1-Prince-Line.png
   caption: Prince Lines advertisement
   url: https://dig-eg-gaz.github.io/advertisements/#pri1-prince-line
 ---
