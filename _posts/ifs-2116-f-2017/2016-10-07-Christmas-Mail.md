@@ -13,9 +13,9 @@ tags:
   - mail
 header: no
 image:
-  title: https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/_posts/ifs-2116-f-2017/Dec1_3c.jpg?raw=true
-  thumb: https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/_posts/ifs-2116-f-2017/Dec1_3c.jpg?raw=true
-  homepage: https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/_posts/ifs-2116-f-2017/Dec1_3c.jpg?raw=true
+  title: blog-images/Dec1_3c.jpg
+  thumb: blog-images/Dec1_3c.jpg
+  homepage: blog-images/Dec1_3c.jpg
   caption: December 1, 1905
   caption_url:
 ---
