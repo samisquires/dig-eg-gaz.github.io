@@ -1,8 +1,8 @@
 ---
 layout: page
-subheadline: "On internationalization and localization"
+subheadline: "Will Hanley"
 title: "Billy Ocean meets Prince Lines"
-teaser: "How are global markets reflected in localized marketing?"
+teaser: "On internationalization and localization"
 meta_description: ""
 date: 2016-09-28
 categories:
@@ -13,9 +13,9 @@ tags:
   -shipping
 header: no
 image:
-  title: https://github.com/dig-eg-gaz/advertisements/raw/master/ad-images/pri1-Prince-Line.png
-  thumb: https://github.com/dig-eg-gaz/advertisements/raw/master/ad-images/pri1-Prince-Line.png
-  homepage: https://github.com/dig-eg-gaz/advertisements/raw/master/ad-images/pri1-Prince-Line.png
+  title: pri1-Prince-Line.png
+  thumb: pri1-Prince-Line.png
+  homepage: pri1-Prince-Line.png
   caption: Prince Lines advertisement
   url: https://dig-eg-gaz.github.io/advertisements/#pri1-prince-line
 ---
