@@ -8,8 +8,8 @@ categories:
   - curiosities
 author: will
 tags:
-  -ads
-  -shipping
+  - ads
+  - shipping
 header: no
 image:
   title: blog-images/pri1-Prince-Line.png
