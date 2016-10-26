@@ -20,9 +20,7 @@ image:
   link:
 
 ---
-The *Egyptian Gazette* covers a bevy of topics from foreign trade to local deaths, however one odd thing I have noticed within it is the rather blasé coverage of the deaths of common people. Take for instance the incident they reported on in the November 1st issue in 1905, shown below.
-
-![Fatal House Collapse](blog-images/house-collapse.png)
+The *Egyptian Gazette* covers a bevy of topics from foreign trade to local deaths, however one odd thing I have noticed within it is the rather blasé coverage of the deaths of common people. Take for instance the incident they reported on in the November 1st issue in 1905, shown above.
 
 The story of a house collapsing and killing seven people would have been a rather large headline in a local paper today, such as when [a thrift store collapsed in Philadelphia](http://www.foxnews.com/us/2016/09/19/trial-set-to-open-in-fatal-philadelphia-building-collapse.html). But the *Egyptian Gazette* barely gives any information on it, acting as if it just another everyday occurrence. The coverage is rather sparse by our modern standards, where just about everything that can be sensationalized is, but the most interesting part is when it is compared to other articles within the paper. The paper dedicates an entire section of the paper to simply announce that an aristocratic madam has left Paris, complete with headline, but puts this story in with a group of other local stories and express little interest.
 
