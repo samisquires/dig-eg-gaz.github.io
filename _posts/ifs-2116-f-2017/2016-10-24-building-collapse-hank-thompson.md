@@ -16,7 +16,7 @@ image:
   header: blog-images/house-collapse.png
   thumb: blog-images/house-collapse.png
   homepage: blog-images/house-collapse.png
-  caption: The *Egyptian Gazette*, November 1, 1905
+  caption: The Egyptian Gazette, November 1, 1905
   link:
 
 ---
