@@ -18,7 +18,7 @@ Paste this [default text](https://raw.githubusercontent.com/dig-eg-gaz/blog-post
 
 ## 3. Fill in the header
 
-The header (the material in the opening lines of the document, between the two --- lines) is very important. It tells the website how to treat your blog post. Enter your name (in quotation marks) as the subheadline. Give your post a title and provide a one to two sentence teaser. Enter the date and your name. Use the category "curiosities" for post 1, "technical" for post 2, and "serial questions" for post 3. List a few tags that reflect the subject matter that your post covers. Enter the name of an image that you would like to appear to promote the post on the header, thumb, and homepage lines, and give that image a caption and (if appropriate) a link.
+The header (the material in the opening lines of the document, between the two --- lines) is very important. It tells the website how to treat your blog post. Enter your name (in quotation marks) as the subheadline. Give your post a title and provide a one to two sentence teaser. Enter the date and your name. Use the category "curiosities" for post 1, "technical" for post 2, and "serial questions" for post 3. List a few tags that reflect the subject matter that your post covers. Enter the name of an image that you would like to appear to promote the post on the header, thumb, and homepage lines, and give that image a caption and (if appropriate) a link. (For more on images, see number 5 below.)
 
 ## 4. Write a post in markdown and add images
 
@@ -26,7 +26,7 @@ You will write your text using [Markdown](https://en.wikipedia.org/wiki/Markdown
 
 ## 5. Working with images
 
-Include an image clipped from your issue of the paper, and any other images that might add to the impact of your post. To include images, add a line to your post in the following format: `![Image label](image-file-name.png)`. Save these images in the forked folder.
+Include an image clipped from your issue of the paper, and any other images that might add to the impact of your post. If you are using an image that you find on the internet, make sure that you have the right to reuse it, and download the image (don't just link to it). To include images in your post, add a line in the following format: `![Image label](image-file-name.png)`. Save these images in the forked folder. Make sure that you give all of the images a distinctive name, and use that name in the header and body.
 
 ## 6. Send a pull request to the group repository
 
