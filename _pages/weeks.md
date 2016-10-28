@@ -45,7 +45,7 @@ Week|Start date (Monday)|End date (Saturday)|Personal repository|Images|Text|Lac
 34|August 21, 1905|August 26, 1905|[Charlie Rymer](https://github.com/crymer)||
 35|August 28, 1905|September 2, 1905|[Erek Cyr](https://github.com/ErekCyr/dig-eg-gaz)|Complete|
 36|September 4, 1905|September 9, 1905|[Hannah Sain](https://github.com/hds15b/dig-eg-gaz)||
-37|September 11, 1905|September 16, 1905|[Alana Cardozo](https://github.com/alc15g/dig-eg-gaz)||
+37|September 11, 1905|September 16, 1905|[Alana Cardozo](https://github.com/alc15g/dig-eg-gaz)|2/40|
 38|September 18, 1905|September 23, 1905|[Alexander Amorello](https://github.com/AlexanderOlleroma/Dig_eg_gaz)||All
 39|September 25, 1905|September 30, 1905|[Logan Wills](https://github.com/lcw16b/dig-eg-gaz)||All
 40|October 2, 1905|October 7, 1905|[Gwen Zapata](https://github.com/Lionex/dig-eg-gaz)|Complete|All
@@ -55,7 +55,7 @@ Week|Start date (Monday)|End date (Saturday)|Personal repository|Images|Text|Lac
 44|October 30, 1905|November 4, 1905|[Henry Thompson](https://github.com/Hat15/Dig-eg-gaz)|Partial|All
 45|November 6, 1905|November 11, 1905|[Olivia Evanoff](https://github.com/oliviaevanoff)||
 46|November 13, 1905|November 18, 1905|[Emma Taylor](https://github.com/ekt16/dig-eg-gaz)|Complete|3/6
-47|November 20, 1905|November 25, 1905|[Amber Fling](https://github.com/alf15c/dig-eg-gaz)|Misnamed|
+47|November 20, 1905|November 25, 1905|[Amber Fling](https://github.com/alf15c/dig-eg-gaz)|Complete|
 48|November 27, 1905|December 2, 1905|[Samantha Lappin](https://github.com/Fibinocci1123/Dig-eg-gaz)|Complete|1/6|November 28
 49|December 4, 1905|December 9, 1905|[Phill Dimacali](https://github.com/phillpd96)||
 50|December 11, 1905|December 16, 1905|[Justin Esteve](https://github.com/jesteve3/dig-eg-gaz)|Complete?|All
