@@ -10,7 +10,7 @@ Note: Personal repositories contain work in progress.
 
 Week|Start date (Monday)|End date (Saturday)|Personal repository|Images|Text|Lacking
 1|January 2, 1905|January 7, 1905|[Kara Hofmeister](https://github.com/karahofmeister/dig-eg-gaz)||All
-2|January 9, 1905|January 14, 1905|[Brett Crawford](https://github.com/wbc13/dig-eg-gaz)||5/6
+2|January 9, 1905|January 14, 1905|[Brett Crawford](https://github.com/wbc13/dig-eg-gaz)|11/40|All
 3|January 16, 1905|January 21, 1905|[Tara Kagan](https://github.com/tkhagan/dig_eg)|Partial|
 4|January 23, 1905|January 28, 1905|[Matthew Cooper](https://github.com/Mic15b/dig-eg-gaz)||
 5|January 30, 1905|February 4, 1905|[Daisy Vazquez](https://github.com/dvazquez703/dig-eg-gaz)||
