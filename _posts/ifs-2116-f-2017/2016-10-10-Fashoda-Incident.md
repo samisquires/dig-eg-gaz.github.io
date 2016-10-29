@@ -6,7 +6,7 @@ teaser: "One of the many times Britain and France were on the brink of war."
 date: 2016-10-10
 categories:
   - curiosities
-author: Jacob Stefonek
+author: JacobStefonek
 tags:
   - Fashoda
   - Britain

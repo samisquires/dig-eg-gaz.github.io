@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Pages: 31 links with priority=0.3, changefreq=monthly -->
+<!-- Pages: 41 links with priority=0.3, changefreq=monthly -->
 
 	
 	<url>
 	<loc>/404.html</loc>
 	
-		<lastmod>2016-08-22T17:28:58-04:00</lastmod>
+		<lastmod>2016-10-29T15:58:22-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -22,7 +22,7 @@
 	<url>
 	<loc>/404.html</loc>
 	
-		<lastmod>2016-08-22T17:28:58-04:00</lastmod>
+		<lastmod>2016-10-29T15:58:22-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -37,7 +37,7 @@
 	<url>
 	<loc>/how-to/OCR-instructions/</loc>
 	
-		<lastmod>2016-08-22T17:28:58-04:00</lastmod>
+		<lastmod>2016-10-29T15:58:22-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -52,7 +52,22 @@
 	<url>
 	<loc>/about/</loc>
 	
-		<lastmod>2016-08-22T17:28:58-04:00</lastmod>
+		<lastmod>2016-10-29T15:58:22-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/advertisements/</loc>
+	
+		<lastmod>2016-10-29T15:58:22-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -67,7 +82,7 @@
 	<url>
 	<loc>/blog/archive/</loc>
 	
-		<lastmod>2016-08-22T17:28:58-04:00</lastmod>
+		<lastmod>2016-10-29T15:58:22-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -84,7 +99,7 @@
 	<url>
 	<loc>/atom.xml</loc>
 	
-		<lastmod>2016-08-22T17:28:58-04:00</lastmod>
+		<lastmod>2016-10-29T15:58:22-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -99,9 +114,24 @@
 
 	
 	<url>
+	<loc>/how-to/blogging-instructions/</loc>
+	
+		<lastmod>2016-10-29T15:58:22-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
 	<loc>/changelog/</loc>
 	
-		<lastmod>2016-08-22T17:28:58-04:00</lastmod>
+		<lastmod>2016-10-29T15:58:22-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -116,7 +146,7 @@
 	<url>
 	<loc>/contact/</loc>
 	
-		<lastmod>2016-08-22T17:28:58-04:00</lastmod>
+		<lastmod>2016-10-29T15:58:22-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -131,7 +161,7 @@
 	<url>
 	<loc>/contents/</loc>
 	
-		<lastmod>2016-08-22T17:28:58-04:00</lastmod>
+		<lastmod>2016-10-29T15:58:22-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -146,7 +176,7 @@
 	<url>
 	<loc>/design/</loc>
 	
-		<lastmod>2016-08-22T17:28:58-04:00</lastmod>
+		<lastmod>2016-10-29T15:58:22-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -161,7 +191,7 @@
 	<url>
 	<loc>/documentation/</loc>
 	
-		<lastmod>2016-08-22T17:28:58-04:00</lastmod>
+		<lastmod>2016-10-29T15:58:22-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -176,7 +206,7 @@
 	<url>
 	<loc>/feed.xml</loc>
 	
-		<lastmod>2016-08-22T17:28:58-04:00</lastmod>
+		<lastmod>2016-10-29T15:58:22-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -189,9 +219,24 @@
 
 	
 	<url>
-	<loc>/getting-started/</loc>
+	<loc>/financial-tables/</loc>
 	
-		<lastmod>2016-08-22T17:28:58-04:00</lastmod>
+		<lastmod>2016-10-29T15:58:22-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/how-to/github-instructions/</loc>
+	
+		<lastmod>2016-10-29T15:58:22-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -206,7 +251,7 @@
 	<url>
 	<loc>/headers/</loc>
 	
-		<lastmod>2016-08-22T17:28:58-04:00</lastmod>
+		<lastmod>2016-10-29T15:58:22-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -221,7 +266,7 @@
 	<url>
 	<loc>/how-to/</loc>
 	
-		<lastmod>2016-08-22T17:28:58-04:00</lastmod>
+		<lastmod>2016-10-29T15:58:22-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -236,7 +281,7 @@
 	<url>
 	<loc>/humans.txt</loc>
 	
-		<lastmod>2016-08-22T17:28:58-04:00</lastmod>
+		<lastmod>2016-10-29T15:58:22-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -251,7 +296,7 @@
 	<url>
 	<loc>/blog/</loc>
 	
-		<lastmod>2016-08-22T17:28:58-04:00</lastmod>
+		<lastmod>2016-10-29T15:58:22-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -266,7 +311,7 @@
 	<url>
 	<loc>/</loc>
 	
-		<lastmod>2016-08-22T17:28:58-04:00</lastmod>
+		<lastmod>2016-10-29T15:58:22-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -281,7 +326,7 @@
 	<url>
 	<loc>/info/</loc>
 	
-		<lastmod>2016-08-22T17:28:58-04:00</lastmod>
+		<lastmod>2016-10-29T15:58:22-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -296,7 +341,7 @@
 	<url>
 	<loc>/how-to/microfilm-instructions/</loc>
 	
-		<lastmod>2016-08-22T17:28:58-04:00</lastmod>
+		<lastmod>2016-10-29T15:58:22-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -311,7 +356,7 @@
 	<url>
 	<loc>/redirect-page/</loc>
 	
-		<lastmod>2016-08-22T17:28:58-04:00</lastmod>
+		<lastmod>2016-10-29T15:58:22-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -326,7 +371,7 @@
 	<url>
 	<loc>/resources/</loc>
 	
-		<lastmod>2016-08-22T17:28:58-04:00</lastmod>
+		<lastmod>2016-10-29T15:58:22-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -341,7 +386,7 @@
 	<url>
 	<loc>/roadmap/</loc>
 	
-		<lastmod>2016-08-22T17:28:58-04:00</lastmod>
+		<lastmod>2016-10-29T15:58:22-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -356,7 +401,7 @@
 	<url>
 	<loc>/robots.txt</loc>
 	
-		<lastmod>2016-08-22T17:28:58-04:00</lastmod>
+		<lastmod>2016-10-29T15:58:22-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -375,7 +420,7 @@
 	<url>
 	<loc>/search/</loc>
 	
-		<lastmod>2016-08-22T17:28:58-04:00</lastmod>
+		<lastmod>2016-10-29T15:58:22-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -390,7 +435,7 @@
 	<url>
 	<loc>/sitemap.xml</loc>
 	
-		<lastmod>2016-08-22T17:28:58-04:00</lastmod>
+		<lastmod>2016-10-29T15:58:22-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -403,14 +448,269 @@
 
 	
 
-
-<!-- Posts: 1 links with priority=0.5, changefreq=monthly -->
+	
+	<url>
+	<loc>/how-to/tagging-people-and-places-instructions/</loc>
+	
+		<lastmod>2016-10-29T15:58:22-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
 
 	
 	<url>
-	<loc>/Welcome/</loc>
+	<loc>/how-to/tei-xml-instructions/</loc>
 	
-		<lastmod>2016-08-21T00:00:00-04:00</lastmod>
+		<lastmod>2016-10-29T15:58:22-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/how-to/templating-instructions/</loc>
+	
+		<lastmod>2016-10-29T15:58:22-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/how-to/text-editor-instructions/</loc>
+	
+		<lastmod>2016-10-29T15:58:22-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/weeks/</loc>
+	
+		<lastmod>2016-10-29T15:58:22-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/blog/page2/</loc>
+	
+		<lastmod>2016-10-29T15:58:22-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/blog/page3/</loc>
+	
+		<lastmod>2016-10-29T15:58:22-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+
+<!-- Posts: 11 links with priority=0.5, changefreq=monthly -->
+
+	
+	<url>
+	<loc>/curiosities/Egyptology/</loc>
+	
+		<lastmod>2016-10-29T00:00:00-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/technical/Thompson-Finereader-Rage/</loc>
+	
+		<lastmod>2016-10-28T00:00:00-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/technical/Column-Formatting/</loc>
+	
+		<lastmod>2016-10-27T00:00:00-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/technical/Stefonek-Technical-Reflection/</loc>
+	
+		<lastmod>2016-10-25T00:00:00-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/curiosities/somerset/</loc>
+	
+		<lastmod>2016-10-24T00:00:00-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/curiosities/building-collapse-hank-thompson/</loc>
+	
+		<lastmod>2016-10-24T00:00:00-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/curiosities/British-Imperialism/</loc>
+	
+		<lastmod>2016-10-24T00:00:00-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/curiosities/Fashoda-Incident/</loc>
+	
+		<lastmod>2016-10-10T00:00:00-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/curiosities/Christmas-Mail/</loc>
+	
+		<lastmod>2016-10-07T00:00:00-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/curiosities/Caribbean-Queen/</loc>
+	
+		<lastmod>2016-09-28T00:00:00-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/curiosities/abduh/</loc>
+	
+		<lastmod>2016-09-28T00:00:00-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>

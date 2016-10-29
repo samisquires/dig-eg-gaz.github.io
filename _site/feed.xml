@@ -9,12 +9,159 @@
 		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Welcome</title>
-				<link>/Welcome/</link>
-				<pubDate>Sun, 21 Aug 2016 00:00:00 -0400</pubDate>
-				<description>&lt;p&gt;Test&lt;/p&gt;
+				<title>Egyptology &amp; Archeology</title>
+				<link>/curiosities/Egyptology/</link>
+				<pubDate>Sat, 29 Oct 2016 00:00:00 -0400</pubDate>
+				<description>&lt;p&gt;&lt;a href=&quot;https://www.britannica.com/science/Egyptology&quot;&gt;Egyptology&lt;/a&gt; has caputured pop-culture imagination owing to movies like &lt;em&gt;The Mummy&lt;/em&gt;, and exhibits like King Tut.  Films often emphasize the mysticism, magic, or exoticism of Egyptian artefacts and Tombs.  The Egyptian Gazette, however, provides a closer perspective, both in time and location.&lt;/p&gt;
+
+&lt;p&gt;While the excavation and discovery of these tombs has historical significance on a global scale, the local perspective brings the actual characters that advanced the discovery of these relics to light.  The &lt;a href=&quot;https://github.com/Lionex/dig-eg-gaz/blob/7dbde112756552ed412ee7145eb84208ffe34fd4/ocr/1905-10-06-p3.txt#L88&quot;&gt;newspaper&lt;/a&gt; serves as a medium for criticism and discourse, which time and distance have buried.  The newspaper even brags about the abundance of archeological remains in region.&lt;/p&gt;
+
+&lt;p&gt;This liveliness caught me off guard, and reminds me that the study of history always lives and breaths, not confined to memory or buried between the covers of a textbook.&lt;/p&gt;
+
+&lt;p&gt;No, for the people of Alexandria, the archeological wealth around them caputures the public eye and excitement enough for the Egyptian Gazette to publish a story about archeology in two seperate issues, in addition to a review.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/en/7/7d/Colossus_of_Ramesses_II_restored.jpg&quot; alt=&quot;Ramses II&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The newspaper discusses a work by Dr. Petrie, &lt;em&gt;&lt;a href=&quot;https://archive.org/details/cu31924085360844&quot;&gt;A History of Egypt during the XVIIth and XVIIIth Dynasties&lt;/a&gt;&lt;/em&gt;. From the newspaper, 6th Oct 2016:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The complaint that has been brought against it by foreign critics, to the effect that it is not so much a history as a catalogue of monuments, is here more justified than ever, a period of more than a thousand years - neither the least eventful nor the worst documented in Egypts history-being jammed into a small volume of 400 pages. The delay in its appearance is, we are told in the text, almost entirely due to the groat quantity of monuments remaining to us from the reign of Rameses II., which apparently made it necessary for Prof. Petrie to go carefully through the list and to throw out such as he considered either appropriations of the works of earlier kings, or for some other reason unworthy of note.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The work was delayed specifically because there was &lt;em&gt;so&lt;/em&gt; much history, and so many monuments to examine and study!&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">/Welcome/</guid>
+				<guid isPermaLink="true">/curiosities/Egyptology/</guid>
+			</item>
+		
+			<item>
+				<title>Finereader Rage</title>
+				<link>/technical/Thompson-Finereader-Rage/</link>
+				<pubDate>Fri, 28 Oct 2016 00:00:00 -0400</pubDate>
+				<description>&lt;p&gt;So my biggest technical difficulty while working on this project has to have been the multiple errors that I encountered while using he OCR. Overall it worked ok, but when it failed, it failed big time. For instance, while correcting some of the errors in one page I was on the very last paragraph and went to save it, and Finereader crashed. Two hours of work, two hours of my life, gone, down the drain, and there was nothing I could do about it. I was understandably irate, but after I took some time for cathartic expression and collected myself, I felt much better. I also found out that I was not alone in my anger, some of my fellow students had been experiencing troubles as well.&lt;/p&gt;
+
+&lt;p&gt;However, from what I have seen online, things could have actually been much worse. Apparently it could actually cause other Microsoft programs to crash, at least according to &lt;a href=&quot;https://support.microsoft.com/en-us/kb/2755838&quot;&gt;this support article on Microsoft’s website&lt;/a&gt;. I could also have run into errors that wouldn’t have allowed me to do any work within Finereader, such as the &lt;a href=&quot;http://knowledgebase.ocrsdk.com/article/1096&quot;&gt;license not reading&lt;/a&gt;, so that fact that it worked for me relatively well is a good thing in general.&lt;/p&gt;
+
+&lt;p&gt;Overall, Finereader was a useful program that, while annoying at times, did enable me to do my work properly and relatively quickly.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">/technical/Thompson-Finereader-Rage/</guid>
+			</item>
+		
+			<item>
+				<title>Column Formatting</title>
+				<link>/technical/Column-Formatting/</link>
+				<pubDate>Thu, 27 Oct 2016 00:00:00 -0400</pubDate>
+				<description>&lt;p&gt;In &lt;img src=&quot;https://github.com/dig-eg-gaz/content&quot; alt=&quot;The Egyptian Gazette&quot; /&gt; (and other newspapers and documents with visual formatting), the relationship between content and formatting is an important issue, especially when analyzing the text and the motives of the authors. In general, the more space devoted to an item, the greater its importance, especially if there’s a font change involved. In The Egyptian Gazette, a pattern is well established in formatting the columns in relation to content within those columns. Generally, articles are divided into 6 columns and ads are divided into 3 columns and given a larger font than articles. This either means that the ads are more important to the editors of the paper, deserving of more space; or that the articles simply need to be smaller so that more of them can be included in the paper. However, under the assumption that the second is true, then room for the articles could be made from the comparably luxurious space provided to ads by simply making the ads a bit smaller or more compact. Therefore, the former assumption makes more sense: that the editors give more importance to ads in the paper than content. There are a variety of things that could be the reason for this: money or readers’ preference being of the most obvious. Since ads are the biggest source of income for newspapers, it makes sense to give them priority to ensure companies will want their ads posted in the paper as sort of an investment in the future income of the paper. Concurrently, in a business town such as Alexandria, businesses are of utmost import, with individuals wanting to see of their competitors and resources available.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">/technical/Column-Formatting/</guid>
+			</item>
+		
+			<item>
+				<title>Technical Reflection</title>
+				<link>/technical/Stefonek-Technical-Reflection/</link>
+				<pubDate>Tue, 25 Oct 2016 00:00:00 -0400</pubDate>
+				<description>&lt;p&gt;I suppose I’ll start off with how much I’ve learned so far through this course; taking digital images of film, running text recognition software, writing in Markdown and encoding in XML. Though it has all been incredibly interesting and fulfilling, the mention of those words along with &lt;a href=&quot;https://dig-eg-gaz.github.io/&quot;&gt;“Digital Egyptian Gazette”&lt;/a&gt;, will likely send chills down my spine for quite a while.&lt;/p&gt;
+
+&lt;p&gt;To start, my largest technical obstacle was the poor job done by Fine Reader. While it truly saved me a lot of time by translating the text, it also made an overwhelming amount of errors that are incredibly time-consuming and painstaking to correct. If I were to make an estimate, correcting and encoding one page of the newspaper takes about three and a half hours. Aside from that I have had trouble with putting together the tables and advertisements in my week. Several of them do not yet exist as text files that I can pull from and for the ones that I do have access to, it takes about three copy and pastes before I trigger an “abuse mechanism” on GitHub. This locks me out for a couple of minutes before I can get back to work. But regardless, we push onward!&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">/technical/Stefonek-Technical-Reflection/</guid>
+			</item>
+		
+			<item>
+				<title>Somerset</title>
+				<link>/curiosities/somerset/</link>
+				<pubDate>Mon, 24 Oct 2016 00:00:00 -0400</pubDate>
+				<description>&lt;p&gt;My chosen blog post is on the excerpt from May 29’s page 4, titled ‘In Praise of England: American Women’s Preference for Our Country’. It regards a conversation between noted British feminist and philanthropist, Lady Henry Somerset, and an unnamed, anonymous American female expatriate in London.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/blog-images/Lady-Somerset.png?raw=true&quot; alt=&quot;May 29, 1905&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Apparently, most women that expatriate had spoken to preferred England over their home country (with the exception of one). The reasons the expatriate gave were the comparative independence and equality women receive in England as opposed to back home in America. Women may be praised more back across the pond, she said, but women in England are treated more as equals, ‘occupying a plane of frank comradeship’.&lt;/p&gt;
+
+&lt;p&gt;Speaking as someone reading this section a century and eleven years after its publication, this initially seemed to be just a sop to contemporary British nationalism. It looked like it was just a way for English businessman, sitting in comfortable chairs in opulent lobbies, being waited on by Egyptian servants, to have a good chortle over the inferiority of those other, lesser, nations.&lt;/p&gt;
+
+&lt;p&gt;But then I looked up Lady Henry Somerset, mostly just to see if she was anyone important. And she was. She has her own Wikipedia article and anything. Lady Henry was originally Lady Isabella Somers-Cooks, until she married Lord Henry Somerset in 1872. They had a relatively happy marriage, at least seemingly, but it turned out that Lord Henry was gay. And he was going behind Lady Henry’s back to sleep with other men. So she sued him for divorce and custody over her son, shoving Lord Henry out of the closet.&lt;/p&gt;
+
+&lt;p&gt;I’m of two minds about this, but I’m leaning towards Lord Henry in this the argument. Lord Henry was forced into a marriage with a person he was fundamentally not attracted to, and so he sought out the company of those he was. Lady Henry shouldn’t have had to suffer the pains of adultery, but Lord Henry shouldn’t have had his sexual orientation forced into public life, especially in a primitive nation like contemporary England.&lt;/p&gt;
+
+&lt;p&gt;After her marriage fell apart, Lady Henry became (in)famous for being one of the first women in British society to make the reasons behind a separation known publicly. She then became involved in numerous feminist organizations, and was once voted, by the London Evening News, the women readers would most prefer as their Prime Minister.&lt;/p&gt;
+
+&lt;p&gt;Now that I know of Lady Henry’s life and accomplishments, my opinion on this section has barely changed from ‘sop to British nationalism’ to ‘sop to British nationalism plus the biased opinion of a nationalistic ideologue’. The tale of Lady Henry is an interesting one, and this section of the Egyptian Gazette is just one facet of her long and storied life.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">/curiosities/somerset/</guid>
+			</item>
+		
+			<item>
+				<title>Fatal House Collapse</title>
+				<link>/curiosities/building-collapse-hank-thompson/</link>
+				<pubDate>Mon, 24 Oct 2016 00:00:00 -0400</pubDate>
+				<description>&lt;p&gt;The &lt;em&gt;Egyptian Gazette&lt;/em&gt; covers a bevy of topics from foreign trade to local deaths, however one odd thing I have noticed within it is the rather blasé coverage of the deaths of common people. Take for instance the incident they reported on in the November 1st issue in 1905, shown above.&lt;/p&gt;
+
+&lt;p&gt;The story of a house collapsing and killing seven people would have been a rather large headline in a local paper today, such as when &lt;a href=&quot;http://www.foxnews.com/us/2016/09/19/trial-set-to-open-in-fatal-philadelphia-building-collapse.html&quot;&gt;a thrift store collapsed in Philadelphia&lt;/a&gt;. But the &lt;em&gt;Egyptian Gazette&lt;/em&gt; barely gives any information on it, acting as if it just another everyday occurrence. The coverage is rather sparse by our modern standards, where just about everything that can be sensationalized is, but the most interesting part is when it is compared to other articles within the paper. The paper dedicates an entire section of the paper to simply announce that an aristocratic madam has left Paris, complete with headline, but puts this story in with a group of other local stories and express little interest.&lt;/p&gt;
+
+&lt;p&gt;This type of reporting just took me off guard at first, especially when is noticed it was not a one-off occurrence. There is a story of a young boy drowning in the Nile, reports of deaths from the Plague and murders all treated with the same aloof attitude. This could possibly be attributed to the simple fact that death was more common 111 years ago. It didn’t effect people in the same way as it does today. Take for instance the &lt;a href=&quot;http://www.smh.com.au/nsw/boy-drowns-in-backyard-pool-in-sydneys-south-west-20161009-grydvb.html&quot;&gt;death of a six-year old child in Sydney Australia&lt;/a&gt;. He has a large separate news story into his death and even has an impending investigation into it. It is possible that the house collapse also has an investigation going on as well, but the newspaper does not mention anything of the sort.&lt;/p&gt;
+
+&lt;p&gt;The stark contrast in reporting between the &lt;em&gt;Egyptian Gazette&lt;/em&gt; and our modern day newspapers just struck me as an interesting story to blog about, and so I did. Hopefully the reason I presented for this difference can be confirmed or denied later on, but only further research will tell.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">/curiosities/building-collapse-hank-thompson/</guid>
+			</item>
+		
+			<item>
+				<title>British Imperialism</title>
+				<link>/curiosities/British-Imperialism/</link>
+				<pubDate>Mon, 24 Oct 2016 00:00:00 -0400</pubDate>
+				<description>&lt;p&gt;&lt;a href=&quot;http://www.historyworld.net/wrldhis/PlainTextHistories.asp?ParagraphID=hkl&quot;&gt;British imperialism&lt;/a&gt; is an extremely crucial topic in understanding the development of world history, particularly during the period spanning the 19th and early 20th centuries. This era is often characterized by historians as &lt;em&gt;Pax Britannica&lt;/em&gt;, Latin for “British Peace.” It is so called due to the fact that Britain’s worldwide domination in the areas of economics, shipping, and military might kept most of Europe and the world in a state of relative peace. However, as the twentieth century came into view, global forces such as liberal ideals and nationalism threatened Britain’s role as the premier world superpower. Questions of how to proceed with its imperial rule began to multiply both in Britain and in its many colonies and territories abroad.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/blog-images/cromer-sane-imperialism.png?raw=true&quot; alt=&quot;Cromer&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;On the third page of the May 3rd, 1905 edition of the Egyptian Gazette contains an editorial article &lt;a href=&quot;http://biography.yourdictionary.com/1st-earl-of-cromer&quot;&gt;“Lord Cromer’s Sane Imperialism”&lt;/a&gt; that discusses a moderate “third way” of imperialism that rejects harsh materialistic concepts and embraces more liberal ideas of self-determination and government, when appropriate of course. This article maintains that Lord Cromer’s Annual Report on Egypt and the Sudan contain the necessary elements of pursuing a moderate approach for continuing the might of the Empire moving forward. This editorial provides a fascinating look at the prevailing dialogue of the day in one of Britain’s &lt;a href=&quot;http://www.britishempire.co.uk/maproom/egypt.htm&quot;&gt;most crucial imperial territories&lt;/a&gt; about the morality and governance of British imperialism at the dawn of the 20th century.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://static.newworldencyclopedia.org/4/48/Map_of_the_British_Empire_in_the_1920%27s.png&quot; alt=&quot;The British Empire at the height of its territorial range&quot; /&gt;&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">/curiosities/British-Imperialism/</guid>
+			</item>
+		
+			<item>
+				<title>The Fashoda Incident</title>
+				<link>/curiosities/Fashoda-Incident/</link>
+				<pubDate>Mon, 10 Oct 2016 00:00:00 -0400</pubDate>
+				<description>&lt;p&gt;This small newspaper section addresses the infamous &lt;a href=&quot;https://www.britannica.com/event/Fashoda-Incident&quot;&gt;Fashoda Incident&lt;/a&gt; that occurred between Britain and France during a period of intense colonialism in Africa. It shares that the ex-Prime Minister of France, &lt;a href=&quot;https://www.britannica.com/biography/Charles-Louis-de-Saulces-de-Freycinet&quot;&gt;M. de Freycinet&lt;/a&gt;, is writing a book that promotes peace and cooperation between France and Britain.&lt;/p&gt;
+
+&lt;p&gt;The case he presents in &lt;a href=&quot;https://babel.hathitrust.org/cgi/pt?id=uc1.$b749498;view=2up;seq=460&quot;&gt;his book&lt;/a&gt; says that England was in the right during the Fashoda Incident but could have easily handled the situation better than they did. He also refutes the claims of the French courts, who said that the French response was a mistake. Put simply, he is about to publish a work that will try to put to rest misconceptions about the event that have been circulating through the public in an attempt to resolve any bad feelings.&lt;/p&gt;
+
+&lt;p&gt;It is amazing to see this event described in an everyday context and even more fascinating that an ex-Prime Minister of France would declare England to be in the right, despite the competitive nature of colonial affairs. This entry is not only informational, but it also acts as an advertisement of sorts, presenting the name, author and content of a soon to be released book to the public eye. The information and arguments shared through the book may have strengthened Franco-British relations and helped lead to where the two powers stood during World War I.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/_posts/ifs-2116-f-2017/fashoda1.jpg?raw=true&quot; alt=&quot;fashoda1&quot; /&gt;&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">/curiosities/Fashoda-Incident/</guid>
+			</item>
+		
+			<item>
+				<title>Christmas Mail</title>
+				<link>/curiosities/Christmas-Mail/</link>
+				<pubDate>Fri, 07 Oct 2016 00:00:00 -0400</pubDate>
+				<description>&lt;p&gt;When going through cultural information from the past, it’s often interesting seeing the information that was deemed interesting or important at the time. Case in point, the article in the &lt;a href=&quot;https://github.com/Fibinocci1123/Dig-eg-gaz/blob/master/Text/1905-12-01&quot;&gt;Newspaper&lt;/a&gt; serving to tell the public about the deadlines for which to send Christmas cards to various specific European locations if they wish for the letters to be delivered in time for Christmas. However, the information itself isn’t what interests me, but rather the first sentence in particular. The article opens with the statement “Our readers will no doubt be interested to know…” While the information is quite bland and rather meaningless, the context of the information tells a much more interesting story; This is one of the only articles in the issue with an opening such as this. In modern culture, an article like this would be passed over without a second thought; it’s just not as important to us anymore. In Alexandria, 1905, however, it was apparently so important for Christmas cards to go out on time that the newspaper found the information and published an entire article about when to mail cards out if they’re to arrive in the U.K. or Europe by Christmas or the New Year. Furthermore, there is a table in the newspaper occuring in the Saturday issues which provides the day on which a letter, parcel, or money order mail will arrive in a specific destination (such as Europe, Greece, Malta, etc.) if they’re delivered to the office by a specific date and time.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">/curiosities/Christmas-Mail/</guid>
+			</item>
+		
+			<item>
+				<title>Billy Ocean meets Prince Lines</title>
+				<link>/curiosities/Caribbean-Queen/</link>
+				<pubDate>Wed, 28 Sep 2016 00:00:00 -0400</pubDate>
+				<description>&lt;p&gt;Back in 1984, Billy Ocean had a big hit with his song “&lt;a href=&quot;https://en.wikipedia.org/wiki/Caribbean_Queen&quot;&gt;Caribbean Queen&lt;/a&gt;.” It was a versatile song in global terms, as Ocean recorded versions that charted in other markets: “African Queen” and “European Queen” didn’t require much extra reworking to benefit from &lt;a href=&quot;https://en.wikipedia.org/wiki/Internationalization_and_localization&quot;&gt;internationalization and localization&lt;/a&gt;.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Cahch0_M06c&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;I got to thinking about “Caribbean Queen” while I was preparing an &lt;a href=&quot;https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pri1.xml&quot;&gt;xml version of the Prince Lines advertisement&lt;/a&gt; that appeared on the front page of most issues of the &lt;em&gt;Egyptian Gazette&lt;/em&gt; in 1905.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pri1-Prince-Line.png?raw=true&quot; alt=&quot;Prince Lines&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The ad lists 48 ships owned by the company by name and weight. Each name is a prince of a certain region, nation, type, or character. Billy Ocean might be gratified to see that there is a massive Carib Prince (8,000 tons) and a somewhat slighter African Prince (3,050 tons). No European Prince, but lots of Princes from various parts of Europe:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/blog-images/Prince-Line-locations.png?raw=true&quot; alt=&quot;Prince Lines locations&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I was struck by the coverage of names. The geography of colonial shipping interests dictated part but not all of this range–though the heaviest ships seemed to follow the empire’s shipping lanes. British whimsy seemed to supply other names–Highlands Prince, Soldier Prince, Merchant Prince, and so on. And of course there’s an Ocean Prince: Billy honored before his time.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">/curiosities/Caribbean-Queen/</guid>
 			</item>
 		
 	</channel>

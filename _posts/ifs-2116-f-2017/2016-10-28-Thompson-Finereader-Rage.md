@@ -6,7 +6,7 @@ teaser: "* In my best Darth Vader impression* NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO!
 date: 2016-10-28
 categories:
   - Technical
-author: Hank Thompson
+author: HankThompson
 tags:
   - ABBYY
   - abbyy finereader

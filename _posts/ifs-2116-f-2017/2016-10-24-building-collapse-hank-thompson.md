@@ -6,7 +6,7 @@ teaser: "A Curiosity."
 date: 2016-10-24
 categories:
   - curiosities
-author: Hank Thompson
+author: HankThompson
 tags:
   - construction
   - death

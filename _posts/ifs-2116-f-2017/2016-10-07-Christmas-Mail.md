@@ -6,7 +6,7 @@ teaser: ""
 date: 2016-10-07
 categories:
   - curiosities
-author: Samantha Lappin
+author: SamanthaLappin
 tags:
   - Christmas
   - post

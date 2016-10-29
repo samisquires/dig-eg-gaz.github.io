@@ -228,7 +228,17 @@
 
                       
 
-                      <li><a href="/design/typography/typography/">Advertisements</a></li>
+                      <li><a href="/weeks/">Status by Week</a></li>
+                    
+
+                      
+
+                      <li><a href="/financial-tables/">Financial Tables</a></li>
+                    
+
+                      
+
+                      <li><a href="/advertisements">Advertisements</a></li>
                     
                   </ul>
 
@@ -254,12 +264,37 @@
 
                       
 
+                      <li><a href="/how-to/text-editor-instructions">Text Editor Instructions</a></li>
+                    
+
+                      
+
+                      <li><a href="/how-to/github-instructions">GitHub Instructions</a></li>
+                    
+
+                      
+
                       <li><a href="/how-to/microfilm-instructions">Microfilm Instructions</a></li>
                     
 
                       
 
                       <li><a href="/how-to/OCR-instructions">OCR Instructions</a></li>
+                    
+
+                      
+
+                      <li><a href="/how-to/tei-xml-instructions">TEI-XML Instructions</a></li>
+                    
+
+                      
+
+                      <li><a href="/how-to/templating-instructions">Templating Instructions</a></li>
+                    
+
+                      
+
+                      <li><a href="/how-to/blogging-instructions">Blogging Instructions</a></li>
                     
                   </ul>
 
