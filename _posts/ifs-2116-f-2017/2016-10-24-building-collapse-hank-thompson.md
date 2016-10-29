@@ -13,7 +13,7 @@ tags:
   - investigation
 header: no
 image:
-  header: blog-images/house-collapse.png
+  title: blog-images/house-collapse.png
   thumb: blog-images/house-collapse.png
   homepage: blog-images/house-collapse.png
   caption: The Egyptian Gazette, November 1, 1905

@@ -13,7 +13,7 @@ tags:
   - OCR crash
 header: no
 image:
-  header: blog-images/finereader-quit.png
+  title: blog-images/finereader-quit.png
   thumb: blog-images/finereader-quit.png
   homepage: blog-images/finereader-quit.png
   caption:

@@ -14,8 +14,8 @@ tags:
   - importance
 header: no
 image:
+  title: blog-images/1905-12-01-1c.jpg
   homepage: blog-images/1905-12-01-1c.jpg
-  header: blog-images/1905-12-01-1c.jpg
   thumb: blog-images/1905-12-01-1c.jpg
   caption:
   link:

@@ -14,7 +14,7 @@ tags:
   - excavation
 header: no
 image:
-  header: blog-images/1905-10-06_HistoryOfEgypt.png
+  title: blog-images/1905-10-06_HistoryOfEgypt.png
   thumb: blog-images/1905-10-06_HistoryOfEgypt.png
   homepage: blog-images/1905-10-06_HistoryOfEgypt.png
   caption: October 6, 1905

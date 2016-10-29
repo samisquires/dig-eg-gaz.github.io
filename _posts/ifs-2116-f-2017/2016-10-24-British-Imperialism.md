@@ -13,7 +13,7 @@ tags:
   - nationalism
 header: no
 image:
-  header: blog-images/empiretrade.jpg
+  title: blog-images/empiretrade.jpg
   thumb: blog-images/empiretrade.jpg
   homepage: blog-images/empiretrade.jpg
   caption: Painting by Hugh Williams

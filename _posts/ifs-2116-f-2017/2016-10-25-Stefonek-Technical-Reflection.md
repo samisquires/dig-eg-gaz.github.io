@@ -13,7 +13,7 @@ tags:
   - FineReader
 header: no
 image:
-  header: blog-images/SnipSnip.png
+  title: blog-images/SnipSnip.png
   thumb: blog-images/SnipSnip.png
   homepage: blog-images/SnipSnip.png
   caption:
