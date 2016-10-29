@@ -13,9 +13,9 @@ tags:
   - nationalism
 header: no
 image:
-  header: "http://www.britishempire.co.uk/images4/empiretrade.jpg"
-  thumb: "http://www.britishempire.co.uk/images4/empiretrade.jpg"
-  homepage: "http://www.britishempire.co.uk/images4/empiretrade.jpg"
+  header: blog-images/empiretrade.jpg
+  thumb: blog-images/empiretrade.jpg
+  homepage: blog-images/empiretrade.jpg
   caption: Painting by Hugh Williams
   link: "http://www.britishempire.co.uk/resource/empiretrade.htm"
 ---
