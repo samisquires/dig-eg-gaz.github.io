@@ -2,7 +2,7 @@
 layout: page
 subheadline: "Hank Thompson"
 title: "Finereader Rage"
-teaser: "* In my best Darth Vader impression* NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+teaser: "* In my best Darth Vader impression* NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO!!!!!!!!!!!!!!!!!!"
 date: 2016-10-28
 categories:
   - Technical
