@@ -28,4 +28,4 @@ The case he presents in [his book](https://babel.hathitrust.org/cgi/pt?id=uc1.$b
 
 It is amazing to see this event described in an everyday context and even more fascinating that an ex-Prime Minister of France would declare England to be in the right, despite the competitive nature of colonial affairs. This entry is not only informational, but it also acts as an advertisement of sorts, presenting the name, author and content of a soon to be released book to the public eye. The information and arguments shared through the book may have strengthened Franco-British relations and helped lead to where the two powers stood during World War I.
 
-![fashoda1](https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/_posts/ifs-2116-f-2017/fashoda1.jpg?raw=true)
+![fashoda1](https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/blog-images/fashoda1.jpg?raw=true)
