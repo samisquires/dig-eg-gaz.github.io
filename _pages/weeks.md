@@ -20,7 +20,7 @@ Week|Start date (Monday)|End date (Saturday)|Personal repository|Images|Text|Lac
 9|February 27, 1905|March 4, 1905|[Jamison Brisch](https://github.com/jbrisch19/dig-eg-gaz)||
 10|March 6, 1905|March 11, 1905|[Christlyn Patel](https://github.com/cpp15c/dig-eg-gaz)||
 11|March 13, 1905|March 18, 1905|[Raul Godoy]()|Not in organization
-12|March 20, 1905|March 25, 1905|[Claudia Jimeno]()|Not in organization
+12|March 20, 1905|March 25, 1905|[Claudia Jimeno](https://github.com/cjimeno)|Not in organization
 13|March 27, 1905|April 1, 1905|[Courtney Coyle](https://github.com/courtneyelon)||1/6
 14|April 3, 1905|April 8, 1905|[David Gressgott](https://github.com/djdaviedave/dig-eg-gaz)||
 15|April 10, 1905|April 15, 1905|[Alex Caliendo](https://github.com/RGOODY3210/dig-eg-gaz)||
@@ -28,7 +28,7 @@ Week|Start date (Monday)|End date (Saturday)|Personal repository|Images|Text|Lac
 17|April 24, 1905|April 29, 1905|[Jacob Stefonek](https://github.com/JacobStefonek/dig-eg-gaz)|Complete|All
 18|May 1, 1905|May 6, 1905|[Dante Grieco](https://github.com/dgg15/dig-eg-gaz)|Complete||May 1
 19|May 8, 1905|May 13, 1905|[Cassandra Frederick](https://github.com/caf15b)||
-20|May 15, 1905|May 20, 1905|[Valerie Curcio]()|Not in organization
+20|May 15, 1905|May 20, 1905|[Valerie Curcio](https://github.com/valeriecurcio)||
 21|May 22, 1905|May 27, 1905|[Anet Crespo](https://github.com/ac15at/dig-eg-gaz)|Complete|All
 22|May 29, 1905|June 3, 1905|[John White](https://github.com/jcw3/dig-eg-gaz)|Complete|All
 23|June 5, 1905|June 10, 1905|[Joseph Chack-On](https://github.com/jochack/dig-eg-gaz)||
@@ -56,7 +56,7 @@ Week|Start date (Monday)|End date (Saturday)|Personal repository|Images|Text|Lac
 45|November 6, 1905|November 11, 1905|[Olivia Evanoff](https://github.com/oliviaevanoff)||
 46|November 13, 1905|November 18, 1905|[Emma Taylor](https://github.com/ekt16/dig-eg-gaz)|Complete|3/6
 47|November 20, 1905|November 25, 1905|[Amber Fling](https://github.com/alf15c/dig-eg-gaz)|Complete|
-48|November 27, 1905|December 2, 1905|[Samantha Lappin](https://github.com/Fibinocci1123/Dig-eg-gaz)|Complete|1/6|November 28
+48|November 27, 1905|December 2, 1905|[Samantha Lappin](https://github.com/Fibinocci1123/Dig-eg-gaz)|Complete|All|November 28
 49|December 4, 1905|December 9, 1905|[Phill Dimacali](https://github.com/phillpd96)||
 50|December 11, 1905|December 16, 1905|[Justin Esteve](https://github.com/jesteve3/dig-eg-gaz)|Complete?|All
 51|December 18, 1905|December 23, 1905|[Jacob Amador](https://github.com/jacobamador19/dig-eg-gaz)||
