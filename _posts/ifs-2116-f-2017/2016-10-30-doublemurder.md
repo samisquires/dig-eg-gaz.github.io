@@ -11,7 +11,7 @@ tags:
   - death
   - murder
 header: no
-image: <--! dmscreenshot.jpg, substitute name you've given your image file -->
+image: 
   title: blog-images/dmscreenshot.jpg
   thumb: blog-images/dmscreenshot.jpg
   homepage: blog-images/dmscreenshot.jpg
