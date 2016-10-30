@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: "Kara Hofmeister"
-title: "Bar Fight in Greece"
+title: "Bar Fight between Greeks"
 teaser: "Fatal Fight and Double Murder"
 date: 2016-10-30
 categories:
@@ -15,7 +15,7 @@ image:
   title: blog-images/dmscreenshot.jpg
   thumb: blog-images/dmscreenshot.jpg
   homepage: blog-images/dmscreenshot.jpg
-  caption: 
+  caption:
   link:
 ---
 On the night of January 3rd, 1905, two men were murdered behind a bar.
