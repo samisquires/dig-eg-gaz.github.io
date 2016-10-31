@@ -43,3 +43,4 @@ There are more tags that you can add:
 - **`<div type="section">`** to wrap multiple items that belong together, for instance in the international or local news sections.
 - **`<dateline>`** for datelines. There can only be one dateline per division. In the international news section, this means that you must make a new `<div type="item">` for each newswire report.
 - **`<byline>`** for authors. There can only be one byline per division.
+- **`<gap/>`** for holes in the text, **`<unclear>`** for illegible text (you can supply an attribute explaining why), and **`<supplied>`** for something that was illegible but which you figured out by finding the same thing in a different issue.

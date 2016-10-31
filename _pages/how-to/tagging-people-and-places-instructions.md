@@ -24,9 +24,15 @@ The key element we will use to link our places to other date sets is `ref=`. We 
 The basic tag we will use is `<persName>`. Full details of usage are [here](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ND.html#NDPER).
 
 Work to link persons to references such as wikidata or viaf. For instance, you might describe Cromer thus:
+
 ```
 <persName ref="https://www.wikidata.org/wiki/Q336487">
  <forename>Evelyn</forename>
  <surname>Baring</surname>, <roleName>1st Earl of Cromer</roleName>
 </persName>
 ```
+
+For persons not named, but who have a reference that you can supply (either an external authority or an xml:id), use `<rs>` (refering string).
+
+## Tagging events
+To label an event, use a variant of the `<interp xml:id="">` tag.
