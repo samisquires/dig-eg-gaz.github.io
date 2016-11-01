@@ -18,7 +18,7 @@ image:
   thumb: blog-images/1905-10-06_HistoryOfEgypt.png
   homepage: blog-images/1905-10-06_HistoryOfEgypt.png
   caption: October 6, 1905
-  link:
+  caption_url:
 ---
 [Egyptology](https://www.britannica.com/science/Egyptology) has caputured pop-culture imagination owing to movies like _The Mummy_, and exhibits like King Tut.  Films often emphasize the mysticism, magic, or exoticism of Egyptian artefacts and Tombs.  The Egyptian Gazette, however, provides a closer perspective, both in time and location.
 

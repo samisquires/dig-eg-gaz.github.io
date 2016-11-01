@@ -15,7 +15,7 @@ image:
   thumb: blog-images/Khedivial-Princess.png
   homepage: blog-images/Khedivial-Princess.png
   caption:
-  link:
+  caption_url:
 ---
 
 Although there is a constant sense of British imperialism evident throughout the *Egyptian Gazette*, the attitude toward this imperialism varies widely throughout the paper. For instance, there are many cases where the *Egyptian Gazette* provides long blocks of texts or ads clearly targeted toward rich Englishmen. The paper then proceeds to provide a sentence-long description of an item or event important to African natives. This follows with the expected traditional convention of the paper, seeing as its intended audience was wealthy Westerners.

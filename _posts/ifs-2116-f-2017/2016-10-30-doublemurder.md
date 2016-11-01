@@ -16,7 +16,7 @@ image:
   thumb: blog-images/dmscreenshot.jpg
   homepage: blog-images/dmscreenshot.jpg
   caption:
-  link:
+  caption_url:
 ---
 On the night of January 3rd, 1905, two men were murdered behind a bar.
 The man responsible is around 20 years old and is very physically fit.

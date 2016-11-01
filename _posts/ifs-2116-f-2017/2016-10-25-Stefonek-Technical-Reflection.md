@@ -17,7 +17,7 @@ image:
   thumb: blog-images/SnipSnip.png
   homepage: blog-images/SnipSnip.png
   caption:
-  link:
+  caption_url:
 ---
 I suppose I'll start off with how much I've learned so far through this course; taking digital images of film, running text recognition software, writing in Markdown and encoding in XML. Though it has all been incredibly interesting and fulfilling, the mention of those words along with ["Digital Egyptian Gazette"](https://dig-eg-gaz.github.io/), will likely send chills down my spine for quite a while.
 

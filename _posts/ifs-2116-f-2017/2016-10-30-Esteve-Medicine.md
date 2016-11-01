@@ -17,7 +17,7 @@ image:
   thumb: blog-images/1905-12-16-p7.jpg
   homepage: blog-images/1905-12-16-p7.jpg
   caption: December 16 1905
-  link:
+  caption_url:
 ---
 ## One Man's Trash is Another Man's Treasure
 

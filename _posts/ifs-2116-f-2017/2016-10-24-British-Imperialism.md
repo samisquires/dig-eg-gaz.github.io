@@ -17,7 +17,7 @@ image:
   thumb: blog-images/empiretrade.jpg
   homepage: blog-images/empiretrade.jpg
   caption: Painting by Hugh Williams
-  link: "http://www.britishempire.co.uk/resource/empiretrade.htm"
+  caption_url: http://www.britishempire.co.uk/resource/empiretrade.htm
 ---
 [British imperialism](http://www.historyworld.net/wrldhis/PlainTextHistories.asp?ParagraphID=hkl) is an extremely crucial topic in understanding the development of world history, particularly during the period spanning the 19th and early 20th centuries. This era is often characterized by historians as *Pax Britannica*, Latin for “British Peace.” It is so called due to the fact that Britain’s worldwide domination in the areas of economics, shipping, and military might kept most of Europe and the world in a state of relative peace. However, as the twentieth century came into view, global forces such as liberal ideals and nationalism threatened Britain’s role as the premier world superpower. Questions of how to proceed with its imperial rule began to multiply both in Britain and in its many colonies and territories abroad.
 

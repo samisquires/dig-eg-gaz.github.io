@@ -17,7 +17,7 @@ image:
   thumb: blog-images/house-collapse.png
   homepage: blog-images/house-collapse.png
   caption: The Egyptian Gazette, November 1, 1905
-  link:
+  caption_url:
 
 ---
 The *Egyptian Gazette* covers a bevy of topics from foreign trade to local deaths, however one odd thing I have noticed within it is the rather blasé coverage of the deaths of common people. Take for instance the incident they reported on in the November 1st issue in 1905, shown above.
