@@ -5,7 +5,9 @@ permalink: /contents/
 header:
   image_fullwidth: front-page.jpg
 ---
-Page images are [here](https://github.com/dig-eg-gaz/page-images), listed by date. HTML pages below represent TEI documents transformed to HTML using the TEI Consortium's default [TEI to HTML XSLT](http://www.tei-c.org/release/doc/tei-xsl/) and served via [rawgit.com](rawgit.com).
+Page images are [here](https://github.com/dig-eg-gaz/page-images), listed by date and page number.
+
+HTML pages below represent TEI documents transformed to HTML using the TEI Consortium's default [TEI to HTML XSLT](http://www.tei-c.org/release/doc/tei-xsl/) and served via [rawgit.com](http://rawgit.com). Many links are not yet active. For reference, see week 28 (July 10-15).
 
 # 1905
 
