@@ -19,7 +19,7 @@ image:
   caption: December 16 1905
   link:
 ---
-##One Man's Trash is Another Man's Treasure
+## One Man's Trash is Another Man's Treasure
 
 In 1905, a man wrote to the Egyptian Gazette about the stricture and kidney disease that he had suffered with for 19 years. After living with excruciating pain and being told that he would only have three months to live, this man began taking Doan's Backache Kidney Pills.  
 I was immediately curious about this, because [Doan's Backache Kidney Pills](https://pics.drugstore.com/prodimg/498956/450.jpg) are a cheap, over the counter drug that people use today. While someone today might take these pills to relieve minor back pain, this man believes that they saved his life. This speaks a great deal to the quality of medicine during the early 1900's.  
