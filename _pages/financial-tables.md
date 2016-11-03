@@ -100,6 +100,7 @@ Tables in the *Egyptian Gazette* were produced using boilerplates. This page's d
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/nolis.png?raw=true)
 
 ### Primes des Contrats
+[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/primes-des-contrats.xml)
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/primes-des-contrats.png?raw=true)
 
 ### Egyptian Gazette Publishing information
@@ -110,7 +111,10 @@ Tables in the *Egyptian Gazette* were produced using boilerplates. This page's d
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/ramleh-railway-alexandria-tramway.png?raw=true)
 
 ### Reuter's Telegrams
+This table varies in lines from day to day. Certain days of the week contain weekly summaries. The template contains most possible lines--merely delete those lines that do not appear.
+
 [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/reuters-telegrams.xml)
+
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/reuters-telegrams.png?raw=true)
 
 ### Share list
