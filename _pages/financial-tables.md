@@ -28,6 +28,7 @@ Tables in the *Egyptian Gazette* were produced using boilerplates. This page's d
 
 ### Bourse Khediviale
 [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/bourse-khediviale.xml)
+
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/bourse-khediviale.png?raw=true)
 
 ### Bulletin de la Bourse
@@ -38,10 +39,12 @@ Tables in the *Egyptian Gazette* were produced using boilerplates. This page's d
 
 ### Calendar of the Week
 [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/calendar-of-the-week.xml)
+
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/calendar-of-the-week.png?raw=true)
 
 ### Cereal Market
 [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/cereal-market.xml)
+
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/cereal-market.png?raw=true)
 
 ### Coals
@@ -49,14 +52,17 @@ Tables in the *Egyptian Gazette* were produced using boilerplates. This page's d
 
 ### Coton
 [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/coton.xml)
+
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/coton.png?raw=true)
 
 ### Cotons
 [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/cotons.xml)
+
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/cotons.png?raw=true)
 
 ### Daily Weather Report
 [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/daily-weather-report.xml)
+
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/daily-weather-report.png?raw=true)
 
 ### Delta Light Railways Ltd
@@ -64,23 +70,36 @@ Tables in the *Egyptian Gazette* were produced using boilerplates. This page's d
 
 ### Derniere Heure
 [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/derniere-heure.xml)
+
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/derniere-heure.png?raw=true)
 
 ### Eastern Telegraph Co. Ltd.
+Be sure to change date (including `<date when="">`) in opening lines.
+
 [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/eastern-telegraph.xml)
+
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/eastern-telegraph.png?raw=true)
 
 ### Egyptian Markets, Limited
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/egyptian-markets-limited.png?raw=true)
 
 ### Egyptian Mining Market
+It seems that the figures in this table are identical in some consecutive issues.
+
+[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/export-manifests.xml)
+
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/egyptian-mining-market.png?raw=true)
 
 ### Export Manifests
+This list is unique in each issue. Tag placenames and dates, and break out the number and unit of exported commodities in the table.
+
+[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/export-manifests.xml)
+
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/export-manifests.png?raw=true)
 
 ### Exterieur
 [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/exterieur.xml)
+
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/exterieur.png?raw=true)
 
 ### London Stock Exchange
@@ -88,6 +107,7 @@ Tables in the *Egyptian Gazette* were produced using boilerplates. This page's d
 
 ### Marche de Minet el Bassal
 [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/marche-de-minet-el-bassal.xml)
+
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/marche-de-minet-el-bassal.png?raw=true)
 
 ### Mouvement Maritime
@@ -100,11 +120,15 @@ Tables in the *Egyptian Gazette* were produced using boilerplates. This page's d
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/nolis.png?raw=true)
 
 ### Primes des Contrats
+It seems that the figures in this table are identical in some consecutive issues.
+
 [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/primes-des-contrats.xml)
+
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/primes-des-contrats.png?raw=true)
 
 ### Egyptian Gazette Publishing information
 [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/publishing-info.xml)
+
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/publishing-info.png?raw=true)
 
 ### Ramleh Railway Co, Alexandria Tramway Co
@@ -119,14 +143,17 @@ This table varies in lines from day to day. Certain days of the week contain wee
 
 ### Share list
 [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/share-list.xml)
+
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/share-list.png?raw=true)
 
 ### Stocks and Shares
 [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/stocks-and-shares.xml)
+
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/stocks-and-shares.png?raw=true)
 
 ### Subscriptions and Advertisements
 [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/subscriptions-advertisements.xml)
+
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/subscriptions-advertisements.png?raw=true)
 
 ### Tarif d'Exportation
@@ -134,10 +161,12 @@ This table varies in lines from day to day. Certain days of the week contain wee
 
 ### Telegrammes Havas
 [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/telegramme-havas.xml)
+
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/telegramme-havas.png?raw=true)
 
 ### To-day's Exchange quotations
 [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/to-days-exchange-quotations.xml)
+
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/to-days-exchange-quotations.png?raw=true)
 
 ### Weekly Postal Table

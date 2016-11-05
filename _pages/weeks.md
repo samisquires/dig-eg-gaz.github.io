@@ -9,8 +9,8 @@ header:
 Note: Personal repositories contain work in progress.
 
 Week|Start date (Monday)|End date (Saturday)|Personal repository|Images|Text|Lacking
-1|January 2, 1905|January 7, 1905|[Kara Hofmeister](https://github.com/karahofmeister/dig-eg-gaz)||All
-2|January 9, 1905|January 14, 1905|[Brett Crawford](https://github.com/wbc13/dig-eg-gaz)|38/40|All
+1|January 2, 1905|January 7, 1905|[Kara Hofmeister](https://github.com/karahofmeister/dig-eg-gaz)|37/40|All
+2|January 9, 1905|January 14, 1905|[Brett Crawford](https://github.com/wbc13/dig-eg-gaz)|Complete|All|1905-01-11-p7,p8
 3|January 16, 1905|January 21, 1905|[Tara Kagan](https://github.com/tkhagan/dig_eg)|Partial|
 4|January 23, 1905|January 28, 1905|[Matthew Cooper](https://github.com/Mic15b/dig-eg-gaz)||
 5|January 30, 1905|February 4, 1905|[Daisy Vazquez](https://github.com/dvazquez703/dig-eg-gaz)||
@@ -58,6 +58,6 @@ Week|Start date (Monday)|End date (Saturday)|Personal repository|Images|Text|Lac
 47|November 20, 1905|November 25, 1905|[Amber Fling](https://github.com/alf15c/dig-eg-gaz)|Complete|
 48|November 27, 1905|December 2, 1905|[Samantha Lappin](https://github.com/Fibinocci1123/Dig-eg-gaz)|Complete|All|November 28
 49|December 4, 1905|December 9, 1905|[Phill Dimacali](https://github.com/phillpd96)||
-50|December 11, 1905|December 16, 1905|[Justin Esteve](https://github.com/jesteve3/dig-eg-gaz)|Complete?|All
+50|December 11, 1905|December 16, 1905|[Justin Esteve](https://github.com/jesteve3/dig-eg-gaz)|Complete|All|1905-12-11-p2
 51|December 18, 1905|December 23, 1905|[Jacob Amador](https://github.com/jacobamador19/dig-eg-gaz)|Misnamed|
 52|December 25, 1905|December 30, 1905|[Celita Summa](https://github.com/CelitaS/dig-eg-gaz)|||December 25
