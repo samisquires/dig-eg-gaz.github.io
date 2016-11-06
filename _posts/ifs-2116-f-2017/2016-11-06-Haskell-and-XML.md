@@ -18,14 +18,14 @@ image:
   caption:
   link:
 ---
-I got pretty bored performing the same search-and-replace actions for a variety of different place names.  As any programmer knows, performing the same actions over and over again signal perfect opportunities to use code to script out those actions.
+I got pretty bored performing the same search-and-replace actions for a variety of different place names.  As any programmer knows, performing the same actions over and over again signals a perfect opportunity to use code to script out those actions.
 
-I spent time this weekend investigating the possiblity of using Haskell to write a script to automatically TEI index certain words with tags and reference data.
+I spent time this weekend investigating the possibility of using Haskell to write a script to automatically TEI index certain words with tags and reference data.
 
 The program (which would be a command-line utility at first) needs to perform a few basic functions:
 
 1. Add tags to text inside any xml nodes
-2. Update attributes of tags whith specified contents
+2. Update attributes of tags with specified contents
 3. Take in input file that describes a set of commands
 
 This would potentially allow me to update every xml file in the entire repository simultaneously, inserting the proper tags for a list of names, dates, and locations.  Something like:
@@ -45,6 +45,7 @@ This would allow me to just keep an up-to-date set of location names, attribute 
 > ## A quick note on XML
 > XML can be visualized as a "rose tree" made of nodes.  This basically means that every part of the XML document is some sort of node, which has other nodes inside of it.  The nodes can be any type of tag, or any plain text, and any number of both in any order.
 > Here's what some XML in your issue might look like as a Tree
+
 ```
 div -*- dateline -*- date - Text
      |            *- Text
@@ -53,7 +54,9 @@ div -*- dateline -*- date - Text
      *- p         - Text
      *- byline    - Text
 ```
+
 > And here it is as XML
+
 ```XML
 <div>
     <dateline><date>2nd October 1905</date>, <placename>Port Said</placename></dateline>
