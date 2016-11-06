@@ -42,9 +42,10 @@ persname:
 
 This would allow me to just keep an up-to-date set of location names, attribute names, and links that I could then very easily update or apply to any issue in the entire year, and perhaps even set it to run every time I changed a file, so I would never have to worry about manually changing this information.
 
-> ## A quick note on XML
-> XML can be visualized as a "rose tree" made of nodes.  This basically means that every part of the XML document is some sort of node, which has other nodes inside of it.  The nodes can be any type of tag, or any plain text, and any number of both in any order.
-> Here's what some XML in your issue might look like as a Tree
+## A quick note on XML
+XML can be visualized as a "rose tree" made of nodes.  This basically means that every part of the XML document is some sort of node, which has other nodes inside of it.  The nodes can be any type of tag, or any plain text, and any number of both in any order.
+
+Here's what some XML in your issue might look like as a Tree
 
 ```
 div -*- dateline -*- date - Text
@@ -55,7 +56,7 @@ div -*- dateline -*- date - Text
      *- byline    - Text
 ```
 
-> And here it is as XML
+And here it is as XML
 
 ```XML
 <div>
