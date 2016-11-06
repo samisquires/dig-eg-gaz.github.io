@@ -1,6 +1,6 @@
 ---
 layout: page
-subheadline: “Melizza Black”
+subheadline: Melizza Black
 title: “Avoid Female Society”
 teaser: “Also onions and garlic”
 date: 2016-11-06
