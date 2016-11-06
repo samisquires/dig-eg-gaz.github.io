@@ -35,6 +35,10 @@ This element typically appears on page 2. A template is [here](https://github.co
 
 These elements come side by side on page 2, though sometimes material is placed in the middle of them. Templates are [here](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/subscriptions-advertisements.xml) and [here](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/publishing-info.xml).
 
+In the latter pages of the newspaper, we also find a brief item explaining where and when the paper is sold. Template is [here](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/egyptian-gazette-en-vente.xml).
+
+![Egyptian Gazette en vente](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/egyptian-gazette-en-vente.png?raw=true)
+
 ### 3. Calendars
 
 ![Calendar of Coming Events](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/calendar-of-coming-events.png?raw=true)
@@ -42,3 +46,13 @@ These elements come side by side on page 2, though sometimes material is placed 
 ![Calendar of the Week](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/calendar-of-the-week.png?raw=true)
 
 These calendars are lightly formatted. The Calendar of the Week ([xml template here](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/calendar-of-the-week.xml)) seems to have been changed only once per week.
+
+### 4. Municipality
+Municipal tenders appear in a formulaic fashion; it is necessary to change dates and particulars of the project being tendered. Template is [here](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/municipalite-avis.xml)
+
+![Municipalite Avis](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/municipalite-avis.png?raw=true)
+
+### 5. Claims against the estate
+Change name, rank, post, and dates on the [xml template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/claims-against-the-estate.xml).
+
+![Claims against the estate](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/claims-against-the-estate.png?raw=true)

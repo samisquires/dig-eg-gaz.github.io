@@ -54,7 +54,7 @@ Week|Start date (Monday)|End date (Saturday)|Personal repository|Images|Text|Lac
 43|October 23, 1905|October 28, 1905|[Johanna Eugenio](https://github.com/jhannaeugenio/dig-eg-gaz)||5/6
 44|October 30, 1905|November 4, 1905|[Henry Thompson](https://github.com/Hat15/Dig-eg-gaz)|Complete|All
 45|November 6, 1905|November 11, 1905|[Olivia Evanoff](https://github.com/oliviaevanoff)||
-46|November 13, 1905|November 18, 1905|[Emma Taylor](https://github.com/ekt16/dig-eg-gaz)|Complete|3/6
+46|November 13, 1905|November 18, 1905|[Emma Taylor](https://github.com/ekt16/dig-eg-gaz)|Complete|All
 47|November 20, 1905|November 25, 1905|[Amber Fling](https://github.com/alf15c/dig-eg-gaz)|Complete|
 48|November 27, 1905|December 2, 1905|[Samantha Lappin](https://github.com/Fibinocci1123/Dig-eg-gaz)|Complete|All|November 28
 49|December 4, 1905|December 9, 1905|[Phill Dimacali](https://github.com/phillpd96)||

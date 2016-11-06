@@ -126,6 +126,10 @@ xml text: [chl1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 xml text: [clh1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/clh1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/clh1-Cigares-de-la-Havane.png?raw=true)
 
+### crl1 Credit Lyonnais
+xml text: [crl1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/crl1.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/crl1-Credit-Lyonnais.png?raw=true)
+
 ### cst1 Cairo Sewage Transport Co.
 xml text: [cst1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cst1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cst1-Cairo-Sewage-Transport.png?raw=true)
@@ -194,6 +198,10 @@ xml text: [etc1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 ### fus1 Fussell’s Cream
 xml text: [fus1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/fus1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/fus1-Fussells-Cream.png?raw=true)
+
+### fre1 Freskel
+xml text: [fre1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/fre1.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/fre1-Freskel.png?raw=true)
 
 ### gac1 Guardian Assurance Company Limited
 xml text: [gac1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/gac1.xml)
@@ -367,6 +375,10 @@ xml text (containing errors?): [nrp1](https://github.com/dig-eg-gaz/advertisemen
 xml text: [nsa1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nsa1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nsa1-N-Spathis.png?raw=true)
 
+### okl1 Orenstein & Koppel Ltd.
+xml text: [okl1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/okl1.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/okl1-orenstein-koppel.png?raw=true)
+
 ### opl1 Orient-Pacific Line of Royal Mail Steamers
 xml text: [opl1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/opl1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/opl1-Orient-Pacific-Line-of-Royal-Mail-Steamers.png?raw=true)
@@ -422,6 +434,10 @@ xml text: [sio1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 ### sla1 Standard Life Assurance Company
 xml text: [sla1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sla1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sla1-Standard-Life-Assurance-Company.png?raw=true)
+
+### smc1 Steineman, Mabardi & Co
+xml text: [smc1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/smc1.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/smc1-steineman-mabardi.png?raw=true)
 
 ### spa1 Spathis Grill Room
 xml text: [spa1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/spa1.xml)
