@@ -12,11 +12,11 @@ tags:
   - XML
 header: no
 image:
-  header: blog-images/haskell-logo.svg
+  title: blog-images/haskell-logo.svg
   thumb: blog-images/haskell-logo.svg
   homepage: blog-images/haskell-logo.svg
   caption:
-  link:
+  caption_url:
 ---
 I got pretty bored performing the same search-and-replace actions for a variety of different place names.  As any programmer knows, performing the same actions over and over again signals a perfect opportunity to use code to script out those actions.
 
