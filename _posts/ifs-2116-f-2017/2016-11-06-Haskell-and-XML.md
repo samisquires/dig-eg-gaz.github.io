@@ -12,14 +12,12 @@ tags:
   - XML
 header: no
 image:
-  header: https://www.haskell.org/static/img/haskell-logo.svg?etag=ukf3Fg7-
-  thumb: https://www.haskell.org/static/img/haskell-logo.svg?etag=ukf3Fg7-
-  homepage: https://www.haskell.org/static/img/haskell-logo.svg?etag=ukf3Fg7-
-  caption: Date of issue?
-  link: http://link-to-page-containing-text
+  header: blog-images/haskell-logo.svg
+  thumb: blog-images/haskell-logo.svg
+  homepage: blog-images/haskell-logo.svg
+  caption:
+  link:
 ---
-# Haskell & XML
-
 I got pretty bored performing the same search-and-replace actions for a variety of different place names.  As any programmer knows, performing the same actions over and over again signal perfect opportunities to use code to script out those actions.
 
 I spent time this weekend investigating the possiblity of using Haskell to write a script to automatically TEI index certain words with tags and reference data.
