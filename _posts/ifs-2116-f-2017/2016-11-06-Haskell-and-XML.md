@@ -88,7 +88,7 @@ map f x:xs = f x : map xs
 
 ```
 
-It's pretty rad, it looks quite unlike most langauges I've seen in my day.  Haskell has some really interesting properties, though.  It's really easy to parse documents as a result, but it's difficult to transform them easily.  Many libraries exist to extract data easily and reliably from xml documents, but few to transform or modify them in a programatic way.
+It's pretty rad, it looks quite unlike most languages I've seen in my day.  Haskell has some really interesting properties, though.  It's really easy to parse documents as a result, but it's difficult to transform them easily.  Many libraries exist to extract data easily and reliably from xml documents, but few to transform or modify them in a programatic way.
 
 I did find one eventually: the [Haskell XML Toolbox](https://wiki.haskell.org/HXT).  It lets you do some pretty interesting things.  It uses something called arrows (a _very_ trippy functional programming concept), to allow the programmer to compose filters together to navigate the XML tree.
 
@@ -112,10 +112,10 @@ getGrandChildren :: XmlFilter
 getGrandChildren = getChildren >>> getChildren
 ```
 
-The `(>>>)` operator makes it extremely trivial to chain filters together to make new fiters.  The ability to compose functions like this is the hallmark of functional programming, and works extremely weel in this case.
+The `(>>>)` operator makes it extremely trivial to chain filters together to make new filters.  The ability to compose functions like this is the hallmark of functional programming, and works extremely well in this case.
 
 
-By defining a few more combination operatos, the HXT library quickly builds up sufficient capability to tackle some really complicated parsing, as in:
+By defining a few more combination operators, the HXT library quickly builds up sufficient capability to tackle some really complicated parsing, as in:
 
 ```Haskell
 
