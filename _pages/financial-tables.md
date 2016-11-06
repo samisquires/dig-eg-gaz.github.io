@@ -43,6 +43,7 @@ Tables in the *Egyptian Gazette* were produced using boilerplates. This page's d
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/calendar-of-the-week.png?raw=true)
 
 ### Cereal Market
+At least one of the "Cereals in Boat" items changes from issue to issue: Barley Mariuti changes to Barley Shami. Keep an eye out for other changes.
 [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/cereal-market.xml)
 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/cereal-market.png?raw=true)
@@ -103,6 +104,8 @@ This list is unique in each issue. Tag placenames and dates, and break out the n
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/exterieur.png?raw=true)
 
 ### London Stock Exchange
+[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/london-stock-exchange.xml)
+
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/london-stock-exchange.png?raw=true)
 
 ### Marche de Minet el Bassal

@@ -126,6 +126,10 @@ xml text: [chl1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 xml text: [clh1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/clh1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/clh1-Cigares-de-la-Havane.png?raw=true)
 
+### cst1 Cairo Sewage Transport Co.
+xml text: [cst1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cst1.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cst1-Cairo-Sewage-Transport.png?raw=true)
+
 ### cun1 Cunard Line
 xml text: [cun1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cun1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cun1-Cunard-Line.png?raw=true)
@@ -146,6 +150,10 @@ xml text: [dcl1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 ### dll1 Deutsche Levante-Linie
 xml text: [dll1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/dll1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/dll1-Deutsche-Levant-Linie.png?raw=true)
+
+### dim1 Dinneford's Magnesia
+xml text: [dim1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/dim1.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/dim1-Dinnefords-Magnesia.png?raw=true)
 
 ### doa1 Deutsche Ost-Afrika Linie
 xml text: [doa1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/doa1.xml)
@@ -306,6 +314,10 @@ xml text: [mco1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 ### mic1 Marine Insurance Company, Limited.
 xml text: [mic1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/mic1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/mic1-Marine-Insurance-Company-Limited.png?raw=true)
+
+### mil1 Milner's Safes
+xml text: [mil1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/mil1.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/mil1-Milners-Safes.jpg?raw=true)
 
 ### mma1 Messageries Maritimes
 xml text: [mma1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/mma1.xml)
