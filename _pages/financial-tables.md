@@ -18,9 +18,14 @@ Tables in the *Egyptian Gazette* were produced using boilerplates. This page's d
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/alexandria-general-produce-association.png?raw=true)
 
 ### Arrivages a Minet-el-Bassal
+This element seems to be largely repeated from issue to issue, but to change from month to month.
+[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/arrivages-minet-el-bassal.xml)
+
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/arrivages-minet-el-bassal.png?raw=true)
 
 ### Association des Courtiers en Marchandises
+[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/association-des-courtiers.xml)
+
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/association-des-courtiers.png?raw=true)
 
 ### Association des Courtiers en Marchandises (Service Special)
@@ -49,6 +54,8 @@ At least one of the "Cereals in Boat" items changes from issue to issue: Barley 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/cereal-market.png?raw=true)
 
 ### Coals
+[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/coals.xml)
+
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/coals.png?raw=true)
 
 ### Coton
@@ -67,6 +74,8 @@ At least one of the "Cereals in Boat" items changes from issue to issue: Barley 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/daily-weather-report.png?raw=true)
 
 ### Delta Light Railways Ltd
+[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/delta-light-railways.xml)
+
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/delta-light-railways.png?raw=true)
 
 ### Derniere Heure

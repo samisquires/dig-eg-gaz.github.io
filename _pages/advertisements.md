@@ -144,12 +144,15 @@ xml text: [dia1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 
 ### dbc1 Davies Bryan & Co.
 xml text: [dbc1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/dbc1.xml)
-
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/dbc1-Davies-Bryan-and-Co.png?raw=true)
 
 ### dcl1 DCL Scotch Whisky
 xml text: [dcl1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/dcl1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/dcl1-DCL-Scotch-Whisky.png?raw=true)
+
+### dlc1 Dr Le Clerc's Pills
+xml text: [dlc1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/dlc1.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/dlc1-dr-le-clercs-pills.png?raw=true)
 
 ### dll1 Deutsche Levante-Linie
 xml text: [dll1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/dll1.xml)
@@ -387,6 +390,10 @@ xml text: [opl1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 xml text: [pap1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pap1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pap1-The-Papyanni-Line.png?raw=true)
 
+### pdd1 Pilules du Docteur Dehaut
+xml text: [pdd1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pdd1.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pdd1-pilules-du-docteur-dehaut.png?raw=true)
+
 ### pel1 Pelican Brand
 xml text: [pel1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pel1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pel1-Pelican-Brand.png?raw=true)
@@ -474,6 +481,10 @@ xml text: [tcs2](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 ### thc1 Thornes High Class Whiskey
 xml text: [thc1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/thc1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/thc1-Thornes-High-Class-Whiskey.png?raw=true)
+
+### the1 Therapion
+xml text: [the1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/the1.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/the1-Therapion.png?raw=true)
 
 ### tsc1 The Seasonable Complaint
 xml text: [tsc1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/tsc1.xml)
