@@ -144,6 +144,8 @@ It seems that the figures in this table are identical in some consecutive issues
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/publishing-info.png?raw=true)
 
 ### Ramleh Railway Co, Alexandria Tramway Co
+[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/ramleh-railway-alexandria-tramway.xml)
+
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/ramleh-railway-alexandria-tramway.png?raw=true)
 
 ### Reuter's Telegrams

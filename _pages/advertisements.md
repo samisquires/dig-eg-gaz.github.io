@@ -426,6 +426,10 @@ xml text: [rea1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 xml text: [ric1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ric1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ric1-Royal-Insurance-Coy.png?raw=true)
 
+### rsn1 Russian Steam Navigation
+xml text: [rsn1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/rsn1.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/rsn1-Russian-Steam-Navigation.png?raw=true)
+
 ### sde1 Sudan Development & Exploration Company, Limited
 xml text (with errors): [sde1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sde1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sde1-Sudan-Development-Exploration-Company-Limited.png?raw=true)
