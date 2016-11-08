@@ -39,6 +39,7 @@ Once you've completed some of the structural tagging of your page, it's time to 
 
 ## 7. Add more complex tags
 There are more tags that you can add:
+- If the article or item is in French, add the attribute `xml:lang="fr"` to the `<div>` tag.
 - **`<cb/>`** for column breaks. Be sure to put this tag at the *beginning* of the column. Add the number of the column, as well, thus: `<cb n="1"/>` For mixed columns, see [this guidance](http://dcs.library.virginia.edu/digital-stewardship-services/tei-encoding-guidelines/#cb).
 - **`<div type="section">`** to wrap multiple items that belong together, for instance in the international or local news sections.
 - **`<dateline>`** for datelines. There can only be one dateline per division. In the international news section, this means that you must make a new `<div type="item">` for each newswire report.
