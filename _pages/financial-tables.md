@@ -171,6 +171,8 @@ This table varies in lines from day to day. Certain days of the week contain wee
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/subscriptions-advertisements.png?raw=true)
 
 ### Tarif d'Exportation
+[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/tarif-dexportation.xml)
+
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/tarif-dexportation.png?raw=true)
 
 ### Telegrammes Havas
