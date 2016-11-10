@@ -98,7 +98,7 @@ Be sure to change date (including `<date when="">`) in opening lines.
 ### Egyptian Mining Market
 It seems that the figures in this table are identical in some consecutive issues.
 
-[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/export-manifests.xml)
+[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/egyptian-mining-market.xml)
 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/egyptian-mining-market.png?raw=true)
 

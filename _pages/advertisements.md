@@ -258,6 +258,10 @@ xml text: [hsm1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 xml text: [icc1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/icc1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/icc1-Ind-Coope-Co-Ltd.png?raw=true)
 
+### inv1 "Investments"
+xml text: [inv1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/inv1.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/inv1-investments.png?raw=true)
+
 ### iob1 Imperial Ottoman Bank
 xml text: [iob1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/iob1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/iob1-Imperial-Ottoman-Bank.png?raw=true)
