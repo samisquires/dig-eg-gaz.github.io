@@ -91,6 +91,8 @@ Be sure to change date (including `<date when="">`) in opening lines.
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/eastern-telegraph.png?raw=true)
 
 ### Egyptian Markets, Limited
+[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/egyptian-markets-limited.xml)
+
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/egyptian-markets-limited.png?raw=true)
 
 ### Egyptian Mining Market
