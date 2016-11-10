@@ -8,10 +8,10 @@ header:
 
 Note: Personal repositories contain work in progress.
 
-Week|Start date (Monday)|End date (Saturday)|Personal repository|Images|Text|Lacking
+Week|Start date (Monday)|End date (Saturday)|Personal repository|Images|Text|Notes
 1|January 2, 1905|January 7, 1905|[Kara Hofmeister](https://github.com/karahofmeister/dig-eg-gaz)|37/40|All
-2|January 9, 1905|January 14, 1905|[Brett Crawford](https://github.com/wbc13/dig-eg-gaz)|Complete|All|1905-01-11-p7,p8
-3|January 16, 1905|January 21, 1905|[Tara Kagan](https://github.com/tkhagan/dig_eg)|Partial|
+2|January 9, 1905|January 14, 1905|[Brett Crawford](https://github.com/wbc13/dig-eg-gaz)|Complete|All|1905-01-11 is six pages
+3|January 16, 1905|January 21, 1905|[Tara Kagan](https://github.com/tkhagan/dig_eg)|Partial||a six page issue
 4|January 23, 1905|January 28, 1905|[Matthew Cooper](https://github.com/Mic15b/dig-eg-gaz)||
 5|January 30, 1905|February 4, 1905|[Daisy Vazquez](https://github.com/dvazquez703/dig-eg-gaz)||
 6|February 6, 1905|February 11, 1905|[Brandon Barrett](https://github.com/bcb14g/dig-eg-gaz)|Complete|All
@@ -33,13 +33,13 @@ Week|Start date (Monday)|End date (Saturday)|Personal repository|Images|Text|Lac
 22|May 29, 1905|June 3, 1905|[John White](https://github.com/jcw3/dig-eg-gaz)|Complete|All
 23|June 5, 1905|June 10, 1905|[Joseph Chack-On](https://github.com/jochack/dig-eg-gaz)||
 24|June 12, 1905|June 17, 1905|[Thomas Corzo](https://github.com/ThomasC24)||
-25|June 19, 1905|June 24, 1905|[Kedric Heyward](https://github.com/Kheyward/dig-eg-gaz)||6/40
+25|June 19, 1905|June 24, 1905|[Kedric Heyward](https://github.com/Kheyward/dig-eg-gaz)|6/40|
 26|June 26, 1905|July 1, 1905|[Max Conway](https://github.com/maxconwayfsu/dig-eg-gaz)|35/40|
 27|July 3, 1905|July 8, 1905|[Will Hanley](https://github.com/whanley/digital-Egyptian-Gazette/tree/master/my-content)|Complete|
 28|July 10, 1905|July 15, 1905|[Will Hanley](https://github.com/whanley/digital-Egyptian-Gazette/tree/master/my-content)|Complete|All
 29|July 17, 1905|July 22, 1905|[Tristan Garcia](https://github.com/tcg15)||
-30|July 24, 1905|July 29, 1905|[Brayan Barbosa](https://github.com/brayanbar/dig-eg-gaz)||14/40
-31|July 31, 1905|August 5, 1905|[Andrea Maria Avila](https://github.com/ama15m)||All
+30|July 24, 1905|July 29, 1905|[Brayan Barbosa](https://github.com/brayanbar/dig-eg-gaz)|14/40|
+31|July 31, 1905|August 5, 1905|[Andrea Maria Avila](https://github.com/ama15m)|Complete|
 32|August 7, 1905|August 12, 1905|[Melizza Black](https://github.com/MelizzaBlack/dig-eg-gaz)||All
 33|August 14, 1905|August 19, 1905|[Zach Reddick](https://github.com/znr13)|
 34|August 21, 1905|August 26, 1905|[Charlie Rymer](https://github.com/crymer)||
@@ -56,8 +56,8 @@ Week|Start date (Monday)|End date (Saturday)|Personal repository|Images|Text|Lac
 45|November 6, 1905|November 11, 1905|[Olivia Evanoff](https://github.com/oliviaevanoff)||
 46|November 13, 1905|November 18, 1905|[Emma Taylor](https://github.com/ekt16/dig-eg-gaz)|Complete|All
 47|November 20, 1905|November 25, 1905|[Amber Fling](https://github.com/alf15c/dig-eg-gaz)|Complete|
-48|November 27, 1905|December 2, 1905|[Samantha Lappin](https://github.com/Fibinocci1123/Dig-eg-gaz)|Complete|All|November 28
+48|November 27, 1905|December 2, 1905|[Samantha Lappin](https://github.com/Fibinocci1123/Dig-eg-gaz)|Complete|All|microfilm lacks 1905-11-28
 49|December 4, 1905|December 9, 1905|[Phill Dimacali](https://github.com/phillpd96)||
-50|December 11, 1905|December 16, 1905|[Justin Esteve](https://github.com/jesteve3/dig-eg-gaz)|Complete|All|1905-12-11-p2
+50|December 11, 1905|December 16, 1905|[Justin Esteve](https://github.com/jesteve3/dig-eg-gaz)|Complete|All|microfilm lacks 1905-12-11-p2
 51|December 18, 1905|December 23, 1905|[Jacob Amador](https://github.com/jacobamador19/dig-eg-gaz)|Complete|
 52|December 25, 1905|December 30, 1905|[Celita Summa](https://github.com/CelitaS/dig-eg-gaz)|||December 25
