@@ -33,13 +33,13 @@ Week|Start date (Monday)|End date (Saturday)|Personal repository|Images|Text|Lac
 22|May 29, 1905|June 3, 1905|[John White](https://github.com/jcw3/dig-eg-gaz)|Complete|All
 23|June 5, 1905|June 10, 1905|[Joseph Chack-On](https://github.com/jochack/dig-eg-gaz)||
 24|June 12, 1905|June 17, 1905|[Thomas Corzo](https://github.com/ThomasC24)||
-25|June 19, 1905|June 24, 1905|[Kedric Heyward](https://github.com/Kheyward/dig-eg-gaz)||
+25|June 19, 1905|June 24, 1905|[Kedric Heyward](https://github.com/Kheyward/dig-eg-gaz)||6/40
 26|June 26, 1905|July 1, 1905|[Max Conway](https://github.com/maxconwayfsu/dig-eg-gaz)|35/40|
 27|July 3, 1905|July 8, 1905|[Will Hanley](https://github.com/whanley/digital-Egyptian-Gazette/tree/master/my-content)|Complete|
 28|July 10, 1905|July 15, 1905|[Will Hanley](https://github.com/whanley/digital-Egyptian-Gazette/tree/master/my-content)|Complete|All
 29|July 17, 1905|July 22, 1905|[Tristan Garcia](https://github.com/tcg15)||
-30|July 24, 1905|July 29, 1905|[Brayan Barbosa](https://github.com/brayanbar/dig-eg-gaz)||
-31|July 31, 1905|August 5, 1905|[Andrea Maria Avila](https://github.com/ama15m)||
+30|July 24, 1905|July 29, 1905|[Brayan Barbosa](https://github.com/brayanbar/dig-eg-gaz)||14/40
+31|July 31, 1905|August 5, 1905|[Andrea Maria Avila](https://github.com/ama15m)||All
 32|August 7, 1905|August 12, 1905|[Melizza Black](https://github.com/MelizzaBlack/dig-eg-gaz)||All
 33|August 14, 1905|August 19, 1905|[Zach Reddick](https://github.com/znr13)|
 34|August 21, 1905|August 26, 1905|[Charlie Rymer](https://github.com/crymer)||
@@ -50,7 +50,7 @@ Week|Start date (Monday)|End date (Saturday)|Personal repository|Images|Text|Lac
 39|September 25, 1905|September 30, 1905|[Logan Wills](https://github.com/lcw16b/dig-eg-gaz)||All
 40|October 2, 1905|October 7, 1905|[Gwen Zapata](https://github.com/Lionex/dig-eg-gaz)|Complete|All
 41|October 9, 1905|October 14, 1905|[Christian Ragland](https://github.com/christianragland/dig-eg-gaz)||
-42|October 16, 1905|October 21, 1905|[Brooklyn Vincent](https://github.com/bjv15/dig-eg-gaz)||
+42|October 16, 1905|October 21, 1905|[Brooklyn Vincent](https://github.com/bjv15/dig-eg-gaz)||25/40
 43|October 23, 1905|October 28, 1905|[Johanna Eugenio](https://github.com/jhannaeugenio/dig-eg-gaz)|Complete|5/6
 44|October 30, 1905|November 4, 1905|[Henry Thompson](https://github.com/Hat15/Dig-eg-gaz)|Complete|All
 45|November 6, 1905|November 11, 1905|[Olivia Evanoff](https://github.com/oliviaevanoff)||
