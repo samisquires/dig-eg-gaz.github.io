@@ -125,6 +125,8 @@ This list is unique in each issue. Tag placenames and dates, and break out the n
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/marche-de-minet-el-bassal.png?raw=true)
 
 ### Mouvement Maritime
+This model [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/marche-de-minet-el-bassal.xml) doesn't contain much useful formatting, but it shows that places, persons, dates, and tonnage should be tagged.
+
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/mouvement-maritime.png?raw=true)
 
 ### Nile Readings
