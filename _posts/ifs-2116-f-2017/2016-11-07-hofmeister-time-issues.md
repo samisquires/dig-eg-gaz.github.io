@@ -13,9 +13,9 @@ tags:
   - encoding
 header: no
 image:
-  title: blog-images/reuterstelegram.jpg
-  thumb: blog-images/reuterstelegram.jpg
-  homepage: blog-images/reuterstelegram.jpg
+  title: blog-images/reuterstelegrams.jpg
+  thumb: blog-images/reuterstelegrams.jpg
+  homepage: blog-images/reuterstelegrams.jpg
   caption: Image is from January 2, 1905 and is an example of unclear data.
   caption_url:
 ---
