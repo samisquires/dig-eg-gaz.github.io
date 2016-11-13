@@ -1,5 +1,6 @@
 ---
 layout: page
+subheadline: "Emma Taylor"
 title: "The Stuff Movies are Made Of"
 teaser: "An entire family perishes attempting to enter an ancient structure...is this really where the story ends?"
 date: 2016-10-11

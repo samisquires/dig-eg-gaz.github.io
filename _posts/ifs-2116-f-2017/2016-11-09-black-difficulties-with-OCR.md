@@ -1,8 +1,8 @@
 ---
 layout: page
-subheadline: “Melizza Black“
-title: “Difficulties with OCR”
-teaser: “A short, very angry, very annoyed rant“
+subheadline: "Melizza Black"
+title: "Difficulties with OCR"
+teaser: "A short, very angry, very annoyed rant"
 date: 2016-11-09
 categories:
   - technical

@@ -1,8 +1,8 @@
 ---
 layout: page
-subheadline: Melizza Black
-title: “Avoid Female Society”
-teaser: “Also onions and garlic”
+subheadline: "Melizza Black"
+title: ""Avoid Female Society""
+teaser: "Also onions and garlic"
 date: 2016-11-06
 categories:
   - curiosities
