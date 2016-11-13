@@ -11,7 +11,7 @@ header:
 These instructions guide you in transforming your plain text page files into a marked-up xml document that conforms to the standards of [TEI](http://www.tei-c.org) (the Text Encoding Initiative).
 
 ## 1. Set up your XML editor
-Download the full-function Oxygen XML Editor, which offers a [free 30-day trial](http://www.oxygenxml.com/xml_editor/register.html).
+Download the full-function Oxygen XML Editor, which offers a [free 30-day trial](http://www.oxygenxml.com/xml_editor/register.html). After 30 days, you might find [ways](https://10minutemail.com/) to renew your trial access, or simply purchase Oxygen using their [academic and educational discount](http://oxygenxml.com/academic/)).
 
 ## 2. Create an xml file
 Copy and paste [this template](https://raw.githubusercontent.com/dig-eg-gaz/boilerplates/master/empty-issue.xml) into a new document. **Important**: the new document will have `<?xml version="1.0" encoding="UTF-8"?>` as its first line, and it's also the first line of the template; delete one of them, otherwise your document will be ill-formed. Name this document using the date of the issue and an xml extension (YYYY-MM-DD.xml). (This document will eventually contain all of the pages of the issue, so it is not necessary to add the page number to the document name.) Save this document on your hard drive.
