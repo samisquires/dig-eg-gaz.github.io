@@ -1,6 +1,6 @@
 ---
 layout: page
-subhead: "Hannah Sain"
+subheadline: "Hannah Sain"
 title: "OCR OCSucks"
 teaser: "ABBYY made word processing take more than a minute."
 date: 2016-11-09
