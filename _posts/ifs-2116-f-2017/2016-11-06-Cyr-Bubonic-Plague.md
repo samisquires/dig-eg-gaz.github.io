@@ -23,7 +23,7 @@ Interest in this snippet of information, housed within the Gazette (see figure b
 
 The most significant outbreak, and most noticeable, occurred in Europe in the mid-fourteenth century over a five year period (1347 to 1352). During this time period, sources indicate that at least 25 million people died, about one-third of the continent’s population (these numbers are disputed). The often disputed claims as to the cause of such a disease was further investigated in 2010 and 2011, when researchers analyzed DNA from some of its European victims. The consensus to date is that the pathogen responsible was the Yersinia pestis bacterium, which most likely caused several different forms of the plague.
 
-![image name](https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/blog-images/Black-Plague.png?raw=true)
+![image name](https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/blog-images/BlackPlague.gif?raw=true)
 
 Seeing an outbreak within the borders of Egypt, with so few deaths was incredible, which warrants further understanding of this disease, how it was spread and who it affected. The Gazette’s article (above) mentions that approximately 13 cases were under treatment during the middle of August and beginning of September, 1905. With the plague’s notorious reputation, the Gazette’s allocated space to this pandemic is sapient, especially due to the many cattle deaths in the area within that same time period (the figure to the right indicates the area affected by the Bubonic Plague).
 
