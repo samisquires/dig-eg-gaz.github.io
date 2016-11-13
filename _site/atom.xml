@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>/</id>
 	<title>Digital Egyptian Gazette</title>
-	<updated>2016-10-29T16:09:21-04:00</updated>
+	<updated>2016-11-13T12:01:00-05:00</updated>
 
 	<subtitle>A daily newspaper from turn-of-the-century Egypt, in marked up full text.</subtitle>
 
@@ -30,172 +30,477 @@
 
 	
 		<entry>
-			<id>/curiosities/Egyptology/</id>
-			<title>Egyptology &amp; Archeology</title>
-			<link href="/curiosities/Egyptology/" rel="alternate" type="text/html" title="Egyptology &amp; Archeology" />
-			<updated>2016-10-29T00:00:00-04:00</updated>
+			<id>/technical/black-difficulties-with-OCR/</id>
+			<title>“Difficulties with OCR”</title>
+			<link href="/technical/black-difficulties-with-OCR/" rel="alternate" type="text/html" title="“Difficulties with OCR”" />
+			<updated>2016-11-09T00:00:00-05:00</updated>
 
 			
 				
 				<author>
 					
-						<name>GwenLofman</name>
+						<name>MelizzaBlack</name>
 					
 					
 					
 				</author>
 			
-			<summary>A curiosity</summary>
-			<content type="html" xml:base="/curiosities/Egyptology/">&lt;p&gt;&lt;a href=&quot;https://www.britannica.com/science/Egyptology&quot;&gt;Egyptology&lt;/a&gt; has caputured pop-culture imagination owing to movies like &lt;em&gt;The Mummy&lt;/em&gt;, and exhibits like King Tut.  Films often emphasize the mysticism, magic, or exoticism of Egyptian artefacts and Tombs.  The Egyptian Gazette, however, provides a closer perspective, both in time and location.&lt;/p&gt;
+			<summary>“A short, very angry, very annoyed rant“</summary>
+			<content type="html" xml:base="/technical/black-difficulties-with-OCR/">&lt;p&gt;One of the main goals in this class is to covert an old newspaper into a website that allows it to be easily accessed by anyone. In order to do this we must complete one very vital, and apparently very difficult step: covert pictures of microfilm into reader editable, text. This is called OCR (optical character recognition) and thankfully there are lots of programs available to us to make this process extremely simple, or so it’s thought. One of these programs is ABBYY’s FineReader, which was the one first suggested to us. This program apparently does wonders if you are using a Windows computer, but for us Mac users it only creates disappointment. Instead of converting our images into readable text, it converts them into an agglomeration of random characters that sometimes resemble words in the English language. I’ve provided a short example of one of these “conversions” done on the first few lines of one of my microfilm images. I’ve tried rescanning my images, making adjustments in FineReader, and tried a different OCR program to try and achieve better results and nothing has worked in my favor.  So, instead of making small corrections to the text as it should be, I am forced to basically retype the entire page. This process is &lt;strong&gt;extremely time-consuming&lt;/strong&gt; and I am positive that if I had an OCR program that loved my Mac computer as much as others seem to love Windows ones, I would have completed much more of my work by now.&lt;/p&gt;
+</content>
 
-&lt;p&gt;While the excavation and discovery of these tombs has historical significance on a global scale, the local perspective brings the actual characters that advanced the discovery of these relics to light.  The &lt;a href=&quot;https://github.com/Lionex/dig-eg-gaz/blob/7dbde112756552ed412ee7145eb84208ffe34fd4/ocr/1905-10-06-p3.txt#L88&quot;&gt;newspaper&lt;/a&gt; serves as a medium for criticism and discourse, which time and distance have buried.  The newspaper even brags about the abundance of archeological remains in region.&lt;/p&gt;
+			
+				<category term="technical" />
+			
+			
+				<category term="OCR" />
+			
+				<category term="Mac" />
+			
+				<category term="difficult" />
+			
 
-&lt;p&gt;This liveliness caught me off guard, and reminds me that the study of history always lives and breaths, not confined to memory or buried between the covers of a textbook.&lt;/p&gt;
+			<published>2016-11-09T00:00:00-05:00</published>
+		</entry>
+	
+		<entry>
+			<id>/technical/Sain-technical-reflection/</id>
+			<title>OCR OCSucks</title>
+			<link href="/technical/Sain-technical-reflection/" rel="alternate" type="text/html" title="OCR OCSucks" />
+			<updated>2016-11-09T00:00:00-05:00</updated>
 
-&lt;p&gt;No, for the people of Alexandria, the archeological wealth around them caputures the public eye and excitement enough for the Egyptian Gazette to publish a story about archeology in two seperate issues, in addition to a review.&lt;/p&gt;
+			
+				
+				<author>
+					
+						<name>HannahSain -OCR -ABBYY -TextScanning</name>
+					
+					
+					
+				</author>
+			
+			<summary>ABBYY made word processing take more than a minute.</summary>
+			<content type="html" xml:base="/technical/Sain-technical-reflection/">&lt;p&gt;Although the whole process of learning new word processing and encoding programs was challenging, the most frustrating aspect was the &lt;a href=&quot;https://www.abbyy.com/en-us/finereader/about-ocr/what-is-ocr/&quot;&gt;OCR&lt;/a&gt;. It is supposed to be a faster way to translate the newspaper pages into plain text, it turned out to take up about as much time as it would have to hand type it all. I felt as if no matter how many times I scanned the &lt;a href=&quot;https://www.nedcc.org/free-resources/preservation-leaflets/6.-reformatting/6.1-microfilm-and-microfiche&quot;&gt;microfilm&lt;/a&gt; images and changed the focus, brightness, contrast, or zoomed in on the page, it would not run through &lt;a href=&quot;https://www.abbyy.com/en-us/&quot;&gt;ABBYY&lt;/a&gt; in the way I was expecting it to. I was hoping to have to make minimal corrections after the scanned images were OCRed, but with all the pages I have done up to this point, I have had to make a minimum of two hours’ worth of corrections per page. The word processing software may read a majority of the words (I would estimate around 85%), I still spent a majority of my time in this class fixing the mistakes the OCR made. I also found the other programs in this class easier to use than ABBYY. Sometimes while editing a word, the image it received it from would disappear, I also found the ordering of the paragraphs challenging at times. Overall, the program may have saved me some time, but another OCR processor may be more efficient, from my experience.&lt;/p&gt;
+</content>
 
-&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/en/7/7d/Colossus_of_Ramesses_II_restored.jpg&quot; alt=&quot;Ramses II&quot; /&gt;&lt;/p&gt;
+			
+				<category term="technical" />
+			
+			
 
-&lt;p&gt;The newspaper discusses a work by Dr. Petrie, &lt;em&gt;&lt;a href=&quot;https://archive.org/details/cu31924085360844&quot;&gt;A History of Egypt during the XVIIth and XVIIIth Dynasties&lt;/a&gt;&lt;/em&gt;. From the newspaper, 6th Oct 2016:&lt;/p&gt;
+			<published>2016-11-09T00:00:00-05:00</published>
+		</entry>
+	
+		<entry>
+			<id>/technical/Taylor-blog-post-2/</id>
+			<title>Running out of Time</title>
+			<link href="/technical/Taylor-blog-post-2/" rel="alternate" type="text/html" title="Running out of Time" />
+			<updated>2016-11-08T00:00:00-05:00</updated>
 
-&lt;blockquote&gt;
-  &lt;p&gt;The complaint that has been brought against it by foreign critics, to the effect that it is not so much a history as a catalogue of monuments, is here more justified than ever, a period of more than a thousand years - neither the least eventful nor the worst documented in Egypts history-being jammed into a small volume of 400 pages. The delay in its appearance is, we are told in the text, almost entirely due to the groat quantity of monuments remaining to us from the reign of Rameses II., which apparently made it necessary for Prof. Petrie to go carefully through the list and to throw out such as he considered either appropriations of the works of earlier kings, or for some other reason unworthy of note.&lt;/p&gt;
-&lt;/blockquote&gt;
+			
+				
+				<author>
+					
+						<name>EmmaTaylor</name>
+					
+					
+					
+				</author>
+			
+			<summary>This course has been a challenge. At times it feels as though the very technology which should be helping is doing just the opposite.</summary>
+			<content type="html" xml:base="/technical/Taylor-blog-post-2/">&lt;p&gt;Converting images to text has been a difficult process from start to finish. From the very start, FineReader did not seem to be responding well to my scans. It produced a multitude of errors (nearly every other word at points) that did not seem to be the result of poor scans. Then, one day I went to do some more work with it, and the program wouldn’t start up even though my trial period was not over yet. It displayed a message which said that ABBYY FineReader 12 would be terminated because it was corrupted. I discovered that one other student had the exact same problem, so at least I knew that it was not just my little computer giving up on life from working so hard.&lt;/p&gt;
 
-&lt;p&gt;The work was delayed specifically because there was &lt;em&gt;so&lt;/em&gt; much history, and so many monuments to examine and study!&lt;/p&gt;
+&lt;p&gt;Thankfully I only had a couple more page threes to do at that point. So, I used my roommate’s Mac and did those. Now that I’ve moved on to other pages, I’m just typing up whatever articles appear since this doesn’t seem to take too much longer than it did to go back and correct all the text. All in all, this class has been far more difficult than I envisioned it being (especially for someone who is not great with computers), but I am not ready to give up on it.&lt;/p&gt;
+</content>
+
+			
+				<category term="technical" />
+			
+			
+				<category term="ABBYY FineReader" />
+			
+				<category term="scanning" />
+			
+				<category term="trial periods" />
+			
+				<category term="corruption" />
+			
+
+			<published>2016-11-08T00:00:00-05:00</published>
+		</entry>
+	
+		<entry>
+			<id>/technical/hofmeister-time-issues/</id>
+			<title>Time Issues</title>
+			<link href="/technical/hofmeister-time-issues/" rel="alternate" type="text/html" title="Time Issues" />
+			<updated>2016-11-07T00:00:00-05:00</updated>
+
+			
+				
+				<author>
+					
+						<name>KaraHofmeister</name>
+					
+					
+					
+				</author>
+			
+			<summary>Will I ever finish?</summary>
+			<content type="html" xml:base="/technical/hofmeister-time-issues/">&lt;p&gt;To be honest, this class is not what I expected it to be. I did not expect
+to be learning how to code things or doing xml or anything that involved
+technical skills. While learning the skills is not difficult, it is
+difficult to find the time it takes to complete the assignments.
+I try to set aside time to complete pages and to edit the text,
+however I can never find enough time. For me, this is a huge issue
+because I am super obsessive about my grades and I am actually
+concerned about not receiving a good grade in this class. I do not face
+any technical issues, just time issues. Thus far I have completed the first
+three pages of everyday , the only issue in the pages that I find is not
+being able to read the data for financial tables. The data is always written
+very small and it tends to be smudged and &lt;strong&gt;I hate it and it gives me a headache.&lt;/strong&gt;&lt;/p&gt;
+</content>
+
+			
+				<category term="technical" />
+			
+			
+				<category term="time" />
+			
+				<category term="XML" />
+			
+				<category term="encoding" />
+			
+
+			<published>2016-11-07T00:00:00-05:00</published>
+		</entry>
+	
+		<entry>
+			<id>/technical/-/curiosities/cyr-WhenAPatchWontDo/</id>
+			<title>When a Patch Won&#39;t Do!</title>
+			<link href="/technical/-/curiosities/cyr-WhenAPatchWontDo/" rel="alternate" type="text/html" title="When a Patch Won&#39;t Do!" />
+			<updated>2016-11-06T00:00:00-04:00</updated>
+
+			
+				
+				<author>
+					
+						<name>ErekCyr</name>
+					
+					
+					
+				</author>
+			
+			<summary>The Importance of Historical Preservation.</summary>
+			<content type="html" xml:base="/technical/-/curiosities/cyr-WhenAPatchWontDo/">&lt;p&gt;Attempting to digitize a year of the Egyptian Gazette newspaper proves difficult as students find their individual difficulties in attempting the task.&lt;/p&gt;
+
+&lt;p&gt;The year to be digitized is 1905, and each student has been given a week to digitize and examine the newspaper’s contents as the task is completed. Getting the pages from the microfilm to a more reader friendly medium is a task for a patient soul!&lt;/p&gt;
+
+&lt;p&gt;One problem encountered is a large hole that the &lt;em&gt;original&lt;/em&gt; print newspaper had just before it was scanned. Information lost at this stage is detrimental as there are only two copies of microfilm in the country (both copies are most likely identical copies) and a trip to London to see the original remaining Egyptian Gazette copies was, unfortunately, declined by our instructor!&lt;/p&gt;
+
+&lt;p&gt;An important lesson has been learned in preserving past information when possible. Microhistorical details can be lost, when in some rare instances, one bit of information is all it takes to piece together a puzzle that has plagued historians since the time the articles have been written.&lt;/p&gt;
+
+&lt;p&gt;The result is simply accepting our realities and a great lesson towards preservation.&lt;/p&gt;
+
+&lt;h2 id=&quot;for-further-study&quot;&gt;For further study:&lt;/h2&gt;
+&lt;p&gt;Best Way to Preserve Your Newspaper:
+&lt;a href=&quot;http://www.mnhs.org/preserve/conservation/reports/nytimes_preserving.pdf&quot;&gt;http://www.mnhs.org/preserve/conservation/reports/nytimes_preserving.pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Getting Started with Microfilm:
+&lt;a href=&quot;http://www.archives.state.al.us/officials/microfilmbasics02.html&quot;&gt;http://www.archives.state.al.us/officials/microfilmbasics02.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;A Word About Microhistory:
+&lt;a href=&quot;http://historynewsnetwork.org/article/23720&quot;&gt;http://historynewsnetwork.org/article/23720&lt;/a&gt;&lt;/p&gt;
+</content>
+
+			
+				<category term="Technical" />
+			
+				<category term="-" />
+			
+				<category term="curiosities" />
+			
+			
+
+			<published>2016-11-06T00:00:00-04:00</published>
+		</entry>
+	
+		<entry>
+			<id>/curiosities/black-avoid-female-society/</id>
+			<title>“Avoid Female Society”</title>
+			<link href="/curiosities/black-avoid-female-society/" rel="alternate" type="text/html" title="“Avoid Female Society”" />
+			<updated>2016-11-06T00:00:00-04:00</updated>
+
+			
+				
+				<author>
+					
+						<name>MelizzaBlack</name>
+					
+					
+					
+				</author>
+			
+			<summary>“Also onions and garlic”</summary>
+			<content type="html" xml:base="/curiosities/black-avoid-female-society/">&lt;p&gt;The &lt;em&gt;Egyptian Gazette&lt;/em&gt; includes a section called &lt;strong&gt;“CALENDAR OF THE WEEK”&lt;/strong&gt; in every issue which lists the important events happening in Alexandria and its surrounding areas. This serves as a tool to keep its citizens up-to-date with what is happening in the town and advises them to go and participate in these events. Throughout the week of August 7 to August 12, 1905, the section lists plays, concerts, and other kinds of events for general entertainment. However, the issue for August 7, 1905 includes a peculiar calendar of events. For the areas of Coptic and Mohamedan, the calendar lists actions the people should take rather than events they should attend. What is even more interesting is the actions themselves. For Sunday, August 6th, it reads, “Avoid female society” and on Tuesday, August 8, it reads “Avoid eating onions and garlic”. The week gets even more interesting by following with “Drink cold water before breakfast” and “Great abundance of watermelons”. The calendar section leaves no explanation as to why these events have been posted. I am curious to know whether it was some kind of joke or if these events were meant to be taken seriously for some kind of reason.&lt;/p&gt;
 </content>
 
 			
 				<category term="curiosities" />
 			
 			
-				<category term="egyptology" />
+				<category term="culture" />
 			
-				<category term="archeology" />
+				<category term="calendar of the week" />
 			
-				<category term="ramses" />
+				<category term="coptic" />
 			
-				<category term="excavation" />
+				<category term="mohamedan" />
 			
 
-			<published>2016-10-29T00:00:00-04:00</published>
+			<published>2016-11-06T00:00:00-04:00</published>
 		</entry>
 	
 		<entry>
-			<id>/technical/Thompson-Finereader-Rage/</id>
-			<title>Finereader Rage</title>
-			<link href="/technical/Thompson-Finereader-Rage/" rel="alternate" type="text/html" title="Finereader Rage" />
-			<updated>2016-10-28T00:00:00-04:00</updated>
+			<id>/curiosities/Soap/</id>
+			<title>Clean Killer</title>
+			<link href="/curiosities/Soap/" rel="alternate" type="text/html" title="Clean Killer" />
+			<updated>2016-11-06T00:00:00-04:00</updated>
 
 			
 				
 				<author>
 					
-						<name>HankThompson</name>
+						<name>HannahSain</name>
 					
 					
 					
 				</author>
 			
-			<summary>* In my best Darth Vader impression* NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO!!!!!!!!!!!!!!!!!!</summary>
-			<content type="html" xml:base="/technical/Thompson-Finereader-Rage/">&lt;p&gt;So my biggest technical difficulty while working on this project has to have been the multiple errors that I encountered while using he OCR. Overall it worked ok, but when it failed, it failed big time. For instance, while correcting some of the errors in one page I was on the very last paragraph and went to save it, and Finereader crashed. Two hours of work, two hours of my life, gone, down the drain, and there was nothing I could do about it. I was understandably irate, but after I took some time for cathartic expression and collected myself, I felt much better. I also found out that I was not alone in my anger, some of my fellow students had been experiencing troubles as well.&lt;/p&gt;
+			<summary>Soap producers have been using an extra ingredient in their product that cleans off more than just dirt. Manufacturers have been adding a chemical in their soaps that can remove skin tissue.</summary>
+			<content type="html" xml:base="/curiosities/Soap/">&lt;p&gt;During a time when merchandise regulation is not nearly as controlled as it is now, it can be expected that there will be defaults in the products produced. &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2220712/?page=1 Define Salicylate of Soda&amp;quot;&quot;&gt;Salicylate of soda&lt;/a&gt; was thought to have restorative effects during the mid to late 19th century. It was often recommended to people with joint disease, such as rheumatism, to alleviate pain.  At first the &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1322509/?page=7&quot;&gt;negative side effects&lt;/a&gt; associated with salicylate of soda reported were minor, like a relapse in pain after the salicylate of soda was no longer being used. Many users had to be gradually weaned from the chemical.&lt;/p&gt;
 
-&lt;p&gt;However, from what I have seen online, things could have actually been much worse. Apparently it could actually cause other Microsoft programs to crash, at least according to &lt;a href=&quot;https://support.microsoft.com/en-us/kb/2755838&quot;&gt;this support article on Microsoft’s website&lt;/a&gt;. I could also have run into errors that wouldn’t have allowed me to do any work within Finereader, such as the &lt;a href=&quot;http://knowledgebase.ocrsdk.com/article/1096&quot;&gt;license not reading&lt;/a&gt;, so that fact that it worked for me relatively well is a good thing in general.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/blog-images/soap-ad.png?raw=true&quot; alt=&quot;Sunlight Soap&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Overall, Finereader was a useful program that, while annoying at times, did enable me to do my work properly and relatively quickly.&lt;/p&gt;
+&lt;p&gt;A few years after its use in soap, physicians began noting that people who were repeated salicylate of soda users had painful skin and there was even a case of failing vision after taking a bath in the soap with the chemicals. In the early 1900s, manufacturers of soap products containing the chemical were ordered to stop production and were prosecuted by the &lt;a href=&quot;https://books.google.com/books?id=5a-Uc3NJuPUC&amp;amp;pg=PA206&amp;amp;lpg=PA206&amp;amp;dq=1905+egyptian+sanitary+administration&amp;amp;source=bl&amp;amp;ots=pGXkko-vu3&amp;amp;sig=P6WCUO4P1BmN_u7Zm8Ny2nSY3Dc&amp;amp;hl=en&amp;amp;sa=X&amp;amp;ved=0ahUKEwi60p_rs4zQAhWSZiYKHXwdDTMQ6AEIHTAA#v=onepage&amp;amp;q=1905%20egyptian%20sanitary%20administration&amp;amp;f=false&quot;&gt;sanitary administration&lt;/a&gt;. Large soap companies during this time, like Pears’ Soap, were not being advertised because of the ordeal. Instead, the same issue of the newspaper that published the harmful soap announcement had an ad for Sunlight Soap, which advertises its lack of “obnoxious or harmful feature.” This small news brief gives insight about this time period, showing its lack of medical knowledge and its clever marketing methods.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/blog-images/pear-soap.png?raw=true&quot; alt=&quot;Pear Soap&quot; /&gt;&lt;/p&gt;
 </content>
 
 			
-				<category term="Technical" />
+				<category term="curiosities" />
 			
 			
-				<category term="ABBYY" />
+				<category term="soap" />
 			
-				<category term="abbyy finereader" />
+				<category term="medicine" />
 			
-				<category term="OCR crash" />
+				<category term="sanitation" />
 			
 
-			<published>2016-10-28T00:00:00-04:00</published>
+			<published>2016-11-06T00:00:00-04:00</published>
 		</entry>
 	
 		<entry>
-			<id>/technical/Column-Formatting/</id>
-			<title>Column Formatting</title>
-			<link href="/technical/Column-Formatting/" rel="alternate" type="text/html" title="Column Formatting" />
-			<updated>2016-10-27T00:00:00-04:00</updated>
+			<id>/technical/Haskell-and-XML/</id>
+			<title>Haskell and XML</title>
+			<link href="/technical/Haskell-and-XML/" rel="alternate" type="text/html" title="Haskell and XML" />
+			<updated>2016-11-06T00:00:00-04:00</updated>
 
 			
 				
 				<author>
 					
-						<name>SamanthaLappin</name>
+						<name>Gwen Lofman</name>
 					
 					
 					
 				</author>
 			
-			<summary>An insinuation of importance by size devotion.</summary>
-			<content type="html" xml:base="/technical/Column-Formatting/">&lt;p&gt;In &lt;img src=&quot;https://github.com/dig-eg-gaz/content&quot; alt=&quot;The Egyptian Gazette&quot; /&gt; (and other newspapers and documents with visual formatting), the relationship between content and formatting is an important issue, especially when analyzing the text and the motives of the authors. In general, the more space devoted to an item, the greater its importance, especially if there’s a font change involved. In The Egyptian Gazette, a pattern is well established in formatting the columns in relation to content within those columns. Generally, articles are divided into 6 columns and ads are divided into 3 columns and given a larger font than articles. This either means that the ads are more important to the editors of the paper, deserving of more space; or that the articles simply need to be smaller so that more of them can be included in the paper. However, under the assumption that the second is true, then room for the articles could be made from the comparably luxurious space provided to ads by simply making the ads a bit smaller or more compact. Therefore, the former assumption makes more sense: that the editors give more importance to ads in the paper than content. There are a variety of things that could be the reason for this: money or readers’ preference being of the most obvious. Since ads are the biggest source of income for newspapers, it makes sense to give them priority to ensure companies will want their ads posted in the paper as sort of an investment in the future income of the paper. Concurrently, in a business town such as Alexandria, businesses are of utmost import, with individuals wanting to see of their competitors and resources available.&lt;/p&gt;
+			<summary>A Technical Reflection</summary>
+			<content type="html" xml:base="/technical/Haskell-and-XML/">&lt;p&gt;I got pretty bored performing the same search-and-replace actions for a variety of different place names.  As any programmer knows, performing the same actions over and over again signals a perfect opportunity to use code to script out those actions.&lt;/p&gt;
+
+&lt;p&gt;I spent time this weekend investigating the possibility of using Haskell to write a script to automatically TEI index certain words with tags and reference data.&lt;/p&gt;
+
+&lt;p&gt;The program (which would be a command-line utility at first) needs to perform a few basic functions:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Add tags to text inside any xml nodes&lt;/li&gt;
+  &lt;li&gt;Update attributes of tags with specified contents&lt;/li&gt;
+  &lt;li&gt;Take in input file that describes a set of commands&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;This would potentially allow me to update every xml file in the entire repository simultaneously, inserting the proper tags for a list of names, dates, and locations.  Something like:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;yaml
+placename:
+  - (Tokyo, ref, some-link-to-wikidata)
+  - (London, ref, some-link-to-wikidata)
+  - (St. Petersburg, ref, some-link-to-wikidata)
+  - (Port Said, ref, some-link-to-wikidata)
+persname:
+  - (Lord Cromer, ref, some-link-to-person-data)
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;This would allow me to just keep an up-to-date set of location names, attribute names, and links that I could then very easily update or apply to any issue in the entire year, and perhaps even set it to run every time I changed a file, so I would never have to worry about manually changing this information.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-quick-note-on-xml&quot;&gt;A quick note on XML&lt;/h2&gt;
+&lt;p&gt;XML can be visualized as a “rose tree” made of nodes.  This basically means that every part of the XML document is some sort of node, which has other nodes inside of it.  The nodes can be any type of tag, or any plain text, and any number of both in any order.&lt;/p&gt;
+
+&lt;p&gt;Here’s what some XML in your issue might look like as a Tree&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;
+div -*- dateline -*- date - Text
+     |            *- Text
+     |            *- placename - Text
+     |
+     *- p         - Text
+     *- byline    - Text
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;And here it is as XML&lt;/p&gt;
+
+&lt;p&gt;```XML&lt;/p&gt;
+&lt;div&gt;
+    &lt;dateline&gt;&lt;date&gt;2nd October 1905&lt;/date&gt;, &lt;placename&gt;Port Said&lt;/placename&gt;&lt;/dateline&gt;
+    &lt;p&gt;Here is some text, detailing an amazing story about something.&lt;/p&gt;
+    &lt;byline&gt;(Reuter.)&lt;/byline&gt;
+&lt;/div&gt;
+&lt;p&gt;```&lt;/p&gt;
+
+&lt;h2 id=&quot;functional-programming&quot;&gt;Functional Programming&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.haskell.org/static/img/haskell-logo.svg?etag=ukf3Fg7-&quot; alt=&quot;Haskell Logo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I program in Haskell mostly.  Haskell is a pure functional language, which just means it’s not the same as the traditional programming languages you see day-to-day, and it’s not something FSU teaches currently.&lt;/p&gt;
+
+&lt;p&gt;It looks something like this:&lt;/p&gt;
+
+&lt;p&gt;```Haskell&lt;/p&gt;
+
+&lt;p&gt;and :: Bool -&amp;gt; Bool -&amp;gt; Bool
+and c t = if c then t else False&lt;/p&gt;
+
+&lt;p&gt;filter :: (a -&amp;gt; Bool) -&amp;gt; [a] -&amp;gt; [a]
+filter p xs = [x | x &amp;lt;- xs, p x]&lt;/p&gt;
+
+&lt;p&gt;map :: (a -&amp;gt; b) -&amp;gt; [a] -&amp;gt; [b]
+map _ []   = []
+map f x:xs = f x : map xs&lt;/p&gt;
+
+&lt;p&gt;```&lt;/p&gt;
+
+&lt;p&gt;It’s pretty rad, it looks quite unlike most languages I’ve seen in my day.  Haskell has some really interesting properties, though.  It’s really easy to parse documents as a result, but it’s difficult to transform them easily.  Many libraries exist to extract data easily and reliably from xml documents, but few to transform or modify them in a programatic way.&lt;/p&gt;
+
+&lt;p&gt;I did find one eventually: the &lt;a href=&quot;https://wiki.haskell.org/HXT&quot;&gt;Haskell XML Toolbox&lt;/a&gt;.  It lets you do some pretty interesting things.  It uses something called arrows (a &lt;em&gt;very&lt;/em&gt; trippy functional programming concept), to allow the programmer to compose filters together to navigate the XML tree.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://wiki.haskell.org/HXT#The_concept_of_filters&quot;&gt;documentation&lt;/a&gt; has this example:&lt;/p&gt;
+
+&lt;p&gt;```Haskell&lt;/p&gt;
+
+&lt;p&gt;isA  :: (a -&amp;gt; Bool) -&amp;gt; (a -&amp;gt; [a])
+isA p x | p x       = [x]
+        | otherwise = []&lt;/p&gt;
+
+&lt;p&gt;```&lt;/p&gt;
+
+&lt;p&gt;It takes a function (called a predicate) that returns a True/False value, and creates a new function that can process, or filter, values.  Essentially, these arrows let us process parts of a tree into no results, one result, or many results.  By using different types of filters, and by putting these filters together, with some relatively simple structure we can create some &lt;em&gt;extremely&lt;/em&gt; complex instructions to parse and transform the document.&lt;/p&gt;
+
+&lt;p&gt;Again, an example from the documentation:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Haskell
+getGrandChildren :: XmlFilter
+getGrandChildren = getChildren &amp;gt;&amp;gt;&amp;gt; getChildren
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;The &lt;code class=&quot;highlighter-rouge&quot;&gt;(&amp;gt;&amp;gt;&amp;gt;)&lt;/code&gt; operator makes it extremely trivial to chain filters together to make new filters.  The ability to compose functions like this is the hallmark of functional programming, and works extremely well in this case.&lt;/p&gt;
+
+&lt;p&gt;By defining a few more combination operators, the HXT library quickly builds up sufficient capability to tackle some really complicated parsing, as in:&lt;/p&gt;
+
+&lt;p&gt;```Haskell&lt;/p&gt;
+
+&lt;p&gt;getTextChildren2 :: XmlFilter
+getTextChildren2 = getChildren »&amp;gt; ( isXText &amp;lt;+&amp;gt; ( getChildren »&amp;gt; isXText ) )&lt;/p&gt;
+
+&lt;p&gt;```&lt;/p&gt;
+
+&lt;p&gt;which only gets the text children for of the current tag, and the text of any tags inside the current one.&lt;/p&gt;
+
+&lt;p&gt;Using this extremely flexible library, I hope to find a practical way to automate much of the task of TEI indexing the Egyptian Gazette!&lt;/p&gt;
 </content>
 
 			
 				<category term="technical" />
 			
 			
-				<category term="technical" />
-			
-				<category term="formatting" />
-			
-				<category term="column" />
-			
-				<category term="importance" />
-			
-
-			<published>2016-10-27T00:00:00-04:00</published>
-		</entry>
-	
-		<entry>
-			<id>/technical/Stefonek-Technical-Reflection/</id>
-			<title>Technical Reflection</title>
-			<link href="/technical/Stefonek-Technical-Reflection/" rel="alternate" type="text/html" title="Technical Reflection" />
-			<updated>2016-10-25T00:00:00-04:00</updated>
-
-			
-				
-				<author>
-					
-						<name>JacobStefonek</name>
-					
-					
-					
-				</author>
-			
-			<summary>Some technical reflecting about XML-ing</summary>
-			<content type="html" xml:base="/technical/Stefonek-Technical-Reflection/">&lt;p&gt;I suppose I’ll start off with how much I’ve learned so far through this course; taking digital images of film, running text recognition software, writing in Markdown and encoding in XML. Though it has all been incredibly interesting and fulfilling, the mention of those words along with &lt;a href=&quot;https://dig-eg-gaz.github.io/&quot;&gt;“Digital Egyptian Gazette”&lt;/a&gt;, will likely send chills down my spine for quite a while.&lt;/p&gt;
-
-&lt;p&gt;To start, my largest technical obstacle was the poor job done by Fine Reader. While it truly saved me a lot of time by translating the text, it also made an overwhelming amount of errors that are incredibly time-consuming and painstaking to correct. If I were to make an estimate, correcting and encoding one page of the newspaper takes about three and a half hours. Aside from that I have had trouble with putting together the tables and advertisements in my week. Several of them do not yet exist as text files that I can pull from and for the ones that I do have access to, it takes about three copy and pastes before I trigger an “abuse mechanism” on GitHub. This locks me out for a couple of minutes before I can get back to work. But regardless, we push onward!&lt;/p&gt;
-</content>
-
-			
-				<category term="technical" />
-			
-			
-				<category term="reflection" />
+				<category term="Haskell" />
 			
 				<category term="XML" />
 			
-				<category term="FineReader" />
-			
 
-			<published>2016-10-25T00:00:00-04:00</published>
+			<published>2016-11-06T00:00:00-04:00</published>
 		</entry>
 	
 		<entry>
-			<id>/curiosities/somerset/</id>
-			<title>Somerset</title>
-			<link href="/curiosities/somerset/" rel="alternate" type="text/html" title="Somerset" />
-			<updated>2016-10-24T00:00:00-04:00</updated>
+			<id>/curiosities/-/Cyr-Bubonic-Plague/</id>
+			<title>Bubonic Plague In Egypt</title>
+			<link href="/curiosities/-/Cyr-Bubonic-Plague/" rel="alternate" type="text/html" title="Bubonic Plague In Egypt" />
+			<updated>2016-11-06T00:00:00-04:00</updated>
+
+			
+				
+				<author>
+					
+						<name>ErekCyr</name>
+					
+					
+					
+				</author>
+			
+			<summary>Bubonic Plague Claims Lives in 1905, Not Just a Medieval Problem.</summary>
+			<content type="html" xml:base="/curiosities/-/Cyr-Bubonic-Plague/">&lt;p&gt;According to the Egyptian Gazette, August 28, 1905, the Bubonic plague has reported at least thirteen cases of individuals that had contracted this disease.&lt;/p&gt;
+
+&lt;p&gt;Interest in this snippet of information, housed within the Gazette (see figure below), stems from the fact that the Bubonic Plague (a.k.a. The Black Death), was not confined to Medieval Europe (as many readers would suspect). In fact, the Bubonic plague has existed for thousands of years, the first known case being recorded in China dating back to 224 B.C.E..&lt;/p&gt;
+
+&lt;p&gt;The most significant outbreak, and most noticeable, occurred in Europe in the mid-fourteenth century over a five year period (1347 to 1352). During this time period, sources indicate that at least 25 million people died, about one-third of the continent’s population (these numbers are disputed). The often disputed claims as to the cause of such a disease was further investigated in 2010 and 2011, when researchers analyzed DNA from some of its European victims. The consensus to date is that the pathogen responsible was the Yersinia pestis bacterium, which most likely caused several different forms of the plague.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/blog-images/Black-Plague.png&quot; alt=&quot;image name&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Seeing an outbreak within the borders of Egypt, with so few deaths was incredible, which warrants further understanding of this disease, how it was spread and who it affected. The Gazette’s article (above) mentions that approximately 13 cases were under treatment during the middle of August and beginning of September, 1905. With the plague’s notorious reputation, the Gazette’s allocated space to this pandemic is sapient, especially due to the many cattle deaths in the area within that same time period (the figure to the right indicates the area affected by the Bubonic Plague).&lt;/p&gt;
+
+&lt;p&gt;With modern populations shifted to cities in modern day, an unidentifiable plague in one of these areas would prove to be even more catastrophic than ever before.&lt;/p&gt;
+
+&lt;h2 id=&quot;for-further-study&quot;&gt;For further study:&lt;/h2&gt;
+&lt;p&gt;Yersinia Pestis.
+&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2951374/&quot;&gt;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2951374/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;A Draft genome of Yersinia pestis from victims of the Black Death.
+&lt;a href=&quot;https://www.nature.com/nature/journal/v478/n7370/full/nature10549.html&quot;&gt;https://www.nature.com/nature/journal/v478/n7370/full/nature10549.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Plague in 18th Century Egypt.
+&lt;a href=&quot;https://contagions.wordpress.com/2010/05/26/plague-in-18th-century-egypt/&quot;&gt;https://contagions.wordpress.com/2010/05/26/plague-in-18th-century-egypt/&lt;/a&gt;&lt;/p&gt;
+</content>
+
+			
+				<category term="Curiosities" />
+			
+				<category term="-" />
+			
+				<category term="curiosities" />
+			
+			
+				<category term="bubonic Plague" />
+			
+				<category term="disease" />
+			
+
+			<published>2016-11-06T00:00:00-04:00</published>
+		</entry>
+	
+		<entry>
+			<id>/technical/XML-izing/</id>
+			<title>XML-izing</title>
+			<link href="/technical/XML-izing/" rel="alternate" type="text/html" title="XML-izing" />
+			<updated>2016-11-01T00:00:00-04:00</updated>
 
 			
 				
@@ -207,242 +512,27 @@
 					
 				</author>
 			
-			<summary>An interesting person</summary>
-			<content type="html" xml:base="/curiosities/somerset/">&lt;p&gt;My chosen blog post is on the excerpt from May 29’s page 4, titled ‘In Praise of England: American Women’s Preference for Our Country’. It regards a conversation between noted British feminist and philanthropist, Lady Henry Somerset, and an unnamed, anonymous American female expatriate in London.&lt;/p&gt;
+			<summary>A retrospective on creating a rough draft for my week&#39;s XML.</summary>
+			<content type="html" xml:base="/technical/XML-izing/">&lt;p&gt;I can’t say that around fifty hours of work in Oxygen was what I expected when I signed up for this class, but it’s certainly what I’ve been given. Work in Oxygen can be rewarding, tedious, and frustrating in one package, usually at the same time. While I have sympathies for my classmates who saw massive technical issues, I never
+had anything that problematic when I was XML-izing my files.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/blog-images/Lady-Somerset.png?raw=true&quot; alt=&quot;May 29, 1905&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;The most difficult part of this class was largely typing most of my week by hand. FineReader’s trial ran out on my desktop, and when I tried to download it on my Mac, I found that it didn’t work anywhere near as well as it did on my desktop. So I would up typing the entirety of my week under my own manpower, rather than relying on AABBY.&lt;/p&gt;
 
-&lt;p&gt;Apparently, most women that expatriate had spoken to preferred England over their home country (with the exception of one). The reasons the expatriate gave were the comparative independence and equality women receive in England as opposed to back home in America. Women may be praised more back across the pond, she said, but women in England are treated more as equals, ‘occupying a plane of frank comradeship’.&lt;/p&gt;
-
-&lt;p&gt;Speaking as someone reading this section a century and eleven years after its publication, this initially seemed to be just a sop to contemporary British nationalism. It looked like it was just a way for English businessman, sitting in comfortable chairs in opulent lobbies, being waited on by Egyptian servants, to have a good chortle over the inferiority of those other, lesser, nations.&lt;/p&gt;
-
-&lt;p&gt;But then I looked up Lady Henry Somerset, mostly just to see if she was anyone important. And she was. She has her own Wikipedia article and anything. Lady Henry was originally Lady Isabella Somers-Cooks, until she married Lord Henry Somerset in 1872. They had a relatively happy marriage, at least seemingly, but it turned out that Lord Henry was gay. And he was going behind Lady Henry’s back to sleep with other men. So she sued him for divorce and custody over her son, shoving Lord Henry out of the closet.&lt;/p&gt;
-
-&lt;p&gt;I’m of two minds about this, but I’m leaning towards Lord Henry in this the argument. Lord Henry was forced into a marriage with a person he was fundamentally not attracted to, and so he sought out the company of those he was. Lady Henry shouldn’t have had to suffer the pains of adultery, but Lord Henry shouldn’t have had his sexual orientation forced into public life, especially in a primitive nation like contemporary England.&lt;/p&gt;
-
-&lt;p&gt;After her marriage fell apart, Lady Henry became (in)famous for being one of the first women in British society to make the reasons behind a separation known publicly. She then became involved in numerous feminist organizations, and was once voted, by the London Evening News, the women readers would most prefer as their Prime Minister.&lt;/p&gt;
-
-&lt;p&gt;Now that I know of Lady Henry’s life and accomplishments, my opinion on this section has barely changed from ‘sop to British nationalism’ to ‘sop to British nationalism plus the biased opinion of a nationalistic ideologue’. The tale of Lady Henry is an interesting one, and this section of the Egyptian Gazette is just one facet of her long and storied life.&lt;/p&gt;
+&lt;p&gt;Beyond that, it was a fairly methodical, sensible process. There were instances of annoyance, like when I would accidentally delete a div and the entire thing would collapse, but I’m pretty sure that part’s past me now. I’m looking forward to going more in-depth into the Gazette.&lt;/p&gt;
 </content>
 
 			
-				<category term="curiosities" />
+				<category term="technical" />
 			
 			
-				<category term="homophobia" />
+				<category term="tedium" />
 			
-				<category term="feminism" />
+				<category term="dedication" />
 			
-				<category term="nationalism" />
-			
-
-			<published>2016-10-24T00:00:00-04:00</published>
-		</entry>
-	
-		<entry>
-			<id>/curiosities/building-collapse-hank-thompson/</id>
-			<title>Fatal House Collapse</title>
-			<link href="/curiosities/building-collapse-hank-thompson/" rel="alternate" type="text/html" title="Fatal House Collapse" />
-			<updated>2016-10-24T00:00:00-04:00</updated>
-
-			
-				
-				<author>
-					
-						<name>HankThompson</name>
-					
-					
-					
-				</author>
-			
-			<summary>A Curiosity.</summary>
-			<content type="html" xml:base="/curiosities/building-collapse-hank-thompson/">&lt;p&gt;The &lt;em&gt;Egyptian Gazette&lt;/em&gt; covers a bevy of topics from foreign trade to local deaths, however one odd thing I have noticed within it is the rather blasé coverage of the deaths of common people. Take for instance the incident they reported on in the November 1st issue in 1905, shown above.&lt;/p&gt;
-
-&lt;p&gt;The story of a house collapsing and killing seven people would have been a rather large headline in a local paper today, such as when &lt;a href=&quot;http://www.foxnews.com/us/2016/09/19/trial-set-to-open-in-fatal-philadelphia-building-collapse.html&quot;&gt;a thrift store collapsed in Philadelphia&lt;/a&gt;. But the &lt;em&gt;Egyptian Gazette&lt;/em&gt; barely gives any information on it, acting as if it just another everyday occurrence. The coverage is rather sparse by our modern standards, where just about everything that can be sensationalized is, but the most interesting part is when it is compared to other articles within the paper. The paper dedicates an entire section of the paper to simply announce that an aristocratic madam has left Paris, complete with headline, but puts this story in with a group of other local stories and express little interest.&lt;/p&gt;
-
-&lt;p&gt;This type of reporting just took me off guard at first, especially when is noticed it was not a one-off occurrence. There is a story of a young boy drowning in the Nile, reports of deaths from the Plague and murders all treated with the same aloof attitude. This could possibly be attributed to the simple fact that death was more common 111 years ago. It didn’t effect people in the same way as it does today. Take for instance the &lt;a href=&quot;http://www.smh.com.au/nsw/boy-drowns-in-backyard-pool-in-sydneys-south-west-20161009-grydvb.html&quot;&gt;death of a six-year old child in Sydney Australia&lt;/a&gt;. He has a large separate news story into his death and even has an impending investigation into it. It is possible that the house collapse also has an investigation going on as well, but the newspaper does not mention anything of the sort.&lt;/p&gt;
-
-&lt;p&gt;The stark contrast in reporting between the &lt;em&gt;Egyptian Gazette&lt;/em&gt; and our modern day newspapers just struck me as an interesting story to blog about, and so I did. Hopefully the reason I presented for this difference can be confirmed or denied later on, but only further research will tell.&lt;/p&gt;
-</content>
-
-			
-				<category term="curiosities" />
-			
-			
-				<category term="construction" />
-			
-				<category term="death" />
-			
-				<category term="investigation" />
+				<category term="stubbornness" />
 			
 
-			<published>2016-10-24T00:00:00-04:00</published>
-		</entry>
-	
-		<entry>
-			<id>/curiosities/British-Imperialism/</id>
-			<title>British Imperialism</title>
-			<link href="/curiosities/British-Imperialism/" rel="alternate" type="text/html" title="British Imperialism" />
-			<updated>2016-10-24T00:00:00-04:00</updated>
-
-			
-				
-				<author>
-					
-						<name>DanteGrieco</name>
-					
-					
-					
-				</author>
-			
-			<summary>Moving forward</summary>
-			<content type="html" xml:base="/curiosities/British-Imperialism/">&lt;p&gt;&lt;a href=&quot;http://www.historyworld.net/wrldhis/PlainTextHistories.asp?ParagraphID=hkl&quot;&gt;British imperialism&lt;/a&gt; is an extremely crucial topic in understanding the development of world history, particularly during the period spanning the 19th and early 20th centuries. This era is often characterized by historians as &lt;em&gt;Pax Britannica&lt;/em&gt;, Latin for “British Peace.” It is so called due to the fact that Britain’s worldwide domination in the areas of economics, shipping, and military might kept most of Europe and the world in a state of relative peace. However, as the twentieth century came into view, global forces such as liberal ideals and nationalism threatened Britain’s role as the premier world superpower. Questions of how to proceed with its imperial rule began to multiply both in Britain and in its many colonies and territories abroad.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/blog-images/cromer-sane-imperialism.png?raw=true&quot; alt=&quot;Cromer&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;On the third page of the May 3rd, 1905 edition of the Egyptian Gazette contains an editorial article &lt;a href=&quot;http://biography.yourdictionary.com/1st-earl-of-cromer&quot;&gt;“Lord Cromer’s Sane Imperialism”&lt;/a&gt; that discusses a moderate “third way” of imperialism that rejects harsh materialistic concepts and embraces more liberal ideas of self-determination and government, when appropriate of course. This article maintains that Lord Cromer’s Annual Report on Egypt and the Sudan contain the necessary elements of pursuing a moderate approach for continuing the might of the Empire moving forward. This editorial provides a fascinating look at the prevailing dialogue of the day in one of Britain’s &lt;a href=&quot;http://www.britishempire.co.uk/maproom/egypt.htm&quot;&gt;most crucial imperial territories&lt;/a&gt; about the morality and governance of British imperialism at the dawn of the 20th century.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://static.newworldencyclopedia.org/4/48/Map_of_the_British_Empire_in_the_1920%27s.png&quot; alt=&quot;The British Empire at the height of its territorial range&quot; /&gt;&lt;/p&gt;
-</content>
-
-			
-				<category term="curiosities" />
-			
-			
-				<category term="Imperialism" />
-			
-				<category term="Pax Britannica" />
-			
-				<category term="nationalism" />
-			
-
-			<published>2016-10-24T00:00:00-04:00</published>
-		</entry>
-	
-		<entry>
-			<id>/curiosities/Fashoda-Incident/</id>
-			<title>The Fashoda Incident</title>
-			<link href="/curiosities/Fashoda-Incident/" rel="alternate" type="text/html" title="The Fashoda Incident" />
-			<updated>2016-10-10T00:00:00-04:00</updated>
-
-			
-				
-				<author>
-					
-						<name>JacobStefonek</name>
-					
-					
-					
-				</author>
-			
-			<summary>One of the many times Britain and France were on the brink of war.</summary>
-			<content type="html" xml:base="/curiosities/Fashoda-Incident/">&lt;p&gt;This small newspaper section addresses the infamous &lt;a href=&quot;https://www.britannica.com/event/Fashoda-Incident&quot;&gt;Fashoda Incident&lt;/a&gt; that occurred between Britain and France during a period of intense colonialism in Africa. It shares that the ex-Prime Minister of France, &lt;a href=&quot;https://www.britannica.com/biography/Charles-Louis-de-Saulces-de-Freycinet&quot;&gt;M. de Freycinet&lt;/a&gt;, is writing a book that promotes peace and cooperation between France and Britain.&lt;/p&gt;
-
-&lt;p&gt;The case he presents in &lt;a href=&quot;https://babel.hathitrust.org/cgi/pt?id=uc1.$b749498;view=2up;seq=460&quot;&gt;his book&lt;/a&gt; says that England was in the right during the Fashoda Incident but could have easily handled the situation better than they did. He also refutes the claims of the French courts, who said that the French response was a mistake. Put simply, he is about to publish a work that will try to put to rest misconceptions about the event that have been circulating through the public in an attempt to resolve any bad feelings.&lt;/p&gt;
-
-&lt;p&gt;It is amazing to see this event described in an everyday context and even more fascinating that an ex-Prime Minister of France would declare England to be in the right, despite the competitive nature of colonial affairs. This entry is not only informational, but it also acts as an advertisement of sorts, presenting the name, author and content of a soon to be released book to the public eye. The information and arguments shared through the book may have strengthened Franco-British relations and helped lead to where the two powers stood during World War I.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/_posts/ifs-2116-f-2017/fashoda1.jpg?raw=true&quot; alt=&quot;fashoda1&quot; /&gt;&lt;/p&gt;
-</content>
-
-			
-				<category term="curiosities" />
-			
-			
-				<category term="Fashoda" />
-			
-				<category term="Britain" />
-			
-				<category term="France" />
-			
-				<category term="Colonialism" />
-			
-				<category term="Freycinet" />
-			
-
-			<published>2016-10-10T00:00:00-04:00</published>
-		</entry>
-	
-		<entry>
-			<id>/curiosities/Christmas-Mail/</id>
-			<title>Christmas Mail</title>
-			<link href="/curiosities/Christmas-Mail/" rel="alternate" type="text/html" title="Christmas Mail" />
-			<updated>2016-10-07T00:00:00-04:00</updated>
-
-			
-				
-				<author>
-					
-						<name>SamanthaLappin</name>
-					
-					
-					
-				</author>
-			
-			<summary></summary>
-			<content type="html" xml:base="/curiosities/Christmas-Mail/">&lt;p&gt;When going through cultural information from the past, it’s often interesting seeing the information that was deemed interesting or important at the time. Case in point, the article in the &lt;a href=&quot;https://github.com/Fibinocci1123/Dig-eg-gaz/blob/master/Text/1905-12-01&quot;&gt;Newspaper&lt;/a&gt; serving to tell the public about the deadlines for which to send Christmas cards to various specific European locations if they wish for the letters to be delivered in time for Christmas. However, the information itself isn’t what interests me, but rather the first sentence in particular. The article opens with the statement “Our readers will no doubt be interested to know…” While the information is quite bland and rather meaningless, the context of the information tells a much more interesting story; This is one of the only articles in the issue with an opening such as this. In modern culture, an article like this would be passed over without a second thought; it’s just not as important to us anymore. In Alexandria, 1905, however, it was apparently so important for Christmas cards to go out on time that the newspaper found the information and published an entire article about when to mail cards out if they’re to arrive in the U.K. or Europe by Christmas or the New Year. Furthermore, there is a table in the newspaper occuring in the Saturday issues which provides the day on which a letter, parcel, or money order mail will arrive in a specific destination (such as Europe, Greece, Malta, etc.) if they’re delivered to the office by a specific date and time.&lt;/p&gt;
-</content>
-
-			
-				<category term="curiosities" />
-			
-			
-				<category term="Christmas" />
-			
-				<category term="post" />
-			
-				<category term="mail" />
-			
-
-			<published>2016-10-07T00:00:00-04:00</published>
-		</entry>
-	
-		<entry>
-			<id>/curiosities/Caribbean-Queen/</id>
-			<title>Billy Ocean meets Prince Lines</title>
-			<link href="/curiosities/Caribbean-Queen/" rel="alternate" type="text/html" title="Billy Ocean meets Prince Lines" />
-			<updated>2016-09-28T00:00:00-04:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Will Hanley</name>
-					
-					
-						<email>whanley@fsu.edu</email>
-					
-					
-						<uri>http://nationality-history.info/</uri>
-					
-				</author>
-			
-			<summary>On internationalization and localization</summary>
-			<content type="html" xml:base="/curiosities/Caribbean-Queen/">&lt;p&gt;Back in 1984, Billy Ocean had a big hit with his song “&lt;a href=&quot;https://en.wikipedia.org/wiki/Caribbean_Queen&quot;&gt;Caribbean Queen&lt;/a&gt;.” It was a versatile song in global terms, as Ocean recorded versions that charted in other markets: “African Queen” and “European Queen” didn’t require much extra reworking to benefit from &lt;a href=&quot;https://en.wikipedia.org/wiki/Internationalization_and_localization&quot;&gt;internationalization and localization&lt;/a&gt;.&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Cahch0_M06c&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;I got to thinking about “Caribbean Queen” while I was preparing an &lt;a href=&quot;https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pri1.xml&quot;&gt;xml version of the Prince Lines advertisement&lt;/a&gt; that appeared on the front page of most issues of the &lt;em&gt;Egyptian Gazette&lt;/em&gt; in 1905.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pri1-Prince-Line.png?raw=true&quot; alt=&quot;Prince Lines&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The ad lists 48 ships owned by the company by name and weight. Each name is a prince of a certain region, nation, type, or character. Billy Ocean might be gratified to see that there is a massive Carib Prince (8,000 tons) and a somewhat slighter African Prince (3,050 tons). No European Prince, but lots of Princes from various parts of Europe:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/blog-images/Prince-Line-locations.png?raw=true&quot; alt=&quot;Prince Lines locations&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I was struck by the coverage of names. The geography of colonial shipping interests dictated part but not all of this range–though the heaviest ships seemed to follow the empire’s shipping lanes. British whimsy seemed to supply other names–Highlands Prince, Soldier Prince, Merchant Prince, and so on. And of course there’s an Ocean Prince: Billy honored before his time.&lt;/p&gt;
-</content>
-
-			
-				<category term="curiosities" />
-			
-			
-				<category term="ads" />
-			
-				<category term="shipping" />
-			
-
-			<published>2016-09-28T00:00:00-04:00</published>
+			<published>2016-11-01T00:00:00-04:00</published>
 		</entry>
 	
 </feed>

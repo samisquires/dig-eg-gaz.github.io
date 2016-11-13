@@ -16,8 +16,7 @@ image:
   title: blog-images/reuterstelegram.jpg
   thumb: blog-images/reuterstelegram.jpg
   homepage: blog-images/reuterstelegram.jpg
-  caption: Image is from January 2, 1905 and is an example of
-  unclear data.
+  caption: Image is from January 2, 1905 and is an example of unclear data.
   caption_url:
 ---
 To be honest, this class is not what I expected it to be. I did not expect

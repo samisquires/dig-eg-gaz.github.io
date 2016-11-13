@@ -440,13 +440,19 @@
 <h2 id="tagging-persons">Tagging persons</h2>
 <p>The basic tag we will use is <code class="highlighter-rouge">&lt;persName&gt;</code>. Full details of usage are <a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ND.html#NDPER">here</a>.</p>
 
-<p>Work to link persons to references such as wikidata or viaf. For instance, you might describe Cromer thus:
-```</p>
+<p>Work to link persons to references such as wikidata or viaf. For instance, you might describe Cromer thus:</p>
+
+<p>```</p>
 <persName ref="https://www.wikidata.org/wiki/Q336487">
  <forename>Evelyn</forename>
  <surname>Baring</surname>, <roleName>1st Earl of Cromer</roleName>
 </persName>
 <p>```</p>
+
+<p>For persons not named, but who have a reference that you can supply (either an external authority or an xml:id), use <code class="highlighter-rouge">&lt;rs&gt;</code> (refering string).</p>
+
+<h2 id="tagging-events">Tagging events</h2>
+<p>To label an event, use a variant of the <code class="highlighter-rouge">&lt;interp xml:id=""&gt;</code> tag.</p>
 
 			</div>
 

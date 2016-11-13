@@ -425,7 +425,7 @@
 <p>These instructions guide you in transforming your plain text page files into a marked-up xml document that conforms to the standards of <a href="http://www.tei-c.org">TEI</a> (the Text Encoding Initiative).</p>
 
 <h2 id="set-up-your-xml-editor">1. Set up your XML editor</h2>
-<p>Download the full-function Oxygen XML Editor, which offers a <a href="http://www.oxygenxml.com/xml_editor/register.html">free 30-day trial</a>.</p>
+<p>Download the full-function Oxygen XML Editor, which offers a <a href="http://www.oxygenxml.com/xml_editor/register.html">free 30-day trial</a>. After 30 days, you might find <a href="https://10minutemail.com/">ways</a> to renew your trial access, or simply purchase Oxygen using their <a href="http://oxygenxml.com/academic/">academic and educational discount</a>).</p>
 
 <h2 id="create-an-xml-file">2. Create an xml file</h2>
 <p>Copy and paste <a href="https://raw.githubusercontent.com/dig-eg-gaz/boilerplates/master/empty-issue.xml">this template</a> into a new document. <strong>Important</strong>: the new document will have <code class="highlighter-rouge"><span class="cp">&lt;?xml version="1.0" encoding="UTF-8"?&gt;</span></code> as its first line, and it’s also the first line of the template; delete one of them, otherwise your document will be ill-formed. Name this document using the date of the issue and an xml extension (YYYY-MM-DD.xml). (This document will eventually contain all of the pages of the issue, so it is not necessary to add the page number to the document name.) Save this document on your hard drive.</p>
@@ -455,10 +455,12 @@
 
 <h2 id="add-more-complex-tags">7. Add more complex tags</h2>
 <p>There are more tags that you can add:
+- If the article or item is in French, add the attribute <code class="highlighter-rouge">xml:lang="fr"</code> to the <code class="highlighter-rouge">&lt;div&gt;</code> tag.
 - <strong><code class="highlighter-rouge">&lt;cb/&gt;</code></strong> for column breaks. Be sure to put this tag at the <em>beginning</em> of the column. Add the number of the column, as well, thus: <code class="highlighter-rouge">&lt;cb n="1"/&gt;</code> For mixed columns, see <a href="http://dcs.library.virginia.edu/digital-stewardship-services/tei-encoding-guidelines/#cb">this guidance</a>.
 - <strong><code class="highlighter-rouge">&lt;div type="section"&gt;</code></strong> to wrap multiple items that belong together, for instance in the international or local news sections.
 - <strong><code class="highlighter-rouge">&lt;dateline&gt;</code></strong> for datelines. There can only be one dateline per division. In the international news section, this means that you must make a new <code class="highlighter-rouge">&lt;div type="item"&gt;</code> for each newswire report.
-- <strong><code class="highlighter-rouge">&lt;byline&gt;</code></strong> for authors. There can only be one byline per division.</p>
+- <strong><code class="highlighter-rouge">&lt;byline&gt;</code></strong> for authors. There can only be one byline per division.
+- <strong><code class="highlighter-rouge">&lt;gap/&gt;</code></strong> for holes in the text, <strong><code class="highlighter-rouge">&lt;unclear&gt;</code></strong> for illegible text (you can supply an attribute explaining why), and <strong><code class="highlighter-rouge">&lt;supplied&gt;</code></strong> for something that was illegible but which you figured out by finding the same thing in a different issue.</p>
 
 			</div>
 
