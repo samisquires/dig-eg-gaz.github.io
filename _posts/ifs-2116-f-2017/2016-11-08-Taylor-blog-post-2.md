@@ -14,9 +14,9 @@ tags:
   - corruption
 header: no
 image:
-  title: blog-images/blog-post-2-image.png
-  thumb: blog-images/blog-post-2-image.png
-  homepage: blog-images/blog-post-2-image.png
+  title: blog-images/taylor-blog-post-2-image.jpg
+  thumb: blog-images/taylor-blog-post-2-image.jpg
+  homepage: blog-images/taylor-blog-post-2-image.jpg
   caption: Corruption message
   caption_url:
 ---
