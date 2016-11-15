@@ -3,7 +3,7 @@ layout: page
 subheadline: "Amber Fling"
 title: "Odd Football Score"
 teaser: "Such a unrealistic score."
-date: 2016-10-20
+date: 2016-11-15
 categories:
   - Curiosities
 author: Amber Fling
@@ -11,7 +11,7 @@ tags:
   - Football
   - New Zealander Team
 image:
-  header: blog-images/Football.png
+  title: blog-images/Football.png
   thumb: blog-images/Football.png
   homepage: blog-images/Football.png
   caption: 1905-11-20
