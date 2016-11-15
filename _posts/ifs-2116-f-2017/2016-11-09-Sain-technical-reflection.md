@@ -7,9 +7,9 @@ date: 2016-11-09
 categories:
   - technical
 author: HannahSain
-  -OCR
-  -ABBYY
-  -TextScanning
+  - OCR
+  - ABBYY
+  - Text Scanning
 header: no
 image:
   title: blog-images/unread-text.jpg
