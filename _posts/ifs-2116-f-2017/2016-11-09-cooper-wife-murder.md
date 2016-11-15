@@ -13,9 +13,9 @@ tags:
   - murder
 header: no
 image:
-  title: blog-images/Wife-murder.png
-  thumb: blog-images/Wife-murder.png
-  homepage: blog-images/Wife-murder.png
+  title: blog-images/Wife-Murder.png
+  thumb: blog-images/Wife-Murder.png
+  homepage: blog-images/Wife-Murder.png
   caption: January 24, 1905
   link:
 ---
