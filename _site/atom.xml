@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>/</id>
 	<title>Digital Egyptian Gazette</title>
-	<updated>2016-11-13T12:12:12-05:00</updated>
+	<updated>2016-11-15T09:33:47-05:00</updated>
 
 	<subtitle>A daily newspaper from turn-of-the-century Egypt, in marked up full text.</subtitle>
 
@@ -28,6 +28,113 @@
 
 	<generator uri="http://jekyllrb.com" version="3.0.2">Jekyll</generator>
 
+	
+		<entry>
+			<id>/technical/cooper-technical/</id>
+			<title>Issues with the Issue</title>
+			<link href="/technical/cooper-technical/" rel="alternate" type="text/html" title="Issues with the Issue" />
+			<updated>2016-11-14T00:00:00-05:00</updated>
+
+			
+				
+				<author>
+					
+						<name>MatthewCooper</name>
+					
+					
+					
+				</author>
+			
+			<summary>Various issues I&#39;ve encountered while attempting to digitize my portion of the Egyptian Gazette</summary>
+			<content type="html" xml:base="/technical/cooper-technical/">&lt;h2 id=&quot;this-stuff-is-harder-than-it-looks&quot;&gt;This stuff is harder than it looks&lt;/h2&gt;
+
+&lt;p&gt;Like most of the people in this class, I have came across a formidable amount of problems while trying to do basically every step of this project. When I first began scanning my images for OCR, the first two columns of each of my page threes were blurred out so I had to go back to the library to re-scan the images more times than seemed necessary. To add to the latter, the &lt;em&gt;AABBY&lt;/em&gt; software was not the best at recognizing the characters, ergo, it was a long and gruesome process to correct all of the errors. Formatting the edited text into TEI was quite difficult as well due to the fact that this is my first time working with code. Had this class been offered for more than one semester, it may have been feasible to accomplish everything listed in the syllabus.&lt;/p&gt;
+</content>
+
+			
+				<category term="Technical" />
+			
+			
+
+			<published>2016-11-14T00:00:00-05:00</published>
+		</entry>
+	
+		<entry>
+			<id>/serial%20questions/Stefonek-Some-Serial-Food-For-Thought/</id>
+			<title>Some *Cereal* Food for Thought</title>
+			<link href="/serial%20questions/Stefonek-Some-Serial-Food-For-Thought/" rel="alternate" type="text/html" title="Some *Cereal* Food for Thought" />
+			<updated>2016-11-14T00:00:00-05:00</updated>
+
+			
+				
+				<author>
+					
+						<name>JacobStefonek</name>
+					
+					
+					
+				</author>
+			
+			<summary>Following navies around the world in 1905</summary>
+			<content type="html" xml:base="/serial%20questions/Stefonek-Some-Serial-Food-For-Thought/">&lt;p&gt;My serial discovery is that of reported military naval movements, particularly the movements of the Russian and Japanese fleets as a result of the &lt;a href=&quot;https://www.britannica.com/event/Russo-Japanese-War&quot;&gt;Russo-Japanse War&lt;/a&gt;. My goal is to use key words such as: “navy, battle, combat, fleet, ship, military, Nebogatoff, Tago and Rodjestvensky”, to find entries in the year of 1905. After finding as many entries as possible from the Egyptian Gazette, I will put together a spreadsheet that lists the report type (civilian or official), date, location and affiliation of each fleet.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/blog-images/The-Baltic-Fleet.png?raw=true&quot; alt=&quot;The Baltic Fleet&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Hopefully, there will be additional information like the admiral(s) present with each fleet, the number, names and types of ships and any losses if a battle has occurred. Any information that is lacking in the newspaper can hopefully be supplemented by &lt;a href=&quot;http://www.history.com/this-day-in-history/russian-fleet-surrenders-at-port-arthur&quot;&gt;outside historical records&lt;/a&gt;. After collecting and organizing the data, I plan on using Google maps to plot the location and movements of the fleets, which will then be tagged with all of the non-locational data. That way, there will be a spiderweb across a map of the oceans linking points that can be clicked on for all available information on what happened there.&lt;/p&gt;
+</content>
+
+			
+				<category term="serial questions" />
+			
+			
+				<category term="Navies" />
+			
+				<category term="Russia" />
+			
+				<category term="Japan" />
+			
+				<category term="1905" />
+			
+
+			<published>2016-11-14T00:00:00-05:00</published>
+		</entry>
+	
+		<entry>
+			<id>/serial%20question/Dead-Alexandrians-Hank-Thompson/</id>
+			<title>The Dead of Alexandria</title>
+			<link href="/serial%20question/Dead-Alexandrians-Hank-Thompson/" rel="alternate" type="text/html" title="The Dead of Alexandria" />
+			<updated>2016-11-12T00:00:00-05:00</updated>
+
+			
+				
+				<author>
+					
+						<name>HankThompson</name>
+					
+					
+					
+				</author>
+			
+			<summary>A summary of what I hope to achieve with my serial question.</summary>
+			<content type="html" xml:base="/serial%20question/Dead-Alexandrians-Hank-Thompson/">&lt;p&gt;My serial question is rather simple, I want to see how many deaths occurred in Alexandria during the year of 1905. I want to compare demographics, causes of deaths, location and from this compile a map, to the best of my ability to display this information. This map would be relatively simple; it would obviously be a map of the city corresponding to that time period with dots marking as many of the local deaths as I can manage. To help compare the causes of death, I have developed a system to differentiate the points, with red being for murder/manslaughter, green and black for disease, blue for drowning, and white for accidents. While this system is bare bones and might very well be refined as I proceed, it is the basic idea of categorization I wanted to convey.&lt;/p&gt;
+
+&lt;p&gt;I noticed while working on the paper that death was treated as more common place and matter of fact than what we are used to today, and decided it might be worth talking about and mapping. For instance, the paper reported on the &lt;a href=&quot;https://dig-eg-gaz.github.io/curiosities/building-collapse-hank-thompson/&quot;&gt;collapse of a house and the death of all its occupants&lt;/a&gt; only once, and while I have not seen anything else about collapsing structures in Alexandria, I wondered if perhaps poor building practices might be involved. Its possible as I search through the papers I might find more collapses that claim people lives and from there might be able to hypothesize about infrastructural problems that might have been facing Alexandria.
+By examining the local deaths of Alexandria, not only will I hopefully be able to build a rather interesting map, I might also be able to examine some problems that the city might have been facing below the surface.&lt;/p&gt;
+</content>
+
+			
+				<category term="serial question" />
+			
+			
+				<category term="dead" />
+			
+				<category term="death" />
+			
+				<category term="funeral" />
+			
+
+			<published>2016-11-12T00:00:00-05:00</published>
+		</entry>
 	
 		<entry>
 			<id>/technical/black-difficulties-with-OCR/</id>
@@ -73,7 +180,7 @@
 				
 				<author>
 					
-						<name>HannahSain -OCR -ABBYY -TextScanning</name>
+						<name>HannahSain - OCR - ABBYY - Text Scanning</name>
 					
 					
 					
@@ -86,6 +193,41 @@
 			
 				<category term="technical" />
 			
+			
+
+			<published>2016-11-09T00:00:00-05:00</published>
+		</entry>
+	
+		<entry>
+			<id>/curiosities/cooper-wife-murder/</id>
+			<title>Wife Murder</title>
+			<link href="/curiosities/cooper-wife-murder/" rel="alternate" type="text/html" title="Wife Murder" />
+			<updated>2016-11-09T00:00:00-05:00</updated>
+
+			
+				
+				<author>
+					
+						<name>MatthewCooper</name>
+					
+					
+					
+				</author>
+			
+			<summary>Crazy man kills his wife with an unusual weapon</summary>
+			<content type="html" xml:base="/curiosities/cooper-wife-murder/">&lt;p&gt;&lt;em&gt;On the twenty-fourth inst. of January,&lt;/em&gt; an incident involving a woman and her enraged husband occurred. The man killed his wife by hitting her on the head using a metal bar made of iron and fled the scene. &lt;strong&gt;The former clerk from Gabbari has yet to be discovered.&lt;/strong&gt;
+The motive for committing this heinous crime is unknown. Perhaps his wife was cheating on him or maybe she cooked him a poor meal. I find it interesting that an event of this magnitude is not given a bigger article. Someone’s life has been ended and there is a possibility that others may be in danger. More information should be provided and this news story should not be shrugged off as an every day occurrence Either way, the suspect is still at large and he needs to be caught before he spreads his mayhem elsewhere.&lt;/p&gt;
+</content>
+
+			
+				<category term="curiosities" />
+			
+			
+				<category term="death" />
+			
+				<category term="tragedy" />
+			
+				<category term="murder" />
 			
 
 			<published>2016-11-09T00:00:00-05:00</published>
@@ -258,281 +400,6 @@ very small and it tends to be smudged and &lt;strong&gt;I hate it and it gives m
 			
 
 			<published>2016-11-06T00:00:00-04:00</published>
-		</entry>
-	
-		<entry>
-			<id>/curiosities/Soap/</id>
-			<title>Clean Killer</title>
-			<link href="/curiosities/Soap/" rel="alternate" type="text/html" title="Clean Killer" />
-			<updated>2016-11-06T00:00:00-04:00</updated>
-
-			
-				
-				<author>
-					
-						<name>HannahSain</name>
-					
-					
-					
-				</author>
-			
-			<summary>Soap producers have been using an extra ingredient in their product that cleans off more than just dirt. Manufacturers have been adding a chemical in their soaps that can remove skin tissue.</summary>
-			<content type="html" xml:base="/curiosities/Soap/">&lt;p&gt;During a time when merchandise regulation is not nearly as controlled as it is now, it can be expected that there will be defaults in the products produced. &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2220712/?page=1 Define Salicylate of Soda&amp;quot;&quot;&gt;Salicylate of soda&lt;/a&gt; was thought to have restorative effects during the mid to late 19th century. It was often recommended to people with joint disease, such as rheumatism, to alleviate pain.  At first the &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1322509/?page=7&quot;&gt;negative side effects&lt;/a&gt; associated with salicylate of soda reported were minor, like a relapse in pain after the salicylate of soda was no longer being used. Many users had to be gradually weaned from the chemical.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/blog-images/soap-ad.png?raw=true&quot; alt=&quot;Sunlight Soap&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;A few years after its use in soap, physicians began noting that people who were repeated salicylate of soda users had painful skin and there was even a case of failing vision after taking a bath in the soap with the chemicals. In the early 1900s, manufacturers of soap products containing the chemical were ordered to stop production and were prosecuted by the &lt;a href=&quot;https://books.google.com/books?id=5a-Uc3NJuPUC&amp;amp;pg=PA206&amp;amp;lpg=PA206&amp;amp;dq=1905+egyptian+sanitary+administration&amp;amp;source=bl&amp;amp;ots=pGXkko-vu3&amp;amp;sig=P6WCUO4P1BmN_u7Zm8Ny2nSY3Dc&amp;amp;hl=en&amp;amp;sa=X&amp;amp;ved=0ahUKEwi60p_rs4zQAhWSZiYKHXwdDTMQ6AEIHTAA#v=onepage&amp;amp;q=1905%20egyptian%20sanitary%20administration&amp;amp;f=false&quot;&gt;sanitary administration&lt;/a&gt;. Large soap companies during this time, like Pears’ Soap, were not being advertised because of the ordeal. Instead, the same issue of the newspaper that published the harmful soap announcement had an ad for Sunlight Soap, which advertises its lack of “obnoxious or harmful feature.” This small news brief gives insight about this time period, showing its lack of medical knowledge and its clever marketing methods.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/blog-images/pear-soap.png?raw=true&quot; alt=&quot;Pear Soap&quot; /&gt;&lt;/p&gt;
-</content>
-
-			
-				<category term="curiosities" />
-			
-			
-				<category term="soap" />
-			
-				<category term="medicine" />
-			
-				<category term="sanitation" />
-			
-
-			<published>2016-11-06T00:00:00-04:00</published>
-		</entry>
-	
-		<entry>
-			<id>/technical/Haskell-and-XML/</id>
-			<title>Haskell and XML</title>
-			<link href="/technical/Haskell-and-XML/" rel="alternate" type="text/html" title="Haskell and XML" />
-			<updated>2016-11-06T00:00:00-04:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Gwen Lofman</name>
-					
-					
-					
-				</author>
-			
-			<summary>A Technical Reflection</summary>
-			<content type="html" xml:base="/technical/Haskell-and-XML/">&lt;p&gt;I got pretty bored performing the same search-and-replace actions for a variety of different place names.  As any programmer knows, performing the same actions over and over again signals a perfect opportunity to use code to script out those actions.&lt;/p&gt;
-
-&lt;p&gt;I spent time this weekend investigating the possibility of using Haskell to write a script to automatically TEI index certain words with tags and reference data.&lt;/p&gt;
-
-&lt;p&gt;The program (which would be a command-line utility at first) needs to perform a few basic functions:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Add tags to text inside any xml nodes&lt;/li&gt;
-  &lt;li&gt;Update attributes of tags with specified contents&lt;/li&gt;
-  &lt;li&gt;Take in input file that describes a set of commands&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;This would potentially allow me to update every xml file in the entire repository simultaneously, inserting the proper tags for a list of names, dates, and locations.  Something like:&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;yaml
-placename:
-  - (Tokyo, ref, some-link-to-wikidata)
-  - (London, ref, some-link-to-wikidata)
-  - (St. Petersburg, ref, some-link-to-wikidata)
-  - (Port Said, ref, some-link-to-wikidata)
-persname:
-  - (Lord Cromer, ref, some-link-to-person-data)
-&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;This would allow me to just keep an up-to-date set of location names, attribute names, and links that I could then very easily update or apply to any issue in the entire year, and perhaps even set it to run every time I changed a file, so I would never have to worry about manually changing this information.&lt;/p&gt;
-
-&lt;h2 id=&quot;a-quick-note-on-xml&quot;&gt;A quick note on XML&lt;/h2&gt;
-&lt;p&gt;XML can be visualized as a “rose tree” made of nodes.  This basically means that every part of the XML document is some sort of node, which has other nodes inside of it.  The nodes can be any type of tag, or any plain text, and any number of both in any order.&lt;/p&gt;
-
-&lt;p&gt;Here’s what some XML in your issue might look like as a Tree&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;
-div -*- dateline -*- date - Text
-     |            *- Text
-     |            *- placename - Text
-     |
-     *- p         - Text
-     *- byline    - Text
-&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;And here it is as XML&lt;/p&gt;
-
-&lt;p&gt;```XML&lt;/p&gt;
-&lt;div&gt;
-    &lt;dateline&gt;&lt;date&gt;2nd October 1905&lt;/date&gt;, &lt;placename&gt;Port Said&lt;/placename&gt;&lt;/dateline&gt;
-    &lt;p&gt;Here is some text, detailing an amazing story about something.&lt;/p&gt;
-    &lt;byline&gt;(Reuter.)&lt;/byline&gt;
-&lt;/div&gt;
-&lt;p&gt;```&lt;/p&gt;
-
-&lt;h2 id=&quot;functional-programming&quot;&gt;Functional Programming&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://www.haskell.org/static/img/haskell-logo.svg?etag=ukf3Fg7-&quot; alt=&quot;Haskell Logo&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I program in Haskell mostly.  Haskell is a pure functional language, which just means it’s not the same as the traditional programming languages you see day-to-day, and it’s not something FSU teaches currently.&lt;/p&gt;
-
-&lt;p&gt;It looks something like this:&lt;/p&gt;
-
-&lt;p&gt;```Haskell&lt;/p&gt;
-
-&lt;p&gt;and :: Bool -&amp;gt; Bool -&amp;gt; Bool
-and c t = if c then t else False&lt;/p&gt;
-
-&lt;p&gt;filter :: (a -&amp;gt; Bool) -&amp;gt; [a] -&amp;gt; [a]
-filter p xs = [x | x &amp;lt;- xs, p x]&lt;/p&gt;
-
-&lt;p&gt;map :: (a -&amp;gt; b) -&amp;gt; [a] -&amp;gt; [b]
-map _ []   = []
-map f x:xs = f x : map xs&lt;/p&gt;
-
-&lt;p&gt;```&lt;/p&gt;
-
-&lt;p&gt;It’s pretty rad, it looks quite unlike most languages I’ve seen in my day.  Haskell has some really interesting properties, though.  It’s really easy to parse documents as a result, but it’s difficult to transform them easily.  Many libraries exist to extract data easily and reliably from xml documents, but few to transform or modify them in a programatic way.&lt;/p&gt;
-
-&lt;p&gt;I did find one eventually: the &lt;a href=&quot;https://wiki.haskell.org/HXT&quot;&gt;Haskell XML Toolbox&lt;/a&gt;.  It lets you do some pretty interesting things.  It uses something called arrows (a &lt;em&gt;very&lt;/em&gt; trippy functional programming concept), to allow the programmer to compose filters together to navigate the XML tree.&lt;/p&gt;
-
-&lt;p&gt;The &lt;a href=&quot;https://wiki.haskell.org/HXT#The_concept_of_filters&quot;&gt;documentation&lt;/a&gt; has this example:&lt;/p&gt;
-
-&lt;p&gt;```Haskell&lt;/p&gt;
-
-&lt;p&gt;isA  :: (a -&amp;gt; Bool) -&amp;gt; (a -&amp;gt; [a])
-isA p x | p x       = [x]
-        | otherwise = []&lt;/p&gt;
-
-&lt;p&gt;```&lt;/p&gt;
-
-&lt;p&gt;It takes a function (called a predicate) that returns a True/False value, and creates a new function that can process, or filter, values.  Essentially, these arrows let us process parts of a tree into no results, one result, or many results.  By using different types of filters, and by putting these filters together, with some relatively simple structure we can create some &lt;em&gt;extremely&lt;/em&gt; complex instructions to parse and transform the document.&lt;/p&gt;
-
-&lt;p&gt;Again, an example from the documentation:&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Haskell
-getGrandChildren :: XmlFilter
-getGrandChildren = getChildren &amp;gt;&amp;gt;&amp;gt; getChildren
-&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;The &lt;code class=&quot;highlighter-rouge&quot;&gt;(&amp;gt;&amp;gt;&amp;gt;)&lt;/code&gt; operator makes it extremely trivial to chain filters together to make new filters.  The ability to compose functions like this is the hallmark of functional programming, and works extremely well in this case.&lt;/p&gt;
-
-&lt;p&gt;By defining a few more combination operators, the HXT library quickly builds up sufficient capability to tackle some really complicated parsing, as in:&lt;/p&gt;
-
-&lt;p&gt;```Haskell&lt;/p&gt;
-
-&lt;p&gt;getTextChildren2 :: XmlFilter
-getTextChildren2 = getChildren »&amp;gt; ( isXText &amp;lt;+&amp;gt; ( getChildren »&amp;gt; isXText ) )&lt;/p&gt;
-
-&lt;p&gt;```&lt;/p&gt;
-
-&lt;p&gt;which only gets the text children for of the current tag, and the text of any tags inside the current one.&lt;/p&gt;
-
-&lt;p&gt;Using this extremely flexible library, I hope to find a practical way to automate much of the task of TEI indexing the Egyptian Gazette!&lt;/p&gt;
-</content>
-
-			
-				<category term="technical" />
-			
-			
-				<category term="Haskell" />
-			
-				<category term="XML" />
-			
-
-			<published>2016-11-06T00:00:00-04:00</published>
-		</entry>
-	
-		<entry>
-			<id>/curiosities/-/Cyr-Bubonic-Plague/</id>
-			<title>Bubonic Plague In Egypt</title>
-			<link href="/curiosities/-/Cyr-Bubonic-Plague/" rel="alternate" type="text/html" title="Bubonic Plague In Egypt" />
-			<updated>2016-11-06T00:00:00-04:00</updated>
-
-			
-				
-				<author>
-					
-						<name>ErekCyr</name>
-					
-					
-					
-				</author>
-			
-			<summary>Bubonic Plague Claims Lives in 1905, Not Just a Medieval Problem.</summary>
-			<content type="html" xml:base="/curiosities/-/Cyr-Bubonic-Plague/">&lt;p&gt;According to the Egyptian Gazette, August 28, 1905, the Bubonic plague has reported at least thirteen cases of individuals that had contracted this disease.&lt;/p&gt;
-
-&lt;p&gt;Interest in this snippet of information, housed within the Gazette (see figure below), stems from the fact that the Bubonic Plague (a.k.a. The Black Death), was not confined to Medieval Europe (as many readers would suspect). In fact, the Bubonic plague has existed for thousands of years, the first known case being recorded in China dating back to 224 B.C.E..&lt;/p&gt;
-
-&lt;p&gt;The most significant outbreak, and most noticeable, occurred in Europe in the mid-fourteenth century over a five year period (1347 to 1352). During this time period, sources indicate that at least 25 million people died, about one-third of the continent’s population (these numbers are disputed). The often disputed claims as to the cause of such a disease was further investigated in 2010 and 2011, when researchers analyzed DNA from some of its European victims. The consensus to date is that the pathogen responsible was the Yersinia pestis bacterium, which most likely caused several different forms of the plague.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/blog-images/Black-Plague.png&quot; alt=&quot;image name&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Seeing an outbreak within the borders of Egypt, with so few deaths was incredible, which warrants further understanding of this disease, how it was spread and who it affected. The Gazette’s article (above) mentions that approximately 13 cases were under treatment during the middle of August and beginning of September, 1905. With the plague’s notorious reputation, the Gazette’s allocated space to this pandemic is sapient, especially due to the many cattle deaths in the area within that same time period (the figure to the right indicates the area affected by the Bubonic Plague).&lt;/p&gt;
-
-&lt;p&gt;With modern populations shifted to cities in modern day, an unidentifiable plague in one of these areas would prove to be even more catastrophic than ever before.&lt;/p&gt;
-
-&lt;h2 id=&quot;for-further-study&quot;&gt;For further study:&lt;/h2&gt;
-&lt;p&gt;Yersinia Pestis.
-&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2951374/&quot;&gt;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2951374/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;A Draft genome of Yersinia pestis from victims of the Black Death.
-&lt;a href=&quot;https://www.nature.com/nature/journal/v478/n7370/full/nature10549.html&quot;&gt;https://www.nature.com/nature/journal/v478/n7370/full/nature10549.html&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Plague in 18th Century Egypt.
-&lt;a href=&quot;https://contagions.wordpress.com/2010/05/26/plague-in-18th-century-egypt/&quot;&gt;https://contagions.wordpress.com/2010/05/26/plague-in-18th-century-egypt/&lt;/a&gt;&lt;/p&gt;
-</content>
-
-			
-				<category term="Curiosities" />
-			
-				<category term="-" />
-			
-				<category term="curiosities" />
-			
-			
-				<category term="bubonic Plague" />
-			
-				<category term="disease" />
-			
-
-			<published>2016-11-06T00:00:00-04:00</published>
-		</entry>
-	
-		<entry>
-			<id>/technical/XML-izing/</id>
-			<title>XML-izing</title>
-			<link href="/technical/XML-izing/" rel="alternate" type="text/html" title="XML-izing" />
-			<updated>2016-11-01T00:00:00-04:00</updated>
-
-			
-				
-				<author>
-					
-						<name>JohnWhite</name>
-					
-					
-					
-				</author>
-			
-			<summary>A retrospective on creating a rough draft for my week&#39;s XML.</summary>
-			<content type="html" xml:base="/technical/XML-izing/">&lt;p&gt;I can’t say that around fifty hours of work in Oxygen was what I expected when I signed up for this class, but it’s certainly what I’ve been given. Work in Oxygen can be rewarding, tedious, and frustrating in one package, usually at the same time. While I have sympathies for my classmates who saw massive technical issues, I never
-had anything that problematic when I was XML-izing my files.&lt;/p&gt;
-
-&lt;p&gt;The most difficult part of this class was largely typing most of my week by hand. FineReader’s trial ran out on my desktop, and when I tried to download it on my Mac, I found that it didn’t work anywhere near as well as it did on my desktop. So I would up typing the entirety of my week under my own manpower, rather than relying on AABBY.&lt;/p&gt;
-
-&lt;p&gt;Beyond that, it was a fairly methodical, sensible process. There were instances of annoyance, like when I would accidentally delete a div and the entire thing would collapse, but I’m pretty sure that part’s past me now. I’m looking forward to going more in-depth into the Gazette.&lt;/p&gt;
-</content>
-
-			
-				<category term="technical" />
-			
-			
-				<category term="tedium" />
-			
-				<category term="dedication" />
-			
-				<category term="stubbornness" />
-			
-
-			<published>2016-11-01T00:00:00-04:00</published>
 		</entry>
 	
 </feed>
