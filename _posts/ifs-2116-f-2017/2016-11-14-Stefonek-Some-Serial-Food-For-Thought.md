@@ -14,9 +14,9 @@ tags:
   - 1905
 header: no
 image:
-  title: blog-images/Russo-Japanese-War.png
-  thumb: blog-images/Russo-Japanese-War.png
-  homepage: blog-images/Russo-Japanese-War.png
+  title: blog-images/Russo-Japanese-War.jpg
+  thumb: blog-images/Russo-Japanese-War.jpg
+  homepage: blog-images/Russo-Japanese-War.jpg
   caption: A Russian political cartoon from 1904, thanks to the British Library Board
   caption_url:
 ---
