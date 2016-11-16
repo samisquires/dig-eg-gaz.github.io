@@ -14,7 +14,7 @@ Week|Start date (Monday)|End date (Saturday)|Personal repository|Images|Text|Not
 4|January 23, 1905|January 28, 1905|[Matthew Cooper](https://github.com/Mic15b/dig-eg-gaz)||
 5|January 30, 1905|February 4, 1905|[Daisy Vazquez](https://github.com/dvazquez703/dig-eg-gaz)|Complete||Wed issue six pages
 6|February 6, 1905|February 11, 1905|[Brandon Barrett](https://github.com/bcb14g/dig-eg-gaz)|Complete|All|Wed issue six pages
-7|February 13, 1905|February 18, 1905|[Kevin Monell](https://github.com/knm15e/dig-eg-gaz)||
+7|February 13, 1905|February 18, 1905|[Kevin Monell](https://github.com/knm15e/dig-eg-gaz)|6/38|
 8|February 20, 1905|February 25, 1905|[Samantha Curran](https://github.com/samrcurran/dig-eg-gaz)||
 9|February 27, 1905|March 4, 1905|[Jamison Brisch](https://github.com/jbrisch19/dig-eg-gaz)||
 10|March 6, 1905|March 11, 1905|[Christlyn Patel](https://github.com/cpp15c/dig-eg-gaz)||
@@ -23,7 +23,7 @@ Week|Start date (Monday)|End date (Saturday)|Personal repository|Images|Text|Not
 13|March 27, 1905|April 1, 1905|[Courtney Coyle](https://github.com/courtneyelon)|32/38|2/6|missing all but one page 3; missing 1905-03-27-p1; Wed issue six pages
 14|April 3, 1905|April 8, 1905|[David Gressgott](https://github.com/djdaviedave/dig-eg-gaz)||
 15|April 10, 1905|April 15, 1905|[Alex Caliendo](https://github.com/RGOODY3210/dig-eg-gaz)||
-16|April 17, 1905|April 22, 1905|[Riley Ouellette](https://github.com/rouellette07/dig-eg-gaz)||
+16|April 17, 1905|April 22, 1905|[Riley Ouellette](https://github.com/rouellette07/dig-eg-gaz)||1/6
 17|April 24, 1905|April 29, 1905|[Jacob Stefonek](https://github.com/JacobStefonek/dig-eg-gaz)|Complete|All|Wed issue six pages
 18|May 1, 1905|May 6, 1905|[Dante Grieco](https://github.com/dgg15/dig-eg-gaz)|Complete||microfilm lacking 1905-05-01; missing 1905-05-02-pp1and2, 1905-05-03-pp1and6, Wed issue six pages
 19|May 8, 1905|May 13, 1905|[Cassandra Frederick](https://github.com/caf15b)|39/40|4/6|missing 1905-05-10-p8
@@ -43,7 +43,7 @@ Week|Start date (Monday)|End date (Saturday)|Personal repository|Images|Text|Not
 33|August 14, 1905|August 19, 1905|[Zach Reddick](https://github.com/znr13)|
 34|August 21, 1905|August 26, 1905|[Charlie Rymer](https://github.com/crymer)||
 35|August 28, 1905|September 2, 1905|[Erek Cyr](https://github.com/ErekCyr/dig-eg-gaz)|Complete||1905-08-31 special 9-page issue
-36|September 4, 1905|September 9, 1905|[Hannah Sain](https://github.com/hds15b/dig-eg-gaz)|38/40|1/6
+36|September 4, 1905|September 9, 1905|[Hannah Sain](https://github.com/hds15b/dig-eg-gaz)|Complete|1/6
 37|September 11, 1905|September 16, 1905|unassigned|2/40|
 38|September 18, 1905|September 23, 1905|[Alexander Amorello](https://github.com/AlexanderOlleroma/Dig_eg_gaz)||All
 39|September 25, 1905|September 30, 1905|[Logan Wills](https://github.com/lcw16b/dig-eg-gaz)||All
