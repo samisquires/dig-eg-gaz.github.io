@@ -35,6 +35,8 @@
     url: "/how-to/tei-xml-instructions"
   - title: "Templating Instructions"
     url: "/how-to/templating-instructions"
+  - title: "Querying Instructions"
+    url: "/how-to/query-instructions"
   - title: "Blogging Instructions"
     url: "/how-to/blogging-instructions"
 
