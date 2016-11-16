@@ -7,14 +7,16 @@ header:
 ---
 ## Searching your own files
 
-Open the file(s) that you wish to search in the Oxygen XML editor. Locate the XPath query box near the top left. You can return a list of elements using simple queries:
+Open the file(s) that you wish to search in the Oxygen XML editor. Locate the XPath query box near the top left. You can return a list of elements using simple queries, which be displayed at the bottom of the editor. Click on any item in this list to be taken to that location in your file.
 
-- `//persName`
-- `//placeName`
+- a list of all the "divs" in your file: `//div`
+- a list of all the item-type divs in your file: `//div[@type="item"]`
+- a list of all the item-type divs in your file containing the word "cotton": `//div[@type="item"][contains(., 'cotton')]`
+- all tagged names of persons or places in the files: `//persName` or `//placeName`
 
 ## Searching the full contents of the digital Egyptian Gazette
 
-This approach works for the file that is currently open. But if you create a project using your fork of the [Digital Egyptian Gazette content repository](https://github.com/dig-eg-gaz/content), you can perform the same search on everything. To do so, just change the icon at the left edge of the query box.
+To search everything in the [Digital Egyptian Gazette content repository](https://github.com/dig-eg-gaz/content), you will have to use Oxygen's project function. Create a new project, then right click to add a folder--this should be a copy of the content repository on your local computer. (If you don't have one, download it from Github). Then change the icon at the left edge of the query box to search project.
 
 This will return lots of results. It will be useful for you to refine these somewhat, using expressions such as:
 
