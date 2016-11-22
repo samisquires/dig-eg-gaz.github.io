@@ -15,6 +15,8 @@ Tables in the *Egyptian Gazette* were produced using boilerplates. This page's d
 </div>
 
 ### Alexandria General Produce Association
+[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/alexandria-general-produce.xml)
+
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/alexandria-general-produce-association.png?raw=true)
 
 ### Arrivages a Minet-el-Bassal
