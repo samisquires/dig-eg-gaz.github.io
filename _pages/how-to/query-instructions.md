@@ -27,3 +27,10 @@ This will return lots of results. It will be useful for you to refine these some
 - [XPath functions list](http://www.w3schools.com/xml/xsl_functions.asp)
 - [XPath tutorial](http://www.w3schools.com/xml/xpath_intro.asp)
 - Got a question or comment? File an issue [here](https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/_pages/how-to/query-instructions.md).
+
+Looking at prices for cotton: //table//cell[contains(.,'Cotton')]/following-sibling::cell[4]
+
+//div/@type[contains(.,'wireReport')]/parent::div//dateline
+//div/@type[contains(.,'wireReport')]/parent::div//dateline//placeName
+
+Right click on results, export file, fix with regex.

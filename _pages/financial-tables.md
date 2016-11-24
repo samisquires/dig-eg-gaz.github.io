@@ -192,4 +192,7 @@ This table varies in lines from day to day. Certain days of the week contain wee
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/to-days-exchange-quotations.png?raw=true)
 
 ### Weekly Postal Table
+xml:id="deg-ta-wpt01"
+[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/weekly-postal-table.xml) (produced by John White)
+
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/weekly-postal-table.png?raw=true)
