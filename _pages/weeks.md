@@ -11,10 +11,10 @@ Week|Start date (Monday)|End date (Saturday)|Personal repository|Images|Text|Not
 1|January 2, 1905|January 7, 1905|[Kara Hofmeister](https://github.com/karahofmeister/dig-eg-gaz)|Complete|All|Wed issue six pages
 2|January 9, 1905|January 14, 1905|[Brett Crawford](https://github.com/wbc13/dig-eg-gaz)|Complete|All|Wed issue six pages
 3|January 16, 1905|January 21, 1905|[Tara Kagan](https://github.com/tkhagan/dig_eg)|21/38||Wed issue six pages
-4|January 23, 1905|January 28, 1905|[Matthew Cooper](https://github.com/Mic15b/dig-eg-gaz)||
+4|January 23, 1905|January 28, 1905|[Matthew Cooper](https://github.com/Mic15b/dig-eg-gaz)|Complete||Wed issue six pages
 5|January 30, 1905|February 4, 1905|[Daisy Vazquez](https://github.com/dvazquez703/dig-eg-gaz)|Complete||Wed issue six pages
 6|February 6, 1905|February 11, 1905|[Brandon Barrett](https://github.com/bcb14g/dig-eg-gaz)|Complete|All|Wed issue six pages
-7|February 13, 1905|February 18, 1905|[Kevin Monell](https://github.com/knm15e/dig-eg-gaz)|6/38|
+7|February 13, 1905|February 18, 1905|[Kevin Monell](https://github.com/knm15e/dig-eg-gaz)|Complete||Wed issue six pages
 8|February 20, 1905|February 25, 1905|[Samantha Curran](https://github.com/samrcurran/dig-eg-gaz)||
 9|February 27, 1905|March 4, 1905|[Jamison Brisch](https://github.com/jbrisch19/dig-eg-gaz)||
 10|March 6, 1905|March 11, 1905|[Christlyn Patel](https://github.com/cpp15c/dig-eg-gaz)||
@@ -49,7 +49,7 @@ Week|Start date (Monday)|End date (Saturday)|Personal repository|Images|Text|Not
 39|September 25, 1905|September 30, 1905|[Logan Wills](https://github.com/lcw16b/dig-eg-gaz)||All
 40|October 2, 1905|October 7, 1905|[Gwen Zapata](https://github.com/Lionex/dig-eg-gaz)|Complete|All
 41|October 9, 1905|October 14, 1905|[Christian Ragland](https://github.com/christianragland/dig-eg-gaz)||
-42|October 16, 1905|October 21, 1905|[Brooklyn Vincent](https://github.com/bjv15/dig-eg-gaz)|25/40|
+42|October 16, 1905|October 21, 1905|[Brooklyn Vincent](https://github.com/bjv15/dig-eg-gaz)|39/40|
 43|October 23, 1905|October 28, 1905|[Johanna Eugenio](https://github.com/jhannaeugenio/dig-eg-gaz)|Complete|5/6
 44|October 30, 1905|November 4, 1905|[Henry Thompson](https://github.com/Hat15/Dig-eg-gaz)|Complete|All
 45|November 6, 1905|November 11, 1905|[Olivia Evanoff](https://github.com/oliviaevanoff)||

@@ -20,6 +20,7 @@ header:
 ## Course-specific instructions
 
 1. [How to produce blog posts](blogging-instructions)
+2. [How to write small tutorials](how-to-to-do)
 
 ## Technical notes
 

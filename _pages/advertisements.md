@@ -54,6 +54,10 @@ xml text: [afc1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 xml text: [all1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/all1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/all1-Anchor-Line-Limited.png?raw=true)
 
+### alf1 Allenburys Foods
+xml text: [alf1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/alf1.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/alf1-allenburys-foods.png?raw=true)
+
 ### als1 Austrian Lloyd's Steam Navigation
 xml text: [als1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/als1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/als1-Austrian-Lloyds-Steam-Navigation.png?raw=true)
@@ -314,6 +318,10 @@ xml text: [lac1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 xml text: [lea1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/lea1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/lea1.png?raw=true)
 
+### lgo1 Ladies & Gents Outfitting (S. Stein)
+xml text: [lea1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/lgo1.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/lgo1-ladies-gents-outfitting.png?raw=true)
+
 ### map1 Maple & Co.
 xml text: [map1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/map1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/map1-Maple-and-Co.png?raw=true)
@@ -522,3 +530,7 @@ xml text: [whr1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-tex
 ### wlb1 Wrexham Lager Beer
 xml text: [wlb1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/wlb1.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/wlb1-Wrexham-Lager-Beer.png?raw=true)
+
+### yos1 Yost Typewriter
+xml text: [yos1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/yos1.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/yos1-yost.png?raw=true)
