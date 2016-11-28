@@ -32,4 +32,7 @@ author: YourName
 
 Please produce data visualization(s) to accompany your analysis.
 
-You may use 
+You may use a variety of tools:
+
+- [Palladio](http://hdlab.stanford.edu/palladio/)
+- [Google charts](https://developers.google.com/chart/)
