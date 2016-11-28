@@ -16,6 +16,7 @@ header:
 6. [How to use boilerplates](templating-instructions)
 7. [How to perform content markup](tagging-people-and-places-instructions)
 8. [How to query the full contents](query-instructions)
+9. [How to use regular expressions](regular-expressions-instructions)
 
 ## Course-specific instructions
 
