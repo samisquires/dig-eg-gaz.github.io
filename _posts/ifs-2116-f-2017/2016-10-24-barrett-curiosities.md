@@ -10,7 +10,7 @@ author: BrandonBarrett
 tags:
 header: no
 image:
-  header: blog-images/barrett-curiosities1-picture.png
+  title: blog-images/barrett-curiosities1-picture.png
   thumb: blog-images/barrett-curiosities1-picture.png
   homepage: blog-images/barrett-curiosities1-picture.png
   caption: Week of February 6 to 11, 1905

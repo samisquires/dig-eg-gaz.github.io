@@ -10,7 +10,7 @@ author: BrandonBarrett
 tags:
 header: no
 image:
-  header: blog-images/barrett-technical-picture.png
+  title: blog-images/barrett-technical-picture.png
   thumb: blog-images/barrett-technical-picture.png
   homepage: blog-images/barrett-technical-picture.png
   caption: February 6 to 11, 1905
