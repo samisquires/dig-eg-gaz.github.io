@@ -8,5 +8,8 @@ header:
    image_fullwidth: "header_unsplash_9.jpg"
 permalink: "/changelog/"
 ---
+2016-11-28 // Version 0.02
+:   Added xml:ids to recurring elements and tables
+
 2016-09-01 // Version 0.01
 :		First class starting

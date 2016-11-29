@@ -83,65 +83,78 @@ xml:id="deg-el-dawr01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blo
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/daily-weather-report.png?raw=true)
 
 ### Delta Light Railways Ltd
-[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/delta-light-railways.xml)
+xml:id="deg-el-dllr01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/delta-light-railways.xml) tables xml:id="deg-ta-dllr01", xml:id="deg-ta-dllr02"
 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/delta-light-railways.png?raw=true)
 
 ### Derniere Heure
-[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/derniere-heure.xml)
+xml:id="deg-el-dehe1" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/derniere-heure.xml) table xml:id="deg-ta-dehe1"
 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/derniere-heure.png?raw=true)
 
 ### Eastern Telegraph Co. Ltd.
-Be sure to change date (including `<date when="">`) in opening lines.
-
-[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/eastern-telegraph.xml)
+xml:id="deg-el-etcl1" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/eastern-telegraph.xml) Be sure to change date (including `<date when="">`) in opening lines. table xml:id="deg-ta-etcl1"
 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/eastern-telegraph.png?raw=true)
 
+### Egyptian Gazette en vente
+xml:id="deg-el-egev01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/egyptian-gazette-en-vente.xml).
+
+![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/egyptian-gazette-en-vente.png?raw=true)
+
 ### Egyptian Markets, Limited
-[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/egyptian-markets-limited.xml)
+xml:id="deg-el-egml01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/egyptian-markets-limited.xml) table xml:id="deg-ta-egml01"
 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/egyptian-markets-limited.png?raw=true)
 
 ### Egyptian Mining Market
-It seems that the figures in this table are identical in some consecutive issues.
+xml:id="deg-el-egmm01" It seems that the figures in this table are identical in some consecutive issues. Table xml:id="deg-ta-egmm01"
 
 [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/egyptian-mining-market.xml)
 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/egyptian-mining-market.png?raw=true)
 
 ### Export Manifests
-This list is unique in each issue. Tag placenames and dates, and break out the number and unit of exported commodities in the table.
+xml:id="deg-el-exma01" This list is unique in each issue. Tag placenames and dates, and break out the number and unit of exported commodities in the table. table xml:id="deg-ta-exma01"
 
 [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/export-manifests.xml)
 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/export-manifests.png?raw=true)
 
 ### Exterieur
-[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/exterieur.xml)
+xml:id="deg-el-extr01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/exterieur.xml)
 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/exterieur.png?raw=true)
 
 ### London Stock Exchange
-[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/london-stock-exchange.xml)
+xml:id="deg-el-lsex01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/london-stock-exchange.xml) table xml:id="deg-ta-lsex01"
 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/london-stock-exchange.png?raw=true)
 
 ### Marche de Minet el Bassal
-[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/marche-de-minet-el-bassal.xml)
+xml:id="deg-el-mmeb01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/marche-de-minet-el-bassal.xml) Tables  xml:id="deg-ta-mmeb01"  xml:id="deg-ta-mmeb02"  xml:id="deg-ta-mmeb03"  xml:id="deg-ta-mmeb04"  xml:id="deg-ta-mmeb05"  xml:id="deg-ta-mmeb06"  xml:id="deg-ta-mmeb07"  xml:id="deg-ta-mmeb08"  xml:id="deg-ta-mmeb09"
 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/marche-de-minet-el-bassal.png?raw=true)
 
 ### Mouvement Maritime
-This model [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/marche-de-minet-el-bassal.xml) doesn't contain much useful formatting, but it shows that places, persons, dates, and tonnage should be tagged.
+xml:id="deg-el-mmpa01" This model [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/marche-de-minet-el-bassal.xml) doesn't contain much useful formatting, but it shows that places, persons, dates, and tonnage should be tagged.
 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/mouvement-maritime.png?raw=true)
 
-### Nile Readings
+### Municipalite Avis
+xml:id="deg-el-maav01" This model [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/municipalite-avis.xml) call for tenders varies according to the construction project and dates.
+
+![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/municipalite-avis.png?raw=true)
+
+### Nile Gauge Readings
+xml:id="deg-el-nile01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/nile-gauge-readings.xml)
+ This is a cumulative monthly table. Each day, a new line is added to the existing table. It is thus useful to work back from a copy of the end of the month's table. Table xml:id="deg-ta-nile01"
+
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/nile-gauge-readings.png?raw=true)
 
 ### Nolis
+xml:id="deg-el-noli01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/nolis.xml) Table xml:id="deg-ta-noli01"
+
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/nolis.png?raw=true)
 
 ### Primes des Contrats
