@@ -102,6 +102,16 @@ xml:id="deg-el-egev01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blo
 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/egyptian-gazette-en-vente.png?raw=true)
 
+### Egyptian Gazette Publishing information
+xml:id="deg-el-egpi01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/publishing-info.xml)
+
+![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/publishing-info.png?raw=true)
+
+### Egyptian Gazette Subscriptions and Advertisements
+xml:id="deg-el-egsa01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/subscriptions-advertisements.xml)
+
+![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/subscriptions-advertisements.png?raw=true)
+
 ### Egyptian Markets, Limited
 xml:id="deg-el-egml01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/egyptian-markets-limited.xml) table xml:id="deg-ta-egml01"
 
@@ -158,61 +168,50 @@ xml:id="deg-el-noli01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blo
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/nolis.png?raw=true)
 
 ### Primes des Contrats
-It seems that the figures in this table are identical in some consecutive issues.
+xml:id="deg-el-pdco01" It seems that the figures in this table are identical in some consecutive issues.
 
-[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/primes-des-contrats.xml)
+[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/primes-des-contrats.xml) Table xml:id="deg-ta-pdco01"
 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/primes-des-contrats.png?raw=true)
 
-### Egyptian Gazette Publishing information
-[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/publishing-info.xml)
-
-![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/publishing-info.png?raw=true)
-
 ### Ramleh Railway Co, Alexandria Tramway Co
-[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/ramleh-railway-alexandria-tramway.xml)
+xml:id="deg-el-rrat01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/ramleh-railway-alexandria-tramway.xml) Tables xml:id="deg-ta-rrat01", xml:id="deg-ta-rrat02"
 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/ramleh-railway-alexandria-tramway.png?raw=true)
 
 ### Reuter's Telegrams
-This table varies in lines from day to day. Certain days of the week contain weekly summaries. The template contains most possible lines--merely delete those lines that do not appear.
-
-[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/reuters-telegrams.xml)
+xml:id="deg-el-reut01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/reuters-telegrams.xml)
+This table varies in lines from day to day. Certain days of the week contain weekly summaries. The template contains most possible lines--merely delete those lines that do not appear. Table xml:id="deg-ta-reut01"
 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/reuters-telegrams.png?raw=true)
 
 ### Share list
-[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/share-list.xml)
+xml:id="deg-el-shli01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/share-list.xml) Table xml:id="deg-ta-shli01"
 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/share-list.png?raw=true)
 
 ### Stocks and Shares
-[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/stocks-and-shares.xml)
+xml:id="deg-el-stsh01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/stocks-and-shares.xml) Table xml:id="deg-ta-stsh01"
 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/stocks-and-shares.png?raw=true)
 
-### Subscriptions and Advertisements
-[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/subscriptions-advertisements.xml)
-
-![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/subscriptions-advertisements.png?raw=true)
-
 ### Tarif d'Exportation
-[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/tarif-dexportation.xml)
+xml:id="deg-el-tdex01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/tarif-dexportation.xml) Table xml:id="deg-ta-tdex01"
 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/tarif-dexportation.png?raw=true)
 
 ### Telegrammes Havas
-[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/telegramme-havas.xml)
+xml:id="deg-el-teha01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/telegramme-havas.xml) Table xml:id="deg-ta-teha01"
 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/telegramme-havas.png?raw=true)
 
 ### To-day's Exchange quotations
-[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/to-days-exchange-quotations.xml)
+xml:id="deg-el-tdeq01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/to-days-exchange-quotations.xml) Table xml:id="deg-ta-tdeq01"
 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/to-days-exchange-quotations.png?raw=true)
 
 ### Weekly Postal Table
-xml:id="deg-ta-wpt01"
-[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/weekly-postal-table.xml) (produced by John White)
+xml:id="deg-el-wept01"
+[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/weekly-postal-table.xml) (produced by John White) Table xml:id="deg-ta-wept01"
 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/weekly-postal-table.png?raw=true)

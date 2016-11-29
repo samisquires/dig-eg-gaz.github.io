@@ -33,9 +33,9 @@ This element typically appears on page 2. A template is [here](https://github.co
 ![Subscription and Advertisements](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/subscriptions-advertisements.png?raw=true)
 ![Publishing Information](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/publishing-info.png?raw=true)
 
-These elements come side by side on page 2, though sometimes material is placed in the middle of them. Templates are [here](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/subscriptions-advertisements.xml) and [here](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/publishing-info.xml).
+These elements come side by side on page 2, though sometimes material is placed in the middle of them. Templates are [here](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/subscriptions-advertisements.xml) (xml:id="deg-el-egsa01") and [here](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/publishing-info.xml) (xml:id="deg-el-egpi01").
 
-In the latter pages of the newspaper, we also find a brief item explaining where and when the paper is sold. Template is [here](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/egyptian-gazette-en-vente.xml).
+In the latter pages of the newspaper, we also find a brief item explaining where and when the paper is sold. Template is [here](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/egyptian-gazette-en-vente.xml). xml:id="deg-el-egev01"
 
 ![Egyptian Gazette en vente](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/egyptian-gazette-en-vente.png?raw=true)
 
