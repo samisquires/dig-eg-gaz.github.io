@@ -26,7 +26,7 @@ Paste only this portion of the text into your issue document.
 
 ![Daily Weather Report](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/daily-weather-report.png?raw=true "Daily Weather Report")
 
-This element typically appears on page 2. A template is [here](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/daily-weather-report.xml). It may be most efficient to use the author view in Oxygen to enter particulars.
+This element typically appears on page 2. A template is [here](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/daily-weather-report.xml). It may be most efficient to use the author view in Oxygen to enter particulars. xml:id="deg-el-dawr01"; tables xml:id="deg-el-dawr01", xml:id="deg-el-dawr02", xml:id="deg-el-dawr03", xml:id="deg-el-dawr04"
 
 ### 2. Newspaper Subscriptions
 
@@ -40,7 +40,7 @@ In the latter pages of the newspaper, we also find a brief item explaining where
 ![Egyptian Gazette en vente](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/egyptian-gazette-en-vente.png?raw=true)
 
 ### 3. Calendars
-These calendars are lightly formatted. The Calendar of the Week ([xml template here](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/calendar-of-the-week.xml), xmlid:"deg-ta-cow01") seems to have been changed only once per week. The Calendar of Coming Events ([xml template here](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/calendar-of-coming events.xml), xmlid:"deg-ta-cce01") changed each day it appears, moving future elements downwards.
+These calendars are lightly formatted. The Calendar of the Week ([xml template here](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/calendar-of-the-week.xml); xml:id="deg-el-cotw01", table xml:id="deg-ta-cotw01") seems to have been changed only once per week. The Calendar of Coming Events ([xml template here](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/calendar-of-coming events.xml); xml:id="deg-el-coce01", table xml:id="deg-ta-coce01") changed each day it appears, moving future elements downwards.
 
 ![Calendar of Coming Events](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/calendar-of-coming-events.png?raw=true)
 

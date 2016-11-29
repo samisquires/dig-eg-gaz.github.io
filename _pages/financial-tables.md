@@ -15,18 +15,18 @@ Tables in the *Egyptian Gazette* were produced using boilerplates. This page's d
 </div>
 
 ### Alexandria General Produce Association
-[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/alexandria-general-produce.xml)
+xml:id="deg-el-agpa01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/alexandria-general-produce.xml) table xml:id="deg-ta-agpa01"
 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/alexandria-general-produce-association.png?raw=true)
 
 ### Arrivages a Minet-el-Bassal
-This element seems to be largely repeated from issue to issue, but to change from month to month.
-[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/arrivages-minet-el-bassal.xml)
+xml:id="deg-el-ameb01" This element seems to be largely repeated from issue to issue, but to change from month to month.
+[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/arrivages-minet-el-bassal.xml) table xml:id="deg-ta-ameb01"
 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/arrivages-minet-el-bassal.png?raw=true)
 
 ### Association des Courtiers en Marchandises
-[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/association-des-courtiers.xml)
+xml:id="deg-el-adcm01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/association-des-courtiers.xml) table xml:id="deg-ta-adcm01"
 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/association-des-courtiers.png?raw=true)
 
@@ -34,7 +34,7 @@ This element seems to be largely repeated from issue to issue, but to change fro
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/association-courtiers-service-special.png?raw=true)
 
 ### Bourse Khediviale
-[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/bourse-khediviale.xml)
+xml:id="deg-el-bokh01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/bourse-khediviale.xml)
 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/bourse-khediviale.png?raw=true)
 
@@ -42,36 +42,43 @@ This element seems to be largely repeated from issue to issue, but to change fro
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/bulletin-de-la-bourse.png?raw=true)
 
 ### Calendar of Coming Events
+xml:id="deg-el-coce01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/calendar-of-coming-events.xml) table xml:id="deg-ta-coce01"
+
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/calendar-of-coming-events.png?raw=true)
 
 ### Calendar of the Week
-[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/calendar-of-the-week.xml)
+xml:id="deg-el-cotw01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/calendar-of-the-week.xml) table xml:id="deg-ta-cotw01"
 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/calendar-of-the-week.png?raw=true)
 
 ### Cereal Market
-At least one of the "Cereals in Boat" items changes from issue to issue: Barley Mariuti changes to Barley Shami. Keep an eye out for other changes.
-[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/cereal-market.xml)
+xml:id="deg-el-cema01" At least one of the "Cereals in Boat" items changes from issue to issue: Barley Mariuti changes to Barley Shami. Keep an eye out for other changes.
+[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/cereal-market.xml) tables xml:id="deg-ta-cema01" xml:id="deg-ta-cema02"
 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/cereal-market.png?raw=true)
 
+### Claims against the Estate
+xml:id="deg-el-caet01" This element contains consistent text around changing names and details. [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/claims-against-the-estate.xml)
+
+![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/claims-against-the-estate.png?raw=true)
+
 ### Coals
-[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/coals.xml)
+xml:id="deg-el-coal01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/coals.xml) table xml:id="deg-ta-coal01"
 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/coals.png?raw=true)
 
 ### Coton
-[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/coton.xml)
+xml:id="deg-el-cotn01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/coton.xml) table xml:id="deg-ta-cotn01"
 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/coton.png?raw=true)
 
 ### Cotons
-[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/cotons.xml)
+xml:id="deg-el-ctns01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/cotons.xml) tables xml:id="deg-ta-ctns01", xml:id="deg-ta-ctns02"
 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/cotons.png?raw=true)
 
 ### Daily Weather Report
-[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/daily-weather-report.xml)
+xml:id="deg-el-dawr01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/daily-weather-report.xml) tables xml:id="deg-ta-dawr01" xml:id="deg-ta-dawr02" xml:id="deg-ta-dawr03" xml:id="deg-ta-dawr04"
 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/daily-weather-report.png?raw=true)
 
