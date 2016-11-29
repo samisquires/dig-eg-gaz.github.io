@@ -7,6 +7,8 @@ header:
 ---
 Advertisements in the *Egyptian Gazette* were produced using boilerplates that repeated from issue to issue with only minor variations. This page's database contains a complete set of these advertisements. Each advertiser is given a three-letter code, and each distinct ad from that advertiser is given a numeric suffix. Use the images and links to text below, or consult the separate [database](https://github.com/dig-eg-gaz/advertisements/blob/master/ads-db.tsv), [XML files](https://github.com/dig-eg-gaz/advertisements/tree/master/ad-text), or [image files](https://github.com/dig-eg-gaz/advertisements/tree/master/ad-images).
 
+Every ad template has an XML id embedded in it, following this format: `xml:id="deg-ad-xxx01"`.
+
 <div class="panel radius" markdown="1">
 **List of Advertisers**
 {: #toc }
@@ -14,523 +16,527 @@ Advertisements in the *Egyptian Gazette* were produced using boilerplates that r
 {:toc}
 </div>
 
-### aac1 Allen, Alderson & Co.
-xml text: [aac1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/aac1.xml)
-![Image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/aac1-Allen-Alderson-and-Co.png?raw=true)
-
-### aan1 Anglo-American Nile Streamer & Hotel Coy.
-xml text: [aan1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/aan1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/aan1-Anglo-American-Nile-Steamer-Hotel-Coy.png?raw=true)
-
-### aan2 Anglo-American Nile Streamer & Hotel Coy.
-xml text: [aan2](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/aan2.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/aan2-Anglo-American-Nile-Steamer-Hotel-Coy.png?raw=true)
-
-### aaw1 Ariston Aerated Waters
-xml text: [aaw1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/aaw1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/aaw1-Ariston-Aerated-Waters.png?raw=true)
-
-### abp1 The Artesan Boring and Prospecting Company
-xml text: [abp1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/abp1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/abp1-The-Artesan-Boring-and-Prospecting-Company.png?raw=true)
-
-### abw1 Alexandria Bonded Warehouse Company, Ltd.
-xml text: [abw1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/abw1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/abw1-Alexandria-Bonded-Warehouse-Company-Ltd.png?raw=true)
-
-### adr1 Au de Rouge
-xml text: [adr1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/adr1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/adr1-Au-de-Rouge.png?raw=true)
-
-### aeb1 The Anglo-Egyptian Bank
-xml text: [aeb1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/aeb1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/aeb1-The-Anglo-Egyptian-Bank.png?raw=true)
-
-### afc1 African Commerce
-xml text: [afc1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/afc1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/afc1-African-Commerce.png?raw=true)
-
-### all1 Anchor Line, Limited
-xml text: [all1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/all1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/all1-Anchor-Line-Limited.png?raw=true)
-
-### alf1 Allenburys Foods
-xml text: [alf1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/alf1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/alf1-allenburys-foods.png?raw=true)
-
-### als1 Austrian Lloyd's Steam Navigation
-xml text: [als1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/als1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/als1-Austrian-Lloyds-Steam-Navigation.png?raw=true)
-
-### baa1 Boehme & Anderer
-xml text: [baa1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/baa1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/baa1-Boehme-and-Anderer.png?raw=true)
-
-### bal1 Bank of Athens, Limited
-xml text: [bal1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bal1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bal1-Bank-of-Athens-Limited.png?raw=true)
-
-### bam1 Bell's Asia Minor Steamship Co.
-xml text: [bam1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bam1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bam1-Bells-Asia-Minor-Steamship-Co.png?raw=true)
-
-### bcc1 British Chamber of Commerce
-xml text: [bcc1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bcc1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bcc1-British-Chamber-of-Commerce.png?raw=true)
-
-### bcp1 Beck & Co’s Pilsener Beer
-xml text: [bcp1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bcp1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bcp1-Beck-and-Cos-Pilsener-Beer.png?raw=true)
-
-### bcp2 Beck & Co
-xml text: [bcp2](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bcp2.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bcp2-Becks-and-Co.png?raw=true)
-
-### bis1 British India S. N. Company, Limited
-xml text: [bis1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bis1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bis1-British-India-SN-Company-Limited.png?raw=true)
-
-### blm1 Bibby Line Mail Steamers
-xml text: [blm1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/blm1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/blm1-Bibby-Line-Mail-Steamers.png?raw=true)
-
-### bor1 Borwick's Baking Powder
-xml text: [bor1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bor1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bor1-Borwicks-Baking-Powder.png?raw=true)
-
-### bov1 Bovril
-xml text: [bov1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bov1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bov1-Bovril.png?raw=true)
-
-### cah1 Carlton Hotel
-xml text: [cah1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cah1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cah1-Carlton-Hotel.png?raw=true)
-
-### cah2 Carlton Hotel
-xml text: [cah2](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cah2.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cah2-Carlton-Hotel.png?raw=true)
-
-### cbb1 Callard & Bowser's Butter-Scotch
-xml text: [cbb1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cbb1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cbb1-Callard-Bowser-Butter-scotch.png?raw=true)
-
-### ccc1 The Cleopatra Cigarette Co.
-xml text: [ccc1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ccc1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ccc1-The-Cleopatra-Cigarette-Co.png?raw=true)
-
-### cgg1 Champagne George Goulet
-xml text: [cgg1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cgg1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cgg1-Champagne-George-Goulet.png?raw=true)
-
-### chl1 Chlorodyne
-xml text: [chl1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/chl1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/chl1-Chlorodyne.png?raw=true)
-
-### clh1 Cigares de la Havane
-xml text: [clh1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/clh1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/clh1-Cigares-de-la-Havane.png?raw=true)
-
-### crl1 Credit Lyonnais
-xml text: [crl1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/crl1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/crl1-Credit-Lyonnais.png?raw=true)
-
-### cst1 Cairo Sewage Transport Co.
-xml text: [cst1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cst1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cst1-Cairo-Sewage-Transport.png?raw=true)
-
-### cun1 Cunard Line
-xml text: [cun1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cun1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cun1-Cunard-Line.png?raw=true)
-
-### dia1 Diamonds
-xml text: [dia1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/dia1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/dia1-Diamonds.png?raw=true)
-
-### dbc1 Davies Bryan & Co.
-xml text: [dbc1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/dbc1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/dbc1-Davies-Bryan-and-Co.png?raw=true)
-
-### dcl1 DCL Scotch Whisky
-xml text: [dcl1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/dcl1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/dcl1-DCL-Scotch-Whisky.png?raw=true)
-
-### dlc1 Dr Le Clerc's Pills
-xml text: [dlc1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/dlc1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/dlc1-dr-le-clercs-pills.png?raw=true)
-
-### dll1 Deutsche Levante-Linie
-xml text: [dll1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/dll1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/dll1-Deutsche-Levant-Linie.png?raw=true)
-
-### dim1 Dinneford's Magnesia
-xml text: [dim1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/dim1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/dim1-Dinnefords-Magnesia.png?raw=true)
-
-### doa1 Deutsche Ost-Afrika Linie
-xml text: [doa1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/doa1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/doa1-Deutsche Ost-Afrika-Linie.png?raw=true)
-
-### edl1 Egyptian Delta Light Railways Co., Limited
-xml text: [edl1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/edl1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/edl1-Egyptian-Delta-Light-Railways-Co-Limited.png?raw=true)
-
-### eeh1 Eastern Exchange Hotel
-xml text: [eeh1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/eeh1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/eeh1-Eastern-Exchange-Hotel.png?raw=true)
-
-### ela1 Edinburgh Life Assurance Company.
-xml text: [ela1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ela1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ela1-Edinburgh-Life-Assurance-Company.png?raw=true)
-
-### ell1 Ellerman Lines, Limited
-xml text: [ell1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ell1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ell1-Ellerman-Lines-Limited.png?raw=true)
-
-### ell2 The Ellerman Lines, Limited
-xml text: [ell2](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ell2.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ell2-The-Ellerman-Lines-Limited.png?raw=true)
-
-### epi1 English Pension, Italian Riviera
-xml text: [epi1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/epi1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/epi1-English-Pension-Italian-Riviera.png?raw=true)
-
-### epm1 English Penmakers
-xml text: [epm1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/epm1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/epm1-English-Penmakers.png?raw=true)
-
-### etc1 The Eastern Telegraph Company, Limited
-xml text: [etc1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/etc1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/etc1-Eastern-Telegraph.png?raw=true)
-
-### fus1 Fussell’s Cream
-xml text: [fus1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/fus1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/fus1-Fussells-Cream.png?raw=true)
-
-### fre1 Freskel
-xml text: [fre1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/fre1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/fre1-Freskel.png?raw=true)
-
-### gac1 Guardian Assurance Company Limited
-xml text: [gac1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/gac1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/gac1-Guardian-Assurance-Company-Limited.png?raw=true)
-
-### ghb1 Grand Hotel Bonnard
-xml text: [ghb1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ghb1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ghb1-Grand-Hotel-Bonnard.png?raw=true)
-
-### gmc1 G. Marcus & Co.
-xml text: [gmc1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/gmc1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/gmc1-G-Marcus-and-Co.png?raw=true)
-
-### gwy1 Gwynne’s Limited
-xml text: [gwy1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/gwy1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/gwy1-Gwynnes-Limited.png?raw=true)
-
-### hbc1 Hotel Bristol Cairo
-xml text: [hbc1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hbc1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hbc1-Hotel-Bristol-Cairo.png?raw=true)
-
-### hbh1 Hall’s Boar’s Head
-xml text: [hbh1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hbh1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hbh1-Halls-Boars-Head.png?raw=true)
-
-### hbr1 Hotel Beau-Rivage
-xml text: [hbr1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hbr1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hbr1-Hotel-Beau-Rivage.png?raw=true)
-
-### hcs1 Hotel-Casino San Stefano
-xml text: [hcs1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hcs1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hcs1-Hotel-Casino-San-Stefano.png?raw=true)
-
-### hdi1 Halls Distemper
-xml text: [hdi1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hdi1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hdi1-Halls-Distemper.png?raw=true)
-
-### hdi2 Halls Distemper
-xml text: [hdi2](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hdi2.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hdi2-Halls-Distemper.png?raw=true)
-
-### hdr1 H. D. Rawlings Limited
-xml text: [hdr1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hdr1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hdr1-H-D-Rawlings-Limited.png?raw=true)
-
-### hsm1 Howies Sterilized Milk
-xml text: [hsm1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hsm1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hsm1-Howies-Sterilized-Milk.png?raw=true)
-
-### icc1 Ind Coope Co Ltd.
-xml text: [icc1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/icc1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/icc1-Ind-Coope-Co-Ltd.png?raw=true)
-
-### inv1 "Investments"
-xml text: [inv1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/inv1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/inv1-investments.png?raw=true)
-
-### iob1 Imperial Ottoman Bank
-xml text: [iob1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/iob1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/iob1-Imperial-Ottoman-Bank.png?raw=true)
-
-### isr1 International Sleeping and Restaurant Cars Company
-xml text: [isr1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/isr1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/isr1-International-Sleeping-and-Restaurant-Cars-Company.png?raw=true)
-
-### jbc1 John B Caffari’s Economical Stores
-xml text: [jbc1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/jbc1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/jbc1-John-B-Caffaris-Economical-Stores.png?raw=true)
-
-### jes1 Joseph Evans Sons
-xml text: [jes1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/jes1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/jes1-Joseph-Evans-Sons.png?raw=true)
-
-### jma1 J. Margosches
-xml text: [jma1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/jma1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/jma1-J-Margosches.png?raw=true)
-
-### jma2 J. Margosches
-xml text: [jma2](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/jma2.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/jma2-J-Margosches.png?raw=true)
-
-### jma3 J. Margosches
-xml text: [jma3](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/jma3.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/jma3-J-Margosches.png?raw=true)
-
-### jma4 J. Margosches
-xml text: [jma4](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/jma4.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/jma4-J-Margosches.png?raw=true)
-
-### jma5 J. Margosches
-xml text: [jma5](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/jma5.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/jma5-J-Margosches.png?raw=true)
-
-### jma6 J. Margosches
-xml text: [jma6](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/jma6.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/jma6-J-Margosches.png?raw=true)
-
-### kml1 Khedivial Mail Line
-xml text: [kml1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/kml1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/kml1-Khedivial-Mail-Line.png?raw=true)
-
-### lac1 London Assurance Corporation
-xml text: [lac1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/lac1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/lac1-London-Assurance-Corporation.png?raw=true)
-
-### lea1 Lea and Perrins'
-xml text: [lea1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/lea1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/lea1.png?raw=true)
-
-### lgo1 Ladies & Gents Outfitting (S. Stein)
-xml text: [lea1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/lgo1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/lgo1-ladies-gents-outfitting.png?raw=true)
-
-### map1 Maple & Co.
-xml text: [map1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/map1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/map1-Maple-and-Co.png?raw=true)
-
-### mav1 Magasins Victoria
-xml text: [mav1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/mav1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/mav1-Magasins-Victoria.png?raw=true)
-
-### mco1 Martell Cognac
-xml text: [mco1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/mco1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/mco1-Martell-Cognac.png?raw=true)
-
-### mic1 Marine Insurance Company, Limited.
-xml text: [mic1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/mic1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/mic1-Marine-Insurance-Company-Limited.png?raw=true)
-
-### mil1 Milner's Safes
-xml text: [mil1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/mil1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/mil1-Milners-Safes.jpg?raw=true)
-
-### mma1 Messageries Maritimes
-xml text: [mma1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/mma1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/mma1-Messageries-Maritimes.png?raw=true)
-
-### mss1 The Moss S. S. Company, Ltd.
-xml text: [mss1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/mss1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/mss1-The-Moss-SS-Company-Ltd.png?raw=true)
-
-### nbe1 National Bank of Egypt
-xml text: [nbe1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nbe1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nbe1-National-Bank-of-Egypt.png?raw=true)
-
-### ncs1 Nile Cold Storage
-xml text: [ncs1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ncs1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ncs1-Nile-Cold-Storage.png?raw=true)
-
-### nfl1 Northern Fire and Life Assurance Coy
-xml text: [nfl1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nfl1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nfl1-Northern-Fire-and-Life-Assurance-Coy.png?raw=true)
-
-### ngi1 Navigation Generale Italienne
-xml text: [ngi1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ngi1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ngi1-Navigation-Generale-Italienne.png?raw=true)
-
-### nkh1 New Khedivial Hotel Alexandria
-xml text: [nkh1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nkh1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nkh1-New-Khedivial-Hotel-Alexandria.png?raw=true)
-
-### nll1 Norddeutscher Lloyd
-xml text: [nll1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nll1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nll1-Norddeutscher-Lloyd.png?raw=true)
-
-### nll2 Norddeutscher Lloyd
-xml text: [nll2](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nll2.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nll2-Norddeutscher-Lloyd-II.png?raw=true)
-
-### nml1 The National Mutual Life Association of Australasia, Limited
-xml text: [nml1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nml1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nml1-The-National-Mutual-Life-Association-of-Australasia-Limited.png?raw=true)
-
-### nrp1 Nouveau Remede Purgatif
-xml text (containing errors?): [nrp1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nrp1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nrp1-Nouveau-Remede-Purgatif.png?raw=true)
-
-### nsa1 N. Spathis
-xml text: [nsa1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nsa1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nsa1-N-Spathis.png?raw=true)
-
-### okl1 Orenstein & Koppel Ltd.
-xml text: [okl1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/okl1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/okl1-orenstein-koppel.png?raw=true)
-
-### opl1 Orient-Pacific Line of Royal Mail Steamers
-xml text: [opl1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/opl1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/opl1-Orient-Pacific-Line-of-Royal-Mail-Steamers.png?raw=true)
-
-### pap1 The Papyanni Line
-xml text: [pap1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pap1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pap1-The-Papyanni-Line.png?raw=true)
-
-### pdd1 Pilules du Docteur Dehaut
-xml text: [pdd1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pdd1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pdd1-pilules-du-docteur-dehaut.png?raw=true)
-
-### pel1 Pelican Brand
-xml text: [pel1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pel1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pel1-Pelican-Brand.png?raw=true)
-
-### phc1 P. Henderson & Co.'s Line.
-xml text: [phc1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/phc1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/phc1-P-Henderson-Cos-Line.png?raw=true)
-
-### pos1 Peninsular and Oriental S.N. Company
-xml text: [pos1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pos1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pos1-Peninsular-and-Oriental-S-N-Company.png?raw=true)
-
-### pri1 Prince Line
-xml text: [pri1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pri1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pri1-Prince-Line.png?raw=true)
+### aac01 Allen, Alderson & Co.
+xml text: [aac01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/aac01.xml)
+![Image](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/aac01-Allen-Alderson-and-Co.png?raw=true)
+
+### aan01 Anglo-American Nile Streamer & Hotel Coy.
+xml text: [aan01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/aan01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/aan01-Anglo-American-Nile-Steamer-Hotel-Coy.png?raw=true)
+
+### aan02 Anglo-American Nile Streamer & Hotel Coy.
+xml text: [aan02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/aan02.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/aan02-Anglo-American-Nile-Steamer-Hotel-Coy.png?raw=true)
+
+### aaw01 Ariston Aerated Waters
+xml text: [aaw01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/aaw01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/aaw01-Ariston-Aerated-Waters.png?raw=true)
+
+### abp01 The Artesan Boring and Prospecting Company
+xml text: [abp01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/abp01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/abp01-The-Artesan-Boring-and-Prospecting-Company.png?raw=true)
+
+### abw01 Alexandria Bonded Warehouse Company, Ltd.
+xml text: [abw01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/abw01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/abw01-Alexandria-Bonded-Warehouse-Company-Ltd.png?raw=true)
+
+### adr01 Au de Rouge
+xml text: [adr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/adr01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/adr01-Au-de-Rouge.png?raw=true)
+
+### aeb01 The Anglo-Egyptian Bank
+xml text: [aeb01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/aeb01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/aeb01-The-Anglo-Egyptian-Bank.png?raw=true)
+
+### afc01 African Commerce
+xml text: [afc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/afc01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/afc01-African-Commerce.png?raw=true)
+
+### all01 Anchor Line, Limited
+xml text: [all01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/all01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/all01-Anchor-Line-Limited.png?raw=true)
+
+### alf01 Allenburys Foods
+xml text: [alf01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/alf01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/alf01-allenburys-foods.png?raw=true)
+
+### als01 Austrian Lloyd's Steam Navigation
+xml text: [als01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/als01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/als01-Austrian-Lloyds-Steam-Navigation.png?raw=true)
+
+### baa01 Boehme & Anderer
+xml text: [baa01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/baa01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/baa01-Boehme-and-Anderer.png?raw=true)
+
+### bal01 Bank of Athens, Limited
+xml text: [bal01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bal01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bal01-Bank-of-Athens-Limited.png?raw=true)
+
+### bam01 Bell's Asia Minor Steamship Co.
+xml text: [bam01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bam01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bam01-Bells-Asia-Minor-Steamship-Co.png?raw=true)
+
+### bcc01 British Chamber of Commerce
+xml text: [bcc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bcc01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bcc01-British-Chamber-of-Commerce.png?raw=true)
+
+### bcp01 Beck & Co’s Pilsener Beer
+xml text: [bcp01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bcp01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bcp01-Beck-and-Cos-Pilsener-Beer.png?raw=true)
+
+### bcp02 Beck & Co
+xml text: [bcp02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bcp02.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bcp02-Becks-and-Co.png?raw=true)
+
+### bis01 British India S. N. Company, Limited
+xml text: [bis01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bis01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bis01-British-India-SN-Company-Limited.png?raw=true)
+
+### blm01 Bibby Line Mail Steamers
+xml text: [blm01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/blm01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/blm01-Bibby-Line-Mail-Steamers.png?raw=true)
+
+### bor01 Borwick's Baking Powder
+xml text: [bor01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bor01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bor01-Borwicks-Baking-Powder.png?raw=true)
+
+### bov01 Bovril
+xml text: [bov01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bov01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bov01-Bovril.png?raw=true)
+
+### cah01 Carlton Hotel
+xml text: [cah01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cah01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cah01-Carlton-Hotel.png?raw=true)
+
+### cah02 Carlton Hotel
+xml text: [cah02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cah02.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cah02-Carlton-Hotel.png?raw=true)
+
+### cbb01 Callard & Bowser's Butter-Scotch
+xml text: [cbb01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cbb01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cbb01-Callard-Bowser-Butter-scotch.png?raw=true)
+
+### ccc01 The Cleopatra Cigarette Co.
+xml text: [ccc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ccc01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ccc01-The-Cleopatra-Cigarette-Co.png?raw=true)
+
+### cgg01 Champagne George Goulet
+xml text: [cgg01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cgg01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cgg01-Champagne-George-Goulet.png?raw=true)
+
+### chl01 Chlorodyne
+xml text: [chl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/chl01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/chl01-Chlorodyne.png?raw=true)
+
+### clh01 Cigares de la Havane
+xml text: [clh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/clh01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/clh01-Cigares-de-la-Havane.png?raw=true)
+
+### crl01 Credit Lyonnais
+xml text: [crl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/crl01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/crl01-Credit-Lyonnais.png?raw=true)
+
+### cst01 Cairo Sewage Transport Co.
+xml text: [cst01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cst01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cst01-Cairo-Sewage-Transport.png?raw=true)
+
+### cun01 Cunard Line
+xml text: [cun01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cun01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cun01-Cunard-Line.png?raw=true)
+
+### dia01 Diamonds
+xml text: [dia01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/dia01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/dia01-Diamonds.png?raw=true)
+
+### dbc01 Davies Bryan & Co.
+xml text: [dbc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/dbc01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/dbc01-Davies-Bryan-and-Co.png?raw=true)
+
+### dcl01 DCL Scotch Whisky
+xml text: [dcl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/dcl01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/dcl01-DCL-Scotch-Whisky.png?raw=true)
+
+### dlc01 Dr Le Clerc's Pills
+xml text: [dlc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/dlc01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/dlc01-dr-le-clercs-pills.png?raw=true)
+
+### dll01 Deutsche Levante-Linie
+xml text: [dll01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/dll01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/dll01-Deutsche-Levant-Linie.png?raw=true)
+
+### dim01 Dinneford's Magnesia
+xml text: [dim01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/dim01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/dim01-Dinnefords-Magnesia.png?raw=true)
+
+### doa01 Deutsche Ost-Afrika Linie
+xml text: [doa01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/doa01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/doa01-Deutsche Ost-Afrika-Linie.png?raw=true)
+
+### edl01 Egyptian Delta Light Railways Co., Limited
+xml text: [edl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/edl01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/edl01-Egyptian-Delta-Light-Railways-Co-Limited.png?raw=true)
+
+### eeh01 Eastern Exchange Hotel
+xml text: [eeh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/eeh01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/eeh01-Eastern-Exchange-Hotel.png?raw=true)
+
+### ela01 Edinburgh Life Assurance Company.
+xml text: [ela01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ela01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ela01-Edinburgh-Life-Assurance-Company.png?raw=true)
+
+### ell01 Ellerman Lines, Limited
+xml text: [ell01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ell01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ell01-Ellerman-Lines-Limited.png?raw=true)
+
+### ell02 The Ellerman Lines, Limited
+xml text: [ell02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ell02.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ell02-The-Ellerman-Lines-Limited.png?raw=true)
+
+### epi01 English Pension, Italian Riviera
+xml text: [epi01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/epi01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/epi01-English-Pension-Italian-Riviera.png?raw=true)
+
+### epm01 English Penmakers
+xml text: [epm01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/epm01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/epm01-English-Penmakers.png?raw=true)
+
+### etc01 The Eastern Telegraph Company, Limited
+xml text: [etc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/etc01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/etc01-Eastern-Telegraph.png?raw=true)
+
+### fus01 Fussell’s Cream
+xml text: [fus01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/fus01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/fus01-Fussells-Cream.png?raw=true)
+
+### fre01 Freskel
+xml text: [fre01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/fre01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/fre01-Freskel.png?raw=true)
+
+### gac01 Guardian Assurance Company Limited
+xml text: [gac01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/gac01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/gac01-Guardian-Assurance-Company-Limited.png?raw=true)
+
+### ghb01 Grand Hotel Bonnard
+xml text: [ghb01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ghb01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ghb01-Grand-Hotel-Bonnard.png?raw=true)
+
+### gmc01 G. Marcus & Co.
+xml text: [gmc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/gmc01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/gmc01-G-Marcus-and-Co.png?raw=true)
+
+### gwy01 Gwynne’s Limited
+xml text: [gwy01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/gwy01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/gwy01-Gwynnes-Limited.png?raw=true)
+
+### hbc01 Hotel Bristol Cairo
+xml text: [hbc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hbc01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hbc01-Hotel-Bristol-Cairo.png?raw=true)
+
+### hbh01 Hall’s Boar’s Head
+xml text: [hbh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hbh01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hbh01-Halls-Boars-Head.png?raw=true)
+
+### hbr01 Hotel Beau-Rivage
+xml text: [hbr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hbr01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hbr01-Hotel-Beau-Rivage.png?raw=true)
+
+### hcs01 Hotel-Casino San Stefano
+xml text: [hcs01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hcs01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hcs01-Hotel-Casino-San-Stefano.png?raw=true)
+
+### hdi01 Halls Distemper
+xml text: [hdi01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hdi01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hdi01-Halls-Distemper.png?raw=true)
+
+### hdi02 Halls Distemper
+xml text: [hdi02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hdi02.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hdi02-Halls-Distemper.png?raw=true)
+
+### hdr01 H. D. Rawlings Limited
+xml text: [hdr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hdr01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hdr01-H-D-Rawlings-Limited.png?raw=true)
+
+### hsm01 Howies Sterilized Milk
+xml text: [hsm01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hsm01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hsm01-Howies-Sterilized-Milk.png?raw=true)
+
+### icc01 Ind Coope Co Ltd.
+xml text: [icc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/icc01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/icc01-Ind-Coope-Co-Ltd.png?raw=true)
+
+### inv01 "Investments"
+xml text: [inv01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/inv01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/inv01-investments.png?raw=true)
+
+### iob01 Imperial Ottoman Bank
+xml text: [iob01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/iob01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/iob01-Imperial-Ottoman-Bank.png?raw=true)
+
+### isr01 International Sleeping and Restaurant Cars Company
+xml text: [isr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/isr01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/isr01-International-Sleeping-and-Restaurant-Cars-Company.png?raw=true)
+
+### jbc01 John B Caffari’s Economical Stores
+xml text: [jbc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/jbc01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/jbc01-John-B-Caffaris-Economical-Stores.png?raw=true)
+
+### jes01 Joseph Evans Sons
+xml text: [jes01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/jes01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/jes01-Joseph-Evans-Sons.png?raw=true)
+
+### jma01 J. Margosches
+xml text: [jma01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/jma01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/jma01-J-Margosches.png?raw=true)
+
+### jma02 J. Margosches
+xml text: [jma02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/jma02.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/jma02-J-Margosches.png?raw=true)
+
+### jma03 J. Margosches
+xml text: [jma03](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/jma03.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/jma03-J-Margosches.png?raw=true)
+
+### jma04 J. Margosches
+xml text: [jma04](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/jma04.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/jma04-J-Margosches.png?raw=true)
+
+### jma05 J. Margosches
+xml text: [jma05](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/jma05.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/jma05-J-Margosches.png?raw=true)
+
+### jma06 J. Margosches
+xml text: [jma06](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/jma06.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/jma06-J-Margosches.png?raw=true)
+
+### kml01 Khedivial Mail Line
+xml text: [kml01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/kml01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/kml01-Khedivial-Mail-Line.png?raw=true)
+
+### lac01 London Assurance Corporation
+xml text: [lac01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/lac01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/lac01-London-Assurance-Corporation.png?raw=true)
+
+### lea01 Lea and Perrins'
+xml text: [lea01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/lea01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/lea01.png?raw=true)
+
+### lgo01 Ladies & Gents Outfitting (S. Stein)
+xml text: [lea01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/lgo01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/lgo01-ladies-gents-outfitting.png?raw=true)
+
+### map01 Maple & Co.
+xml text: [map01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/map01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/map01-Maple-and-Co.png?raw=true)
+
+### mav01 Magasins Victoria
+xml text: [mav01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/mav01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/mav01-Magasins-Victoria.png?raw=true)
+
+### mco01 Martell Cognac
+xml text: [mco01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/mco01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/mco01-Martell-Cognac.png?raw=true)
+
+### mic01 Marine Insurance Company, Limited.
+xml text: [mic01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/mic01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/mic01-Marine-Insurance-Company-Limited.png?raw=true)
+
+### mil01 Milner's Safes
+xml text: [mil01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/mil01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/mil01-Milners-Safes.jpg?raw=true)
+
+### mma01 Messageries Maritimes
+xml text: [mma01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/mma01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/mma01-Messageries-Maritimes.png?raw=true)
+
+### mss01 The Moss S. S. Company, Ltd.
+xml text: [mss01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/mss01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/mss01-The-Moss-SS-Company-Ltd.png?raw=true)
+
+### nbe01 National Bank of Egypt
+xml text: [nbe01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nbe01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nbe01-National-Bank-of-Egypt.png?raw=true)
+
+### ncs01 Nile Cold Storage
+xml text: [ncs01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ncs01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ncs01-Nile-Cold-Storage.png?raw=true)
+
+### nfl01 Northern Fire and Life Assurance Coy
+xml text: [nfl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nfl01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nfl01-Northern-Fire-and-Life-Assurance-Coy.png?raw=true)
+
+### ngi01 Navigation Generale Italienne
+xml text: [ngi01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ngi01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ngi01-Navigation-Generale-Italienne.png?raw=true)
+
+### nkh01 New Khedivial Hotel Alexandria
+xml text: [nkh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nkh01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nkh01-New-Khedivial-Hotel-Alexandria.png?raw=true)
+
+### nll01 Norddeutscher Lloyd
+xml text: [nll01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nll01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nll01-Norddeutscher-Lloyd.png?raw=true)
+
+### nll02 Norddeutscher Lloyd
+xml text: [nll02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nll02.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nll02-Norddeutscher-Lloyd-II.png?raw=true)
+
+### nml01 The National Mutual Life Association of Australasia, Limited
+xml text: [nml01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nml01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nml01-The-National-Mutual-Life-Association-of-Australasia-Limited.png?raw=true)
+
+### nrp01 Nouveau Remede Purgatif
+xml text (containing errors?): [nrp01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nrp01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nrp01-Nouveau-Remede-Purgatif.png?raw=true)
+
+### nsa01 N. Spathis
+xml text: [nsa01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nsa01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nsa01-N-Spathis.png?raw=true)
+
+### okl01 Orenstein & Koppel Ltd.
+xml text: [okl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/okl01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/okl01-orenstein-koppel.png?raw=true)
+
+### opl01 Orient-Pacific Line of Royal Mail Steamers
+xml text: [opl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/opl01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/opl01-Orient-Pacific-Line-of-Royal-Mail-Steamers.png?raw=true)
+
+### pap01 The Papyanni Line
+xml text: [pap01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pap01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pap01-The-Papyanni-Line.png?raw=true)
+
+### pdd01 Pilules du Docteur Dehaut
+xml text: [pdd01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pdd01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pdd01-pilules-du-docteur-dehaut.png?raw=true)
+
+### pel01 Pelican Brand
+xml text: [pel01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pel01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pel01-Pelican-Brand.png?raw=true)
+
+### phc01 P. Henderson & Co.'s Line.
+xml text: [phc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/phc01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/phc01-P-Henderson-Cos-Line.png?raw=true)
+
+### pos01 Peninsular and Oriental S.N. Company
+xml text: [pos01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pos01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pos01-Peninsular-and-Oriental-S-N-Company.png?raw=true)
+
+### pri01 Prince Line
+xml text: [pri01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pri01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pri01-Prince-Line.png?raw=true)
+
+### pss01 Port Said Savoy Hotel
+xml text: [pss01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pss01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pss01-Port-Said-Savoy-Hotel.png?raw=true)
 
-### pss1 Port Said Savoy Hotel
-xml text: [pss1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pss1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pss1-Port-Said-Savoy-Hotel.png?raw=true)
+### pwl01 Papier Wlinsi
+xml text: [pwl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pwl01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pwl01-Papier-Wlinsi.png?raw=true)
 
-### pwl1 Papier Wlinsi
-xml text: [pwl1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pwl1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pwl1-Papier-Wlinsi.png?raw=true)
+### rea01 Royal Exchange Assurance
+xml text: [rea01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/rea01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/rea01-Royal-Exchange-Assurance.png?raw=true)
 
-### rea1 Royal Exchange Assurance
-xml text: [rea1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/rea1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/rea1-Royal-Exchange-Assurance.png?raw=true)
+### ric01 Royal Insurance Coy
+xml text: [ric01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ric01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ric01-Royal-Insurance-Coy.png?raw=true)
 
-### ric1 Royal Insurance Coy
-xml text: [ric1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ric1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ric1-Royal-Insurance-Coy.png?raw=true)
+### rsn01 Russian Steam Navigation
+xml text: [rsn01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/rsn01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/rsn01-Russian-Steam-Navigation.png?raw=true)
 
-### rsn1 Russian Steam Navigation
-xml text: [rsn1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/rsn1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/rsn1-Russian-Steam-Navigation.png?raw=true)
+### sde01 Sudan Development & Exploration Company, Limited
+xml text (with errors): [sde01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sde01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sde01-Sudan-Development-Exploration-Company-Limited.png?raw=true)
 
-### sde1 Sudan Development & Exploration Company, Limited
-xml text (with errors): [sde1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sde1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sde1-Sudan-Development-Exploration-Company-Limited.png?raw=true)
+### sgr01 Sudan Government Railways
+xml text: [sgr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sgr01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sgr01-Sudan-Government-Railways.png?raw=true)
 
-### sgr1 Sudan Government Railways
-xml text: [sgr1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sgr1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sgr1-Sudan-Government-Railways.png?raw=true)
+### sio01 Sun Insurance Office
+xml text: [sio01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sio01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sio01-Sun-Insurance-Office.png?raw=true)
 
-### sio1 Sun Insurance Office
-xml text: [sio1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sio1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sio1-Sun-Insurance-Office.png?raw=true)
+### sla01 Standard Life Assurance Company
+xml text: [sla01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sla01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sla01-Standard-Life-Assurance-Company.png?raw=true)
 
-### sla1 Standard Life Assurance Company
-xml text: [sla1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sla1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sla1-Standard-Life-Assurance-Company.png?raw=true)
+### smc01 Steineman, Mabardi & Co
+xml text: [smc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/smc01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/smc01-steineman-mabardi.png?raw=true)
 
-### smc1 Steineman, Mabardi & Co
-xml text: [smc1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/smc1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/smc1-steineman-mabardi.png?raw=true)
+### spa01 Spathis Grill Room
+xml text: [spa01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/spa01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/spa01-Spathis-Grill-Room.png?raw=true)
 
-### spa1 Spathis Grill Room
-xml text: [spa1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/spa1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/spa1-Spathis-Grill-Room.png?raw=true)
+### ssw01 Siemens Schuckert Werke
+xml text: [ssw01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ssw01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ssw01-Siemens-Schuckert-Werke.png?raw=true)
 
-### ssw1 Siemens Schuckert Werke
-xml text: [ssw1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ssw1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ssw1-Siemens-Schuckert-Werke.png?raw=true)
+### sun01 Sunlight
+xml text: [sun01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sun01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sun01-Sunlight.png?raw=true)
 
-### sun1 Sunlight
-xml text: [sun1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sun1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sun1-Sunlight.png?raw=true)
+### sun02 Sunlight
+xml text: [sun02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sun02.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sun02-Sunlight.png?raw=true)
 
-### sun2 Sunlight
-xml text: [sun2](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sun2.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sun2-Sunlight.png?raw=true)
+### tas01 T. A. Spartali & Co.
+xml text: [tas01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text as01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/tas01-T-A-Spartali-Co.png?raw=true)
 
-### tas1 T. A. Spartali & Co.
-xml text: [tas1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text as1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/tas1-T-A-Spartali-Co.png?raw=true)
+### tce01 Telephone Company of Egypt, Limited
+xml text: [tce01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/tce01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/tce01-Telephone-Company-of-Egypt-Limited.png?raw=true)
 
-### tce1 Telephone Company of Egypt, Limited
-xml text: [tce1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/tce1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/tce1-Telephone-Company-of-Egypt-Limited.png?raw=true)
+### tcs01 Thos. Cook & Son
+xml text: [tcs01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/tcs01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/tcs01-Thos-Cook-Son.png?raw=true)
 
-### tcs1 Thos. Cook & Son
-xml text: [tcs1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/tcs1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/tcs1-Thos-Cook-Son.png?raw=true)
+### tcs02 Thos. Cook & Son
+xml text: [tcs02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/tcs02.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/tcs02-Thos-Cook-and-Son.png?raw=true)
 
-### tcs2 Thos. Cook & Son
-xml text: [tcs2](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/tcs2.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/tcs2-Thos-Cook-and-Son.png?raw=true)
+### thc01 Thornes High Class Whiskey
+xml text: [thc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/thc01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/thc01-Thornes-High-Class-Whiskey.png?raw=true)
 
-### thc1 Thornes High Class Whiskey
-xml text: [thc1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/thc1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/thc1-Thornes-High-Class-Whiskey.png?raw=true)
+### the01 Therapion
+xml text: [the01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/the01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/the01-Therapion.png?raw=true)
 
-### the1 Therapion
-xml text: [the1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/the1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/the1-Therapion.png?raw=true)
+### toh01 The Olympus Hotel
+xml text: [toh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/toh01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/toh01-the-olympus-hotel.png?raw=true)
 
-### tsc1 The Seasonable Complaint
-xml text: [tsc1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/tsc1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/tsc1-The-Seasonable-Complaint.png?raw=true)
+### tsc01 The Seasonable Complaint
+xml text: [tsc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/tsc01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/tsc01-The-Seasonable-Complaint.png?raw=true)
 
-### twh1 The Tosh Whiskey
-xml text: [twh1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/twh1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/twh1-The-Tosh-Whiskey.png?raw=true)
+### twh01 The Tosh Whiskey
+xml text: [twh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/twh01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/twh01-The-Tosh-Whiskey.png?raw=true)
 
-### vdt1 Val de Travers
-xml text: [vdt1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/vdt1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/vdt1-Val-de-Travers.png?raw=true)
+### vdt01 Val de Travers
+xml text: [vdt01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/vdt01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/vdt01-Val-de-Travers.png?raw=true)
 
-### wam1 Walker & Meimarachi
-xml text: [wam1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/wam1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/wam1-Walker-and-Meimarachi.png?raw=true)
+### wam01 Walker & Meimarachi
+xml text: [wam01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/wam01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/wam01-Walker-and-Meimarachi.png?raw=true)
 
-### whc1 White Horse Cellar
-xml text: [whc1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/whc1.xml)
+### whc01 White Horse Cellar
+xml text: [whc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/whc01.xml)
 
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/whc1-White-Horse-Cellar.png?raw=true)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/whc01-White-Horse-Cellar.png?raw=true)
 
-### whr1 Windsor Hotel Restaurant
-xml text: [whr1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/whr1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/whr1-Windsor-Hotel-Restaurant.png?raw=true)
+### whr01 Windsor Hotel Restaurant
+xml text: [whr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/whr01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/whr01-Windsor-Hotel-Restaurant.png?raw=true)
 
-### wlb1 Wrexham Lager Beer
-xml text: [wlb1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/wlb1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/wlb1-Wrexham-Lager-Beer.png?raw=true)
+### wlb01 Wrexham Lager Beer
+xml text: [wlb01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/wlb01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/wlb01-Wrexham-Lager-Beer.png?raw=true)
 
-### yos1 Yost Typewriter
-xml text: [yos1](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/yos1.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/yos1-yost.png?raw=true)
+### yos01 Yost Typewriter
+xml text: [yos01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/yos01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/yos01-yost.png?raw=true)
