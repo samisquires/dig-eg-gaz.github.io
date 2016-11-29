@@ -38,6 +38,10 @@ xml:id="deg-el-bokh01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blo
 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/bourse-khediviale.png?raw=true)
 
+*See also variant* (prepared by Brett Crawford): xml:id="deg-el-clbk01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/cloture-de-la bourse-khediviale.xml)
+
+![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/cloture-de-la-bourse-khediviale.jpg?raw=true)
+
 ### Bulletin de la Bourse
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/bulletin-de-la-bourse.png?raw=true)
 
@@ -144,6 +148,8 @@ xml:id="deg-el-lsex01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blo
 ### Marche de Minet el Bassal
 xml:id="deg-el-mmeb01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/marche-de-minet-el-bassal.xml) Tables  xml:id="deg-ta-mmeb01"  xml:id="deg-ta-mmeb02"  xml:id="deg-ta-mmeb03"  xml:id="deg-ta-mmeb04"  xml:id="deg-ta-mmeb05"  xml:id="deg-ta-mmeb06"  xml:id="deg-ta-mmeb07"  xml:id="deg-ta-mmeb08"  xml:id="deg-ta-mmeb09"
 
+The first table is sometimes empty (sans changement). In this case, use [this xml template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/marche-de-minet-el-bassal-alt.xml). "Exportations probable de la semaine" is sometimes absent.
+
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/marche-de-minet-el-bassal.png?raw=true)
 
 ### Mouvement Maritime
@@ -207,6 +213,8 @@ xml:id="deg-el-teha01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blo
 
 ### To-day's Exchange quotations
 xml:id="deg-el-tdeq01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/to-days-exchange-quotations.xml) Table xml:id="deg-ta-tdeq01"
+
+This element often contains only a few changes from day to day.
 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/to-days-exchange-quotations.png?raw=true)
 
