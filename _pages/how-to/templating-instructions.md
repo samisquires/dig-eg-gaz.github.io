@@ -35,7 +35,7 @@ This element typically appears on page 2. A template is [here](https://github.co
 
 These elements come side by side on page 2, though sometimes material is placed in the middle of them. Templates are [here](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/subscriptions-advertisements.xml) (xml:id="deg-el-egsa01") and [here](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/publishing-info.xml) (xml:id="deg-el-egpi01").
 
-In the latter pages of the newspaper, we also find a brief item explaining where and when the paper is sold. Template is [here](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/egyptian-gazette-en-vente.xml). xml:id="deg-el-egev01"
+In the latter pages of the newspaper, we also find a brief item explaining where and when the paper is sold. Template is [here](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/egyptian-gazette-en-vente.xml) (xml:id="deg-el-egev01").
 
 ![Egyptian Gazette en vente](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/egyptian-gazette-en-vente.png?raw=true)
 
@@ -55,3 +55,8 @@ Municipal tenders appear in a formulaic fashion; it is necessary to change dates
 Change name, rank, post, and dates on the [xml template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/claims-against-the-estate.xml).
 
 ![Claims against the estate](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/claims-against-the-estate.png?raw=true)
+
+### 6. Cheap Prepaid Advertisements
+Add each advertisement as a `<div type="item">` within the section. xml:id="deg-el-cppa01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/cheap-prepaid-advertisements.xml)
+
+![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/cheap-prepaid-advertisements.png?raw=true)

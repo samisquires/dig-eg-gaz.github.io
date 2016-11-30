@@ -31,6 +31,8 @@ xml:id="deg-el-adcm01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blo
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/association-des-courtiers.png?raw=true)
 
 ### Association des Courtiers en Marchandises (Service Special)
+xml:id="deg-el-acms01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/association-des-courtiers-service-special.xml)
+
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/association-courtiers-service-special.png?raw=true)
 
 ### Bourse Khediviale
@@ -60,6 +62,13 @@ xml:id="deg-el-cema01" At least one of the "Cereals in Boat" items changes from 
 [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/cereal-market.xml) tables xml:id="deg-ta-cema01" xml:id="deg-ta-cema02"
 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/cereal-market.png?raw=true)
+
+### Cheap Prepaid Advertisements
+xml:id="deg-el-cppa01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/cheap-prepaid-advertisements.xml)
+
+Add each advertisement as a `<div type="item">` within the section.
+
+![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/cheap-prepaid-advertisements.png?raw=true)
 
 ### Claims against the Estate
 xml:id="deg-el-caet01" This element contains consistent text around changing names and details. [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/claims-against-the-estate.xml)

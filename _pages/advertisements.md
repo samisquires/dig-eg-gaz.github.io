@@ -540,3 +540,7 @@ xml text: [wlb01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### yos01 Yost Typewriter
 xml text: [yos01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/yos01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/yos01-yost.png?raw=true)
+
+### yos02 Yost
+xml text: [yos02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/yos02.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/yos02-yost.png?raw=true)
