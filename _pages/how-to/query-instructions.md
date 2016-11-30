@@ -28,9 +28,14 @@ This will return lots of results. It will be useful for you to refine these some
 
 An example of working your way through table cells, looking at prices for cotton:
 
-- `//table//cell[contains(.,'Cotton')]/following-sibling::cell[4]`
+- This query will look at all tables and return the value in the fourth cell to the right of the cell containing the word "Cotton": `//table//cell[contains(.,'Cotton')]/following-sibling::cell[4]`
+- This query will look at the "Coton" table (which has an xml:id of "deg-ta-cotn01"), and return the value in the cell to the right of the cell containing the word "Russie":  `//table[@xml:id="deg-ta-cotn01"]//cell[contains(.,'Russie')]/following-sibling::cell[1]`
 
 It is possible to combine regular expression and xpath searches by using the find/replace menu. <!--- explain further --->
+
+## How do I search using xml:id?
+
+For elements, use `//div[@xml:id="deg-el-cppa01"]`. For tables, use `//table[@xml:id="deg-ta-cppa01"]`.
 
 ## How do I export and manipulate results?
 
