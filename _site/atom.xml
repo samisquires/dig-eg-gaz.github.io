@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>/</id>
 	<title>Digital Egyptian Gazette</title>
-	<updated>2016-12-01T18:10:45-05:00</updated>
+	<updated>2016-12-01T18:14:51-05:00</updated>
 
 	<subtitle>A daily newspaper from turn-of-the-century Egypt, in marked up full text.</subtitle>
 
@@ -62,6 +62,42 @@ and I was able to determine the cause of a few technical errors that came up.&lt
 			
 
 			<published>2016-11-30T00:00:00-05:00</published>
+		</entry>
+	
+		<entry>
+			<id>/technical/vincent-technical-post/</id>
+			<title>Technical Issues</title>
+			<link href="/technical/vincent-technical-post/" rel="alternate" type="text/html" title="Technical Issues" />
+			<updated>2016-11-28T00:00:00-05:00</updated>
+
+			
+				
+				<author>
+					
+						<name>brooklynvincent</name>
+					
+					
+					
+				</author>
+			
+			<summary>Problems I faced during my jouney in IFS2116</summary>
+			<content type="html" xml:base="/technical/vincent-technical-post/">&lt;p&gt;During my journey in IFS2116, I have faced many issues. Some of the issues were easily fixed, some were hard to fix, and some are just plain impossible to fix. My first issue came along the first or second week of class
+when I tried scanning my pages. The computers did not work and then I had to rescan the majority of my page threes.
+The journey is long and tedious and very very time consuming. Another issue I faced was the bad quality of image in general. Many of my images
+had missing words, blurred words, or a mixture of both. Some of the issues even had missing spots in the paper that left me clueless to what belonged in those spots.&lt;/p&gt;
+
+&lt;p&gt;Another technical issue I came across was the ads. A lot of the ads had very tiny bold font that was very difficult to read
+and faded as the ad continued down the page. Though there were many difficulties, I do have to say that I learned a great deal from these problems.
+These technical issues has led me to believe that nothing is perfect and it is those little imperfections that make the Egyptian Gazette Newspaper so beautiful.
+We all must understand that these pages have been passed on for over 50 years and nothing that old is perfect. The amazing thing is how researchers, like ourselves, go about solving these issues.&lt;/p&gt;
+</content>
+
+			
+				<category term="technical" />
+			
+			
+
+			<published>2016-11-28T00:00:00-05:00</published>
 		</entry>
 	
 		<entry>
@@ -376,40 +412,6 @@ student to read each item in question.&lt;/p&gt;
 				<category term="Poison" />
 			
 				<category term="Pets" />
-			
-
-			<published>2016-11-27T00:00:00-05:00</published>
-		</entry>
-	
-		<entry>
-			<id>/technical/Esteve-EgyptianGazetteStructuralIssues/</id>
-			<title>Egyptian Gazette Structural Issues</title>
-			<link href="/technical/Esteve-EgyptianGazetteStructuralIssues/" rel="alternate" type="text/html" title="Egyptian Gazette Structural Issues" />
-			<updated>2016-11-27T00:00:00-05:00</updated>
-
-			
-				
-				<author>
-					
-						<name>JustinEsteve</name>
-					
-					
-					
-				</author>
-			
-			<summary>Encoding Limitations</summary>
-			<content type="html" xml:base="/technical/Esteve-EgyptianGazetteStructuralIssues/">&lt;p&gt;During my week of the Egyptian Gazette, I have several page sevens that are unlike the other pages. These pages focus on travel and mostly have hotel advertisements. However, they also contain commentary about the best way to travel to different places and the differences in climate between the two. This commentary is split between all six columns of the newspaper. There are some advertisements (see below) that are similar in that they take up two columns. However, I have no idea how to encode these page sevens in order to reflect the structure of the newspaper. Up till now, I have just grouped the commentary in one div. If I encoded the page sevens by columns, I would get six random groups of text. Obviously, this would cause a great deal of confusion unless there was a way to connect the text in each column together. A tag that connects the text together might work, but this issue is definitely one worth exploring as we move forward.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/blog-images/1905-12-11-p8-Structure.png?raw=true&quot; alt=&quot;advertisements&quot; /&gt;&lt;/p&gt;
-</content>
-
-			
-				<category term="technical" />
-			
-			
-				<category term="structure" />
-			
-				<category term="encoding" />
 			
 
 			<published>2016-11-27T00:00:00-05:00</published>
