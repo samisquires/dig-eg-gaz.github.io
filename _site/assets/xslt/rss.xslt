@@ -294,6 +294,11 @@
 
                       
 
+                      <li><a href="/how-to/query-instructions">Querying Instructions</a></li>
+                    
+
+                      
+
                       <li><a href="/how-to/blogging-instructions">Blogging Instructions</a></li>
                     
                   </ul>

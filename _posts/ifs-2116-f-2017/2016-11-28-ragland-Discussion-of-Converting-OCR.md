@@ -1,9 +1,9 @@
 ---
-layout: Page
+layout: page
 subheadline: "Christian Ragland"
 title: "Discussion of Converting Text"
 teaser: "My version of venting about my woes within this class."
-date: 2016-11-28 <!--- date of post submission --->
+date: 2016-11-28
 categories:
   - technical
 author: ChristianRagland<!--- all one word --->
@@ -15,7 +15,7 @@ image:
   title: blog-images/Poor-OCR.png
   thumb: blog-images/Poor-OCR.png
   homepage: blog-images/Poor-OCR.png
-  caption: 
+  caption:
   caption_url:
 ---
 My biggest problem with the entire process has been with the OCR process. Perhaps due to poor original scans, or perhaps due to poor images

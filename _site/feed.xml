@@ -9,10 +9,142 @@
 		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Technical</title>
+				<link>/technical/rymer-technical/</link>
+				<pubDate>Wed, 30 Nov 2016 00:00:00 -0500</pubDate>
+				<description>&lt;p&gt;A large portion of this class involves using completely new technologies and applying them to very difficult media.  While technologies such as github, OCR, and
+XML weren’t terribly hard to learn, the application of them for the first time definitely led me to some technical errors that had to be sorted out.  These technical errors
+included poor text recognition that left much of the text unusable, difficult to obtain XML software, and incorrect XML tagging.  The first of these errors can be attributed
+to poor condition of century old documents.  While I was able to focus the microfilm reader very well, many portions of these documents had text that was copied slightly on
+top of itself and occasionally with weak ink.  This led to problems such as columns being mixed together, text that didn’t go through OCR at all, and many errors overall.
+Another technical error I faced was incorrect XML tagging.  After I made all the divs in a page cascade perfectly, I found out that I had tagged headers and subheaders using
+the wrong tags, which was solved using find and replace and also a lot of rearranging of the XML.  Overall, I was able to understand these new technologies fairly smoothly,
+and I was able to determine the cause of a few technical errors that came up.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">/technical/rymer-technical/</guid>
+			</item>
+		
+			<item>
+				<title>Discussion of Converting Text</title>
+				<link>/technical/ragland-Discussion-of-Converting-OCR/</link>
+				<pubDate>Mon, 28 Nov 2016 00:00:00 -0500</pubDate>
+				<description>&lt;p&gt;My biggest problem with the entire process has been with the OCR process. Perhaps due to poor original scans, or perhaps due to poor images
+from the source, I have had serious problems with my OCR coming out correctly. Unfortunately, I’ve had to manually type every page and it has
+caused me countless headaches and more than one mental breakdown. Luckily, things got a bit smoother after finishing all my page 3’s. That being
+said, I’m still working extremely hard at catching up and finishing what I have to do.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">/technical/ragland-Discussion-of-Converting-OCR/</guid>
+			</item>
+		
+			<item>
+				<title>Dead Doggies</title>
+				<link>/serial%20questions/Sain-Serial-Discovery/</link>
+				<pubDate>Sun, 27 Nov 2016 00:00:00 -0500</pubDate>
+				<description>&lt;h1 id=&quot;dogs-sentenced-to-death&quot;&gt;Dogs Sentenced to Death&lt;/h1&gt;
+
+&lt;p&gt;In some of the issues, under the “Local and General” section of the paper, there are sometimes small articles labeled “Stray and Ownerless Dogs,” which is a report of the dogs that have been found that day and where there were discovered. The snippets also always say that the dogs are to be poisoned if not collected. I find this section of the newspaper interesting because it is the announcement of very miniscule news. I find the local and general portion important because it shows the minor details that occur in the day-to-day lives of the citizens of Alexandria. It’s interesting to compare the way animals are talked about in 1905 as compared to now. &lt;a href=&quot;http://www.americanhumane.org/about-us/history/&quot;&gt;In 1905 animals&lt;/a&gt; were viewed mostly as an &lt;a href=&quot;https://books.google.com/books?id=kn9xAAAAIAAJ&amp;amp;pg=PA214&amp;amp;lpg=PA214&amp;amp;dq=treatment+of+animals+in+1905&amp;amp;source=bl&amp;amp;ots=bOPeHYezYT&amp;amp;sig=Ew1RbTvDBxKcu8IgZF0b9YwgfZ4&amp;amp;hl=en&amp;amp;sa=X&amp;amp;ved=0ahUKEwi8v7TIl8rQAhUBEGMKHc73A4gQ6AEIJzAC#v=onepage&amp;amp;q=treatment%20of%20animals%20in%201905&amp;amp;f=false&quot;&gt;agricultural resource&lt;/a&gt; rather than house pets, like how we use them now.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/blog-images/two-dog-pic.png?raw=true&quot; alt=&quot;Two Dogs&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Dogs were not valued as greatly as they are now. In 1905, &lt;a href=&quot;https://books.google.com/books?id=2189AQAAMAAJ&amp;amp;pg=PA609&amp;amp;lpg=PA609&amp;amp;dq=why+were+dogs+poisoned+by+police+1905&amp;amp;source=bl&amp;amp;ots=f2oUZReMBt&amp;amp;sig=zgJ_Y7hHagKLWJyaSBzxSvfPVZA&amp;amp;hl=en&amp;amp;sa=X&amp;amp;ved=0ahUKEwiDvPzgmcrQAhVCqFQKHQQJAQ8Q6AEINDAE#v=onepage&amp;amp;q=poisoned%20dogs&amp;amp;f=false&quot;&gt;the poisoning (and drowning)&lt;/a&gt; of dogs was common and is expected to happen if dogs are found stray and are not claimed. This section may be useful because people could potentially have their animals returned to them, although the declaration of their poisoning is slightly depressing, it is fascinating that it is mentioned in the paper.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/blog-images/picasso-dog.png?raw=true&quot; alt=&quot;Picasso Dog&quot; /&gt;&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">/serial%20questions/Sain-Serial-Discovery/</guid>
+			</item>
+		
+			<item>
+				<title>OCR Woes</title>
+				<link>/technical/grieco-technical/</link>
+				<pubDate>Fri, 25 Nov 2016 00:00:00 -0500</pubDate>
+				<description>&lt;p&gt;For my technical reflection, I have decided to discuss my experiences with the
+OCR software, simply because it was easily the most time-consuming and tedious
+portion of the technical aspects of this class. Since I have a Mac laptop, I
+used the Cisdem OCR software rather than ABBY Finereader.&lt;/p&gt;
+
+&lt;p&gt;The first thing I would like to say is the accuracy with which it translates
+the text is quite disappointing. I would estimate that at MOST 60% of the
+original text was transcribed to my text editor properly, and even more
+frustrating was that specific letters were nearly almost incorrectly written,
+for instance the letter “e” for the entirety of the respective pages was often
+incorrectly recorded as the letter “a”, and vice versa. Furthermore,
+spell-checking entire pages written in French was both lengthy and difficult,
+particularly when I could not read some of the words and could not use context
+clues to figure out what they were supposed to say (because I do not speak
+French). At a certain point I had to simply accept that my XML pages were simply
+going to be filled with egregious errors and a certain level of accuracy was
+impossible to achieve (much to the chagrin of my mild OCD, but hey it was a
+learning experience in patience and Zen).&lt;/p&gt;
+
+&lt;p&gt;Overall, I was not a fan of the OCR software. It was most likely faster than
+manually transcribing entire pages of the newspaper, but it was nonetheless
+aggravating and stressful. Rant over.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">/technical/grieco-technical/</guid>
+			</item>
+		
+			<item>
+				<title>The World&#39;s Worst Job</title>
+				<link>/curiosities/crawford-worldsworstjob/</link>
+				<pubDate>Mon, 21 Nov 2016 00:00:00 -0500</pubDate>
+				<description>&lt;p&gt;Scrolling through the financial tables listed on January 9th, I came across a chart detailing ivory deliveries to London. In the midst of reflecting on what 39 tons of elephant tusks would look like, I noticed an odd source of ivory mentioned in the chart: “Sea Horse Teeth.” This piqued my curiosity, as I had no idea that sea horses were a source of ivory. I immediately began to scheme–I could open the first sustainable sea horse ivory farm.  But in the midst of this, a problem arose. How does one extract sea horse teeth? Tweezers and a magnifying glass? That sounds like a painstakingly miserable job. Also the chart mentioned that 10 cwt. 1 qrs. 14 lb. (about 144 pounds) of sea horse teeth were delivered! How long would extracting that many teeth take? It might be a venture perfectly suited for the British Colonial project, but I realized I had much less capital to work with (also less forced native labor). It dawned on me that there is no earthly way that this chart is talking about the same sea horse that I am familiar with. A google search revealed I was not the first person to be puzzled about the true source of this ivory. &lt;a href=&quot;http://oldblockwriter.blogspot.com/2013/01/the-mystery-of-seahorse-teeth.html&quot;&gt;This link&lt;/a&gt; describes a writer’s journey though old trade documents to discover what animal exactly is being referred to after encountering a similar reference to sea horse teeth, before finally realizing that sea horses don’t even have teeth!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/blog-images/seahorsedentist.jpg?raw=true&quot; alt=&quot;seahorsedentist.jpg&quot; title=&quot;Misinformed Propaganda&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;His conclusion was that it depended on the source of the shipment. If from the polar areas, it would be walrus, but if from Africa, it would be referring to hippopotamus teeth. I admit, in this context hippopotamus teeth makes a lot more sense. The word hippopotamus originally comes from Greek, and translates to “river horse,” while the genus of the seahorse, hippocampus, comes from the Greek words for horse and sea monster. It would seem perhaps that these animals were named a bit backwards. I haven’t been able to find official data on seahorse attack fatalities, but what I have read of hippopotamus’ make them seem far more monstrous, with one article quoting a statistic provided by the Bill &amp;amp; Melinda Gates foundation that the animal causes upwards of 500 fatalities a year. This chart also provides a snapshot of the global ivory trade before it was realized how much environmental damage was actually being done. See &lt;a href=&quot;http://nationalgeographic.org/media/history-ivory-trade/&quot;&gt;this link&lt;/a&gt; for a short documentary on the subject. So while my hopes for a sustainable ivory business might be dashed, I suppose the sea horses can rest easy for now.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">/curiosities/crawford-worldsworstjob/</guid>
+			</item>
+		
+			<item>
+				<title>Events in Alexandria</title>
+				<link>/serial/Events-in-Alexandria/</link>
+				<pubDate>Sun, 20 Nov 2016 00:00:00 -0500</pubDate>
+				<description>&lt;p&gt;One of the most important aspects of culture is the method in which people who share this culture are united. This method of uniting people can be either through language, like in Germany where the dialects are of the utmost importance, or through sports like the Mayan civilizations. I intend to determine the most common public event in Alexandria, in an attempt to gain insight into that which united the people of Alexandria, Egypt even though they were of varying social class and nationality. I plan on discovering the most common public event in the area by collecting information from all of the calendars in the paper and making a full calendar of events for 1905. From there, I’m going to analyze the proportions of events listed and the type of events. From there, I’ll be able to determine the most popular public event in Alexandria, assuming that events that occur more often would be so because they are popular among the people. If the event occurs often, insinuating it’s popular among the people, then it must be at least part of what brings the people together. Thus, while the answer to “what united the people of Alexandria” may be much harder to answer than that which can be found via a simple search of one year of a newspaper, simply determining which events occurred most often could provide a useful beginning to developing the whole of the answer to that much larger question.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">/serial/Events-in-Alexandria/</guid>
+			</item>
+		
+			<item>
+				<title>Serial Question</title>
+				<link>/serial/hofmeister-changes/</link>
+				<pubDate>Sat, 19 Nov 2016 00:00:00 -0500</pubDate>
+				<description>&lt;h1 id=&quot;why-is-everything-different&quot;&gt;Why is everything different&lt;/h1&gt;
+
+&lt;p&gt;While working on my pages for the newspaper, I continually ran into issues regarding the
+financial tables. Almost every single one of mine was very different from the
+templates provided and it was super frustrating and time consuming to change them all.
+Because of this, my serial question for the project will be the following:
+How does the format of financial tables change throughout the year?
+To do this, I will look at the financial tables of numerous issues from different months,
+particularly the daily weather reports and stock exchanges because those are the ones
+I noticed the most differences in for my issue. I will write about the discrepancies
+and use pictures of the financial tables to show the difference. This project will
+show how the newspaper evolved throughout the year.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">/serial/hofmeister-changes/</guid>
+			</item>
+		
+			<item>
+				<title>Odd Football Score</title>
+				<link>/curiosities/Fling-Sports/</link>
+				<pubDate>Tue, 15 Nov 2016 00:00:00 -0500</pubDate>
+				<description>&lt;p&gt;On November 20, 1905 the Egyptian Gazette posted a section about football at the bottom left corner of Page three.&lt;/p&gt;
+
+&lt;p&gt;The New Zealander Football team is the best of the best. In London, on November 18, as suspected, they won another game with the score of 624 to 22. This is a very odd fact because the game of football usually can not reach such high point counts. Unsure of why the score was so high, I began to wonder if “football” really meant the game of football…&lt;/p&gt;
+
+&lt;p&gt;In 1905, the New Zealander Football team was most likely a Rugby team. This is inferred by the time period of the newspaper, and also the location of Alexandria. Rugby is a form of football, but not the original game we play here in the States. The objective of Rugby is to carry and/or kick a ball over the other team’s goal line. There are a few ways to score in rugby: try = 5 points, conversion goal = 2 points, penalty goal = 3 points, drop goal = 3 points. Being such small increments of points, it’s questionable how the New Zealanders team scored 624 points in this game recorded in the Egyptian Gazette.&lt;/p&gt;
+
+&lt;p&gt;This area was known for their interest in sporting activities. Often, sporting events are mentioned in the Egyptian Gazette. This shows that the demand for sporting information and updates was at a high demand in the Alexandria area. The community, as a whole, enjoyed the sporting events and kept up with their favorite team’s Win/Loss ratio through the Egyptian Gazette.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">/curiosities/Fling-Sports/</guid>
+			</item>
+		
+			<item>
 				<title>Issues with the Issue</title>
 				<link>/technical/cooper-technical/</link>
 				<pubDate>Mon, 14 Nov 2016 00:00:00 -0500</pubDate>
-				<description>&lt;h2 id=&quot;this-stuff-is-harder-than-it-looks&quot;&gt;This stuff is harder than it looks&lt;/h2&gt;
+				<description>&lt;p&gt;This stuff is harder than it looks.&lt;/p&gt;
 
 &lt;p&gt;Like most of the people in this class, I have came across a formidable amount of problems while trying to do basically every step of this project. When I first began scanning my images for OCR, the first two columns of each of my page threes were blurred out so I had to go back to the library to re-scan the images more times than seemed necessary. To add to the latter, the &lt;em&gt;AABBY&lt;/em&gt; software was not the best at recognizing the characters, ergo, it was a long and gruesome process to correct all of the errors. Formatting the edited text into TEI was quite difficult as well due to the fact that this is my first time working with code. Had this class been offered for more than one semester, it may have been feasible to accomplish everything listed in the syllabus.&lt;/p&gt;
 </description>
@@ -30,113 +162,6 @@
 &lt;p&gt;Hopefully, there will be additional information like the admiral(s) present with each fleet, the number, names and types of ships and any losses if a battle has occurred. Any information that is lacking in the newspaper can hopefully be supplemented by &lt;a href=&quot;http://www.history.com/this-day-in-history/russian-fleet-surrenders-at-port-arthur&quot;&gt;outside historical records&lt;/a&gt;. After collecting and organizing the data, I plan on using Google maps to plot the location and movements of the fleets, which will then be tagged with all of the non-locational data. That way, there will be a spiderweb across a map of the oceans linking points that can be clicked on for all available information on what happened there.&lt;/p&gt;
 </description>
 				<guid isPermaLink="true">/serial%20questions/Stefonek-Some-Serial-Food-For-Thought/</guid>
-			</item>
-		
-			<item>
-				<title>The Dead of Alexandria</title>
-				<link>/serial%20question/Dead-Alexandrians-Hank-Thompson/</link>
-				<pubDate>Sat, 12 Nov 2016 00:00:00 -0500</pubDate>
-				<description>&lt;p&gt;My serial question is rather simple, I want to see how many deaths occurred in Alexandria during the year of 1905. I want to compare demographics, causes of deaths, location and from this compile a map, to the best of my ability to display this information. This map would be relatively simple; it would obviously be a map of the city corresponding to that time period with dots marking as many of the local deaths as I can manage. To help compare the causes of death, I have developed a system to differentiate the points, with red being for murder/manslaughter, green and black for disease, blue for drowning, and white for accidents. While this system is bare bones and might very well be refined as I proceed, it is the basic idea of categorization I wanted to convey.&lt;/p&gt;
-
-&lt;p&gt;I noticed while working on the paper that death was treated as more common place and matter of fact than what we are used to today, and decided it might be worth talking about and mapping. For instance, the paper reported on the &lt;a href=&quot;https://dig-eg-gaz.github.io/curiosities/building-collapse-hank-thompson/&quot;&gt;collapse of a house and the death of all its occupants&lt;/a&gt; only once, and while I have not seen anything else about collapsing structures in Alexandria, I wondered if perhaps poor building practices might be involved. Its possible as I search through the papers I might find more collapses that claim people lives and from there might be able to hypothesize about infrastructural problems that might have been facing Alexandria.
-By examining the local deaths of Alexandria, not only will I hopefully be able to build a rather interesting map, I might also be able to examine some problems that the city might have been facing below the surface.&lt;/p&gt;
-</description>
-				<guid isPermaLink="true">/serial%20question/Dead-Alexandrians-Hank-Thompson/</guid>
-			</item>
-		
-			<item>
-				<title>Difficulties with OCR</title>
-				<link>/technical/black-difficulties-with-OCR/</link>
-				<pubDate>Wed, 09 Nov 2016 00:00:00 -0500</pubDate>
-				<description>&lt;p&gt;One of the main goals in this class is to covert an old newspaper into a website that allows it to be easily accessed by anyone. In order to do this we must complete one very vital, and apparently very difficult step: covert pictures of microfilm into reader editable, text. This is called OCR (optical character recognition) and thankfully there are lots of programs available to us to make this process extremely simple, or so it’s thought. One of these programs is ABBYY’s FineReader, which was the one first suggested to us. This program apparently does wonders if you are using a Windows computer, but for us Mac users it only creates disappointment. Instead of converting our images into readable text, it converts them into an agglomeration of random characters that sometimes resemble words in the English language. I’ve provided a short example of one of these “conversions” done on the first few lines of one of my microfilm images. I’ve tried rescanning my images, making adjustments in FineReader, and tried a different OCR program to try and achieve better results and nothing has worked in my favor.  So, instead of making small corrections to the text as it should be, I am forced to basically retype the entire page. This process is &lt;strong&gt;extremely time-consuming&lt;/strong&gt; and I am positive that if I had an OCR program that loved my Mac computer as much as others seem to love Windows ones, I would have completed much more of my work by now.&lt;/p&gt;
-</description>
-				<guid isPermaLink="true">/technical/black-difficulties-with-OCR/</guid>
-			</item>
-		
-			<item>
-				<title>OCR OCSucks</title>
-				<link>/technical/Sain-technical-reflection/</link>
-				<pubDate>Wed, 09 Nov 2016 00:00:00 -0500</pubDate>
-				<description>&lt;p&gt;Although the whole process of learning new word processing and encoding programs was challenging, the most frustrating aspect was the &lt;a href=&quot;https://www.abbyy.com/en-us/finereader/about-ocr/what-is-ocr/&quot;&gt;OCR&lt;/a&gt;. It is supposed to be a faster way to translate the newspaper pages into plain text, it turned out to take up about as much time as it would have to hand type it all. I felt as if no matter how many times I scanned the &lt;a href=&quot;https://www.nedcc.org/free-resources/preservation-leaflets/6.-reformatting/6.1-microfilm-and-microfiche&quot;&gt;microfilm&lt;/a&gt; images and changed the focus, brightness, contrast, or zoomed in on the page, it would not run through &lt;a href=&quot;https://www.abbyy.com/en-us/&quot;&gt;ABBYY&lt;/a&gt; in the way I was expecting it to. I was hoping to have to make minimal corrections after the scanned images were OCRed, but with all the pages I have done up to this point, I have had to make a minimum of two hours’ worth of corrections per page. The word processing software may read a majority of the words (I would estimate around 85%), I still spent a majority of my time in this class fixing the mistakes the OCR made. I also found the other programs in this class easier to use than ABBYY. Sometimes while editing a word, the image it received it from would disappear, I also found the ordering of the paragraphs challenging at times. Overall, the program may have saved me some time, but another OCR processor may be more efficient, from my experience.&lt;/p&gt;
-</description>
-				<guid isPermaLink="true">/technical/Sain-technical-reflection/</guid>
-			</item>
-		
-			<item>
-				<title>Wife Murder</title>
-				<link>/curiosities/cooper-wife-murder/</link>
-				<pubDate>Wed, 09 Nov 2016 00:00:00 -0500</pubDate>
-				<description>&lt;p&gt;&lt;em&gt;On the twenty-fourth inst. of January,&lt;/em&gt; an incident involving a woman and her enraged husband occurred. The man killed his wife by hitting her on the head using a metal bar made of iron and fled the scene. &lt;strong&gt;The former clerk from Gabbari has yet to be discovered.&lt;/strong&gt;
-The motive for committing this heinous crime is unknown. Perhaps his wife was cheating on him or maybe she cooked him a poor meal. I find it interesting that an event of this magnitude is not given a bigger article. Someone’s life has been ended and there is a possibility that others may be in danger. More information should be provided and this news story should not be shrugged off as an every day occurrence Either way, the suspect is still at large and he needs to be caught before he spreads his mayhem elsewhere.&lt;/p&gt;
-</description>
-				<guid isPermaLink="true">/curiosities/cooper-wife-murder/</guid>
-			</item>
-		
-			<item>
-				<title>Running out of Time</title>
-				<link>/technical/Taylor-blog-post-2/</link>
-				<pubDate>Tue, 08 Nov 2016 00:00:00 -0500</pubDate>
-				<description>&lt;p&gt;Converting images to text has been a difficult process from start to finish. From the very start, FineReader did not seem to be responding well to my scans. It produced a multitude of errors (nearly every other word at points) that did not seem to be the result of poor scans. Then, one day I went to do some more work with it, and the program wouldn’t start up even though my trial period was not over yet. It displayed a message which said that ABBYY FineReader 12 would be terminated because it was corrupted. I discovered that one other student had the exact same problem, so at least I knew that it was not just my little computer giving up on life from working so hard.&lt;/p&gt;
-
-&lt;p&gt;Thankfully I only had a couple more page threes to do at that point. So, I used my roommate’s Mac and did those. Now that I’ve moved on to other pages, I’m just typing up whatever articles appear since this doesn’t seem to take too much longer than it did to go back and correct all the text. All in all, this class has been far more difficult than I envisioned it being (especially for someone who is not great with computers), but I am not ready to give up on it.&lt;/p&gt;
-</description>
-				<guid isPermaLink="true">/technical/Taylor-blog-post-2/</guid>
-			</item>
-		
-			<item>
-				<title>Time Issues</title>
-				<link>/technical/hofmeister-time-issues/</link>
-				<pubDate>Mon, 07 Nov 2016 00:00:00 -0500</pubDate>
-				<description>&lt;p&gt;To be honest, this class is not what I expected it to be. I did not expect
-to be learning how to code things or doing xml or anything that involved
-technical skills. While learning the skills is not difficult, it is
-difficult to find the time it takes to complete the assignments.
-I try to set aside time to complete pages and to edit the text,
-however I can never find enough time. For me, this is a huge issue
-because I am super obsessive about my grades and I am actually
-concerned about not receiving a good grade in this class. I do not face
-any technical issues, just time issues. Thus far I have completed the first
-three pages of everyday , the only issue in the pages that I find is not
-being able to read the data for financial tables. The data is always written
-very small and it tends to be smudged and &lt;strong&gt;I hate it and it gives me a headache.&lt;/strong&gt;&lt;/p&gt;
-</description>
-				<guid isPermaLink="true">/technical/hofmeister-time-issues/</guid>
-			</item>
-		
-			<item>
-				<title>When a Patch Won&#39;t Do!</title>
-				<link>/technical/-/curiosities/cyr-WhenAPatchWontDo/</link>
-				<pubDate>Sun, 06 Nov 2016 00:00:00 -0400</pubDate>
-				<description>&lt;p&gt;Attempting to digitize a year of the Egyptian Gazette newspaper proves difficult as students find their individual difficulties in attempting the task.&lt;/p&gt;
-
-&lt;p&gt;The year to be digitized is 1905, and each student has been given a week to digitize and examine the newspaper’s contents as the task is completed. Getting the pages from the microfilm to a more reader friendly medium is a task for a patient soul!&lt;/p&gt;
-
-&lt;p&gt;One problem encountered is a large hole that the &lt;em&gt;original&lt;/em&gt; print newspaper had just before it was scanned. Information lost at this stage is detrimental as there are only two copies of microfilm in the country (both copies are most likely identical copies) and a trip to London to see the original remaining Egyptian Gazette copies was, unfortunately, declined by our instructor!&lt;/p&gt;
-
-&lt;p&gt;An important lesson has been learned in preserving past information when possible. Microhistorical details can be lost, when in some rare instances, one bit of information is all it takes to piece together a puzzle that has plagued historians since the time the articles have been written.&lt;/p&gt;
-
-&lt;p&gt;The result is simply accepting our realities and a great lesson towards preservation.&lt;/p&gt;
-
-&lt;h2 id=&quot;for-further-study&quot;&gt;For further study:&lt;/h2&gt;
-&lt;p&gt;Best Way to Preserve Your Newspaper:
-&lt;a href=&quot;http://www.mnhs.org/preserve/conservation/reports/nytimes_preserving.pdf&quot;&gt;http://www.mnhs.org/preserve/conservation/reports/nytimes_preserving.pdf&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Getting Started with Microfilm:
-&lt;a href=&quot;http://www.archives.state.al.us/officials/microfilmbasics02.html&quot;&gt;http://www.archives.state.al.us/officials/microfilmbasics02.html&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;A Word About Microhistory:
-&lt;a href=&quot;http://historynewsnetwork.org/article/23720&quot;&gt;http://historynewsnetwork.org/article/23720&lt;/a&gt;&lt;/p&gt;
-</description>
-				<guid isPermaLink="true">/technical/-/curiosities/cyr-WhenAPatchWontDo/</guid>
-			</item>
-		
-			<item>
-				<title>“Avoid Female Society”</title>
-				<link>/curiosities/black-avoid-female-society/</link>
-				<pubDate>Sun, 06 Nov 2016 00:00:00 -0400</pubDate>
-				<description>&lt;p&gt;The &lt;em&gt;Egyptian Gazette&lt;/em&gt; includes a section called &lt;strong&gt;“CALENDAR OF THE WEEK”&lt;/strong&gt; in every issue which lists the important events happening in Alexandria and its surrounding areas. This serves as a tool to keep its citizens up-to-date with what is happening in the town and advises them to go and participate in these events. Throughout the week of August 7 to August 12, 1905, the section lists plays, concerts, and other kinds of events for general entertainment. However, the issue for August 7, 1905 includes a peculiar calendar of events. For the areas of Coptic and Mohamedan, the calendar lists actions the people should take rather than events they should attend. What is even more interesting is the actions themselves. For Sunday, August 6th, it reads, “Avoid female society” and on Tuesday, August 8, it reads “Avoid eating onions and garlic”. The week gets even more interesting by following with “Drink cold water before breakfast” and “Great abundance of watermelons”. The calendar section leaves no explanation as to why these events have been posted. I am curious to know whether it was some kind of joke or if these events were meant to be taken seriously for some kind of reason.&lt;/p&gt;
-</description>
-				<guid isPermaLink="true">/curiosities/black-avoid-female-society/</guid>
 			</item>
 		
 	</channel>

@@ -3,18 +3,18 @@ layout: page
 subheadline: "Charlie Rymer"
 title: "Technical"
 teaser: "New technology always leads to technical issues, it's important to know their causes."
-date: 2016-11-30 <!--- date of post submission --->
+date: 2016-11-30
 categories:
   - technical
-author: CharlieRymer <!--- all one word --->
+author: CharlieRymer
 tags:
 header: no
-image: <!--- for image-name.png, substitute name you've given your image file --->
+image:
   title: blog-images/microfilm.jpg
   thumb: blog-images/microfilm.jpg
   homepage: blog-images/microfilm.jpg
   caption: Microfilm Reader
-  caption_url: <!--- link-to-page-containing-text? --->
+  caption_url: 
 ---
 
 A large portion of this class involves using completely new technologies and applying them to very difficult media.  While technologies such as github, OCR, and
