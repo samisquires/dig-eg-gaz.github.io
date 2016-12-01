@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>/</id>
 	<title>Digital Egyptian Gazette</title>
-	<updated>2016-12-01T17:35:58-05:00</updated>
+	<updated>2016-12-01T18:04:45-05:00</updated>
 
 	<subtitle>A daily newspaper from turn-of-the-century Egypt, in marked up full text.</subtitle>
 
@@ -100,6 +100,216 @@ said, I’m still working extremely hard at catching up and finishing what I hav
 		</entry>
 	
 		<entry>
+			<id>/serial%20questions/Taylor-blog-post-3/</id>
+			<title>Exploring Expeditions</title>
+			<link href="/serial%20questions/Taylor-blog-post-3/" rel="alternate" type="text/html" title="Exploring Expeditions" />
+			<updated>2016-11-28T00:00:00-05:00</updated>
+
+			
+				
+				<author>
+					
+						<name>emmataylor</name>
+					
+					
+					
+				</author>
+			
+			<summary>Ironically, my exploration in search of a serial question ended with just that...exploration.</summary>
+			<content type="html" xml:base="/serial%20questions/Taylor-blog-post-3/">&lt;p&gt;Originally, I thought that my serial question was going to focus on missing persons and examine the amount of information provided for each particular circumstance. However, as I began to try to develop a query for that topic, I had difficulty finding much data other than what I had seen in my issue. So, I began to explore new ideas. I found myself still interested in the stories concerning specific people and began to investigate random names. I eventually found that there were multiple accounts in multiple issues tracking the movement of explorers. With this, I began to wonder about the most common reasons and locations for expeditions reported in the 1905 Egyptian Gazette. I developed a simple query to find information relating to my question by searching for items containing the word “expedition.” This brought back quite a few results. My hope is that the information gathered from these results will provide some insight into the “who, what, and why” of the expeditions reported in the paper. I also hope to discover how many of these were “successful” and what determined them to be so. I anticipate some trends in location and perhaps even in the reasons for traveling. For the final analysis, I believe that a map will be beneficial.&lt;/p&gt;
+</content>
+
+			
+				<category term="serial questions" />
+			
+			
+				<category term="expeditions" />
+			
+				<category term="destinations" />
+			
+				<category term="purpose" />
+			
+				<category term="explorers" />
+			
+
+			<published>2016-11-28T00:00:00-05:00</published>
+		</entry>
+	
+		<entry>
+			<id>/curiosities/Ragland-A-sad-englishman/</id>
+			<title>A Sad Englishman</title>
+			<link href="/curiosities/Ragland-A-sad-englishman/" rel="alternate" type="text/html" title="A Sad Englishman" />
+			<updated>2016-11-28T00:00:00-05:00</updated>
+
+			
+				
+				<author>
+					
+						<name>ChristianRagland</name>
+					
+					
+					
+				</author>
+			
+			<summary>A man&#39;s ear used for negotiation.</summary>
+			<content type="html" xml:base="/curiosities/Ragland-A-sad-englishman/">&lt;p&gt;A rather unfortunate English soldier was captured by an employee of a Turkish tobacco company who sent one of his ears to the Consul at Monastir, ordering a ransom be paid for him.  Interestingly enough, this tobacco company is still around today–in a sense.  The company was the Ottoman Empire’s largest foreign investment.  It was called “Tekel” in 1825, but is actually still called “Regie” in Lebanon.  I found it interesting that the company selling Lebanese tobacco is the same company which cut off an English soldier’s ear way back in 1905.&lt;/p&gt;
+</content>
+
+			
+				<category term="curiosities" />
+			
+			
+				<category term="international" />
+			
+				<category term="ott" />
+			
+				<category term="Englishman" />
+			
+
+			<published>2016-11-28T00:00:00-05:00</published>
+		</entry>
+	
+		<entry>
+			<id>/curiosities/Eugenio-entericfever/</id>
+			<title>Enteric Fever</title>
+			<link href="/curiosities/Eugenio-entericfever/" rel="alternate" type="text/html" title="Enteric Fever" />
+			<updated>2016-11-28T00:00:00-05:00</updated>
+
+			
+				
+				<author>
+					
+						<name>JohannaEugenio</name>
+					
+					
+					
+				</author>
+			
+			<summary>This blog post is about Enteric fever and the army.</summary>
+			<content type="html" xml:base="/curiosities/Eugenio-entericfever/">&lt;p&gt;While reading through the Egyptian Gazette issues I was assigned, I came across an article that has to do with Enteric Fever. This article intrigued me because I was not familiar with the disease. After reading through the article it sparked my interest and I began to look up what this disease was. I found out that Enteric Fever is also known as Typhoid Fever. This illness is associated with Salmonella typhi bacteria. After reading more about it I realized that Typhoid is caused by bacteria that is similar to Salmonella. This article discusses how it is important to carry out preventative methods for this disease in the army. It then goes on to explain that the health efficiency of the Army has been increased by a lot. They talk about how they encourage men in the army to have better hygiene in hopes for better overall health. I think this is interesting because the article discusses the different types of methods they use to prevent the disease, such as boiling drinking water. It is interesting to see the medical advances for this time compared to current time. Enteric is such a big deal during this time and the prevention of the disease is so important, however as of now I had not even recognized this disease until I read further into it.&lt;/p&gt;
+</content>
+
+			
+				<category term="curiosities" />
+			
+			
+				<category term="Enteric" />
+			
+				<category term="Army" />
+			
+				<category term="illness" />
+			
+
+			<published>2016-11-28T00:00:00-05:00</published>
+		</entry>
+	
+		<entry>
+			<id>/technical/Eugenio-Converting-Difficulties/</id>
+			<title>Difficulties with Converting images into XML</title>
+			<link href="/technical/Eugenio-Converting-Difficulties/" rel="alternate" type="text/html" title="Difficulties with Converting images into XML" />
+			<updated>2016-11-28T00:00:00-05:00</updated>
+
+			
+				
+				<author>
+					
+						<name>JohannaEugenio</name>
+					
+					
+					
+				</author>
+			
+			<summary>Some technical difficulties I have encountered converting The Egyptian Gazette images to xml files.</summary>
+			<content type="html" xml:base="/technical/Eugenio-Converting-Difficulties/">&lt;p&gt;The biggest difficulty I have encountered is converting my Egyptian Gazette images into the XML format. After scanning my issues of the Egyptian Gazette I then used the Cisdem PDFConverterOCR to convert my images into text files. After doing this I noticed many errors within my text file and it took me hours to edit one page, sometimes causing me to retype the entire page. Most of my text file would be random letters or symbols that were impossible to decipher.&lt;/p&gt;
+
+&lt;p&gt;After retyping many pages I learned about rescanning photos and the stitching process. I then used this method to rescan my image files and as for the Cisdem converter this made the images more clear and the text came out more fluent but there were still errors but not nearly as much as before. Due to the several errors I have in my text files it has slowed down the entire process for me. I believe I have spent most of my time working on fixing the text. Once moving past this portion I was able to get into more interesting things and was able to add tags and organize my XML files.&lt;/p&gt;
+
+&lt;p&gt;I believe if I had understood the stitching process sooner I would have saved myself hours and would not have had to retype pages entirely. However, once I progressed past this portion of the work I noticed that ad pages were much easier and took less time.&lt;/p&gt;
+</content>
+
+			
+				<category term="technical" />
+			
+			
+				<category term="Techincal" />
+			
+				<category term="XML" />
+			
+				<category term="Cisdem PDF Converter" />
+			
+
+			<published>2016-11-28T00:00:00-05:00</published>
+		</entry>
+	
+		<entry>
+			<id>/serial%20question/Cyr-Serial-Question/</id>
+			<title>Diseases of Egypt in 1905</title>
+			<link href="/serial%20question/Cyr-Serial-Question/" rel="alternate" type="text/html" title="Diseases of Egypt in 1905" />
+			<updated>2016-11-28T00:00:00-05:00</updated>
+
+			
+				
+				<author>
+					
+						<name>ErekCyr</name>
+					
+					
+					
+				</author>
+			
+			<summary>What are some of the most prevalent diseases found in Egypt in 1905?</summary>
+			<content type="html" xml:base="/serial%20question/Cyr-Serial-Question/">&lt;p&gt;The purpose of this blog post is to investigate a serial question within the Egyptian Gazette. The serial question should
+discuss a pattern of information that is found throughout the year. My question of interest surrounds various diseases that were
+present in Egypt in the year of 1905, and perhaps a more narrow focus can then be geared toward the
+most prevalent disease found in this area at this time. So the serial question(s) could be, “What kind of diseases were prevalent in Egypt
+during this time-period? Does any one disease stand out in particular?”&lt;/p&gt;
+
+&lt;p&gt;To find this information, a search of other classmates’ work on the &lt;em&gt;Egyptian Gazette&lt;/em&gt; will be conducted in order
+to find as much information possible on the diseases presented by this newspaper. It is important to note
+that due to space and limited knowledge of the time, many diseases may not have been reported to, or
+expressed by, the &lt;em&gt;Egyptian Gazette&lt;/em&gt;. Information is also limited to how well students have transferred the digitized
+newspaper to .xml in Github.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/blog-images/PlagueSnippet.png?raw=true&quot; alt=&quot;image name&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;What do I hope to achieve with my serial question?:&lt;/p&gt;
+
+&lt;p&gt;First, I would like to have a solid amount of information about diseases in Egypt within the time period of 1905. In order to
+obtain this information, the cumulative work of other students will need to be gathered within the course content and gleaned over.
+I would like to then gather this information and present it in a visual way for others to easily understand. Information within a visual
+graph should show people what diseases are prevalent in this area, at this time and observers should be able to determine easily which
+diseases were most prevalent.&lt;/p&gt;
+
+&lt;p&gt;Issues:&lt;/p&gt;
+
+&lt;p&gt;There are some hiccups in the way. Some work done on the website may not have been coded properly, or it may have been coded in different
+ways which return different results during a search. This creates a problem when using the search function XPath Query. This query searches
+the cumulative work of all students in regards to the entire year of 1905, within the Egyptian Gazette.&lt;/p&gt;
+
+&lt;p&gt;An example is as follows:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/blog-images/search_term1.png?raw=true&quot; alt=&quot;image name&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The above image shows many results for various search terms. Searching for diseases within the Egyptian Gazette requires multiple
+search terms. For instance, a search of “disease” may yield different results compared to “diseases”. Another issue is sifting through
+information that is not relevant to disease: a search of the term “sick” may return two results 1) “I am sick of these hot summers,” or 2) “I
+have a friend that is sick from the flu.” These two results clearly have different uses of the word and as a result, requires the observing
+student to read each item in question.&lt;/p&gt;
+</content>
+
+			
+				<category term="serial question" />
+			
+			
+				<category term="disease" />
+			
+				<category term="Egypt" />
+			
+
+			<published>2016-11-28T00:00:00-05:00</published>
+		</entry>
+	
+		<entry>
 			<id>/serial%20questions/Sain-Serial-Discovery/</id>
 			<title>Dead Doggies</title>
 			<link href="/serial%20questions/Sain-Serial-Discovery/" rel="alternate" type="text/html" title="Dead Doggies" />
@@ -138,6 +348,40 @@ said, I’m still working extremely hard at catching up and finishing what I hav
 				<category term="Poison" />
 			
 				<category term="Pets" />
+			
+
+			<published>2016-11-27T00:00:00-05:00</published>
+		</entry>
+	
+		<entry>
+			<id>/technical/Esteve-EgyptianGazetteStructuralIssues/</id>
+			<title>Egyptian Gazette Structural Issues</title>
+			<link href="/technical/Esteve-EgyptianGazetteStructuralIssues/" rel="alternate" type="text/html" title="Egyptian Gazette Structural Issues" />
+			<updated>2016-11-27T00:00:00-05:00</updated>
+
+			
+				
+				<author>
+					
+						<name>JustinEsteve</name>
+					
+					
+					
+				</author>
+			
+			<summary>Encoding Limitations</summary>
+			<content type="html" xml:base="/technical/Esteve-EgyptianGazetteStructuralIssues/">&lt;p&gt;During my week of the Egyptian Gazette, I have several page sevens that are unlike the other pages. These pages focus on travel and mostly have hotel advertisements. However, they also contain commentary about the best way to travel to different places and the differences in climate between the two. This commentary is split between all six columns of the newspaper. There are some advertisements (see below) that are similar in that they take up two columns. However, I have no idea how to encode these page sevens in order to reflect the structure of the newspaper. Up till now, I have just grouped the commentary in one div. If I encoded the page sevens by columns, I would get six random groups of text. Obviously, this would cause a great deal of confusion unless there was a way to connect the text in each column together. A tag that connects the text together might work, but this issue is definitely one worth exploring as we move forward.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/blog-images/1905-12-11-p8-Structure.png?raw=true&quot; alt=&quot;advertisements&quot; /&gt;&lt;/p&gt;
+</content>
+
+			
+				<category term="technical" />
+			
+			
+				<category term="structure" />
+			
+				<category term="encoding" />
 			
 
 			<published>2016-11-27T00:00:00-05:00</published>
@@ -196,221 +440,6 @@ aggravating and stressful. Rant over.&lt;/p&gt;
 			
 
 			<published>2016-11-25T00:00:00-05:00</published>
-		</entry>
-	
-		<entry>
-			<id>/curiosities/crawford-worldsworstjob/</id>
-			<title>The World&#39;s Worst Job</title>
-			<link href="/curiosities/crawford-worldsworstjob/" rel="alternate" type="text/html" title="The World&#39;s Worst Job" />
-			<updated>2016-11-21T00:00:00-05:00</updated>
-
-			
-				
-				<author>
-					
-						<name>williamcrawford</name>
-					
-					
-					
-				</author>
-			
-			<summary></summary>
-			<content type="html" xml:base="/curiosities/crawford-worldsworstjob/">&lt;p&gt;Scrolling through the financial tables listed on January 9th, I came across a chart detailing ivory deliveries to London. In the midst of reflecting on what 39 tons of elephant tusks would look like, I noticed an odd source of ivory mentioned in the chart: “Sea Horse Teeth.” This piqued my curiosity, as I had no idea that sea horses were a source of ivory. I immediately began to scheme–I could open the first sustainable sea horse ivory farm.  But in the midst of this, a problem arose. How does one extract sea horse teeth? Tweezers and a magnifying glass? That sounds like a painstakingly miserable job. Also the chart mentioned that 10 cwt. 1 qrs. 14 lb. (about 144 pounds) of sea horse teeth were delivered! How long would extracting that many teeth take? It might be a venture perfectly suited for the British Colonial project, but I realized I had much less capital to work with (also less forced native labor). It dawned on me that there is no earthly way that this chart is talking about the same sea horse that I am familiar with. A google search revealed I was not the first person to be puzzled about the true source of this ivory. &lt;a href=&quot;http://oldblockwriter.blogspot.com/2013/01/the-mystery-of-seahorse-teeth.html&quot;&gt;This link&lt;/a&gt; describes a writer’s journey though old trade documents to discover what animal exactly is being referred to after encountering a similar reference to sea horse teeth, before finally realizing that sea horses don’t even have teeth!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/blog-images/seahorsedentist.jpg?raw=true&quot; alt=&quot;seahorsedentist.jpg&quot; title=&quot;Misinformed Propaganda&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;His conclusion was that it depended on the source of the shipment. If from the polar areas, it would be walrus, but if from Africa, it would be referring to hippopotamus teeth. I admit, in this context hippopotamus teeth makes a lot more sense. The word hippopotamus originally comes from Greek, and translates to “river horse,” while the genus of the seahorse, hippocampus, comes from the Greek words for horse and sea monster. It would seem perhaps that these animals were named a bit backwards. I haven’t been able to find official data on seahorse attack fatalities, but what I have read of hippopotamus’ make them seem far more monstrous, with one article quoting a statistic provided by the Bill &amp;amp; Melinda Gates foundation that the animal causes upwards of 500 fatalities a year. This chart also provides a snapshot of the global ivory trade before it was realized how much environmental damage was actually being done. See &lt;a href=&quot;http://nationalgeographic.org/media/history-ivory-trade/&quot;&gt;this link&lt;/a&gt; for a short documentary on the subject. So while my hopes for a sustainable ivory business might be dashed, I suppose the sea horses can rest easy for now.&lt;/p&gt;
-</content>
-
-			
-				<category term="curiosities" />
-			
-			
-				<category term="trade" />
-			
-				<category term="environment" />
-			
-				<category term="wild life" />
-			
-				<category term="ivory" />
-			
-
-			<published>2016-11-21T00:00:00-05:00</published>
-		</entry>
-	
-		<entry>
-			<id>/serial/Events-in-Alexandria/</id>
-			<title>Events in Alexandria</title>
-			<link href="/serial/Events-in-Alexandria/" rel="alternate" type="text/html" title="Events in Alexandria" />
-			<updated>2016-11-20T00:00:00-05:00</updated>
-
-			
-				
-				<author>
-					
-						<name>SamanthaLappin</name>
-					
-					
-					
-				</author>
-			
-			<summary>A look into the frequency of public events in the Alexandria and Cairo calendars</summary>
-			<content type="html" xml:base="/serial/Events-in-Alexandria/">&lt;p&gt;One of the most important aspects of culture is the method in which people who share this culture are united. This method of uniting people can be either through language, like in Germany where the dialects are of the utmost importance, or through sports like the Mayan civilizations. I intend to determine the most common public event in Alexandria, in an attempt to gain insight into that which united the people of Alexandria, Egypt even though they were of varying social class and nationality. I plan on discovering the most common public event in the area by collecting information from all of the calendars in the paper and making a full calendar of events for 1905. From there, I’m going to analyze the proportions of events listed and the type of events. From there, I’ll be able to determine the most popular public event in Alexandria, assuming that events that occur more often would be so because they are popular among the people. If the event occurs often, insinuating it’s popular among the people, then it must be at least part of what brings the people together. Thus, while the answer to “what united the people of Alexandria” may be much harder to answer than that which can be found via a simple search of one year of a newspaper, simply determining which events occurred most often could provide a useful beginning to developing the whole of the answer to that much larger question.&lt;/p&gt;
-</content>
-
-			
-				<category term="serial" />
-			
-			
-				<category term="calendar" />
-			
-				<category term="events" />
-			
-				<category term="races" />
-			
-
-			<published>2016-11-20T00:00:00-05:00</published>
-		</entry>
-	
-		<entry>
-			<id>/serial/hofmeister-changes/</id>
-			<title>Serial Question</title>
-			<link href="/serial/hofmeister-changes/" rel="alternate" type="text/html" title="Serial Question" />
-			<updated>2016-11-19T00:00:00-05:00</updated>
-
-			
-				
-				<author>
-					
-						<name>karahofmeister</name>
-					
-					
-					
-				</author>
-			
-			<summary>Format Changing</summary>
-			<content type="html" xml:base="/serial/hofmeister-changes/">&lt;h1 id=&quot;why-is-everything-different&quot;&gt;Why is everything different&lt;/h1&gt;
-
-&lt;p&gt;While working on my pages for the newspaper, I continually ran into issues regarding the
-financial tables. Almost every single one of mine was very different from the
-templates provided and it was super frustrating and time consuming to change them all.
-Because of this, my serial question for the project will be the following:
-How does the format of financial tables change throughout the year?
-To do this, I will look at the financial tables of numerous issues from different months,
-particularly the daily weather reports and stock exchanges because those are the ones
-I noticed the most differences in for my issue. I will write about the discrepancies
-and use pictures of the financial tables to show the difference. This project will
-show how the newspaper evolved throughout the year.&lt;/p&gt;
-</content>
-
-			
-				<category term="serial" />
-			
-			
-				<category term="changes" />
-			
-				<category term="boilerplates" />
-			
-				<category term="financial tables" />
-			
-
-			<published>2016-11-19T00:00:00-05:00</published>
-		</entry>
-	
-		<entry>
-			<id>/serial%20question/barrett-quantitative/</id>
-			<title>Sports in 1905</title>
-			<link href="/serial%20question/barrett-quantitative/" rel="alternate" type="text/html" title="Sports in 1905" />
-			<updated>2016-11-16T00:00:00-05:00</updated>
-
-			
-				
-				<author>
-					
-						<name>brandonbarrett</name>
-					
-					
-					
-				</author>
-			
-			<summary></summary>
-			<content type="html" xml:base="/serial%20question/barrett-quantitative/">&lt;p&gt;I am very interested in the sports that they used to play back in 1905.  I want to figure out what they played, where they played it, how they organized it, and how competitive the games between teams were.  In order to answer all of these questions I will have to look at the week to week wins and losses in their leagues from the Egyptian Gazette, and on top of that I will have to do a bit of background research outside of the newspaper and try to gather all of the information about 1905 sports that I can find. For an example I am going to use a cut out about a rugby game.  As you can see, all that it shows is the sport, rugby football, who played who, Wales and Scotland, where it took place, London, and the score of the game, Wales 6 Scotland 3.  I am going to take this information and check the scores every week.  I will then use those statistics to find out which team is the best and how competitive the teams in the league are with each other.  Other things I would like to find out include how they set up the games like refs, locations, playoffs, scheduling, etc. which I do not think I am going to be able to figure out by only using this text.  I will have to search the internet for anything involving 1905 rugby football and hope that I can find some information on this.&lt;/p&gt;
-</content>
-
-			
-				<category term="serial question" />
-			
-			
-
-			<published>2016-11-16T00:00:00-05:00</published>
-		</entry>
-	
-		<entry>
-			<id>/curiosities/Fling-Sports/</id>
-			<title>Odd Football Score</title>
-			<link href="/curiosities/Fling-Sports/" rel="alternate" type="text/html" title="Odd Football Score" />
-			<updated>2016-11-15T00:00:00-05:00</updated>
-
-			
-				
-				<author>
-					
-						<name>AmberFling</name>
-					
-					
-					
-				</author>
-			
-			<summary>Such a unrealistic score.</summary>
-			<content type="html" xml:base="/curiosities/Fling-Sports/">&lt;p&gt;On November 20, 1905 the Egyptian Gazette posted a section about football at the bottom left corner of Page three.&lt;/p&gt;
-
-&lt;p&gt;The New Zealander Football team is the best of the best. In London, on November 18, as suspected, they won another game with the score of 624 to 22. This is a very odd fact because the game of football usually can not reach such high point counts. Unsure of why the score was so high, I began to wonder if “football” really meant the game of football…&lt;/p&gt;
-
-&lt;p&gt;In 1905, the New Zealander Football team was most likely a Rugby team. This is inferred by the time period of the newspaper, and also the location of Alexandria. Rugby is a form of football, but not the original game we play here in the States. The objective of Rugby is to carry and/or kick a ball over the other team’s goal line. There are a few ways to score in rugby: try = 5 points, conversion goal = 2 points, penalty goal = 3 points, drop goal = 3 points. Being such small increments of points, it’s questionable how the New Zealanders team scored 624 points in this game recorded in the Egyptian Gazette.&lt;/p&gt;
-
-&lt;p&gt;This area was known for their interest in sporting activities. Often, sporting events are mentioned in the Egyptian Gazette. This shows that the demand for sporting information and updates was at a high demand in the Alexandria area. The community, as a whole, enjoyed the sporting events and kept up with their favorite team’s Win/Loss ratio through the Egyptian Gazette.&lt;/p&gt;
-</content>
-
-			
-				<category term="Curiosities" />
-			
-			
-				<category term="Football" />
-			
-				<category term="New Zealander Team" />
-			
-
-			<published>2016-11-15T00:00:00-05:00</published>
-		</entry>
-	
-		<entry>
-			<id>/technical/cooper-technical/</id>
-			<title>Issues with the Issue</title>
-			<link href="/technical/cooper-technical/" rel="alternate" type="text/html" title="Issues with the Issue" />
-			<updated>2016-11-14T00:00:00-05:00</updated>
-
-			
-				
-				<author>
-					
-						<name>MatthewCooper</name>
-					
-					
-					
-				</author>
-			
-			<summary>Various issues I&#39;ve encountered while attempting to digitize my portion of the Egyptian Gazette</summary>
-			<content type="html" xml:base="/technical/cooper-technical/">&lt;p&gt;This stuff is harder than it looks.&lt;/p&gt;
-
-&lt;p&gt;Like most of the people in this class, I have came across a formidable amount of problems while trying to do basically every step of this project. When I first began scanning my images for OCR, the first two columns of each of my page threes were blurred out so I had to go back to the library to re-scan the images more times than seemed necessary. To add to the latter, the &lt;em&gt;AABBY&lt;/em&gt; software was not the best at recognizing the characters, ergo, it was a long and gruesome process to correct all of the errors. Formatting the edited text into TEI was quite difficult as well due to the fact that this is my first time working with code. Had this class been offered for more than one semester, it may have been feasible to accomplish everything listed in the syllabus.&lt;/p&gt;
-</content>
-
-			
-				<category term="Technical" />
-			
-			
-
-			<published>2016-11-14T00:00:00-05:00</published>
 		</entry>
 	
 </feed>
