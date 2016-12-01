@@ -37,6 +37,15 @@ said, I’m still working extremely hard at catching up and finishing what I hav
 			</item>
 		
 			<item>
+				<title>“Technical Reflection“</title>
+				<link>/technical/oulette-technical/</link>
+				<pubDate>Mon, 28 Nov 2016 00:00:00 -0500</pubDate>
+				<description>&lt;p&gt;Unfortunately, my technical reflection is primarily negative. When the class first began I found that scanning my pages and using OCR went pretty smoothly besides the fact that many of the words were not recognized. In most cases I had to retype full paragraphs for the newspaper to make sense. When the XML editor was first introduced to me I was very lost and overwhelmed. I had no idea what XML meant or how it was supposed to change the text. However, with some assistance I have become more adept at placing structural tags and finding errors in my text. TEI-tagged XML text was also a struggle for me. I did not understand exactly how to use it and I was only able to tag two historical figures. I had never heard of the website Github until taking this class and I am still a little unsure what it is exactly used for. Again, with some practice I quickly became comfortable using it to submit the work I have completed. The final challenge I have faced are blog posts, in which I have trouble converting into Markdown and using the correct format.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">/technical/oulette-technical/</guid>
+			</item>
+		
+			<item>
 				<title>Exploring Expeditions</title>
 				<link>/serial%20questions/Taylor-blog-post-3/</link>
 				<pubDate>Mon, 28 Nov 2016 00:00:00 -0500</pubDate>
@@ -147,36 +156,6 @@ student to read each item in question.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/blog-images/1905-12-11-p8-Structure.png?raw=true&quot; alt=&quot;advertisements&quot; /&gt;&lt;/p&gt;
 </description>
 				<guid isPermaLink="true">/technical/Esteve-EgyptianGazetteStructuralIssues/</guid>
-			</item>
-		
-			<item>
-				<title>OCR Woes</title>
-				<link>/technical/grieco-technical/</link>
-				<pubDate>Fri, 25 Nov 2016 00:00:00 -0500</pubDate>
-				<description>&lt;p&gt;For my technical reflection, I have decided to discuss my experiences with the
-OCR software, simply because it was easily the most time-consuming and tedious
-portion of the technical aspects of this class. Since I have a Mac laptop, I
-used the Cisdem OCR software rather than ABBY Finereader.&lt;/p&gt;
-
-&lt;p&gt;The first thing I would like to say is the accuracy with which it translates
-the text is quite disappointing. I would estimate that at MOST 60% of the
-original text was transcribed to my text editor properly, and even more
-frustrating was that specific letters were nearly almost incorrectly written,
-for instance the letter “e” for the entirety of the respective pages was often
-incorrectly recorded as the letter “a”, and vice versa. Furthermore,
-spell-checking entire pages written in French was both lengthy and difficult,
-particularly when I could not read some of the words and could not use context
-clues to figure out what they were supposed to say (because I do not speak
-French). At a certain point I had to simply accept that my XML pages were simply
-going to be filled with egregious errors and a certain level of accuracy was
-impossible to achieve (much to the chagrin of my mild OCD, but hey it was a
-learning experience in patience and Zen).&lt;/p&gt;
-
-&lt;p&gt;Overall, I was not a fan of the OCR software. It was most likely faster than
-manually transcribing entire pages of the newspaper, but it was nonetheless
-aggravating and stressful. Rant over.&lt;/p&gt;
-</description>
-				<guid isPermaLink="true">/technical/grieco-technical/</guid>
 			</item>
 		
 	</channel>
