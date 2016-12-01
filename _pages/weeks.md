@@ -25,12 +25,12 @@ Week|Start date (Monday)|End date (Saturday)|Personal repository|Images|Text|Not
 15|April 10, 1905|April 15, 1905|[Alex Caliendo](https://github.com/RGOODY3210/dig-eg-gaz)||
 16|April 17, 1905|April 22, 1905|[Riley Ouellette](https://github.com/rouellette07/dig-eg-gaz)||5/6
 17|April 24, 1905|April 29, 1905|[Jacob Stefonek](https://github.com/JacobStefonek/dig-eg-gaz)|Complete|All|Wed issue six pages
-18|May 1, 1905|May 6, 1905|[Dante Grieco](https://github.com/dgg15/dig-eg-gaz)|Complete||microfilm lacking 1905-05-01; missing 1905-05-02-pp1and2, 1905-05-03-pp1and6, Wed issue six pages
+18|May 1, 1905|May 6, 1905|[Dante Grieco](https://github.com/dgg15/dig-eg-gaz)|Complete|All|microfilm lacking 1905-05-01; missing 1905-05-02-pp1and2, 1905-05-03-pp1and6, Wed issue six pages
 19|May 8, 1905|May 13, 1905|[Cassandra Frederick](https://github.com/caf15b)|39/40|All|missing 1905-05-10-p8
 20|May 15, 1905|May 20, 1905|[Valerie Curcio](https://github.com/valeriecurcio)||
 21|May 22, 1905|May 27, 1905|[Anet Crespo](https://github.com/ac15at/dig-eg-gaz)|Complete|All
 22|May 29, 1905|June 3, 1905|[John White](https://github.com/jcw3/dig-eg-gaz)|Complete|All
-23|June 5, 1905|June 10, 1905|[Joseph Chack-On](https://github.com/jochack/dig-eg-gaz)|29/40|missing certain p3s, all of 1905-06-10
+23|June 5, 1905|June 10, 1905|[Joseph Chack-On](https://github.com/jochack/dig-eg-gaz)|29/40||missing certain p3s, all of 1905-06-10
 24|June 12, 1905|June 17, 1905|[Thomas Corzo](https://github.com/ThomasC24)||
 25|June 19, 1905|June 24, 1905|[Kedric Heyward](https://github.com/Kheyward/dig-eg-gaz)|6/40|
 26|June 26, 1905|July 1, 1905|[Max Conway](https://github.com/maxconwayfsu/dig-eg-gaz)|34/40||missing most page 3s
