@@ -126,6 +126,15 @@ show how the newspaper evolved throughout the year.&lt;/p&gt;
 			</item>
 		
 			<item>
+				<title>Sports in 1905</title>
+				<link>/serial%20question/barrett-quantitative/</link>
+				<pubDate>Wed, 16 Nov 2016 00:00:00 -0500</pubDate>
+				<description>&lt;p&gt;I am very interested in the sports that they used to play back in 1905.  I want to figure out what they played, where they played it, how they organized it, and how competitive the games between teams were.  In order to answer all of these questions I will have to look at the week to week wins and losses in their leagues from the Egyptian Gazette, and on top of that I will have to do a bit of background research outside of the newspaper and try to gather all of the information about 1905 sports that I can find. For an example I am going to use a cut out about a rugby game.  As you can see, all that it shows is the sport, rugby football, who played who, Wales and Scotland, where it took place, London, and the score of the game, Wales 6 Scotland 3.  I am going to take this information and check the scores every week.  I will then use those statistics to find out which team is the best and how competitive the teams in the league are with each other.  Other things I would like to find out include how they set up the games like refs, locations, playoffs, scheduling, etc. which I do not think I am going to be able to figure out by only using this text.  I will have to search the internet for anything involving 1905 rugby football and hope that I can find some information on this.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">/serial%20question/barrett-quantitative/</guid>
+			</item>
+		
+			<item>
 				<title>Odd Football Score</title>
 				<link>/curiosities/Fling-Sports/</link>
 				<pubDate>Tue, 15 Nov 2016 00:00:00 -0500</pubDate>
@@ -149,19 +158,6 @@ show how the newspaper evolved throughout the year.&lt;/p&gt;
 &lt;p&gt;Like most of the people in this class, I have came across a formidable amount of problems while trying to do basically every step of this project. When I first began scanning my images for OCR, the first two columns of each of my page threes were blurred out so I had to go back to the library to re-scan the images more times than seemed necessary. To add to the latter, the &lt;em&gt;AABBY&lt;/em&gt; software was not the best at recognizing the characters, ergo, it was a long and gruesome process to correct all of the errors. Formatting the edited text into TEI was quite difficult as well due to the fact that this is my first time working with code. Had this class been offered for more than one semester, it may have been feasible to accomplish everything listed in the syllabus.&lt;/p&gt;
 </description>
 				<guid isPermaLink="true">/technical/cooper-technical/</guid>
-			</item>
-		
-			<item>
-				<title>Some *Cereal* Food for Thought</title>
-				<link>/serial%20questions/Stefonek-Some-Serial-Food-For-Thought/</link>
-				<pubDate>Mon, 14 Nov 2016 00:00:00 -0500</pubDate>
-				<description>&lt;p&gt;My serial discovery is that of reported military naval movements, particularly the movements of the Russian and Japanese fleets as a result of the &lt;a href=&quot;https://www.britannica.com/event/Russo-Japanese-War&quot;&gt;Russo-Japanse War&lt;/a&gt;. My goal is to use key words such as: “navy, battle, combat, fleet, ship, military, Nebogatoff, Tago and Rodjestvensky”, to find entries in the year of 1905. After finding as many entries as possible from the Egyptian Gazette, I will put together a spreadsheet that lists the report type (civilian or official), date, location and affiliation of each fleet.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/blog-images/The-Baltic-Fleet.png?raw=true&quot; alt=&quot;The Baltic Fleet&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Hopefully, there will be additional information like the admiral(s) present with each fleet, the number, names and types of ships and any losses if a battle has occurred. Any information that is lacking in the newspaper can hopefully be supplemented by &lt;a href=&quot;http://www.history.com/this-day-in-history/russian-fleet-surrenders-at-port-arthur&quot;&gt;outside historical records&lt;/a&gt;. After collecting and organizing the data, I plan on using Google maps to plot the location and movements of the fleets, which will then be tagged with all of the non-locational data. That way, there will be a spiderweb across a map of the oceans linking points that can be clicked on for all available information on what happened there.&lt;/p&gt;
-</description>
-				<guid isPermaLink="true">/serial%20questions/Stefonek-Some-Serial-Food-For-Thought/</guid>
 			</item>
 		
 	</channel>

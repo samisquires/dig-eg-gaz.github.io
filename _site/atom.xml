@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>/</id>
 	<title>Digital Egyptian Gazette</title>
-	<updated>2016-12-01T17:25:18-05:00</updated>
+	<updated>2016-12-01T17:35:58-05:00</updated>
 
 	<subtitle>A daily newspaper from turn-of-the-century Egypt, in marked up full text.</subtitle>
 
@@ -318,6 +318,34 @@ show how the newspaper evolved throughout the year.&lt;/p&gt;
 		</entry>
 	
 		<entry>
+			<id>/serial%20question/barrett-quantitative/</id>
+			<title>Sports in 1905</title>
+			<link href="/serial%20question/barrett-quantitative/" rel="alternate" type="text/html" title="Sports in 1905" />
+			<updated>2016-11-16T00:00:00-05:00</updated>
+
+			
+				
+				<author>
+					
+						<name>brandonbarrett</name>
+					
+					
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="/serial%20question/barrett-quantitative/">&lt;p&gt;I am very interested in the sports that they used to play back in 1905.  I want to figure out what they played, where they played it, how they organized it, and how competitive the games between teams were.  In order to answer all of these questions I will have to look at the week to week wins and losses in their leagues from the Egyptian Gazette, and on top of that I will have to do a bit of background research outside of the newspaper and try to gather all of the information about 1905 sports that I can find. For an example I am going to use a cut out about a rugby game.  As you can see, all that it shows is the sport, rugby football, who played who, Wales and Scotland, where it took place, London, and the score of the game, Wales 6 Scotland 3.  I am going to take this information and check the scores every week.  I will then use those statistics to find out which team is the best and how competitive the teams in the league are with each other.  Other things I would like to find out include how they set up the games like refs, locations, playoffs, scheduling, etc. which I do not think I am going to be able to figure out by only using this text.  I will have to search the internet for anything involving 1905 rugby football and hope that I can find some information on this.&lt;/p&gt;
+</content>
+
+			
+				<category term="serial question" />
+			
+			
+
+			<published>2016-11-16T00:00:00-05:00</published>
+		</entry>
+	
+		<entry>
 			<id>/curiosities/Fling-Sports/</id>
 			<title>Odd Football Score</title>
 			<link href="/curiosities/Fling-Sports/" rel="alternate" type="text/html" title="Odd Football Score" />
@@ -380,46 +408,6 @@ show how the newspaper evolved throughout the year.&lt;/p&gt;
 			
 				<category term="Technical" />
 			
-			
-
-			<published>2016-11-14T00:00:00-05:00</published>
-		</entry>
-	
-		<entry>
-			<id>/serial%20questions/Stefonek-Some-Serial-Food-For-Thought/</id>
-			<title>Some *Cereal* Food for Thought</title>
-			<link href="/serial%20questions/Stefonek-Some-Serial-Food-For-Thought/" rel="alternate" type="text/html" title="Some *Cereal* Food for Thought" />
-			<updated>2016-11-14T00:00:00-05:00</updated>
-
-			
-				
-				<author>
-					
-						<name>JacobStefonek</name>
-					
-					
-					
-				</author>
-			
-			<summary>Following navies around the world in 1905</summary>
-			<content type="html" xml:base="/serial%20questions/Stefonek-Some-Serial-Food-For-Thought/">&lt;p&gt;My serial discovery is that of reported military naval movements, particularly the movements of the Russian and Japanese fleets as a result of the &lt;a href=&quot;https://www.britannica.com/event/Russo-Japanese-War&quot;&gt;Russo-Japanse War&lt;/a&gt;. My goal is to use key words such as: “navy, battle, combat, fleet, ship, military, Nebogatoff, Tago and Rodjestvensky”, to find entries in the year of 1905. After finding as many entries as possible from the Egyptian Gazette, I will put together a spreadsheet that lists the report type (civilian or official), date, location and affiliation of each fleet.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/blog-images/The-Baltic-Fleet.png?raw=true&quot; alt=&quot;The Baltic Fleet&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Hopefully, there will be additional information like the admiral(s) present with each fleet, the number, names and types of ships and any losses if a battle has occurred. Any information that is lacking in the newspaper can hopefully be supplemented by &lt;a href=&quot;http://www.history.com/this-day-in-history/russian-fleet-surrenders-at-port-arthur&quot;&gt;outside historical records&lt;/a&gt;. After collecting and organizing the data, I plan on using Google maps to plot the location and movements of the fleets, which will then be tagged with all of the non-locational data. That way, there will be a spiderweb across a map of the oceans linking points that can be clicked on for all available information on what happened there.&lt;/p&gt;
-</content>
-
-			
-				<category term="serial questions" />
-			
-			
-				<category term="Navies" />
-			
-				<category term="Russia" />
-			
-				<category term="Japan" />
-			
-				<category term="1905" />
 			
 
 			<published>2016-11-14T00:00:00-05:00</published>
