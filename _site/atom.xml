@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>/</id>
 	<title>Digital Egyptian Gazette</title>
-	<updated>2016-12-01T21:08:38-05:00</updated>
+	<updated>2016-12-01T21:22:19-05:00</updated>
 
 	<subtitle>A daily newspaper from turn-of-the-century Egypt, in marked up full text.</subtitle>
 
@@ -28,6 +28,117 @@
 
 	<generator uri="http://jekyllrb.com" version="3.0.2">Jekyll</generator>
 
+	
+		<entry>
+			<id>/serial/Fling-Serial-Question/</id>
+			<title>Fires in 1905</title>
+			<link href="/serial/Fling-Serial-Question/" rel="alternate" type="text/html" title="Fires in 1905" />
+			<updated>2016-12-01T00:00:00-05:00</updated>
+
+			
+				
+				<author>
+					
+						<name>AmberFling</name>
+					
+					
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="/serial/Fling-Serial-Question/">&lt;p&gt;In my week of the Gazette I came across a Ship that caught
+on fire. This report was found on page 3 of November 25, 1905.
+The ship was full of cotton and rice when it was
+set aflame. Flames were not visible but smoke was pouring
+out from the vessel. The smoke calmed due to incessant pumping
+for about 2 hours. But soon after the ship fire seemed to be
+controlled, the smoke bursted forth again.
+2 hours later, it was decided that the ship was to be put
+ashore, on the bank in hopes that the hold would fill with
+water to subdue the fire. This did the trick and finally
+calmed the fire upon the ship.
+Oddly, the cause of the fire is reported as,
+“unknown.”&lt;/p&gt;
+
+&lt;p&gt;This section of the newspaper seems to report the most
+severe of fires. I am curious, as to what the other weeks of the
+Egyptian Gazette will have to offer about such fires. My serial
+question for the 1905 Egyptian Gazette will be: How often did
+the Egyptian Gazette report Fires in 1905? I will also be researching
+why these fires occurred. In this instance, the cause of the Fire is
+known. I wonder if the Gazette often list the cause to these fires
+as known.&lt;/p&gt;
+</content>
+
+			
+				<category term="serial" />
+			
+			
+				<category term="where" />
+			
+				<category term="when" />
+			
+				<category term="why" />
+			
+
+			<published>2016-12-01T00:00:00-05:00</published>
+		</entry>
+	
+		<entry>
+			<id>/questions/deaths/causes/maps/summa-serial/</id>
+			<title>A Serial Analysis of Deaths in Alexandria in 1905</title>
+			<link href="/questions/deaths/causes/maps/summa-serial/" rel="alternate" type="text/html" title="A Serial Analysis of Deaths in Alexandria in 1905" />
+			<updated>2016-11-30T00:00:00-05:00</updated>
+
+			
+				
+				<author>
+					
+						<name>CelitaSumma</name>
+					
+					
+					
+				</author>
+			
+			<summary>Deaths in Alexandria</summary>
+			<content type="html" xml:base="/questions/deaths/causes/maps/summa-serial/">&lt;p&gt;For my serial question, I would like to explore all of the deaths in
+Alexandria that occurred during the year 1905. Once I have collected
+all of the articles and blurbs that mention deaths in the Egyptian
+Gazette, I will conduct further analysis by assigning specific locations
+to those deaths that provide such information. Then, I will be able to
+use these locations to create a map of deaths throughout the city. In
+order to ensure a comprehensive analysis, if not enough deaths are tagged
+with a specific location, I will also create a pie chart showing the
+distribution of cause of death. If enough locations are tagged in the
+paper, I will color code the causes of death before plotting them on the
+map, which should help to give a general overview of which causes of
+death are relevant in certain parts of the city, or if any correlation
+exists at all.&lt;/p&gt;
+
+&lt;p&gt;This is an important analysis to conduct because it should hopefully
+shed some light on the reasons for death, ages of death, and locations
+of death throughout Alexandria. By delving into this topic, I hope to
+answer the question “How did people die in Alexandria in 1905?” and draw
+parallels to the causes of death now and how the two differ.&lt;/p&gt;
+</content>
+
+			
+				<category term="questions" />
+			
+				<category term="deaths" />
+			
+				<category term="causes" />
+			
+				<category term="maps" />
+			
+			
+				<category term="places" />
+			
+				<category term="deaths" />
+			
+
+			<published>2016-11-30T00:00:00-05:00</published>
+		</entry>
 	
 		<entry>
 			<id>/technical/rymer-technical/</id>
@@ -58,6 +169,109 @@ and I was able to determine the cause of a few technical errors that came up.&lt
 
 			
 				<category term="technical" />
+			
+			
+
+			<published>2016-11-30T00:00:00-05:00</published>
+		</entry>
+	
+		<entry>
+			<id>/serial%20questions/grieco-cotton-serial-question/</id>
+			<title>Cotton Exports</title>
+			<link href="/serial%20questions/grieco-cotton-serial-question/" rel="alternate" type="text/html" title="Cotton Exports" />
+			<updated>2016-11-30T00:00:00-05:00</updated>
+
+			
+				
+				<author>
+					
+						<name>dantegrieco</name>
+					
+					
+					
+				</author>
+			
+			<summary>A serial question that examines trend in cotton exports to different countries</summary>
+			<content type="html" xml:base="/serial%20questions/grieco-cotton-serial-question/">&lt;p&gt;For my serial question, I will be examining the trends in cotton exports to different countries using the monthly “Coton” table included in the financial section of the &lt;em&gt;Egyptian Gazette&lt;/em&gt;. Specifically, I will be looking to see whether there are any variations in export volume (measured in bales) due to changes in season, significant domestic and international historical events, or any other major influences of demand. Particularly, this serial question gives me the unique opportunity to examine how complex international relationships at the turn of the century between Great Britain and other states might have trickled down to affect more localized factors, such as cotton exportation from one of its most valued colonies. I believe this questions reflects the spirit of one of the principal goals of this course.&lt;/p&gt;
+</content>
+
+			
+				<category term="serial questions" />
+			
+			
+				<category term="cotton" />
+			
+				<category term="exports" />
+			
+				<category term="bales" />
+			
+
+			<published>2016-11-30T00:00:00-05:00</published>
+		</entry>
+	
+		<entry>
+			<id>/serial%20question/evanoff-serial/</id>
+			<title>Serial Question</title>
+			<link href="/serial%20question/evanoff-serial/" rel="alternate" type="text/html" title="Serial Question" />
+			<updated>2016-11-30T00:00:00-05:00</updated>
+
+			
+				
+				<author>
+					
+						<name>oliviaevanoff</name>
+					
+					
+					
+				</author>
+			
+			<summary>This project may kill me</summary>
+			<content type="html" xml:base="/serial%20question/evanoff-serial/">&lt;p&gt;My serial question is stemming from a series of passages I read in my issue.
+There seems to be a massacre of the Jewish population in Russia. I found this
+to be interesting because this is decades prior to World War II, where there
+was mass homicide of the Jews in Europe. I would like to explore how this built
+up throughout the year and what reports are reaching Egypt. They are reporting
+mass killings but seem to remain an objective third party.&lt;/p&gt;
+
+&lt;p&gt;People tend to say that history has a way of repeating itself. It interests
+me that there was mass homicide of the Jewish population 30 years prior to the
+most infamous (dare I say successful) murder of millions of Jews. I intend to
+explore this topic and the history of conflict Europeans had with the Jewish
+population.&lt;/p&gt;
+</content>
+
+			
+				<category term="serial question" />
+			
+			
+
+			<published>2016-11-30T00:00:00-05:00</published>
+		</entry>
+	
+		<entry>
+			<id>/curiosities/evanoff-curiosity/</id>
+			<title>Death in Alexandria 1905</title>
+			<link href="/curiosities/evanoff-curiosity/" rel="alternate" type="text/html" title="Death in Alexandria 1905" />
+			<updated>2016-11-30T00:00:00-05:00</updated>
+
+			
+			<summary>People are croaking left and right!</summary>
+			<content type="html" xml:base="/curiosities/evanoff-curiosity/">&lt;p&gt;In 1905 Alexandria on my third pages I have noticed a lot of deaths being
+reported in the newspaper. There was a child killed by a horse in an accident
+and it received approximately 3 lines of text with little to no commentary.
+When the Grand Mufti died he had almost an entire column in every single page
+of the newspaper. They made updates on the family and commented on his well
+being as well as his wishes for the future and memories of the past. It is
+so sad to see in this paper how little the newspapers covered tragedies like
+children dying and they covered an older man who had been dying for a while so
+heavily. I understand having to put the Grand Mufti in the spotlight since
+he was the leader of the country, however it is quite the travesty to see
+people being disregarded publicly. They need to give them the respect they
+deserve, or just not mention it.&lt;/p&gt;
+</content>
+
+			
+				<category term="curiosities" />
 			
 			
 
@@ -207,173 +421,6 @@ We all must understand that these pages have been passed on for over 50 years an
 			
 				<category term="technical" />
 			
-			
-
-			<published>2016-11-28T00:00:00-05:00</published>
-		</entry>
-	
-		<entry>
-			<id>/technical/ragland-Discussion-of-Converting-OCR/</id>
-			<title>Discussion of Converting Text</title>
-			<link href="/technical/ragland-Discussion-of-Converting-OCR/" rel="alternate" type="text/html" title="Discussion of Converting Text" />
-			<updated>2016-11-28T00:00:00-05:00</updated>
-
-			
-				
-				<author>
-					
-						<name>ChristianRagland&lt;!--- all one word ---&gt;</name>
-					
-					
-					
-				</author>
-			
-			<summary>My version of venting about my woes within this class.</summary>
-			<content type="html" xml:base="/technical/ragland-Discussion-of-Converting-OCR/">&lt;p&gt;My biggest problem with the entire process has been with the OCR process. Perhaps due to poor original scans, or perhaps due to poor images
-from the source, I have had serious problems with my OCR coming out correctly. Unfortunately, I’ve had to manually type every page and it has
-caused me countless headaches and more than one mental breakdown. Luckily, things got a bit smoother after finishing all my page 3’s. That being
-said, I’m still working extremely hard at catching up and finishing what I have to do.&lt;/p&gt;
-</content>
-
-			
-				<category term="technical" />
-			
-			
-				<category term="Scan" />
-			
-				<category term="OCR" />
-			
-
-			<published>2016-11-28T00:00:00-05:00</published>
-		</entry>
-	
-		<entry>
-			<id>/technical/oulette-technical/</id>
-			<title>Technical Reflection</title>
-			<link href="/technical/oulette-technical/" rel="alternate" type="text/html" title="Technical Reflection" />
-			<updated>2016-11-28T00:00:00-05:00</updated>
-
-			
-				
-				<author>
-					
-						<name>RileyOuellette</name>
-					
-					
-					
-				</author>
-			
-			<summary></summary>
-			<content type="html" xml:base="/technical/oulette-technical/">&lt;p&gt;Unfortunately, my technical reflection is primarily negative. When the class first began I found that scanning my pages and using OCR went pretty smoothly besides the fact that many of the words were not recognized. In most cases I had to retype full paragraphs for the newspaper to make sense. When the XML editor was first introduced to me I was very lost and overwhelmed. I had no idea what XML meant or how it was supposed to change the text. However, with some assistance I have become more adept at placing structural tags and finding errors in my text. TEI-tagged XML text was also a struggle for me. I did not understand exactly how to use it and I was only able to tag two historical figures. I had never heard of the website Github until taking this class and I am still a little unsure what it is exactly used for. Again, with some practice I quickly became comfortable using it to submit the work I have completed. The final challenge I have faced are blog posts, in which I have trouble converting into Markdown and using the correct format.&lt;/p&gt;
-</content>
-
-			
-				<category term="technical" />
-			
-			
-
-			<published>2016-11-28T00:00:00-05:00</published>
-		</entry>
-	
-		<entry>
-			<id>/serial%20questions/Taylor-blog-post-3/</id>
-			<title>Exploring Expeditions</title>
-			<link href="/serial%20questions/Taylor-blog-post-3/" rel="alternate" type="text/html" title="Exploring Expeditions" />
-			<updated>2016-11-28T00:00:00-05:00</updated>
-
-			
-				
-				<author>
-					
-						<name>emmataylor</name>
-					
-					
-					
-				</author>
-			
-			<summary>Ironically, my exploration in search of a serial question ended with just that...exploration.</summary>
-			<content type="html" xml:base="/serial%20questions/Taylor-blog-post-3/">&lt;p&gt;Originally, I thought that my serial question was going to focus on missing persons and examine the amount of information provided for each particular circumstance. However, as I began to try to develop a query for that topic, I had difficulty finding much data other than what I had seen in my issue. So, I began to explore new ideas. I found myself still interested in the stories concerning specific people and began to investigate random names. I eventually found that there were multiple accounts in multiple issues tracking the movement of explorers. With this, I began to wonder about the most common reasons and locations for expeditions reported in the 1905 Egyptian Gazette. I developed a simple query to find information relating to my question by searching for items containing the word “expedition.” This brought back quite a few results. My hope is that the information gathered from these results will provide some insight into the “who, what, and why” of the expeditions reported in the paper. I also hope to discover how many of these were “successful” and what determined them to be so. I anticipate some trends in location and perhaps even in the reasons for traveling. For the final analysis, I believe that a map will be beneficial.&lt;/p&gt;
-</content>
-
-			
-				<category term="serial questions" />
-			
-			
-				<category term="expeditions" />
-			
-				<category term="destinations" />
-			
-				<category term="purpose" />
-			
-				<category term="explorers" />
-			
-
-			<published>2016-11-28T00:00:00-05:00</published>
-		</entry>
-	
-		<entry>
-			<id>/curiosities/Ragland-A-sad-englishman/</id>
-			<title>A Sad Englishman</title>
-			<link href="/curiosities/Ragland-A-sad-englishman/" rel="alternate" type="text/html" title="A Sad Englishman" />
-			<updated>2016-11-28T00:00:00-05:00</updated>
-
-			
-				
-				<author>
-					
-						<name>ChristianRagland</name>
-					
-					
-					
-				</author>
-			
-			<summary>A man&#39;s ear used for negotiation.</summary>
-			<content type="html" xml:base="/curiosities/Ragland-A-sad-englishman/">&lt;p&gt;A rather unfortunate English soldier was captured by an employee of a Turkish tobacco company who sent one of his ears to the Consul at Monastir, ordering a ransom be paid for him.  Interestingly enough, this tobacco company is still around today–in a sense.  The company was the Ottoman Empire’s largest foreign investment.  It was called “Tekel” in 1825, but is actually still called “Regie” in Lebanon.  I found it interesting that the company selling Lebanese tobacco is the same company which cut off an English soldier’s ear way back in 1905.&lt;/p&gt;
-</content>
-
-			
-				<category term="curiosities" />
-			
-			
-				<category term="international" />
-			
-				<category term="ott" />
-			
-				<category term="Englishman" />
-			
-
-			<published>2016-11-28T00:00:00-05:00</published>
-		</entry>
-	
-		<entry>
-			<id>/curiosities/Eugenio-entericfever/</id>
-			<title>Enteric Fever</title>
-			<link href="/curiosities/Eugenio-entericfever/" rel="alternate" type="text/html" title="Enteric Fever" />
-			<updated>2016-11-28T00:00:00-05:00</updated>
-
-			
-				
-				<author>
-					
-						<name>JohannaEugenio</name>
-					
-					
-					
-				</author>
-			
-			<summary>This blog post is about Enteric fever and the army.</summary>
-			<content type="html" xml:base="/curiosities/Eugenio-entericfever/">&lt;p&gt;While reading through the Egyptian Gazette issues I was assigned, I came across an article that has to do with Enteric Fever. This article intrigued me because I was not familiar with the disease. After reading through the article it sparked my interest and I began to look up what this disease was. I found out that Enteric Fever is also known as Typhoid Fever. This illness is associated with Salmonella typhi bacteria. After reading more about it I realized that Typhoid is caused by bacteria that is similar to Salmonella. This article discusses how it is important to carry out preventative methods for this disease in the army. It then goes on to explain that the health efficiency of the Army has been increased by a lot. They talk about how they encourage men in the army to have better hygiene in hopes for better overall health. I think this is interesting because the article discusses the different types of methods they use to prevent the disease, such as boiling drinking water. It is interesting to see the medical advances for this time compared to current time. Enteric is such a big deal during this time and the prevention of the disease is so important, however as of now I had not even recognized this disease until I read further into it.&lt;/p&gt;
-</content>
-
-			
-				<category term="curiosities" />
-			
-			
-				<category term="Enteric" />
-			
-				<category term="Army" />
-			
-				<category term="illness" />
 			
 
 			<published>2016-11-28T00:00:00-05:00</published>
