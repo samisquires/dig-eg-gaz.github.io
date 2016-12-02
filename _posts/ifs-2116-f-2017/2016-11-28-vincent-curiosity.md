@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: "Brooklyn Vincent"
-title: "TRAGIC FALL FROM A WINDOW"
+title: "Tragic Fall from a Window"
 teaser: "The blog post is about a man who tries to throw his wife out of a window"
 date: 2016-10-28
 categories:

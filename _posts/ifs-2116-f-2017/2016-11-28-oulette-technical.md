@@ -1,8 +1,8 @@
 ---
 layout: page
 subheadline: "Riley Ouellette"
-title: “Technical Reflection“
-teaser: ""
+title: "Technical Reflection"
+teaser: 
 categories:
   - technical
 date: 2016-11-28
@@ -10,7 +10,7 @@ author: RileyOuellette
 tags:
 header: no
 image:
-  title: 
+  title:
   thumb:
   homepage:
 ---

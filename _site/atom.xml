@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>/</id>
 	<title>Digital Egyptian Gazette</title>
-	<updated>2016-12-01T18:14:51-05:00</updated>
+	<updated>2016-12-01T21:08:38-05:00</updated>
 
 	<subtitle>A daily newspaper from turn-of-the-century Egypt, in marked up full text.</subtitle>
 
@@ -62,6 +62,118 @@ and I was able to determine the cause of a few technical errors that came up.&lt
 			
 
 			<published>2016-11-30T00:00:00-05:00</published>
+		</entry>
+	
+		<entry>
+			<id>/technology/frederick-technology-troubles/</id>
+			<title>Technology Troubles</title>
+			<link href="/technology/frederick-technology-troubles/" rel="alternate" type="text/html" title="Technology Troubles" />
+			<updated>2016-11-29T00:00:00-05:00</updated>
+
+			
+				
+				<author>
+					
+						<name>cassandrafrederick</name>
+					
+					
+					
+				</author>
+			
+			<summary>Just one computer inept girl taking on technology and wondering why it hates her.</summary>
+			<content type="html" xml:base="/technology/frederick-technology-troubles/">&lt;p&gt;For the first few weeks of this semester I was completely dedicated to toiling for hours in order to receive an “A” in this class. I would stay up until midnight finishing editing text that was OCRd making sure that no detail was overlooked. I would spend hours working on this editing only to go back to it and find that all of my hard work had either disappeared or been undone and not for lack of saving. When I started working with Oxygen, I would find that a file I had just started coding the previous night could not be found when I went to open and edit it the next day. This setback has been a source of major frustration for obvious reasons. I don’t know whether this unfortunate series of events is occurring because of some delayed karma or because I have the dreaded apple computer but it has caused me to become lazy with the workload. That being said, I have prayed to the computer gods to fix my issues so I can save my grade and it seems to have worked so far. In the wake of my realization about how quickly the semester is coming to an end I have kicked back into gear and have decided to push through any and all technical difficulties.&lt;/p&gt;
+</content>
+
+			
+				<category term="technology" />
+			
+			
+				<category term="technology" />
+			
+				<category term="problems" />
+			
+				<category term="OCR" />
+			
+				<category term="sucks" />
+			
+
+			<published>2016-11-29T00:00:00-05:00</published>
+		</entry>
+	
+		<entry>
+			<id>/curiosities/frederick-deadly-dates/</id>
+			<title>Deadly Dates</title>
+			<link href="/curiosities/frederick-deadly-dates/" rel="alternate" type="text/html" title="Deadly Dates" />
+			<updated>2016-11-29T00:00:00-05:00</updated>
+
+			
+				
+				<author>
+					
+						<name>cassandrafrederick</name>
+					
+					
+					
+				</author>
+			
+			<summary>A man treats his cousin to a date she will never forget</summary>
+			<content type="html" xml:base="/curiosities/frederick-deadly-dates/">&lt;p&gt;You love your family but there’s always those cousins that just annoy you so much that sometimes you just want to feed them some poisoned dates so you don’t have to deal with them anymore. Well that’s precisely what one man of Makhadoora village did to his cousins in May of 1905. This nameless man injected compressed dates with enough of a deadly poison to kill those who ate it. He then gave these deadly fruits to five of his cousins, two men and three women.&lt;/p&gt;
+
+&lt;p&gt;The three women ate the dates and “expired in great agony.” Now if you are not a psychopath, you might be confused as to why this man decided to off his cousins and especially in such a cruel and painful way. Did they inherit a large sum of money from grandma while the killer only received the nice china? Did they eat all of the stuffing at Thanksgiving when they knew it was his favorite?&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, due to the lack of information provided about a motive or even a name for the killer, the world may never know. One thing that is known however, is that this event did cause “considerable excitement” throughout the neighborhood due to the simple fact that it was a murder as opposed to an accidental date poisoning. In my opinion, this fact implies that the neighborhood in Keneh where the murders took place was not used to this violence which might mean that it was a fairly well-off neighborhood.&lt;/p&gt;
+
+&lt;p&gt;Does this mean that the motive could involve money? It could certainly be a possibility.&lt;/p&gt;
+</content>
+
+			
+				<category term="curiosities" />
+			
+			
+				<category term="murder" />
+			
+				<category term="family" />
+			
+				<category term="dates" />
+			
+				<category term="poison" />
+			
+
+			<published>2016-11-29T00:00:00-05:00</published>
+		</entry>
+	
+		<entry>
+			<id>/technical/Crespo-Break/</id>
+			<title>Break</title>
+			<link href="/technical/Crespo-Break/" rel="alternate" type="text/html" title="Break" />
+			<updated>2016-11-29T00:00:00-05:00</updated>
+
+			
+				
+				<author>
+					
+						<name>AnetCrespo</name>
+					
+					
+					
+				</author>
+			
+			<summary>Trying to pass the class, but computer malfunctioning.</summary>
+			<content type="html" xml:base="/technical/Crespo-Break/">&lt;p&gt;It’s almost the end of the semester and I am still on the second blog post, wow. At the beginning of the semester I had a big issue, my brand-new MacBook stopped working. At first they believed my trackpad and keyboard were not working because of a virus on my computer, they gave it back after deleting the virus and it went back to not working, after that I took it back and they worked on it for another week and believed they had fixed the problem, I got it back and a few days later I was still on the same page. The Apple technicians at the bookstore got to know my name very well as I had to keep going back. In the end my MacBook took about a month to get fully repaired, they ended up having to replace the whole keyboard, so obviously, I fell behind. Once I got it back I began to work deliberately on the material, although it is not difficult work, I would still find myself spending hours in front of my computer without much progress. So much correcting, so many things to fill in, plus handling four other classes at the same time, so stressful. Cisdem OCR helped me so much more than the ABBYY OCR, it could detect the print much more precisely which made the process a little easier.&lt;/p&gt;
+</content>
+
+			
+				<category term="technical" />
+			
+			
+				<category term="apple" />
+			
+				<category term="time" />
+			
+				<category term="help" />
+			
+
+			<published>2016-11-29T00:00:00-05:00</published>
 		</entry>
 	
 		<entry>
@@ -137,8 +249,8 @@ said, I’m still working extremely hard at catching up and finishing what I hav
 	
 		<entry>
 			<id>/technical/oulette-technical/</id>
-			<title>“Technical Reflection“</title>
-			<link href="/technical/oulette-technical/" rel="alternate" type="text/html" title="“Technical Reflection“" />
+			<title>Technical Reflection</title>
+			<link href="/technical/oulette-technical/" rel="alternate" type="text/html" title="Technical Reflection" />
 			<updated>2016-11-28T00:00:00-05:00</updated>
 
 			
@@ -265,156 +377,6 @@ said, I’m still working extremely hard at catching up and finishing what I hav
 			
 
 			<published>2016-11-28T00:00:00-05:00</published>
-		</entry>
-	
-		<entry>
-			<id>/technical/Eugenio-Converting-Difficulties/</id>
-			<title>Difficulties with Converting images into XML</title>
-			<link href="/technical/Eugenio-Converting-Difficulties/" rel="alternate" type="text/html" title="Difficulties with Converting images into XML" />
-			<updated>2016-11-28T00:00:00-05:00</updated>
-
-			
-				
-				<author>
-					
-						<name>JohannaEugenio</name>
-					
-					
-					
-				</author>
-			
-			<summary>Some technical difficulties I have encountered converting The Egyptian Gazette images to xml files.</summary>
-			<content type="html" xml:base="/technical/Eugenio-Converting-Difficulties/">&lt;p&gt;The biggest difficulty I have encountered is converting my Egyptian Gazette images into the XML format. After scanning my issues of the Egyptian Gazette I then used the Cisdem PDFConverterOCR to convert my images into text files. After doing this I noticed many errors within my text file and it took me hours to edit one page, sometimes causing me to retype the entire page. Most of my text file would be random letters or symbols that were impossible to decipher.&lt;/p&gt;
-
-&lt;p&gt;After retyping many pages I learned about rescanning photos and the stitching process. I then used this method to rescan my image files and as for the Cisdem converter this made the images more clear and the text came out more fluent but there were still errors but not nearly as much as before. Due to the several errors I have in my text files it has slowed down the entire process for me. I believe I have spent most of my time working on fixing the text. Once moving past this portion I was able to get into more interesting things and was able to add tags and organize my XML files.&lt;/p&gt;
-
-&lt;p&gt;I believe if I had understood the stitching process sooner I would have saved myself hours and would not have had to retype pages entirely. However, once I progressed past this portion of the work I noticed that ad pages were much easier and took less time.&lt;/p&gt;
-</content>
-
-			
-				<category term="technical" />
-			
-			
-				<category term="Techincal" />
-			
-				<category term="XML" />
-			
-				<category term="Cisdem PDF Converter" />
-			
-
-			<published>2016-11-28T00:00:00-05:00</published>
-		</entry>
-	
-		<entry>
-			<id>/serial%20question/Cyr-Serial-Question/</id>
-			<title>Diseases of Egypt in 1905</title>
-			<link href="/serial%20question/Cyr-Serial-Question/" rel="alternate" type="text/html" title="Diseases of Egypt in 1905" />
-			<updated>2016-11-28T00:00:00-05:00</updated>
-
-			
-				
-				<author>
-					
-						<name>ErekCyr</name>
-					
-					
-					
-				</author>
-			
-			<summary>What are some of the most prevalent diseases found in Egypt in 1905?</summary>
-			<content type="html" xml:base="/serial%20question/Cyr-Serial-Question/">&lt;p&gt;The purpose of this blog post is to investigate a serial question within the Egyptian Gazette. The serial question should
-discuss a pattern of information that is found throughout the year. My question of interest surrounds various diseases that were
-present in Egypt in the year of 1905, and perhaps a more narrow focus can then be geared toward the
-most prevalent disease found in this area at this time. So the serial question(s) could be, “What kind of diseases were prevalent in Egypt
-during this time-period? Does any one disease stand out in particular?”&lt;/p&gt;
-
-&lt;p&gt;To find this information, a search of other classmates’ work on the &lt;em&gt;Egyptian Gazette&lt;/em&gt; will be conducted in order
-to find as much information possible on the diseases presented by this newspaper. It is important to note
-that due to space and limited knowledge of the time, many diseases may not have been reported to, or
-expressed by, the &lt;em&gt;Egyptian Gazette&lt;/em&gt;. Information is also limited to how well students have transferred the digitized
-newspaper to .xml in Github.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/blog-images/PlagueSnippet.png?raw=true&quot; alt=&quot;image name&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;What do I hope to achieve with my serial question?:&lt;/p&gt;
-
-&lt;p&gt;First, I would like to have a solid amount of information about diseases in Egypt within the time period of 1905. In order to
-obtain this information, the cumulative work of other students will need to be gathered within the course content and gleaned over.
-I would like to then gather this information and present it in a visual way for others to easily understand. Information within a visual
-graph should show people what diseases are prevalent in this area, at this time and observers should be able to determine easily which
-diseases were most prevalent.&lt;/p&gt;
-
-&lt;p&gt;Issues:&lt;/p&gt;
-
-&lt;p&gt;There are some hiccups in the way. Some work done on the website may not have been coded properly, or it may have been coded in different
-ways which return different results during a search. This creates a problem when using the search function XPath Query. This query searches
-the cumulative work of all students in regards to the entire year of 1905, within the Egyptian Gazette.&lt;/p&gt;
-
-&lt;p&gt;An example is as follows:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/blog-images/search_term1.png?raw=true&quot; alt=&quot;image name&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The above image shows many results for various search terms. Searching for diseases within the Egyptian Gazette requires multiple
-search terms. For instance, a search of “disease” may yield different results compared to “diseases”. Another issue is sifting through
-information that is not relevant to disease: a search of the term “sick” may return two results 1) “I am sick of these hot summers,” or 2) “I
-have a friend that is sick from the flu.” These two results clearly have different uses of the word and as a result, requires the observing
-student to read each item in question.&lt;/p&gt;
-</content>
-
-			
-				<category term="serial question" />
-			
-			
-				<category term="disease" />
-			
-				<category term="Egypt" />
-			
-
-			<published>2016-11-28T00:00:00-05:00</published>
-		</entry>
-	
-		<entry>
-			<id>/serial%20questions/Sain-Serial-Discovery/</id>
-			<title>Dead Doggies</title>
-			<link href="/serial%20questions/Sain-Serial-Discovery/" rel="alternate" type="text/html" title="Dead Doggies" />
-			<updated>2016-11-27T00:00:00-05:00</updated>
-
-			
-				
-				<author>
-					
-						<name>hannahsain</name>
-					
-					
-					
-				</author>
-			
-			<summary>Dogs Found and Poisoned by Police if Unclaimed</summary>
-			<content type="html" xml:base="/serial%20questions/Sain-Serial-Discovery/">&lt;h1 id=&quot;dogs-sentenced-to-death&quot;&gt;Dogs Sentenced to Death&lt;/h1&gt;
-
-&lt;p&gt;In some of the issues, under the “Local and General” section of the paper, there are sometimes small articles labeled “Stray and Ownerless Dogs,” which is a report of the dogs that have been found that day and where there were discovered. The snippets also always say that the dogs are to be poisoned if not collected. I find this section of the newspaper interesting because it is the announcement of very miniscule news. I find the local and general portion important because it shows the minor details that occur in the day-to-day lives of the citizens of Alexandria. It’s interesting to compare the way animals are talked about in 1905 as compared to now. &lt;a href=&quot;http://www.americanhumane.org/about-us/history/&quot;&gt;In 1905 animals&lt;/a&gt; were viewed mostly as an &lt;a href=&quot;https://books.google.com/books?id=kn9xAAAAIAAJ&amp;amp;pg=PA214&amp;amp;lpg=PA214&amp;amp;dq=treatment+of+animals+in+1905&amp;amp;source=bl&amp;amp;ots=bOPeHYezYT&amp;amp;sig=Ew1RbTvDBxKcu8IgZF0b9YwgfZ4&amp;amp;hl=en&amp;amp;sa=X&amp;amp;ved=0ahUKEwi8v7TIl8rQAhUBEGMKHc73A4gQ6AEIJzAC#v=onepage&amp;amp;q=treatment%20of%20animals%20in%201905&amp;amp;f=false&quot;&gt;agricultural resource&lt;/a&gt; rather than house pets, like how we use them now.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/blog-images/two-dog-pic.png?raw=true&quot; alt=&quot;Two Dogs&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Dogs were not valued as greatly as they are now. In 1905, &lt;a href=&quot;https://books.google.com/books?id=2189AQAAMAAJ&amp;amp;pg=PA609&amp;amp;lpg=PA609&amp;amp;dq=why+were+dogs+poisoned+by+police+1905&amp;amp;source=bl&amp;amp;ots=f2oUZReMBt&amp;amp;sig=zgJ_Y7hHagKLWJyaSBzxSvfPVZA&amp;amp;hl=en&amp;amp;sa=X&amp;amp;ved=0ahUKEwiDvPzgmcrQAhVCqFQKHQQJAQ8Q6AEINDAE#v=onepage&amp;amp;q=poisoned%20dogs&amp;amp;f=false&quot;&gt;the poisoning (and drowning)&lt;/a&gt; of dogs was common and is expected to happen if dogs are found stray and are not claimed. This section may be useful because people could potentially have their animals returned to them, although the declaration of their poisoning is slightly depressing, it is fascinating that it is mentioned in the paper.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/blog-images/picasso-dog.png?raw=true&quot; alt=&quot;Picasso Dog&quot; /&gt;&lt;/p&gt;
-</content>
-
-			
-				<category term="serial questions" />
-			
-			
-				<category term="Animals" />
-			
-				<category term="Police" />
-			
-				<category term="Poison" />
-			
-				<category term="Pets" />
-			
-
-			<published>2016-11-27T00:00:00-05:00</published>
 		</entry>
 	
 </feed>
