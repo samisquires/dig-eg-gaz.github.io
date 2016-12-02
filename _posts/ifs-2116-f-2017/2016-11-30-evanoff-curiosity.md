@@ -10,9 +10,9 @@ author:
 tags:
 header: no
 image:
-  title: blog-images/evanoff-Alexandria_Egypt_1905.jpeg
-  thumb: blog-images/evanoff-Alexandria_Egypt_1905.jpeg
-  homepage: blog-images/evanoff-Alexandria_Egypt_1905.jpeg
+  title: blog-images/evanoff-Alexandria-Egypt-1905.jpeg
+  thumb: blog-images/evanoff-Alexandria-Egypt-1905.jpeg
+  homepage: blog-images/evanoff-Alexandria-Egypt-1905.jpeg
   caption:
   caption_url:
 ---
