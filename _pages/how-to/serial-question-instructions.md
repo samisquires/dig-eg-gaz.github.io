@@ -8,7 +8,7 @@ header:
 ---
 Your final project is to consider a theme or question that recurs across many issues of the *Egyptian Gazette*
 
-Part of your work is to compose a serial question that makes sense and can be answered by the dataset. Explain this question (supplying, for instance, the xpath formula you will use), and explain how you extract the results. For guidance on queries, consult the [tutorial](how-to/query-instructions).
+Part of your work is to compose a serial question that makes sense and can be answered by the dataset. Explain this question (supplying, for instance, the xpath formula you will use), and explain how you extract the results. For guidance on queries, consult the [tutorial](https://dig-eg-gaz.github.io/how-to/query-instructions).
 
 ## How do I submit material?
 
