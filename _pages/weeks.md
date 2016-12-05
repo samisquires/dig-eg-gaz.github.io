@@ -12,7 +12,7 @@ Week|Start date (Monday)|End date (Saturday)|Personal repository|Images|Text|Not
 2|January 9, 1905|January 14, 1905|[Brett Crawford](https://github.com/wbc13/dig-eg-gaz)|Complete|All|Wed issue six pages
 3|January 16, 1905|January 21, 1905|[Tara Kagan](https://github.com/tkhagan/dig_eg)|21/38||Wed issue six pages
 4|January 23, 1905|January 28, 1905|[Matthew Cooper](https://github.com/Mic15b/dig-eg-gaz)|Complete|All|Wed issue six pages
-5|January 30, 1905|February 4, 1905|[Daisy Vazquez](https://github.com/dvazquez703/dig-eg-gaz)|Complete||Wed issue six pages
+5|January 30, 1905|February 4, 1905|[Daisy Vazquez](https://github.com/dvazquez703/dig-eg-gaz)|Complete|All|Wed issue six pages
 6|February 6, 1905|February 11, 1905|[Brandon Barrett](https://github.com/bcb14g/dig-eg-gaz)|Complete|All|Wed issue six pages
 7|February 13, 1905|February 18, 1905|[Kevin Monell](https://github.com/knm15e/dig-eg-gaz)|Complete||Wed issue six pages
 8|February 20, 1905|February 25, 1905|[Samantha Curran](https://github.com/samrcurran/dig-eg-gaz)||
@@ -22,7 +22,7 @@ Week|Start date (Monday)|End date (Saturday)|Personal repository|Images|Text|Not
 12|March 20, 1905|March 25, 1905|[Claudia Jimeno](https://github.com/cjimeno)|Not in organization
 13|March 27, 1905|April 1, 1905|[Courtney Coyle](https://github.com/courtneyelon)|32/38|2/6|missing all but one page 3; missing 1905-03-27-p1; Wed issue six pages
 14|April 3, 1905|April 8, 1905|[David Gressgott](https://github.com/djdaviedave/dig-eg-gaz)||
-15|April 10, 1905|April 15, 1905|[Alex Caliendo](https://github.com/RGOODY3210/dig-eg-gaz)||
+15|April 10, 1905|April 15, 1905|[Alex Caliendo](https://github.com/RGOODY3210/dig-eg-gaz)||All
 16|April 17, 1905|April 22, 1905|[Riley Ouellette](https://github.com/rouellette07/dig-eg-gaz)||5/6
 17|April 24, 1905|April 29, 1905|[Jacob Stefonek](https://github.com/JacobStefonek/dig-eg-gaz)|Complete|All|Wed issue six pages
 18|May 1, 1905|May 6, 1905|[Dante Grieco](https://github.com/dgg15/dig-eg-gaz)|Complete|All|microfilm lacking 1905-05-01; missing 1905-05-02-pp1and2, 1905-05-03-pp1and6, Wed issue six pages
@@ -30,10 +30,10 @@ Week|Start date (Monday)|End date (Saturday)|Personal repository|Images|Text|Not
 20|May 15, 1905|May 20, 1905|[Valerie Curcio](https://github.com/valeriecurcio)||
 21|May 22, 1905|May 27, 1905|[Anet Crespo](https://github.com/ac15at/dig-eg-gaz)|Complete|All
 22|May 29, 1905|June 3, 1905|[John White](https://github.com/jcw3/dig-eg-gaz)|Complete|All
-23|June 5, 1905|June 10, 1905|[Joseph Chack-On](https://github.com/jochack/dig-eg-gaz)|29/40||missing certain p3s, all of 1905-06-10
+23|June 5, 1905|June 10, 1905|[Joseph Chack-On](https://github.com/jochack/dig-eg-gaz)|Complete||
 24|June 12, 1905|June 17, 1905|[Thomas Corzo](https://github.com/ThomasC24)||
 25|June 19, 1905|June 24, 1905|[Kedric Heyward](https://github.com/Kheyward/dig-eg-gaz)|6/40|
-26|June 26, 1905|July 1, 1905|[Max Conway](https://github.com/maxconwayfsu/dig-eg-gaz)|34/40||missing most page 3s
+26|June 26, 1905|July 1, 1905|[Max Conway](https://github.com/maxconwayfsu/dig-eg-gaz)|39/40||missing 1905-06-26-p2
 27|July 3, 1905|July 8, 1905|[Will Hanley](https://github.com/whanley/digital-Egyptian-Gazette/tree/master/my-content)|Complete|2/6
 28|July 10, 1905|July 15, 1905|[Will Hanley](https://github.com/whanley/digital-Egyptian-Gazette/tree/master/my-content)|Complete|All
 29|July 17, 1905|July 22, 1905|[Tristan Garcia](https://github.com/tcg15)||
