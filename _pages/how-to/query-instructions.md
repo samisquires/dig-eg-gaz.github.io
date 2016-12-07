@@ -22,15 +22,30 @@ To search everything in the [Digital Egyptian Gazette content repository](https:
 
 This will return lots of results. It will be useful for you to refine these somewhat, using expressions such as:
 
-- `//placeName[contains(.,'Aden')]`
-- `//div/@type[contains(.,'wireReport')]/parent::div//dateline`
-- `//div/@type[contains(.,'wireReport')]/parent::div//dateline//placeName`
+### Searching for instances of particular words
+- Return all placename items that contain the word "Aden": `//placeName[contains(.,'Aden')]`
+
+### Searching for specific item types
+- Return all datelines contained in a "wireReport" div type: `//div/@type[contains(.,'wireReport')]/parent::div//dateline`
+- Return all placeNames in wireReports: `//div/@type[contains(.,'wireReport')]/parent::div//dateline//placeName`
+
+### Return specific numbers and text
+- return the text contained in the cell after a cell containing the text "P.T." `//table//cell[contains(.,'P.T.')]/following-sibling::cell[1]/text()`. Does not work for numbers, it seems.
+- return the number contained in the cell after a cell containing the text "Augment." `//table//cell[contains(.,'Augment.')]/following-sibling::cell[1]/number()`. Does not work if number appears as a string (i.e. contains a comma after the thousands for example).
+- return the string contained in the cell after a cell containing the text "Augment." `//table//cell[contains(.,'Augment.')]/following-sibling::cell[1]/string()`
+- return the string text of the first paragraph of the div with the heading "MARCHE DE MINET" `//div//head[contains(.,'MARCHE DE MINET')]/following-sibling::p[1]/string()`
 
 An example of working your way through table cells, looking at prices for cotton:
 
 - This query will look at all tables and return the value in the fourth cell to the right of the cell containing the word "Cotton": `//table//cell[contains(.,'Cotton')]/following-sibling::cell[4]`
 - This query will look at the "Coton" table (which has an xml:id of "deg-ta-cotn01"), and return the value in the cell to the right of the cell containing the word "Russie":  `//table[@xml:id="deg-ta-cotn01"]//cell[contains(.,'Russie')]/following-sibling::cell[1]`
 
+### Counting instances
+- Count the number of items containing the term 'native': `count(//div[contains(., 'native')])`
+- count the number of ads (divs) on page 1 (div n="1"): `count(//div[@n="1"]//div)`
+- count the number of paragraphs in the division whose heading contains "MARCHE DE MINET": `count(//div/head[contains(.,'MARCHE DE MINET')]/following-sibling::p)`
+
+### Searching with regular expressions
 It is possible to combine regular expression and xpath searches by using the find/replace menu. <!--- explain further --->
 
 ## How do I search using xml:id?
@@ -44,5 +59,8 @@ Right click on results, then export file. You can then clean up these results wi
 ## Resources
 
 - [XPath functions list](http://www.w3schools.com/xml/xsl_functions.asp)
+- [W3C XPath functions list](https://www.w3.org/TR/2010/REC-xpath-functions-20101214/#func-number)
 - [XPath tutorial](http://www.w3schools.com/xml/xpath_intro.asp)
 - Got a question or comment? File an issue [here](https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/_pages/how-to/query-instructions.md).
+
+## Recipes
