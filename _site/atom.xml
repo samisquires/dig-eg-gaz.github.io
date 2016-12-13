@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>/</id>
 	<title>Digital Egyptian Gazette</title>
-	<updated>2016-12-01T21:22:19-05:00</updated>
+	<updated>2016-12-13T14:59:14-05:00</updated>
 
 	<subtitle>A daily newspaper from turn-of-the-century Egypt, in marked up full text.</subtitle>
 
@@ -28,6 +28,229 @@
 
 	<generator uri="http://jekyllrb.com" version="3.0.2">Jekyll</generator>
 
+	
+		<entry>
+			<id>/technical/caliendo-technical-reflection/</id>
+			<title>A Technical Reflection</title>
+			<link href="/technical/caliendo-technical-reflection/" rel="alternate" type="text/html" title="A Technical Reflection" />
+			<updated>2016-12-04T00:00:00-05:00</updated>
+
+			
+				
+				<author>
+					
+						<name>AlexCaliendo</name>
+					
+					
+					
+				</author>
+			
+			<summary>Analyzing the trials and triumphs of the IFS2116 coursework</summary>
+			<content type="html" xml:base="/technical/caliendo-technical-reflection/">&lt;p&gt;When I signed up for this course, I was quite unclear about what exactly the coursework would entail. But, the idea of translating newspaper pages to text as a way of research was intriguing to me, and it was enough of a reason to register for this abstract class. When I began my journey through this course, I immediately faced many technical problems. Foremost, learning how to scan the microfilm of the newspaper pages was somewhat challenging. It took about 30 minutes of messing around with the machine to finally figure out how to even begin to scan the pages I needed, and once I did figure this out, it seemed almost impossible to get all of the text on the page to show up clearly in the scan. Either some portions were too dark, or too light, or sometimes not even displayed on the scan. But eventually I came to terms with the imperfections, and managed to get what I thought would be workable images.&lt;/p&gt;
+
+&lt;p&gt;The next step of the process was to OCR the page images, and this was the most troubling step. After countless hours of trial and error with ABBYY, I decided to switch to Cisdem, and this offered somewhat of a better solution in terms of final product. However I found that it was very difficult to get the program to read the newspaper page in the correct order, so I was forced to reorder all of the scanned text in order for it to match up with the paper. Not to mention, the absolutely countless amount of textual errors that came with the OCR. As a result, I spent nearly 3 hours for each single page just correcting the text to make it perfect. Luckily, the XML process in all of this seemed like my saving grace. Although there was definitely a learning curve at first, once I got the hang of the structural tags, I was able to code all of the text quite simply, and It became more of an issue of time and tedious work.&lt;/p&gt;
+
+&lt;p&gt;Although my technical reflection is mostly negative, I do feel that this class enabled me to gain a set of very unique skills that I probably would have never acquired had it not been for this class.&lt;/p&gt;
+</content>
+
+			
+				<category term="Technical" />
+			
+			
+				<category term="technical -reflection -OCR -XML" />
+			
+
+			<published>2016-12-04T00:00:00-05:00</published>
+		</entry>
+	
+		<entry>
+			<id>/serial%20question/Corzo-SerialQuestion/</id>
+			<title>Serial Question</title>
+			<link href="/serial%20question/Corzo-SerialQuestion/" rel="alternate" type="text/html" title="Serial Question" />
+			<updated>2016-12-04T00:00:00-05:00</updated>
+
+			
+				
+				<author>
+					
+						<name>thomascorzo</name>
+					
+					
+					
+				</author>
+			
+			<summary>Why isn&#39;t anyone worried?!?</summary>
+			<content type="html" xml:base="/serial%20question/Corzo-SerialQuestion/">&lt;p&gt;For my serial question I would like to investigate the lack of reporting on a widespread plague that is spreading through Egypt and taking lives. I have noticed in my section newspaper that there is currently a plague going on and it seems to me by the article lengths that are getting written about it that the Egyptian gazette doesn’t really care. Recently when ebola and other diseases have ravaged the US in a way, big newspapers like the New York Times or the Washington Post have written very large pieces on the disease and on efforts to stop it. I would like to look into how devastating the diseases has been to the area as well as how far it has spread. I would like to also find out if other newspapers at the time were reporting on it or not. The goal is to see if there was an alternative motive behind the Egyptian gazette’s lack of reporting on the plague spreading through Egypt.&lt;/p&gt;
+
+&lt;p&gt;The way I will go about this is by looking at all the deaths in Alexandria in the year and seeing the causes. Also I will see any other types of illnesses and diseases that might have been going around in the year 1905. Also I will look at outside sources to see if the Egyptian gazette was under reporting this plague.&lt;/p&gt;
+</content>
+
+			
+				<category term="Serial Question" />
+			
+			
+
+			<published>2016-12-04T00:00:00-05:00</published>
+		</entry>
+	
+		<entry>
+			<id>/Wills-Final-Paper-Blog/</id>
+			<title>Diplomatic Influence of Major Nations</title>
+			<link href="/Wills-Final-Paper-Blog/" rel="alternate" type="text/html" title="Diplomatic Influence of Major Nations" />
+			<updated>2016-12-03T00:00:00-05:00</updated>
+
+			
+				
+				<author>
+					
+						<name>LoganWills</name>
+					
+					
+					
+				</author>
+			
+			<summary>A look into the effect of major global events as evident in the Egyptian Gazette&#39;s writers</summary>
+			<content type="html" xml:base="/Wills-Final-Paper-Blog/">&lt;p&gt;In the time of the Egyptian Gazette, and specifically the year 1905, many of the worlds
+major powers resided in Europe and Asia, while the continent of Africa was behind.  For my
+cereal question, I would like to take a look into the influence some of these major European and
+Asian powers had evident in the Egyptian newspaper.  More specifically, I would like to look into
+the results of the Anglo-Japanese Treaty, how it upset Russia, and the preparedness of Egypt in
+he case of a global conflict.  Along with looking into these storylines throughout the issue, I
+would like to create an interactive map of sorts, labeling the main positions of these storylines.&lt;br /&gt;
+If the user was to select a point on the map, a brief explanation of the situation, along with a
+date would show up.  In my analysis I would like generally discuss Egypt’s reactions, their
+opinions on the global treaties, as well as the effects of the agreements between foreign
+nations.  I would mostly like to focus on the influence of England, and the resulting reactions of
+Russia to movements made by the English, as they would regularly lead to a series of other
+reactions.  Querying has resulted in a good amount of topics regarding Egyptian-English
+relations, as well as on the topic of the Anglo-Japanese Treaty, and through varying the search
+queries, plenty of data is available regarding this topic.&lt;/p&gt;
+
+&lt;p&gt;The visual aid of this project is a map utilizing the app Palladio.  After spending hours
+attempting to find a way to save the Palladio file, the discovery of there being no way was made.
+In order for the map to be viewed, the text line at the bottom of this blog must be copied and
+pasted into an editing software, such as oxygen.  Once the line of text has been pasted, this
+oxygen file must be saved.  Using the second link at the bottom of the page, select load an existing
+project, then upload this saved oxygen file to this page, and the map will become visible.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Copy and paste this line into an editor software, save it, upload to page in next URL:&lt;/strong&gt;
+{“version”:”1.2.4”,”files”:[{“loadFromURL”:false,”label”:”Untitled”,”id”:0,”autoFields”:[],”fields”:[{“key”:”Place”,”description”:”Place”,”cardinality”:11,”type”:”text”,”blanks”:0,”uniques”:[],”uniqueKey”:false,”special”:[],”unassignedSpecialChars”:[],”countBy”:false,”errors”:[],”descriptiveField”:”Name of Event/Description”,”&lt;script type=&quot;math/tex&quot;&gt;hashKey&quot;:&quot;object:116&quot;},{&quot;key&quot;:&quot;Latitude, Longtitude&quot;,&quot;description&quot;:&quot;Latitude, Longtitude&quot;,&quot;cardinality&quot;:11,&quot;type&quot;:&quot;latlong&quot;,&quot;blanks&quot;:0,&quot;uniques&quot;:[],&quot;uniqueKey&quot;:false,&quot;special&quot;:[&quot;,&quot;,&quot;-&quot;],&quot;unassignedSpecialChars&quot;:[],&quot;countBy&quot;:false,&quot;errors&quot;:[],&quot;descriptiveField&quot;:&quot;Name of Event/Description&quot;,&quot;&lt;/script&gt;hashKey”:”object:117”,”existenceDimension”:”0.u97dbp6td49”},{“key”:”Name of Event/Description”,”description”:”Name of Event/Description”,”cardinality”:12,”type”:”text”,”blanks”:0,”uniques”:[],”uniqueKey”:true,”special”:[”-“,”,”,”/”],”unassignedSpecialChars”:[”-“,”,”,”/”],”countBy”:true,”errors”:[],”&lt;script type=&quot;math/tex&quot;&gt;hashKey&quot;:&quot;object:118&quot;,&quot;verifiedSpecialChars&quot;:[&quot;-&quot;,&quot;,&quot;,&quot;/&quot;],&quot;confirmed&quot;:true,&quot;countable&quot;:true,&quot;countDescription&quot;:&quot;Untitled&quot;},{&quot;key&quot;:&quot;&quot;,&quot;description&quot;:&quot;&quot;,&quot;cardinality&quot;:0,&quot;type&quot;:&quot;null&quot;,&quot;blanks&quot;:12,&quot;uniques&quot;:[],&quot;uniqueKey&quot;:false,&quot;special&quot;:[],&quot;unassignedSpecialChars&quot;:[],&quot;countBy&quot;:false,&quot;errors&quot;:[],&quot;descriptiveField&quot;:&quot;Name of Event/Description&quot;,&quot;&lt;/script&gt;hashKey”:”object:119”,”delete”:true}],”data”:[{“Place”:”Frankfurt”,”Latitude, Longtitude”:”50.1109221,8.6821267”,”Name of Event/Description”:”Treaty of Frankfurt/Ended Franco-Prussian War, but would have lasting diplomatic impacts”,””:””},{“Place”:”Paris”,”Latitude, Longtitude”:”48.856614,2.3522219”,”Name of Event/Description”:”Treaty of Paris/Spain ending reliquinshing almost all its territory in the Americas”,””:””},{“Place”:”London”,”Latitude, Longtitude”:”51.5073509,-0.1277583”,”Name of Event/Description”:”Anglo-Japanese Treaty/Represented a friendship between England and Japan, and was the first of its kind”,””:””},{“Place”:”Paris”,”Latitude, Longtitude”:”48.856614,2.3522219”,”Name of Event/Description”:”Hispano-American Treaty of Peace/Treaty between U.S and Spain than ended Spanish colonies in America”,””:””},{“Place”:”Panama City”,”Latitude, Longtitude”:”9.1011785,-79.4028639”,”Name of Event/Description”:”Panama Canal Treaty/Established the Panama Canal zone for U.S and Panama”,””:””},{“Place”:”Pourtsmouth”,”Latitude, Longtitude”:”50.8197675,-1.0879769”,”Name of Event/Description”:”Treaty of Portsmouth/Officially ended the Russo-Japanese War”,””:””},{“Place”:”Hanseong”,”Latitude, Longtitude”:”37.566535,126.9779692”,”Name of Event/Description”:”Japan-Korea Treaty of 1905/Created an aliiance between Korea and Japan to protect against Russia”,””:””},{“Place”:”Berezovye Islands”,”Latitude, Longtitude”:”61.6816667,90.5466667”,”Name of Event/Description”:”Treaty of Bjorko/Secret Treaty of defense between the German Empire and Russia”,””:””},{“Place”:”L�shunkou”,”Latitude, Longtitude”:”38.851705,121.261953”,”Name of Event/Description”:”Battle of Port Arthur/Marked the commencment of the Russo-Japanese War”,””:””},{“Place”:”Tokyo”,”Latitude, Longtitude”:”35.6894875,139.6917064”,”Name of Event/Description”:”BATTLE OF HEI-KOU-TAI/Major battle resulting in a stalemate, and started the downfall of Russia in the War”,””:””},{“Place”:”Sevastopol”,”Latitude, Longtitude”:”44.61665,33.525367”,”Name of Event/Description”:”Sevastopol Mutiny/Major armed revolt in the Black Sea Fleet against Russia”,””:””},{“Place”:”Straits of Tsushima”,”Latitude, Longtitude”:”34.0,129.5”,”Name of Event/Description”:”Battle of Tsushima/Another Japanese decisive victory spelling the end for Russia’s chances of victory”,””:””}],”uniqueId”:0,”$$hashKey”:”object:110”}],”links”:[],”layout”:”geo”,”metadata”:{“title”:null,”author”:null,”date”:null,”description”:null},”vis”:[{“type”:”palladioFilters”,”importJson”:{“facets”:[],”timelines”:[],”partimes”:[],”timesteps”:[]}},{“type”:”graphView”,”importJson”:{“showLinks”:true,”showLabels”:true,”aggregateKey”:null,”aggregationType”:”COUNT”,”nodeSize”:false,”highlightSource”:false,”highlightTarget”:false,”aggDimKey”:”Name of Event/Description”,”sourceDimension”:null,”targetDimension”:null,”fixedNodes”:false}},{“type”:”mapView”,”importJson”:{“tileSets”:[{“url”:null,”mbId”:”cesta.k8gof2np”,”enabled”:true,”description”:”Latitude, Longtitude”},{“url”:null,”mbId”:”cesta.k8ghh462”,”enabled”:true,”description”:”Latitude, Longtitude”},{“url”:null,”mbId”:”cesta.hd9ak6ie”,”enabled”:true,”description”:”Land”}],”layers”:[{“aggDescription”:”Number of Untitled”,”aggregateKey”:null,”aggregationType”:”COUNT”,”color”:”#000000”,”countBy”:”Name of Event/Description”,”description”:”Latitude, Longtitude”,”enabled”:true,”layerType”:”data”,”descriptiveDimKey”:”Name of Event/Description”,”mapping”:{“sourceCoordinatesKey”:”Latitude, Longtitude”,”sourceCoordinatesType”:null,”sourceCoordinatesDescription”:”Latitude, Longtitude”,”destinationCoordinatesKey”:null,”destinationCoordinatesType”:null,”destinationCoordinatesDescription”:null},”showLinks”:false,”type”:”points”}]}},{“type”:”tableView”,”importJson”:{“tableDimensions”:[],”countDim”:null,”maxDisplay”:1000}},{“type”:”listView”,”importJson”:{“titleDim”:”Name of Event/Description”}}]}&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;URL to upload saved file to:&lt;/strong&gt;
+http://hdlab.stanford.edu/palladio-app/#/upload&lt;/p&gt;
+</content>
+
+			
+			
+				<category term="Diplomacy" />
+			
+				<category term="Writers" />
+			
+
+			<published>2016-12-03T00:00:00-05:00</published>
+		</entry>
+	
+		<entry>
+			<id>/curiosities/Corzo-TheSilentKiller/</id>
+			<title>The Silent Killer</title>
+			<link href="/curiosities/Corzo-TheSilentKiller/" rel="alternate" type="text/html" title="The Silent Killer" />
+			<updated>2016-12-03T00:00:00-05:00</updated>
+
+			
+				
+				<author>
+					
+						<name>thomascorzo</name>
+					
+					
+					
+				</author>
+			
+			<summary>Another life taken by the plague. Wait what plague?</summary>
+			<content type="html" xml:base="/curiosities/Corzo-TheSilentKiller/">&lt;p&gt;Imagine reading the one of the leading newspapers in the country and coming upon the local and general section. You read about current court cases, the recent parade happening downtown etc. and then you read that yet another person has died from the plague. You think about how devastating the plague has been to the country… Wait there’s a plague?
+In the middle of the 1905 summer on June 16, the Egyptian Gazette reported that another person has died from the plague in a hospital in Damanhour. This report in the newspaper took up literally 2 lines and was probably over looked by the majority of readers. To me it seems that a widespread plague should receive a little more attention than that. Actually a lot more attention. What was the death toll at this point? How far had the plague spread? Are there any treatments being developed for the disease? What are the symptoms? All seem like plausible questions to be asked and reported on by the newspaper but haven’t been. They treated the plague as if it were just as common as the weather report. In only 2 other pages in my week was the plague reported, each being no longer than the report on the 16th.
+This odd occurrence begs the question of why hadn’t the newspaper reported something of this magnitude more rigorously? Also it brings up the chilling question of what if the newspaper did it on purpose. What if they had an alternative motive? Regardless of alternative motive or blatant ignorance, the population was being misled regarding the matter of the plague. What else were they being misled about?&lt;/p&gt;
+</content>
+
+			
+				<category term="curiosities" />
+			
+			
+
+			<published>2016-12-03T00:00:00-05:00</published>
+		</entry>
+	
+		<entry>
+			<id>/technical/Corzo-TechnicalDifficulties/</id>
+			<title>Technical Difficulties</title>
+			<link href="/technical/Corzo-TechnicalDifficulties/" rel="alternate" type="text/html" title="Technical Difficulties" />
+			<updated>2016-12-03T00:00:00-05:00</updated>
+
+			
+				
+				<author>
+					
+						<name>thomascorzo</name>
+					
+					
+					
+				</author>
+			
+			<summary>Houston, We have a problem</summary>
+			<content type="html" xml:base="/technical/Corzo-TechnicalDifficulties/">&lt;p&gt;Anytime you learn something new, there are problems to come along with it. To try new things and learn new things you will have to face a little bit of adversity. This semester in Digital Microhistory I learned basically a whole new language by learning xml and some coding. This task definitely came with its challenges.&lt;/p&gt;
+
+&lt;p&gt;One of the most prominent issues that arose was learning the xml language itself. Marking text with “div” tags and all the others was very confusing and sometimes tedious. It seemed that every time I added a tag or edited something, the program oxygen would add another error to my document. The right side of my document was filled with red indicating I had multiple errors. Eventually I learned how to fix them and completely it the right way. Although some errors were fixed by miracle.&lt;/p&gt;
+
+&lt;p&gt;Another issue that I had was taking the actual pictures of the microfilm in the basement of strozier. The quality of the microfilm was short or awesome and made it harder for me to take a clear picture no matter what attributes I changed on the picture. This difficulty just made the process longer and more time consuming. One thing that would’ve made the process a whole lot easier was if the OCR program would have scanned the microfilm more accurately, reducing the amount of time spent having to edit the text afterwards. Overall through the challenges I learned a lot of new skills that will be useful in the future.&lt;/p&gt;
+</content>
+
+			
+				<category term="Technical" />
+			
+			
+
+			<published>2016-12-03T00:00:00-05:00</published>
+		</entry>
+	
+		<entry>
+			<id>/curiosities/the-evolution-of-cigarette-advertising/</id>
+			<title>The Evolution of Cigarette Advertising</title>
+			<link href="/curiosities/the-evolution-of-cigarette-advertising/" rel="alternate" type="text/html" title="The Evolution of Cigarette Advertising" />
+			<updated>2016-12-02T00:00:00-05:00</updated>
+
+			
+				
+				<author>
+					
+						<name>alexcaliendo</name>
+					
+					
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="/curiosities/the-evolution-of-cigarette-advertising/">&lt;p&gt;In 1970, Congress passed the &lt;strong&gt;Public Health Cigarette Smoking Act&lt;/strong&gt;, which prohibited the advertisement of cigarettes, and this law took effect on January 2, 1971. As a result, I have never seen a pro-cigarette advertisement a day in my life. And clearly, that reality differs from that of people who lived in Alexandria in 1905. Here, the Egyptian Gazette, on page three of this issue, is pushing the reader to check out an advertisement for the Cleopatra Cigarette Company, just in case they skimmed over it while reading page one  just moments before. In essence, not only does the “Gazette” advertise for this cigarette company on the very first page of their newspaper, but they also refer the reader back to that advertisement in a later section of the paper, and in doing so, they are essentially advertising for Cleopatra Cigarettes two times in one issue. This just goes to show how lax people’s views on cigarettes were back in 1905. This newspaper “begs” the reader to check out an advertisement for cigarettes, hoping that they’ll end up purchasing the &lt;em&gt;cancer sticks&lt;/em&gt; for themselves.&lt;/p&gt;
+
+&lt;p&gt;This is beautifully juxtaposed with modern society’s view on cigarettes. For one, in 2016, you would never find an advertisement for cigarettes in a local newspaper. Moreover, there are a plethora of campaigns in existence today which put out ads and commercials to influence people to not smoke, or to stop smoking.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/blog-images/cigs-1x-1.jpeg?raw=true&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is just one example of the many types of ads in existence today, aiming to make society aware of the side effects of smoking cigarettes. Being surrounded and exposed by so many negative advertisements like this, it makes me question what my view on cigarettes would be if I lived in 1905 Alexandria, and was exposed to positive ads for cigarettes. Not to mention, how I would feel if my local newspaper advertised cigarettes. And moreover, if my local newspaper advertised their own cigarette advertisements.&lt;/p&gt;
+</content>
+
+			
+				<category term="curiosities" />
+			
+			
+				<category term="advertisements" />
+			
+				<category term="cigarettes" />
+			
+				<category term="smoking" />
+			
+
+			<published>2016-12-02T00:00:00-05:00</published>
+		</entry>
 	
 		<entry>
 			<id>/serial/Fling-Serial-Question/</id>
@@ -207,223 +430,6 @@ and I was able to determine the cause of a few technical errors that came up.&lt
 			
 
 			<published>2016-11-30T00:00:00-05:00</published>
-		</entry>
-	
-		<entry>
-			<id>/serial%20question/evanoff-serial/</id>
-			<title>Serial Question</title>
-			<link href="/serial%20question/evanoff-serial/" rel="alternate" type="text/html" title="Serial Question" />
-			<updated>2016-11-30T00:00:00-05:00</updated>
-
-			
-				
-				<author>
-					
-						<name>oliviaevanoff</name>
-					
-					
-					
-				</author>
-			
-			<summary>This project may kill me</summary>
-			<content type="html" xml:base="/serial%20question/evanoff-serial/">&lt;p&gt;My serial question is stemming from a series of passages I read in my issue.
-There seems to be a massacre of the Jewish population in Russia. I found this
-to be interesting because this is decades prior to World War II, where there
-was mass homicide of the Jews in Europe. I would like to explore how this built
-up throughout the year and what reports are reaching Egypt. They are reporting
-mass killings but seem to remain an objective third party.&lt;/p&gt;
-
-&lt;p&gt;People tend to say that history has a way of repeating itself. It interests
-me that there was mass homicide of the Jewish population 30 years prior to the
-most infamous (dare I say successful) murder of millions of Jews. I intend to
-explore this topic and the history of conflict Europeans had with the Jewish
-population.&lt;/p&gt;
-</content>
-
-			
-				<category term="serial question" />
-			
-			
-
-			<published>2016-11-30T00:00:00-05:00</published>
-		</entry>
-	
-		<entry>
-			<id>/curiosities/evanoff-curiosity/</id>
-			<title>Death in Alexandria 1905</title>
-			<link href="/curiosities/evanoff-curiosity/" rel="alternate" type="text/html" title="Death in Alexandria 1905" />
-			<updated>2016-11-30T00:00:00-05:00</updated>
-
-			
-			<summary>People are croaking left and right!</summary>
-			<content type="html" xml:base="/curiosities/evanoff-curiosity/">&lt;p&gt;In 1905 Alexandria on my third pages I have noticed a lot of deaths being
-reported in the newspaper. There was a child killed by a horse in an accident
-and it received approximately 3 lines of text with little to no commentary.
-When the Grand Mufti died he had almost an entire column in every single page
-of the newspaper. They made updates on the family and commented on his well
-being as well as his wishes for the future and memories of the past. It is
-so sad to see in this paper how little the newspapers covered tragedies like
-children dying and they covered an older man who had been dying for a while so
-heavily. I understand having to put the Grand Mufti in the spotlight since
-he was the leader of the country, however it is quite the travesty to see
-people being disregarded publicly. They need to give them the respect they
-deserve, or just not mention it.&lt;/p&gt;
-</content>
-
-			
-				<category term="curiosities" />
-			
-			
-
-			<published>2016-11-30T00:00:00-05:00</published>
-		</entry>
-	
-		<entry>
-			<id>/technology/frederick-technology-troubles/</id>
-			<title>Technology Troubles</title>
-			<link href="/technology/frederick-technology-troubles/" rel="alternate" type="text/html" title="Technology Troubles" />
-			<updated>2016-11-29T00:00:00-05:00</updated>
-
-			
-				
-				<author>
-					
-						<name>cassandrafrederick</name>
-					
-					
-					
-				</author>
-			
-			<summary>Just one computer inept girl taking on technology and wondering why it hates her.</summary>
-			<content type="html" xml:base="/technology/frederick-technology-troubles/">&lt;p&gt;For the first few weeks of this semester I was completely dedicated to toiling for hours in order to receive an “A” in this class. I would stay up until midnight finishing editing text that was OCRd making sure that no detail was overlooked. I would spend hours working on this editing only to go back to it and find that all of my hard work had either disappeared or been undone and not for lack of saving. When I started working with Oxygen, I would find that a file I had just started coding the previous night could not be found when I went to open and edit it the next day. This setback has been a source of major frustration for obvious reasons. I don’t know whether this unfortunate series of events is occurring because of some delayed karma or because I have the dreaded apple computer but it has caused me to become lazy with the workload. That being said, I have prayed to the computer gods to fix my issues so I can save my grade and it seems to have worked so far. In the wake of my realization about how quickly the semester is coming to an end I have kicked back into gear and have decided to push through any and all technical difficulties.&lt;/p&gt;
-</content>
-
-			
-				<category term="technology" />
-			
-			
-				<category term="technology" />
-			
-				<category term="problems" />
-			
-				<category term="OCR" />
-			
-				<category term="sucks" />
-			
-
-			<published>2016-11-29T00:00:00-05:00</published>
-		</entry>
-	
-		<entry>
-			<id>/curiosities/frederick-deadly-dates/</id>
-			<title>Deadly Dates</title>
-			<link href="/curiosities/frederick-deadly-dates/" rel="alternate" type="text/html" title="Deadly Dates" />
-			<updated>2016-11-29T00:00:00-05:00</updated>
-
-			
-				
-				<author>
-					
-						<name>cassandrafrederick</name>
-					
-					
-					
-				</author>
-			
-			<summary>A man treats his cousin to a date she will never forget</summary>
-			<content type="html" xml:base="/curiosities/frederick-deadly-dates/">&lt;p&gt;You love your family but there’s always those cousins that just annoy you so much that sometimes you just want to feed them some poisoned dates so you don’t have to deal with them anymore. Well that’s precisely what one man of Makhadoora village did to his cousins in May of 1905. This nameless man injected compressed dates with enough of a deadly poison to kill those who ate it. He then gave these deadly fruits to five of his cousins, two men and three women.&lt;/p&gt;
-
-&lt;p&gt;The three women ate the dates and “expired in great agony.” Now if you are not a psychopath, you might be confused as to why this man decided to off his cousins and especially in such a cruel and painful way. Did they inherit a large sum of money from grandma while the killer only received the nice china? Did they eat all of the stuffing at Thanksgiving when they knew it was his favorite?&lt;/p&gt;
-
-&lt;p&gt;Unfortunately, due to the lack of information provided about a motive or even a name for the killer, the world may never know. One thing that is known however, is that this event did cause “considerable excitement” throughout the neighborhood due to the simple fact that it was a murder as opposed to an accidental date poisoning. In my opinion, this fact implies that the neighborhood in Keneh where the murders took place was not used to this violence which might mean that it was a fairly well-off neighborhood.&lt;/p&gt;
-
-&lt;p&gt;Does this mean that the motive could involve money? It could certainly be a possibility.&lt;/p&gt;
-</content>
-
-			
-				<category term="curiosities" />
-			
-			
-				<category term="murder" />
-			
-				<category term="family" />
-			
-				<category term="dates" />
-			
-				<category term="poison" />
-			
-
-			<published>2016-11-29T00:00:00-05:00</published>
-		</entry>
-	
-		<entry>
-			<id>/technical/Crespo-Break/</id>
-			<title>Break</title>
-			<link href="/technical/Crespo-Break/" rel="alternate" type="text/html" title="Break" />
-			<updated>2016-11-29T00:00:00-05:00</updated>
-
-			
-				
-				<author>
-					
-						<name>AnetCrespo</name>
-					
-					
-					
-				</author>
-			
-			<summary>Trying to pass the class, but computer malfunctioning.</summary>
-			<content type="html" xml:base="/technical/Crespo-Break/">&lt;p&gt;It’s almost the end of the semester and I am still on the second blog post, wow. At the beginning of the semester I had a big issue, my brand-new MacBook stopped working. At first they believed my trackpad and keyboard were not working because of a virus on my computer, they gave it back after deleting the virus and it went back to not working, after that I took it back and they worked on it for another week and believed they had fixed the problem, I got it back and a few days later I was still on the same page. The Apple technicians at the bookstore got to know my name very well as I had to keep going back. In the end my MacBook took about a month to get fully repaired, they ended up having to replace the whole keyboard, so obviously, I fell behind. Once I got it back I began to work deliberately on the material, although it is not difficult work, I would still find myself spending hours in front of my computer without much progress. So much correcting, so many things to fill in, plus handling four other classes at the same time, so stressful. Cisdem OCR helped me so much more than the ABBYY OCR, it could detect the print much more precisely which made the process a little easier.&lt;/p&gt;
-</content>
-
-			
-				<category term="technical" />
-			
-			
-				<category term="apple" />
-			
-				<category term="time" />
-			
-				<category term="help" />
-			
-
-			<published>2016-11-29T00:00:00-05:00</published>
-		</entry>
-	
-		<entry>
-			<id>/technical/vincent-technical-post/</id>
-			<title>Technical Issues</title>
-			<link href="/technical/vincent-technical-post/" rel="alternate" type="text/html" title="Technical Issues" />
-			<updated>2016-11-28T00:00:00-05:00</updated>
-
-			
-				
-				<author>
-					
-						<name>brooklynvincent</name>
-					
-					
-					
-				</author>
-			
-			<summary>Problems I faced during my jouney in IFS2116</summary>
-			<content type="html" xml:base="/technical/vincent-technical-post/">&lt;p&gt;During my journey in IFS2116, I have faced many issues. Some of the issues were easily fixed, some were hard to fix, and some are just plain impossible to fix. My first issue came along the first or second week of class
-when I tried scanning my pages. The computers did not work and then I had to rescan the majority of my page threes.
-The journey is long and tedious and very very time consuming. Another issue I faced was the bad quality of image in general. Many of my images
-had missing words, blurred words, or a mixture of both. Some of the issues even had missing spots in the paper that left me clueless to what belonged in those spots.&lt;/p&gt;
-
-&lt;p&gt;Another technical issue I came across was the ads. A lot of the ads had very tiny bold font that was very difficult to read
-and faded as the ad continued down the page. Though there were many difficulties, I do have to say that I learned a great deal from these problems.
-These technical issues has led me to believe that nothing is perfect and it is those little imperfections that make the Egyptian Gazette Newspaper so beautiful.
-We all must understand that these pages have been passed on for over 50 years and nothing that old is perfect. The amazing thing is how researchers, like ourselves, go about solving these issues.&lt;/p&gt;
-</content>
-
-			
-				<category term="technical" />
-			
-			
-
-			<published>2016-11-28T00:00:00-05:00</published>
 		</entry>
 	
 </feed>
