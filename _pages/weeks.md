@@ -39,7 +39,7 @@ Week|Start date (Monday)|End date (Saturday)|Personal repository|Images|Text|Not
 29|July 17, 1905|July 22, 1905|[Tristan Garcia](https://github.com/tcg15)||
 30|July 24, 1905|July 29, 1905|[Brayan Barbosa](https://github.com/brayanbar/dig-eg-gaz)|Complete|All|
 31|July 31, 1905|August 5, 1905|[Andrea Maria Avila](https://github.com/ama15m)|Complete|
-32|August 7, 1905|August 12, 1905|[Melizza Black](https://github.com/MelizzaBlack/dig-eg-gaz)|34/40|All|missing 1905-08-08
+32|August 7, 1905|August 12, 1905|[Melizza Black](https://github.com/MelizzaBlack/dig-eg-gaz)|Complete|All|
 33|August 14, 1905|August 19, 1905|[Zach Reddick](https://github.com/znr13)|
 34|August 21, 1905|August 26, 1905|[Charlie Rymer](https://github.com/crymer)||
 35|August 28, 1905|September 2, 1905|[Erek Cyr](https://github.com/ErekCyr/dig-eg-gaz)|Complete|All|1905-08-31 special 9-page issue
