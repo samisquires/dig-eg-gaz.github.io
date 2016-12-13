@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>/</id>
 	<title>Digital Egyptian Gazette</title>
-	<updated>2016-12-13T14:59:14-05:00</updated>
+	<updated>2016-12-13T15:03:52-05:00</updated>
 
 	<subtitle>A daily newspaper from turn-of-the-century Egypt, in marked up full text.</subtitle>
 
@@ -88,6 +88,48 @@
 			
 				<category term="Serial Question" />
 			
+			
+
+			<published>2016-12-04T00:00:00-05:00</published>
+		</entry>
+	
+		<entry>
+			<id>/serial%20question/Advertising-and-Culture/</id>
+			<title>Advertising &amp; Culture</title>
+			<link href="/serial%20question/Advertising-and-Culture/" rel="alternate" type="text/html" title="Advertising &amp; Culture" />
+			<updated>2016-12-04T00:00:00-05:00</updated>
+
+			
+				
+				<author>
+					
+						<name>gwenlofman</name>
+					
+					
+					
+				</author>
+			
+			<summary>It&#39;s all about the sale.</summary>
+			<content type="html" xml:base="/serial%20question/Advertising-and-Culture/">&lt;p&gt;In the modern world advertising can target individuals based on their web traffic; that is, the advance of modern technology has revolutionized advertising as advertising has allowed modern technology to develop into what’s available today.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/dig-eg-gaz/advertisements/tree/master/ad-images&quot;&gt;Advertising&lt;/a&gt; in the Egyptian Gazette did exist under the same technological climate; instead, the only form of targeting these advertisements had available was to target the general audience of the publication.&lt;/p&gt;
+
+&lt;p&gt;So what do these advertisements reveal about the audience?  What kinds of places where they interested in?  What were they interested in buying–or what did advertisers try to sell to them?  What words appeared most frequently?  What companies advertised most frequently?&lt;/p&gt;
+
+&lt;p&gt;I want to analyze the content of the advertising in the Egyptian Gazette with the intention of discovering something interesting about their audience.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://books.google.com/books?hl=en&amp;amp;lr=&amp;amp;id=q8tUSCDORzwC&amp;amp;oi=fnd&amp;amp;pg=PA47&amp;amp;dq=advertising+and+culture&amp;amp;ots=B_X0Pax0q2&amp;amp;sig=vBolxbkOS8wKUkoDVSneDxl63Gg#v=onepage&amp;amp;q=advertising%20and%20culture&amp;amp;f=false&quot;&gt;Entire Books&lt;/a&gt; exist on this topic.  The digital format of the Egyptian Gazette lends itself particularly well to extracting data from the TEI indexed, digitized pages for the year; using &lt;a href=&quot;https://d3js.org/&quot;&gt;data&lt;/a&gt;, I hope to create some useful &lt;a href=&quot;http://bl.ocks.org/mbostock/1044242&quot;&gt;visualizations&lt;/a&gt;.&lt;/p&gt;
+</content>
+
+			
+				<category term="serial question" />
+			
+			
+				<category term="advertisment" />
+			
+				<category term="advertisements" />
+			
+				<category term="culture" />
 			
 
 			<published>2016-12-04T00:00:00-05:00</published>
@@ -393,40 +435,6 @@ and I was able to determine the cause of a few technical errors that came up.&lt
 			
 				<category term="technical" />
 			
-			
-
-			<published>2016-11-30T00:00:00-05:00</published>
-		</entry>
-	
-		<entry>
-			<id>/serial%20questions/grieco-cotton-serial-question/</id>
-			<title>Cotton Exports</title>
-			<link href="/serial%20questions/grieco-cotton-serial-question/" rel="alternate" type="text/html" title="Cotton Exports" />
-			<updated>2016-11-30T00:00:00-05:00</updated>
-
-			
-				
-				<author>
-					
-						<name>dantegrieco</name>
-					
-					
-					
-				</author>
-			
-			<summary>A serial question that examines trend in cotton exports to different countries</summary>
-			<content type="html" xml:base="/serial%20questions/grieco-cotton-serial-question/">&lt;p&gt;For my serial question, I will be examining the trends in cotton exports to different countries using the monthly “Coton” table included in the financial section of the &lt;em&gt;Egyptian Gazette&lt;/em&gt;. Specifically, I will be looking to see whether there are any variations in export volume (measured in bales) due to changes in season, significant domestic and international historical events, or any other major influences of demand. Particularly, this serial question gives me the unique opportunity to examine how complex international relationships at the turn of the century between Great Britain and other states might have trickled down to affect more localized factors, such as cotton exportation from one of its most valued colonies. I believe this questions reflects the spirit of one of the principal goals of this course.&lt;/p&gt;
-</content>
-
-			
-				<category term="serial questions" />
-			
-			
-				<category term="cotton" />
-			
-				<category term="exports" />
-			
-				<category term="bales" />
 			
 
 			<published>2016-11-30T00:00:00-05:00</published>

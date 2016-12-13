@@ -33,6 +33,23 @@
 			</item>
 		
 			<item>
+				<title>Advertising &amp; Culture</title>
+				<link>/serial%20question/Advertising-and-Culture/</link>
+				<pubDate>Sun, 04 Dec 2016 00:00:00 -0500</pubDate>
+				<description>&lt;p&gt;In the modern world advertising can target individuals based on their web traffic; that is, the advance of modern technology has revolutionized advertising as advertising has allowed modern technology to develop into what’s available today.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/dig-eg-gaz/advertisements/tree/master/ad-images&quot;&gt;Advertising&lt;/a&gt; in the Egyptian Gazette did exist under the same technological climate; instead, the only form of targeting these advertisements had available was to target the general audience of the publication.&lt;/p&gt;
+
+&lt;p&gt;So what do these advertisements reveal about the audience?  What kinds of places where they interested in?  What were they interested in buying–or what did advertisers try to sell to them?  What words appeared most frequently?  What companies advertised most frequently?&lt;/p&gt;
+
+&lt;p&gt;I want to analyze the content of the advertising in the Egyptian Gazette with the intention of discovering something interesting about their audience.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://books.google.com/books?hl=en&amp;amp;lr=&amp;amp;id=q8tUSCDORzwC&amp;amp;oi=fnd&amp;amp;pg=PA47&amp;amp;dq=advertising+and+culture&amp;amp;ots=B_X0Pax0q2&amp;amp;sig=vBolxbkOS8wKUkoDVSneDxl63Gg#v=onepage&amp;amp;q=advertising%20and%20culture&amp;amp;f=false&quot;&gt;Entire Books&lt;/a&gt; exist on this topic.  The digital format of the Egyptian Gazette lends itself particularly well to extracting data from the TEI indexed, digitized pages for the year; using &lt;a href=&quot;https://d3js.org/&quot;&gt;data&lt;/a&gt;, I hope to create some useful &lt;a href=&quot;http://bl.ocks.org/mbostock/1044242&quot;&gt;visualizations&lt;/a&gt;.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">/serial%20question/Advertising-and-Culture/</guid>
+			</item>
+		
+			<item>
 				<title>Diplomatic Influence of Major Nations</title>
 				<link>/Wills-Final-Paper-Blog/</link>
 				<pubDate>Sat, 03 Dec 2016 00:00:00 -0500</pubDate>
@@ -178,15 +195,6 @@ the wrong tags, which was solved using find and replace and also a lot of rearra
 and I was able to determine the cause of a few technical errors that came up.&lt;/p&gt;
 </description>
 				<guid isPermaLink="true">/technical/rymer-technical/</guid>
-			</item>
-		
-			<item>
-				<title>Cotton Exports</title>
-				<link>/serial%20questions/grieco-cotton-serial-question/</link>
-				<pubDate>Wed, 30 Nov 2016 00:00:00 -0500</pubDate>
-				<description>&lt;p&gt;For my serial question, I will be examining the trends in cotton exports to different countries using the monthly “Coton” table included in the financial section of the &lt;em&gt;Egyptian Gazette&lt;/em&gt;. Specifically, I will be looking to see whether there are any variations in export volume (measured in bales) due to changes in season, significant domestic and international historical events, or any other major influences of demand. Particularly, this serial question gives me the unique opportunity to examine how complex international relationships at the turn of the century between Great Britain and other states might have trickled down to affect more localized factors, such as cotton exportation from one of its most valued colonies. I believe this questions reflects the spirit of one of the principal goals of this course.&lt;/p&gt;
-</description>
-				<guid isPermaLink="true">/serial%20questions/grieco-cotton-serial-question/</guid>
 			</item>
 		
 	</channel>
