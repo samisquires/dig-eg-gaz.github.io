@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>/</id>
 	<title>Digital Egyptian Gazette</title>
-	<updated>2016-12-13T15:03:52-05:00</updated>
+	<updated>2016-12-14T23:45:02-05:00</updated>
 
 	<subtitle>A daily newspaper from turn-of-the-century Egypt, in marked up full text.</subtitle>
 
@@ -30,330 +30,280 @@
 
 	
 		<entry>
-			<id>/technical/caliendo-technical-reflection/</id>
-			<title>A Technical Reflection</title>
-			<link href="/technical/caliendo-technical-reflection/" rel="alternate" type="text/html" title="A Technical Reflection" />
-			<updated>2016-12-04T00:00:00-05:00</updated>
+			<id>/technical/Into-the-Rabbit-Hole-Technical/</id>
+			<title>A Reflection on the Tech</title>
+			<link href="/technical/Into-the-Rabbit-Hole-Technical/" rel="alternate" type="text/html" title="A Reflection on the Tech" />
+			<updated>2016-12-11T00:00:00-05:00</updated>
 
 			
 				
 				<author>
 					
-						<name>AlexCaliendo</name>
+						<name>AlexanderAmorello</name>
 					
 					
 					
 				</author>
 			
-			<summary>Analyzing the trials and triumphs of the IFS2116 coursework</summary>
-			<content type="html" xml:base="/technical/caliendo-technical-reflection/">&lt;p&gt;When I signed up for this course, I was quite unclear about what exactly the coursework would entail. But, the idea of translating newspaper pages to text as a way of research was intriguing to me, and it was enough of a reason to register for this abstract class. When I began my journey through this course, I immediately faced many technical problems. Foremost, learning how to scan the microfilm of the newspaper pages was somewhat challenging. It took about 30 minutes of messing around with the machine to finally figure out how to even begin to scan the pages I needed, and once I did figure this out, it seemed almost impossible to get all of the text on the page to show up clearly in the scan. Either some portions were too dark, or too light, or sometimes not even displayed on the scan. But eventually I came to terms with the imperfections, and managed to get what I thought would be workable images.&lt;/p&gt;
+			<summary>Pressing Ctrl+S every once and while is good decision. Trust me </summary>
+			<content type="html" xml:base="/technical/Into-the-Rabbit-Hole-Technical/">&lt;p&gt;I feel like this second blog post is going to saturated with negatives, so I’ll try to keep mine a little brighter by starting with the fact that this initially pain-staking process has really grown on me. At first it was a total chore, slowly trouble shooting every single issue that I had with the multiple programs I had no familiarity with (Oxygen, ABBYY Finereader, and Github), wishing that my advisor would’ve warned better beforehand of such things and hoping that I would have a free weekend again.&lt;/p&gt;
 
-&lt;p&gt;The next step of the process was to OCR the page images, and this was the most troubling step. After countless hours of trial and error with ABBYY, I decided to switch to Cisdem, and this offered somewhat of a better solution in terms of final product. However I found that it was very difficult to get the program to read the newspaper page in the correct order, so I was forced to reorder all of the scanned text in order for it to match up with the paper. Not to mention, the absolutely countless amount of textual errors that came with the OCR. As a result, I spent nearly 3 hours for each single page just correcting the text to make it perfect. Luckily, the XML process in all of this seemed like my saving grace. Although there was definitely a learning curve at first, once I got the hang of the structural tags, I was able to code all of the text quite simply, and It became more of an issue of time and tedious work.&lt;/p&gt;
+&lt;p&gt;But after about 3 solid weeks of working, something clicked. I started enjoying this previously arduous work. The trouble-shooting became enjoyable, as every issue came to me as an interesting puzzle rather than a pace-breaking wall. Also, the whole philosophy behind this encoding became much clearer to me, and in a way, inspired me to take special care when it came to encoding.&lt;/p&gt;
 
-&lt;p&gt;Although my technical reflection is mostly negative, I do feel that this class enabled me to gain a set of very unique skills that I probably would have never acquired had it not been for this class.&lt;/p&gt;
+&lt;p&gt;Some things on the tech side that I believe led me to enjoying this process more were:&lt;/p&gt;
+
+&lt;p&gt;*Having a larger monitor to work on: I like having all the information I need to encode in view all at once, it helps me keep things in order and it just keeps things more accurate. Having a monitor that is larger than a standard 13-15-17 in laptop screen really helped me. I was able to pull up boilerplates, have oxygen open, and have a reference scanned image open all in sizes that I could view easily. This expedited the process greatly&lt;/p&gt;
+
+&lt;p&gt;*Using a mouse: After trying to encode and OCR on my Surface and comparing it to my work on my desktop, I noticed a night and day difference in quality of pages and general frustration. The mouse allows you to have more exact control of your cursor and gives a less clunky access to your keyboard whilst moving your cursor between multiple points quickly.&lt;/p&gt;
+
+&lt;p&gt;…and some other technical mishaps/advice&lt;/p&gt;
+
+&lt;p&gt;*Make sure you take the highest quality scans of your microfilm as possible: Because I was foolish and decided to separate my scanning sessions into different days, I ended up getting two different qualities of scans. This made OCR’ing extremely frustrating as it made some pages correctable in about 20 minutes and other pages taking over an hour and a half. In short, SCAN HIGHEST DPI POSSIBLE AND MAKE SURE THE SCANNER GLASS DOES NOT HAVE EXCESSIVE SMUDGING.&lt;/p&gt;
+
+&lt;p&gt;*Always press Ctrl+S or “Save” after every page you finish in your issues: It’s been about 3 times that I’ve been so caught up in encoding that I forget to save for a few pages. Inevitably my computer updates or Oxygen crashes, and all that work is lost, leading to one too many instances of my palm colliding with my forehead.&lt;/p&gt;
+
+&lt;p&gt;*The &lt;a href=&quot;http://www.tei-c.org/index.xml&quot;&gt;TEI webpage&lt;/a&gt; should be considered the holy text of this class. It is referenced by Dr. Hanley, and simple guides are available on dig-eg-gaz. But if you need find anything specific, get spiritual and make a journey into the rabbit hole.&lt;/p&gt;
 </content>
 
 			
-				<category term="Technical" />
+				<category term="technical" />
 			
 			
-				<category term="technical -reflection -OCR -XML" />
+				<category term="premature aging" />
+			
+				<category term="keyboard smashing rage" />
+			
+				<category term="stress eating" />
+			
+				<category term="OCR" />
+			
+				<category term="Oxygen" />
+			
+				<category term="Lack of Oxygen" />
 			
 
-			<published>2016-12-04T00:00:00-05:00</published>
+			<published>2016-12-11T00:00:00-05:00</published>
 		</entry>
 	
 		<entry>
-			<id>/serial%20question/Corzo-SerialQuestion/</id>
-			<title>Serial Question</title>
-			<link href="/serial%20question/Corzo-SerialQuestion/" rel="alternate" type="text/html" title="Serial Question" />
-			<updated>2016-12-04T00:00:00-05:00</updated>
+			<id>/curiosities/Curiosity_Berlitz_Nicosia/</id>
+			<title>Higher Learning through the Newspaper</title>
+			<link href="/curiosities/Curiosity_Berlitz_Nicosia/" rel="alternate" type="text/html" title="Higher Learning through the Newspaper" />
+			<updated>2016-12-11T00:00:00-05:00</updated>
 
 			
 				
 				<author>
 					
-						<name>thomascorzo</name>
+						<name>AlexanderAmorello</name>
 					
 					
 					
 				</author>
 			
-			<summary>Why isn&#39;t anyone worried?!?</summary>
-			<content type="html" xml:base="/serial%20question/Corzo-SerialQuestion/">&lt;p&gt;For my serial question I would like to investigate the lack of reporting on a widespread plague that is spreading through Egypt and taking lives. I have noticed in my section newspaper that there is currently a plague going on and it seems to me by the article lengths that are getting written about it that the Egyptian gazette doesn’t really care. Recently when ebola and other diseases have ravaged the US in a way, big newspapers like the New York Times or the Washington Post have written very large pieces on the disease and on efforts to stop it. I would like to look into how devastating the diseases has been to the area as well as how far it has spread. I would like to also find out if other newspapers at the time were reporting on it or not. The goal is to see if there was an alternative motive behind the Egyptian gazette’s lack of reporting on the plague spreading through Egypt.&lt;/p&gt;
+			<summary>Would you apply to a Secondary Institution because of advertisement in the newspaper?</summary>
+			<content type="html" xml:base="/curiosities/Curiosity_Berlitz_Nicosia/">&lt;p&gt;Within a every issue throughout my week I continually saw two advertisements that stood out to me, an advertisement for a school of Language and an advertisement for an “English School”. Seeing education opportunities from the early 1900s is fascinating to me as it is during the century that public education became a cornerstone in developed nations.&lt;/p&gt;
 
-&lt;p&gt;The way I will go about this is by looking at all the deaths in Alexandria in the year and seeing the causes. Also I will see any other types of illnesses and diseases that might have been going around in the year 1905. Also I will look at outside sources to see if the Egyptian gazette was under reporting this plague.&lt;/p&gt;
-</content>
+&lt;p&gt;First are the Berlitz Schools of Languages, typically found under the “Cheap Pre-paid advertisement” column on Page 5’s. It sounded familiar to me, and after doing a brief amount of searching, this is a education company/institution that has persisted since 1878 all the way until to the present day, hailing from the state of Rhode Island. In 1905 however, students in Egypt would only be able to attend the locations present in Alexandria and Cairo, unlike now, as the Berlitz Corporation offers full courses online.&lt;/p&gt;
 
-			
-				<category term="Serial Question" />
-			
-			
+&lt;p&gt;The next advert regarding education that intrigued me was the “English School, Nicosia” advertisement. Offering a range of subjects, from Turkish to Mathematics, this school seemed a little more similar to institutions of the modern day. Also, this school seemed to have a sessions of Cricket and Football to be played with the instructors, which struck me as something related to more modern school systems. After a small amount of searching, it appears that this school persisted to the modern day just as the Berlitz program did. Besides being one of the more &lt;a href=&quot;https://www.englishschool.ac.cy/schools-history&quot; title=&quot;Nicosia English School Official History Page&quot;&gt;notable institutions of higher learning&lt;/a&gt; in the Middle East, it is also an modern example of social change. For over two decades following the &lt;a href=&quot;https://en.wikipedia.org/wiki/Turkish_invasion_of_Cyprus&quot;&gt;Turkish invasion of Cyprus&lt;/a&gt;, Turkish students were not admitted into the school, becoming a predominantly Greek Cypriot institution. However in 2003, the English School opened it’s admission to Turkish Cypriots and it’s general admission numbers have only grown exponentially since then.&lt;/p&gt;
 
-			<published>2016-12-04T00:00:00-05:00</published>
-		</entry>
-	
-		<entry>
-			<id>/serial%20question/Advertising-and-Culture/</id>
-			<title>Advertising &amp; Culture</title>
-			<link href="/serial%20question/Advertising-and-Culture/" rel="alternate" type="text/html" title="Advertising &amp; Culture" />
-			<updated>2016-12-04T00:00:00-05:00</updated>
+&lt;p&gt;&lt;img src=&quot;https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/blog-images/Nicosia_school.jpg?raw=true&quot; alt=&quot;image name&quot; /&gt;&lt;/p&gt;
 
-			
-				
-				<author>
-					
-						<name>gwenlofman</name>
-					
-					
-					
-				</author>
-			
-			<summary>It&#39;s all about the sale.</summary>
-			<content type="html" xml:base="/serial%20question/Advertising-and-Culture/">&lt;p&gt;In the modern world advertising can target individuals based on their web traffic; that is, the advance of modern technology has revolutionized advertising as advertising has allowed modern technology to develop into what’s available today.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/dig-eg-gaz/advertisements/tree/master/ad-images&quot;&gt;Advertising&lt;/a&gt; in the Egyptian Gazette did exist under the same technological climate; instead, the only form of targeting these advertisements had available was to target the general audience of the publication.&lt;/p&gt;
-
-&lt;p&gt;So what do these advertisements reveal about the audience?  What kinds of places where they interested in?  What were they interested in buying–or what did advertisers try to sell to them?  What words appeared most frequently?  What companies advertised most frequently?&lt;/p&gt;
-
-&lt;p&gt;I want to analyze the content of the advertising in the Egyptian Gazette with the intention of discovering something interesting about their audience.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://books.google.com/books?hl=en&amp;amp;lr=&amp;amp;id=q8tUSCDORzwC&amp;amp;oi=fnd&amp;amp;pg=PA47&amp;amp;dq=advertising+and+culture&amp;amp;ots=B_X0Pax0q2&amp;amp;sig=vBolxbkOS8wKUkoDVSneDxl63Gg#v=onepage&amp;amp;q=advertising%20and%20culture&amp;amp;f=false&quot;&gt;Entire Books&lt;/a&gt; exist on this topic.  The digital format of the Egyptian Gazette lends itself particularly well to extracting data from the TEI indexed, digitized pages for the year; using &lt;a href=&quot;https://d3js.org/&quot;&gt;data&lt;/a&gt;, I hope to create some useful &lt;a href=&quot;http://bl.ocks.org/mbostock/1044242&quot;&gt;visualizations&lt;/a&gt;.&lt;/p&gt;
-</content>
-
-			
-				<category term="serial question" />
-			
-			
-				<category term="advertisment" />
-			
-				<category term="advertisements" />
-			
-				<category term="culture" />
-			
-
-			<published>2016-12-04T00:00:00-05:00</published>
-		</entry>
-	
-		<entry>
-			<id>/Wills-Final-Paper-Blog/</id>
-			<title>Diplomatic Influence of Major Nations</title>
-			<link href="/Wills-Final-Paper-Blog/" rel="alternate" type="text/html" title="Diplomatic Influence of Major Nations" />
-			<updated>2016-12-03T00:00:00-05:00</updated>
-
-			
-				
-				<author>
-					
-						<name>LoganWills</name>
-					
-					
-					
-				</author>
-			
-			<summary>A look into the effect of major global events as evident in the Egyptian Gazette&#39;s writers</summary>
-			<content type="html" xml:base="/Wills-Final-Paper-Blog/">&lt;p&gt;In the time of the Egyptian Gazette, and specifically the year 1905, many of the worlds
-major powers resided in Europe and Asia, while the continent of Africa was behind.  For my
-cereal question, I would like to take a look into the influence some of these major European and
-Asian powers had evident in the Egyptian newspaper.  More specifically, I would like to look into
-the results of the Anglo-Japanese Treaty, how it upset Russia, and the preparedness of Egypt in
-he case of a global conflict.  Along with looking into these storylines throughout the issue, I
-would like to create an interactive map of sorts, labeling the main positions of these storylines.&lt;br /&gt;
-If the user was to select a point on the map, a brief explanation of the situation, along with a
-date would show up.  In my analysis I would like generally discuss Egypt’s reactions, their
-opinions on the global treaties, as well as the effects of the agreements between foreign
-nations.  I would mostly like to focus on the influence of England, and the resulting reactions of
-Russia to movements made by the English, as they would regularly lead to a series of other
-reactions.  Querying has resulted in a good amount of topics regarding Egyptian-English
-relations, as well as on the topic of the Anglo-Japanese Treaty, and through varying the search
-queries, plenty of data is available regarding this topic.&lt;/p&gt;
-
-&lt;p&gt;The visual aid of this project is a map utilizing the app Palladio.  After spending hours
-attempting to find a way to save the Palladio file, the discovery of there being no way was made.
-In order for the map to be viewed, the text line at the bottom of this blog must be copied and
-pasted into an editing software, such as oxygen.  Once the line of text has been pasted, this
-oxygen file must be saved.  Using the second link at the bottom of the page, select load an existing
-project, then upload this saved oxygen file to this page, and the map will become visible.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Copy and paste this line into an editor software, save it, upload to page in next URL:&lt;/strong&gt;
-{“version”:”1.2.4”,”files”:[{“loadFromURL”:false,”label”:”Untitled”,”id”:0,”autoFields”:[],”fields”:[{“key”:”Place”,”description”:”Place”,”cardinality”:11,”type”:”text”,”blanks”:0,”uniques”:[],”uniqueKey”:false,”special”:[],”unassignedSpecialChars”:[],”countBy”:false,”errors”:[],”descriptiveField”:”Name of Event/Description”,”&lt;script type=&quot;math/tex&quot;&gt;hashKey&quot;:&quot;object:116&quot;},{&quot;key&quot;:&quot;Latitude, Longtitude&quot;,&quot;description&quot;:&quot;Latitude, Longtitude&quot;,&quot;cardinality&quot;:11,&quot;type&quot;:&quot;latlong&quot;,&quot;blanks&quot;:0,&quot;uniques&quot;:[],&quot;uniqueKey&quot;:false,&quot;special&quot;:[&quot;,&quot;,&quot;-&quot;],&quot;unassignedSpecialChars&quot;:[],&quot;countBy&quot;:false,&quot;errors&quot;:[],&quot;descriptiveField&quot;:&quot;Name of Event/Description&quot;,&quot;&lt;/script&gt;hashKey”:”object:117”,”existenceDimension”:”0.u97dbp6td49”},{“key”:”Name of Event/Description”,”description”:”Name of Event/Description”,”cardinality”:12,”type”:”text”,”blanks”:0,”uniques”:[],”uniqueKey”:true,”special”:[”-“,”,”,”/”],”unassignedSpecialChars”:[”-“,”,”,”/”],”countBy”:true,”errors”:[],”&lt;script type=&quot;math/tex&quot;&gt;hashKey&quot;:&quot;object:118&quot;,&quot;verifiedSpecialChars&quot;:[&quot;-&quot;,&quot;,&quot;,&quot;/&quot;],&quot;confirmed&quot;:true,&quot;countable&quot;:true,&quot;countDescription&quot;:&quot;Untitled&quot;},{&quot;key&quot;:&quot;&quot;,&quot;description&quot;:&quot;&quot;,&quot;cardinality&quot;:0,&quot;type&quot;:&quot;null&quot;,&quot;blanks&quot;:12,&quot;uniques&quot;:[],&quot;uniqueKey&quot;:false,&quot;special&quot;:[],&quot;unassignedSpecialChars&quot;:[],&quot;countBy&quot;:false,&quot;errors&quot;:[],&quot;descriptiveField&quot;:&quot;Name of Event/Description&quot;,&quot;&lt;/script&gt;hashKey”:”object:119”,”delete”:true}],”data”:[{“Place”:”Frankfurt”,”Latitude, Longtitude”:”50.1109221,8.6821267”,”Name of Event/Description”:”Treaty of Frankfurt/Ended Franco-Prussian War, but would have lasting diplomatic impacts”,””:””},{“Place”:”Paris”,”Latitude, Longtitude”:”48.856614,2.3522219”,”Name of Event/Description”:”Treaty of Paris/Spain ending reliquinshing almost all its territory in the Americas”,””:””},{“Place”:”London”,”Latitude, Longtitude”:”51.5073509,-0.1277583”,”Name of Event/Description”:”Anglo-Japanese Treaty/Represented a friendship between England and Japan, and was the first of its kind”,””:””},{“Place”:”Paris”,”Latitude, Longtitude”:”48.856614,2.3522219”,”Name of Event/Description”:”Hispano-American Treaty of Peace/Treaty between U.S and Spain than ended Spanish colonies in America”,””:””},{“Place”:”Panama City”,”Latitude, Longtitude”:”9.1011785,-79.4028639”,”Name of Event/Description”:”Panama Canal Treaty/Established the Panama Canal zone for U.S and Panama”,””:””},{“Place”:”Pourtsmouth”,”Latitude, Longtitude”:”50.8197675,-1.0879769”,”Name of Event/Description”:”Treaty of Portsmouth/Officially ended the Russo-Japanese War”,””:””},{“Place”:”Hanseong”,”Latitude, Longtitude”:”37.566535,126.9779692”,”Name of Event/Description”:”Japan-Korea Treaty of 1905/Created an aliiance between Korea and Japan to protect against Russia”,””:””},{“Place”:”Berezovye Islands”,”Latitude, Longtitude”:”61.6816667,90.5466667”,”Name of Event/Description”:”Treaty of Bjorko/Secret Treaty of defense between the German Empire and Russia”,””:””},{“Place”:”L�shunkou”,”Latitude, Longtitude”:”38.851705,121.261953”,”Name of Event/Description”:”Battle of Port Arthur/Marked the commencment of the Russo-Japanese War”,””:””},{“Place”:”Tokyo”,”Latitude, Longtitude”:”35.6894875,139.6917064”,”Name of Event/Description”:”BATTLE OF HEI-KOU-TAI/Major battle resulting in a stalemate, and started the downfall of Russia in the War”,””:””},{“Place”:”Sevastopol”,”Latitude, Longtitude”:”44.61665,33.525367”,”Name of Event/Description”:”Sevastopol Mutiny/Major armed revolt in the Black Sea Fleet against Russia”,””:””},{“Place”:”Straits of Tsushima”,”Latitude, Longtitude”:”34.0,129.5”,”Name of Event/Description”:”Battle of Tsushima/Another Japanese decisive victory spelling the end for Russia’s chances of victory”,””:””}],”uniqueId”:0,”$$hashKey”:”object:110”}],”links”:[],”layout”:”geo”,”metadata”:{“title”:null,”author”:null,”date”:null,”description”:null},”vis”:[{“type”:”palladioFilters”,”importJson”:{“facets”:[],”timelines”:[],”partimes”:[],”timesteps”:[]}},{“type”:”graphView”,”importJson”:{“showLinks”:true,”showLabels”:true,”aggregateKey”:null,”aggregationType”:”COUNT”,”nodeSize”:false,”highlightSource”:false,”highlightTarget”:false,”aggDimKey”:”Name of Event/Description”,”sourceDimension”:null,”targetDimension”:null,”fixedNodes”:false}},{“type”:”mapView”,”importJson”:{“tileSets”:[{“url”:null,”mbId”:”cesta.k8gof2np”,”enabled”:true,”description”:”Latitude, Longtitude”},{“url”:null,”mbId”:”cesta.k8ghh462”,”enabled”:true,”description”:”Latitude, Longtitude”},{“url”:null,”mbId”:”cesta.hd9ak6ie”,”enabled”:true,”description”:”Land”}],”layers”:[{“aggDescription”:”Number of Untitled”,”aggregateKey”:null,”aggregationType”:”COUNT”,”color”:”#000000”,”countBy”:”Name of Event/Description”,”description”:”Latitude, Longtitude”,”enabled”:true,”layerType”:”data”,”descriptiveDimKey”:”Name of Event/Description”,”mapping”:{“sourceCoordinatesKey”:”Latitude, Longtitude”,”sourceCoordinatesType”:null,”sourceCoordinatesDescription”:”Latitude, Longtitude”,”destinationCoordinatesKey”:null,”destinationCoordinatesType”:null,”destinationCoordinatesDescription”:null},”showLinks”:false,”type”:”points”}]}},{“type”:”tableView”,”importJson”:{“tableDimensions”:[],”countDim”:null,”maxDisplay”:1000}},{“type”:”listView”,”importJson”:{“titleDim”:”Name of Event/Description”}}]}&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;URL to upload saved file to:&lt;/strong&gt;
-http://hdlab.stanford.edu/palladio-app/#/upload&lt;/p&gt;
-</content>
-
-			
-			
-				<category term="Diplomacy" />
-			
-				<category term="Writers" />
-			
-
-			<published>2016-12-03T00:00:00-05:00</published>
-		</entry>
-	
-		<entry>
-			<id>/curiosities/Corzo-TheSilentKiller/</id>
-			<title>The Silent Killer</title>
-			<link href="/curiosities/Corzo-TheSilentKiller/" rel="alternate" type="text/html" title="The Silent Killer" />
-			<updated>2016-12-03T00:00:00-05:00</updated>
-
-			
-				
-				<author>
-					
-						<name>thomascorzo</name>
-					
-					
-					
-				</author>
-			
-			<summary>Another life taken by the plague. Wait what plague?</summary>
-			<content type="html" xml:base="/curiosities/Corzo-TheSilentKiller/">&lt;p&gt;Imagine reading the one of the leading newspapers in the country and coming upon the local and general section. You read about current court cases, the recent parade happening downtown etc. and then you read that yet another person has died from the plague. You think about how devastating the plague has been to the country… Wait there’s a plague?
-In the middle of the 1905 summer on June 16, the Egyptian Gazette reported that another person has died from the plague in a hospital in Damanhour. This report in the newspaper took up literally 2 lines and was probably over looked by the majority of readers. To me it seems that a widespread plague should receive a little more attention than that. Actually a lot more attention. What was the death toll at this point? How far had the plague spread? Are there any treatments being developed for the disease? What are the symptoms? All seem like plausible questions to be asked and reported on by the newspaper but haven’t been. They treated the plague as if it were just as common as the weather report. In only 2 other pages in my week was the plague reported, each being no longer than the report on the 16th.
-This odd occurrence begs the question of why hadn’t the newspaper reported something of this magnitude more rigorously? Also it brings up the chilling question of what if the newspaper did it on purpose. What if they had an alternative motive? Regardless of alternative motive or blatant ignorance, the population was being misled regarding the matter of the plague. What else were they being misled about?&lt;/p&gt;
+&lt;p&gt;Even though during this time secondary education wasn’t seen as something that the whole of society deserved, it is still worth looking into these smaller institutions because it gives people a clearer understanding of how a system of education grows as more people become involved in it, and the social changes that occur through a better educated populace.&lt;/p&gt;
 </content>
 
 			
 				<category term="curiosities" />
 			
 			
+				<category term="Education" />
+			
+				<category term="Berlitz" />
+			
+				<category term="Language" />
+			
+				<category term="1900s" />
+			
 
-			<published>2016-12-03T00:00:00-05:00</published>
+			<published>2016-12-11T00:00:00-05:00</published>
 		</entry>
 	
 		<entry>
-			<id>/technical/Corzo-TechnicalDifficulties/</id>
-			<title>Technical Difficulties</title>
-			<link href="/technical/Corzo-TechnicalDifficulties/" rel="alternate" type="text/html" title="Technical Difficulties" />
-			<updated>2016-12-03T00:00:00-05:00</updated>
+			<id>/curiosities/Chack-On-blogpost1/</id>
+			<title>Curiosity on The powers of The World</title>
+			<link href="/curiosities/Chack-On-blogpost1/" rel="alternate" type="text/html" title="Curiosity on The powers of The World" />
+			<updated>2016-12-11T00:00:00-05:00</updated>
 
 			
 				
 				<author>
 					
-						<name>thomascorzo</name>
+						<name>josephchackon &lt;!--- all one word ---&gt;</name>
 					
 					
 					
 				</author>
 			
-			<summary>Houston, We have a problem</summary>
-			<content type="html" xml:base="/technical/Corzo-TechnicalDifficulties/">&lt;p&gt;Anytime you learn something new, there are problems to come along with it. To try new things and learn new things you will have to face a little bit of adversity. This semester in Digital Microhistory I learned basically a whole new language by learning xml and some coding. This task definitely came with its challenges.&lt;/p&gt;
+			<summary>The newspaper covers an array of subjects. But the armies, admirals and leaders general take over the page.</summary>
+			<content type="html" xml:base="/curiosities/Chack-On-blogpost1/">&lt;p&gt;The people of the Egypt or the Egyptian Gazette cover a broad range of topics covering day to day functions that benefit the people.&lt;/p&gt;
 
-&lt;p&gt;One of the most prominent issues that arose was learning the xml language itself. Marking text with “div” tags and all the others was very confusing and sometimes tedious. It seemed that every time I added a tag or edited something, the program oxygen would add another error to my document. The right side of my document was filled with red indicating I had multiple errors. Eventually I learned how to fix them and completely it the right way. Although some errors were fixed by miracle.&lt;/p&gt;
+&lt;p&gt;However it has also been a hub for expressing foreign or neighboring military powers and the actions they are making.
+ An interesting part of nearly all of the third pages in my week of the newspaper have featured either government or military leaders and their most up to date business.&lt;/p&gt;
 
-&lt;p&gt;Another issue that I had was taking the actual pictures of the microfilm in the basement of strozier. The quality of the microfilm was short or awesome and made it harder for me to take a clear picture no matter what attributes I changed on the picture. This difficulty just made the process longer and more time consuming. One thing that would’ve made the process a whole lot easier was if the OCR program would have scanned the microfilm more accurately, reducing the amount of time spent having to edit the text afterwards. Overall through the challenges I learned a lot of new skills that will be useful in the future.&lt;/p&gt;
-</content>
-
-			
-				<category term="Technical" />
-			
-			
-
-			<published>2016-12-03T00:00:00-05:00</published>
-		</entry>
-	
-		<entry>
-			<id>/curiosities/the-evolution-of-cigarette-advertising/</id>
-			<title>The Evolution of Cigarette Advertising</title>
-			<link href="/curiosities/the-evolution-of-cigarette-advertising/" rel="alternate" type="text/html" title="The Evolution of Cigarette Advertising" />
-			<updated>2016-12-02T00:00:00-05:00</updated>
-
-			
-				
-				<author>
-					
-						<name>alexcaliendo</name>
-					
-					
-					
-				</author>
-			
-			<summary></summary>
-			<content type="html" xml:base="/curiosities/the-evolution-of-cigarette-advertising/">&lt;p&gt;In 1970, Congress passed the &lt;strong&gt;Public Health Cigarette Smoking Act&lt;/strong&gt;, which prohibited the advertisement of cigarettes, and this law took effect on January 2, 1971. As a result, I have never seen a pro-cigarette advertisement a day in my life. And clearly, that reality differs from that of people who lived in Alexandria in 1905. Here, the Egyptian Gazette, on page three of this issue, is pushing the reader to check out an advertisement for the Cleopatra Cigarette Company, just in case they skimmed over it while reading page one  just moments before. In essence, not only does the “Gazette” advertise for this cigarette company on the very first page of their newspaper, but they also refer the reader back to that advertisement in a later section of the paper, and in doing so, they are essentially advertising for Cleopatra Cigarettes two times in one issue. This just goes to show how lax people’s views on cigarettes were back in 1905. This newspaper “begs” the reader to check out an advertisement for cigarettes, hoping that they’ll end up purchasing the &lt;em&gt;cancer sticks&lt;/em&gt; for themselves.&lt;/p&gt;
-
-&lt;p&gt;This is beautifully juxtaposed with modern society’s view on cigarettes. For one, in 2016, you would never find an advertisement for cigarettes in a local newspaper. Moreover, there are a plethora of campaigns in existence today which put out ads and commercials to influence people to not smoke, or to stop smoking.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/blog-images/cigs-1x-1.jpeg?raw=true&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;This is just one example of the many types of ads in existence today, aiming to make society aware of the side effects of smoking cigarettes. Being surrounded and exposed by so many negative advertisements like this, it makes me question what my view on cigarettes would be if I lived in 1905 Alexandria, and was exposed to positive ads for cigarettes. Not to mention, how I would feel if my local newspaper advertised cigarettes. And moreover, if my local newspaper advertised their own cigarette advertisements.&lt;/p&gt;
+&lt;p&gt;An example would be on the third page of June 9 issue where topics covered a British submarine sinking and the death of a prince. In comparison to the modern world where such information is a simple tap or click away this was most likely the quickest and cheapest way to stay informed about the powers that governed their world. Especially since everyday was a new paper it’s almost safe to say that it was close to accurate to determine where ships are head or are currently located. Especially if such a power was nearby knowing about the government plans was also necessary. Businesses relied on the paper but the interesting things that were going on in the paper was always foreign relations and the day to day habits of those with influence. Government rules or maybe some command was sent out in order to deal with an issue so its safe to say the people relied on the government to solve certain issues.&lt;/p&gt;
 </content>
 
 			
 				<category term="curiosities" />
 			
 			
-				<category term="advertisements" />
-			
-				<category term="cigarettes" />
-			
-				<category term="smoking" />
+				<category term="military" />
 			
 
-			<published>2016-12-02T00:00:00-05:00</published>
+			<published>2016-12-11T00:00:00-05:00</published>
 		</entry>
 	
 		<entry>
-			<id>/serial/Fling-Serial-Question/</id>
-			<title>Fires in 1905</title>
-			<link href="/serial/Fling-Serial-Question/" rel="alternate" type="text/html" title="Fires in 1905" />
-			<updated>2016-12-01T00:00:00-05:00</updated>
+			<id>/serial%20questions/Medical-Miracles/</id>
+			<title>Medical Miracles</title>
+			<link href="/serial%20questions/Medical-Miracles/" rel="alternate" type="text/html" title="Medical Miracles" />
+			<updated>2016-12-09T00:00:00-05:00</updated>
 
 			
 				
 				<author>
 					
-						<name>AmberFling</name>
+						<name>ValerieCurcio &lt;!--- all one word ---&gt;</name>
 					
 					
 					
 				</author>
 			
-			<summary></summary>
-			<content type="html" xml:base="/serial/Fling-Serial-Question/">&lt;p&gt;In my week of the Gazette I came across a Ship that caught
-on fire. This report was found on page 3 of November 25, 1905.
-The ship was full of cotton and rice when it was
-set aflame. Flames were not visible but smoke was pouring
-out from the vessel. The smoke calmed due to incessant pumping
-for about 2 hours. But soon after the ship fire seemed to be
-controlled, the smoke bursted forth again.
-2 hours later, it was decided that the ship was to be put
-ashore, on the bank in hopes that the hold would fill with
-water to subdue the fire. This did the trick and finally
-calmed the fire upon the ship.
-Oddly, the cause of the fire is reported as,
-“unknown.”&lt;/p&gt;
-
-&lt;p&gt;This section of the newspaper seems to report the most
-severe of fires. I am curious, as to what the other weeks of the
-Egyptian Gazette will have to offer about such fires. My serial
-question for the 1905 Egyptian Gazette will be: How often did
-the Egyptian Gazette report Fires in 1905? I will also be researching
-why these fires occurred. In this instance, the cause of the Fire is
-known. I wonder if the Gazette often list the cause to these fires
-as known.&lt;/p&gt;
+			<summary>Do these magical pills really work?</summary>
+			<content type="html" xml:base="/serial%20questions/Medical-Miracles/">&lt;p&gt;The one topic throughout this whole newspaper that consistently grabbed my
+attention and amazed me time and time again was the unbelievable stories
+of medical miracles happening.  The feature that really caught my attention was
+from Doan’s Backache Kidney Pills apparently saving a man from being bed ridden
+his whole life.  This claim was so shocking to me because I am familiar with this
+brand, my dad takes it for his minor back pains he gets while at work or if he
+over does it at the gym.  I was baffled to see this huge of a success story.
+Were the ingredients of a higher potency?  Could medicine really have been this
+advanced over a century ago? People were being cured from severe medical
+ailments, by a box of pills from the drugstore.  Conditions confining them to
+their beds and hindering them from work and everyday life, were suddenly gone.
+My serial question is how successful really were these pills? I will be
+researching how many cases of medical success resulted from the Doan’s Backache
+Kidney Pills in particular over the course of this year.  I will also go into
+further studies of the proclaimed brand and gain more historical and background
+knowledge of its origins and the pill’s chemical makeup.  I hope to conclude
+how successful of a brand this really was and determine if it was as miraculous
+as the people of Egypt claim.&lt;/p&gt;
 </content>
 
 			
-				<category term="serial" />
+				<category term="serial questions" />
 			
 			
-				<category term="where" />
+				<category term="medicine" />
 			
-				<category term="when" />
+				<category term="pills" />
 			
-				<category term="why" />
+				<category term="cures" />
 			
 
-			<published>2016-12-01T00:00:00-05:00</published>
+			<published>2016-12-09T00:00:00-05:00</published>
 		</entry>
 	
 		<entry>
-			<id>/questions/deaths/causes/maps/summa-serial/</id>
-			<title>A Serial Analysis of Deaths in Alexandria in 1905</title>
-			<link href="/questions/deaths/causes/maps/summa-serial/" rel="alternate" type="text/html" title="A Serial Analysis of Deaths in Alexandria in 1905" />
-			<updated>2016-11-30T00:00:00-05:00</updated>
+			<id>/serial%20questions/Esteve-Counting/</id>
+			<title>Counting Things</title>
+			<link href="/serial%20questions/Esteve-Counting/" rel="alternate" type="text/html" title="Counting Things" />
+			<updated>2016-12-09T00:00:00-05:00</updated>
+
+			
+				
+				<author>
+					
+						<name>JustinEsteve &lt;!--- all one word ---&gt;</name>
+					
+					
+					
+				</author>
+			
+			<summary>What kinds of different ways can I count things?</summary>
+			<content type="html" xml:base="/serial%20questions/Esteve-Counting/">&lt;p&gt;As I began thinking about what type of serial question I was interested in, I initially began focusing on advertisements. Specifically, I wanted to count the number of ads in the newspaper and make a graph using my results. However, as I began using different queries, I realized that just counting advertisements was not really interesting. Because of this, I began counting other things. I started manipulating my queries in order to count in different ways. At the moment, I can count specific words throughout the paper. I can count divs, heads, and paragraphs. As I focus on this serial question, I will find different queries for counting. I wish to explore how counting in XPath queries can reveal different types of information in the newspaper. I plan on using counting queries to manipulate information in the newspaper and then coming up with conclusions based on those queries. This will also be a great tool for current and future students to better understand counting in Oxygen.&lt;/p&gt;
+
+&lt;p&gt;In addition to counting things, I will make a series of graphs to go along with my queries. Obviously, everyone in the class is at different stages of completing their weeks. Because of this, I will find a way to somewhat determine how reliable everyone’s data is. The completion of Page One can be found by looking at the number of divs. For my purposes, I want a better overall picture. If I can find a way to count words or paragraphs, I will be much happier with the results. With that goal in mind, I have been playing with string queries. If I can find a way to see which weeks are more accurate, I can make some solid conclusions based on the data that I find.&lt;/p&gt;
+</content>
+
+			
+				<category term="serial questions" />
+			
+			
+				<category term="counting" />
+			
+				<category term="querying" />
+			
+
+			<published>2016-12-09T00:00:00-05:00</published>
+		</entry>
+	
+		<entry>
+			<id>/technical/Numerical-Nonsense/</id>
+			<title>Numerical Nonsense</title>
+			<link href="/technical/Numerical-Nonsense/" rel="alternate" type="text/html" title="Numerical Nonsense" />
+			<updated>2016-12-08T00:00:00-05:00</updated>
+
+			
+				
+				<author>
+					
+						<name>ValerieCurcio &lt;!--- all one word ---&gt;</name>
+					
+					
+					
+				</author>
+			
+			<summary>A-B-C  1-2..is that a 3 or an 8?</summary>
+			<content type="html" xml:base="/technical/Numerical-Nonsense/">&lt;p&gt;I’ve encountered many problems during the course of this class.  From
+my flash drive, containing all of my microfilm scans becoming corrupted to
+running out of trial time on just about every application we needed.  But the one
+thing that stands above all else, is translating the minuscule blurred text,
+mainly numerical values included in the financial tables.  I found the OCR
+converter to be quite useless, words came out a jumbled mess and often
+everything was out of order.  I ended up retyping many portions of the pages
+manually, this was until I discovered stitching process and this made things a
+bit easier for me.  From that point forward, I mainly just had problems
+deciphering numbers and inputing them all from scratch into the templates.  The
+numbers on the newspaper were very hard to make out especially the fractional
+values, I could almost never distinguish what they were, and maybe if I had
+scanned with more brightness or focus it would have helped but for the most
+part, I think it was poor formatting of the newspaper itself.  I had to just gave
+it my best guess for a majority of the pages.&lt;/p&gt;
+
+&lt;p&gt;Overall the work was very tedious and stressful at times, definitely not for the
+faint of heart.  But nothing was more rewarding than successfully accomplishing
+my xml files.  Being able to read them back with ease and finally enjoy some of
+the bizarre stories during this time period was very enlightening and often
+very funny.&lt;/p&gt;
+</content>
+
+			
+				<category term="technical" />
+			
+			
+				<category term="tag" />
+			
+
+			<published>2016-12-08T00:00:00-05:00</published>
+		</entry>
+	
+		<entry>
+			<id>/serial%20question/summa-serial/</id>
+			<title>An Analysis of the Activities of Three Major Cities in 1905</title>
+			<link href="/serial%20question/summa-serial/" rel="alternate" type="text/html" title="An Analysis of the Activities of Three Major Cities in 1905" />
+			<updated>2016-12-07T00:00:00-05:00</updated>
 
 			
 				
@@ -365,79 +315,124 @@ as known.&lt;/p&gt;
 					
 				</author>
 			
-			<summary>Deaths in Alexandria</summary>
-			<content type="html" xml:base="/questions/deaths/causes/maps/summa-serial/">&lt;p&gt;For my serial question, I would like to explore all of the deaths in
-Alexandria that occurred during the year 1905. Once I have collected
-all of the articles and blurbs that mention deaths in the Egyptian
-Gazette, I will conduct further analysis by assigning specific locations
-to those deaths that provide such information. Then, I will be able to
-use these locations to create a map of deaths throughout the city. In
-order to ensure a comprehensive analysis, if not enough deaths are tagged
-with a specific location, I will also create a pie chart showing the
-distribution of cause of death. If enough locations are tagged in the
-paper, I will color code the causes of death before plotting them on the
-map, which should help to give a general overview of which causes of
-death are relevant in certain parts of the city, or if any correlation
-exists at all.&lt;/p&gt;
+			<summary>Happenings in London, Paris, and St. Petersburg</summary>
+			<content type="html" xml:base="/serial%20question/summa-serial/">&lt;p&gt;For my serial question, I plan to ask the question “What topics are discussed in the international section of the Egyptian Gazette and how do these topics differ based on location?” In order to query this, I will use an XPath command to search the datelines in the international section. All occurrences will then return for my desired city names.&lt;/p&gt;
 
-&lt;p&gt;This is an important analysis to conduct because it should hopefully
-shed some light on the reasons for death, ages of death, and locations
-of death throughout Alexandria. By delving into this topic, I hope to
-answer the question “How did people die in Alexandria in 1905?” and draw
-parallels to the causes of death now and how the two differ.&lt;/p&gt;
+&lt;p&gt;The three cities I have chosen to analyze are Paris, France, London, England, and St. Petersburg, Russia. For each dateline that returns with one of those cities, I will classify the news blurb in a category and compile three pie charts- one for each city. These pie charts, when placed side-by-side, will not only provide viewers with an idea of the most frequently discussed topics and occurrences in each city, but will also provide a comparison between the cities. Viewers will be able to see which topics are most-discussed in one city and compare that topic to another. When tied in with the world events that were occurring, this should come together cohesively.&lt;/p&gt;
+
+&lt;p&gt;This is important research to conduct because it will hopefully shed some light onto what was most important to people and how that importance varied from city to city.&lt;/p&gt;
 </content>
 
 			
+				<category term="serial question" />
+			
+			
 				<category term="questions" />
 			
-				<category term="deaths" />
+				<category term="London" />
 			
-				<category term="causes" />
+				<category term="Paris" />
 			
-				<category term="maps" />
-			
-			
-				<category term="places" />
-			
-				<category term="deaths" />
+				<category term="St. Petersburg" />
 			
 
-			<published>2016-11-30T00:00:00-05:00</published>
+			<published>2016-12-07T00:00:00-05:00</published>
 		</entry>
 	
 		<entry>
-			<id>/technical/rymer-technical/</id>
-			<title>Technical</title>
-			<link href="/technical/rymer-technical/" rel="alternate" type="text/html" title="Technical" />
-			<updated>2016-11-30T00:00:00-05:00</updated>
+			<id>/serial%20question/cooper-serial/</id>
+			<title>Who is the fastest horse in Alexandria?</title>
+			<link href="/serial%20question/cooper-serial/" rel="alternate" type="text/html" title="Who is the fastest horse in Alexandria?" />
+			<updated>2016-12-05T00:00:00-05:00</updated>
 
 			
 				
 				<author>
 					
-						<name>CharlieRymer</name>
+						<name>MatthewCooper</name>
 					
 					
 					
 				</author>
 			
-			<summary>New technology always leads to technical issues, it&#39;s important to know their causes.</summary>
-			<content type="html" xml:base="/technical/rymer-technical/">&lt;p&gt;A large portion of this class involves using completely new technologies and applying them to very difficult media.  While technologies such as github, OCR, and
-XML weren’t terribly hard to learn, the application of them for the first time definitely led me to some technical errors that had to be sorted out.  These technical errors
-included poor text recognition that left much of the text unusable, difficult to obtain XML software, and incorrect XML tagging.  The first of these errors can be attributed
-to poor condition of century old documents.  While I was able to focus the microfilm reader very well, many portions of these documents had text that was copied slightly on
-top of itself and occasionally with weak ink.  This led to problems such as columns being mixed together, text that didn’t go through OCR at all, and many errors overall.
-Another technical error I faced was incorrect XML tagging.  After I made all the divs in a page cascade perfectly, I found out that I had tagged headers and subheaders using
-the wrong tags, which was solved using find and replace and also a lot of rearranging of the XML.  Overall, I was able to understand these new technologies fairly smoothly,
-and I was able to determine the cause of a few technical errors that came up.&lt;/p&gt;
+			<summary>My topic for the final portion of the class</summary>
+			<content type="html" xml:base="/serial%20question/cooper-serial/">&lt;p&gt;For my serial question for this course, I would like to find out who the fastest horse in all of Alexandria during the year of 1905. The topic sparked my interest while I was coding the xml for my page threes. I am fascinated by sports and I noticed that there were reoccurring articles regarding horse racing and bets taking place around the races.&lt;/p&gt;
+
+&lt;p&gt;The manner in which I plan to go about doing my analysis for my final project is querying the entirety of the Gazette for keywords like “horse” and “race” and “odds”. This will help me find what I am looking for in order to compile data to see who the most victorious race horse was. It would be very interesting to find the Secretariat of the early 20th century.&lt;/p&gt;
+
+&lt;p&gt;Hopefully, I will not run into any other problems for the remainder of this troublesome course. It has been quite difficult to complete basically every single portion of the work, and I am glad to be nearing completion of the class.&lt;/p&gt;
 </content>
 
 			
-				<category term="technical" />
+				<category term="Serial Question" />
 			
 			
 
-			<published>2016-11-30T00:00:00-05:00</published>
+			<published>2016-12-05T00:00:00-05:00</published>
+		</entry>
+	
+		<entry>
+			<id>/serial%20questions/Crawford-Serial-Question/</id>
+			<title>Capital Market Integration</title>
+			<link href="/serial%20questions/Crawford-Serial-Question/" rel="alternate" type="text/html" title="Capital Market Integration" />
+			<updated>2016-12-05T00:00:00-05:00</updated>
+
+			
+				
+				<author>
+					
+						<name>williamcrawford</name>
+					
+					
+					
+				</author>
+			
+			<summary>Exploring trans-oceanic connections in turn-of-the-century capital markets</summary>
+			<content type="html" xml:base="/serial%20questions/Crawford-Serial-Question/">&lt;p&gt;For my serial question, I am interested in examining the behavior of asset prices in the local financial market. I entered this class with the prior knowledge that there was a banking crisis in Alexandria in 1907 that is said to be driven by excessive speculation in the local real estate market on the local level, but which is said by other economic courses to have found its impetus in a global financial crisis that was caused the 1906 earthquake in San Francisco. The explanation is that the excessive stress put on the financial system by numerous simultaneous insurance payouts. The implication of this explanation is that international capital markets were sufficiently integrated to allow localized shocks to affect to spread globally. But was this the case? And if so, just how integrated were these capital markets in the age before the instantaneous flows of digital information that are said to be the justification for assumptions of perfect capital mobility. To attempt to quantitatively answer this question, I will draw upon the theories of interest rate parity. I will provide a longer and more thorough explanation of this in my final project, but to put it simply, it’s the idea than in a world of perfect information and capital mobility, prices for identical assets will be equal in different markets, removing the potential for arbitrage. To tie this to ideas of capital market integration, the magnitude and persistence of prices differentials would suggest the degree and speed to which various international financial markets react to one another.&lt;/p&gt;
+
+&lt;p&gt;To accomplish this, I hope to pull price information for a particular asset over the course of the year, and compare it the prices for the same asset in the markets in both New York and London. I will then analyze and attempt to draw conclusions from the resulting data.&lt;/p&gt;
+</content>
+
+			
+				<category term="serial questions" />
+			
+			
+				<category term="trade" />
+			
+
+			<published>2016-12-05T00:00:00-05:00</published>
+		</entry>
+	
+		<entry>
+			<id>/technical%20issues/Crawford-Technical-Post/</id>
+			<title>XML encoding in Finereader</title>
+			<link href="/technical%20issues/Crawford-Technical-Post/" rel="alternate" type="text/html" title="XML encoding in Finereader" />
+			<updated>2016-12-05T00:00:00-05:00</updated>
+
+			
+				
+				<author>
+					
+						<name>williamcrawford</name>
+					
+					
+					
+				</author>
+			
+			<summary>Seeing through the noise</summary>
+			<content type="html" xml:base="/technical%20issues/Crawford-Technical-Post/">&lt;p&gt;Balancing a logical, accessible, and user friendly xml-encodation of the Egyptian Gazette with preserving its historical visual format is a delicate enterprise. I initially tried to do this with a plaintext editor, and later directly within the Oxygen program itself. I found myself constantly switching between windows on my computer, going back and forth and then back again between the image of the page and the xml-in-progress. By chance, I had to go and re-OCR a page three about a month into the class, and discovered something that greatly decreased the time it took me to structure a page with XML tags.&lt;/p&gt;
+
+&lt;p&gt;By placing individual text boxes over individual paragraphs on the page, Finereader would output the OCRed text in a form that was sectionally pre-divided within the plain-text-viewer. By easily distinguishing the divisions with physical space, it allowed me to rapidly go through and paste repetitive structural elements. Additionally, the image of the page (that would automatically relocate to the plain text’s location when I selected it) that was always visible aided me in determining how exactly to structure the divisions to both best maintain the paper�s original appearance and take advantage of the power of XML coding to analyze it. I then used Oxygen to functionally check and edit the code.  Combined, I found that these factors greatly reduced the amount of time it took me to structurally code the text.&lt;/p&gt;
+</content>
+
+			
+				<category term="technical issues" />
+			
+			
+				<category term="shortcuts" />
+			
+
+			<published>2016-12-05T00:00:00-05:00</published>
 		</entry>
 	
 </feed>
