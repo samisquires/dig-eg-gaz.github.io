@@ -32,7 +32,7 @@ Week|Start date (Monday)|End date (Saturday)|Personal repository|Images|Files|Pa
 22|May 29, 1905|June 3, 1905|[John White](https://github.com/jcw3/dig-eg-gaz)|Complete|All|36|
 23|June 5, 1905|June 10, 1905|[Joseph Chack-On](https://github.com/jochack/dig-eg-gaz)|Complete|2/6|4|
 24|June 12, 1905|June 17, 1905|[Thomas Corzo](https://github.com/ThomasC24)|Complete|
-25|June 19, 1905|June 24, 1905|[Kedric Heyward](https://github.com/Kheyward/dig-eg-gaz)|39/40||missing 1905-06-24-p8
+25|June 19, 1905|June 24, 1905|[Kedric Heyward](https://github.com/Kheyward/dig-eg-gaz)|39/40|||missing 1905-06-24-p8
 26|June 26, 1905|July 1, 1905|[Max Conway](https://github.com/maxconwayfsu/dig-eg-gaz)|39/40|All|9|missing 1905-06-26-p2
 27|July 3, 1905|July 8, 1905|[Will Hanley](https://github.com/whanley/digital-Egyptian-Gazette/tree/master/my-content)|Complete|2/6
 28|July 10, 1905|July 15, 1905|[Will Hanley](https://github.com/whanley/digital-Egyptian-Gazette/tree/master/my-content)|Complete|All|35
