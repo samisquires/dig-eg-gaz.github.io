@@ -1,0 +1,634 @@
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Counting Countries, Counting Cities: IFS 2116 Final Project</title>
+	<link rel="stylesheet" type="text/css" href="/assets/css/styles_feeling_responsive.css">
+	<script src="/assets/js/modernizr.min.js"></script>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
+	<script>
+		WebFont.load({
+			google: {
+				families: [ 'Lato:400,700,400italic:latin', 'Volkhov::latin' ]
+			}
+		});
+	</script>
+
+	<noscript>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,700,400italic%7CVolkhov' rel='stylesheet' type='text/css'>
+	</noscript>
+
+
+	<!-- Search Engine Optimization -->
+	<meta name="description" content="My final project for IFS 2116.">
+  	<meta name="google-site-verification" content="Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ">
+	<meta name="msvalidate.01" content="0FB4C028ABCF07C908C54386ABD2D97F" >
+	<link rel="author" href="https://plus.google.com/u/0/118311555303973066167">
+	
+	
+
+
+	<!-- Facebook Open Graph -->
+	<meta property="og:title" content="Counting Countries, Counting Cities: IFS 2116 Final Project">
+	<meta property="og:description" content="My final project for IFS 2116.">
+	<meta property="og:url" content="/_pages/IFS2116-2016-analysis/jcw3-analysis-final/">
+	<meta property="og:locale" content="en_EN">
+	<meta property="og:type" content="website">
+	<meta property="og:site_name" content="Digital Egyptian Gazette">
+	
+	
+
+
+	
+	<!-- Twitter -->
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="HanleyWill">
+	<meta name="twitter:creator" content="HanleyWill">
+	<meta name="twitter:title" content="Counting Countries, Counting Cities: IFS 2116 Final Project">
+	<meta name="twitter:description" content="My final project for IFS 2116.">
+	
+	
+
+	<link type="text/plain" rel="author" href="/humans.txt">
+
+	
+
+	
+
+	<link rel="icon" sizes="32x32" href="/assets/img/favicon-32x32.png">
+
+	<link rel="icon" sizes="192x192" href="/assets/img/touch-icon-192x192.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="/assets/img/apple-touch-icon-180x180-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/assets/img/apple-touch-icon-152x152-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/img/apple-touch-icon-144x144-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/assets/img/apple-touch-icon-120x120-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/img/apple-touch-icon-114x114-precomposed.png">
+
+	
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/assets/img/apple-touch-icon-76x76-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/img/apple-touch-icon-72x72-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" href="/assets/img/apple-touch-icon-precomposed.png">	
+
+	<meta name="msapplication-TileImage" content="/assets/img/msapplication_tileimage.png">
+
+	<meta name="msapplication-TileColor" content="#fabb00">
+
+
+	
+
+</head>
+<body id="top-of-page" class="post">
+	
+	<div id="navigation" class="sticky">
+  <nav class="top-bar" role="navigation" data-topbar>
+    <ul class="title-area">
+      <li class="name">
+      <h1 class="show-for-small-only"><a href="" class="icon-tree"> Digital Egyptian Gazette</a></h1>
+    </li>
+       <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+      <li class="toggle-topbar menu-icon"><a href="#"><span>Navigation</span></a></li>
+    </ul>
+    <section class="top-bar-section">
+
+      <ul class="right">
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+            
+            
+              <li class="divider"></li>
+              <li><a href="/search/">Search</a></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+            
+            
+              <li class="divider"></li>
+              <li><a href="/contact/">Contact</a></li>
+
+            
+            
+          
+        
+        
+      </ul>
+
+      <ul class="left">
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a href="/">Home</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a href="/about/">About</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+
+              <li class="has-dropdown">
+                <a href="/contents/">Contents</a>
+
+                  <ul class="dropdown">
+                    
+
+                      
+
+                      <li><a href="/contents">Contents by Date</a></li>
+                    
+
+                      
+
+                      <li><a href="/weeks/">Status by Week</a></li>
+                    
+
+                      
+
+                      <li><a href="/financial-tables/">Financial Tables</a></li>
+                    
+
+                      
+
+                      <li><a href="/advertisements">Advertisements</a></li>
+                    
+                  </ul>
+
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+
+              <li class="has-dropdown">
+                <a href="/how-to/">How To</a>
+
+                  <ul class="dropdown">
+                    
+
+                      
+
+                      <li><a href="/how-to/text-editor-instructions">Text Editor Instructions</a></li>
+                    
+
+                      
+
+                      <li><a href="/how-to/github-instructions">GitHub Instructions</a></li>
+                    
+
+                      
+
+                      <li><a href="/how-to/microfilm-instructions">Microfilm Instructions</a></li>
+                    
+
+                      
+
+                      <li><a href="/how-to/OCR-instructions">OCR Instructions</a></li>
+                    
+
+                      
+
+                      <li><a href="/how-to/tei-xml-instructions">TEI-XML Instructions</a></li>
+                    
+
+                      
+
+                      <li><a href="/how-to/templating-instructions">Templating Instructions</a></li>
+                    
+
+                      
+
+                      <li><a href="/how-to/query-instructions">Querying Instructions</a></li>
+                    
+
+                      
+
+                      <li><a href="/how-to/blogging-instructions">Blogging Instructions</a></li>
+                    
+                  </ul>
+
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+
+              <li class="has-dropdown">
+                <a href="/resources/">Resources</a>
+
+                  <ul class="dropdown">
+                    
+
+                      
+
+                      <li><a href="https://docs.google.com/document/d/1HRh9jvHUBwWkuWcWJAZOQMQqMI8PFhut0MMUiUSEsag/edit?usp=sharing" target="_blank">Syllabus</a></li>
+                    
+
+                      
+
+                      <li><a href="https://github.com/dig-eg-gaz" target="_blank">GitHub</a></li>
+                    
+
+                      
+
+                      <li><a href="/changelog/">Changelog</a></li>
+                    
+
+                      
+
+                      <li><a href="/roadmap/">Roadmap</a></li>
+                    
+                  </ul>
+
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+
+              <li class="has-dropdown">
+                <a href="/blog/">Blog</a>
+
+                  <ul class="dropdown">
+                    
+
+                      
+
+                      <li><a href="/blog/archive/">Blog Archive</a></li>
+                    
+                  </ul>
+
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
+        
+      </ul>
+    </section>
+  </nav>
+</div><!-- /#navigation -->
+
+	
+
+	
+
+<div id="masthead-no-image-header">
+	<div class="row">
+		<div class="small-12 columns">
+			<a id="logo" href="" title="Digital Egyptian Gazette – A full-text paper from 1905">
+				<img src="/assets/img/logo.jpg" alt="Digital Egyptian Gazette – A full-text paper from 1905">
+			</a>
+		</div><!-- /.small-12.columns -->
+	</div><!-- /.row -->
+</div><!-- /#masthead -->
+
+
+
+
+
+
+
+
+	<div class="row t30">
+	<div class="medium-8 columns medium-offset-2 end">
+		<article itemscope itemtype="http://schema.org/Article">
+			<header>
+				
+
+				<div itemprop="name">
+					
+					<h1>Counting Countries, Counting Cities: IFS 2116 Final Project</h1>
+				</div>
+			</header>
+
+
+			
+			<p class="teaser" itemprop="description">
+				My final project for IFS 2116.
+			</p>
+			
+
+			<div itemprop="articleSection">
+			<p>It is an unquestionable fact that the British Empire was one of the mightiest and most widespread civilizations in human history. Britons and her subjects lived in places far apart and diverse, from England herself to, of course, Egypt. The Egyptian Gazette was the chief source of information for Britons living abroad in Alexandria and the other cities of Egypt, and, as one would expect, it had an international news section. An obvious question to ask here once you’ve learned of that fact is the following. What exactly were Anglo-Egyptian expatriates interested in, or at least, what did the Gazette think they were interested in? I decided to find out, cataloguing four months’ worth (May-August 1905) of the international news section on p. 3 of the daily newspaper, marking down each and every single mention of cities and countries within those barriers.</p>
+
+<p><img src="https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/analysis-images/jcw3-country-map.png?raw=true" alt="Countries Map" /></p>
+
+<p><a href="http://i.imgur.com/80YDniq.png">Countries Map</a></p>
+
+<p>I generally started by viewing the XML files of the various documents, and double checking with the page images, to collect the cities/countries mentioned most often. I then consulted with individuals on a website called Quora to figure out the modern names of cities mentioned in the Gazette that no longer have those names, such as Kalismi or Kalisz and Dayet or Da Lat. Then I used a blank basemap of the year 1905 to map out the countries mentioned most often (Russia, Japan, France, and so on) before transferring to Google Spreadsheets and Google GeoCharts to map out the cities.</p>
+
+<p><img src="http://i.imgur.com/WhScV1J.png" alt="Cities Map" /></p>
+
+<p>Starting with the cities, the top three were London (142 mentions), St. Petersburg (109), and Paris (91). It’s obvious why London is at the top. It’s the capital of the British Empire, which, as we all know, mightiest civilization on human history, especially at the time. However, London’s role as capital as the British Empire wasn’t as much a reason for its large results as you might think, given that the country of Great Britain only received eighty-five mentions throughout those four months. No, it’s a variety of reasons that gave London its position at the top of the list. Each and every time cricket matches or horse racing came up, London was there. Every time there was a scuffle in Parliament, market news, or some politician needed to make a statement, London came up. Of course, whenever something came out that effected the Empire as a whole, London was involved.</p>
+
+<p>But whereas London’s high score was due to their rule as a city with many connections, so to say, St. Petersburg and Paris most certainly saw their scores inflated by certain events. In the case of St. Petersburg, whenever news about the civil unrest, protests, riots, and uprisings in Russia came to be, news was relayed from the capital of the Russian Empire. Or on a similar note, there is also the Russo-Japanese War to consider. St. Petersburg has to respond to each sunken ship, each victory, and each defeat. Whenever there’s any sort of news on the Russian side of the equation, the Tsar’s office must make a comment. As for Paris, the First Moroccan Crisis that saw them in heated debate with Germany over the sovereignty of Morocco drastically inflated their score, as well as that of their mother country (123 mentions). More often than not, news about the Crisis would come right out of Paris. Then there were the seemingly unceasing news of such-and-such royal visiting such-and-such place, and it appeared as if they always visited or originated from the City of Lights.</p>
+
+<p>Scores being inflated by certain events was by no means uncommon. Odessa (25) was the sight of a rather curious little affair, as it became the center of the story of mutineers taking over the Russian battleship Potemkin. Warsaw (23) saw dozens of riots during 1905, one of the precursor years of the Russian Revolution. Vladivostok (23) was crucial to the movement of Russian ships in the Russo-Japanese War. The Russian town currently known as Alexandrovsk-Sakhalinsky (6) and the Japanese cities of Tsu-Shima (6) and Nagasaki (4) likely wouldn’t have even come up in the Gazette without the war. Tokio (69) certainly wouldn’t have been as high as it was. Heck, even Washington (41) wouldn’t be where it is were it not for being the initial site of peace negotiations between Russia and Japan, or an important relay for general war news.</p>
+
+<p>Countries saw similar levels of inflation. Russia was the highest, at two hundred and three mentions, almost certainly due to the war and unrest. Japan, the seeming victor throughout most of this period of the Russo-Japanese War, saw one hundred and forty-seven mentions, as well as several think pieces throughout the year regarding their future in geopolitical affairs. As previously mentioned, both France (123) and Germany (78) saw their values inflated by the First Moroccan Crisis, and of course, so did Morocco (35). Naturally Great Britain (85) saw a fair bit of mentions just by being the most powerful nation on Earth, while the United States (41) earned their spotlight by playing peacemaker with Russia and Japan. Sweden (11) and Norway (12) saw their role in the newspaper essentially solely because of the newly independent Norwegian state. British India (27) gained its fame almost entirely due to a single article in the international news section on a debate on exactly how many troops should be stationed there to protect from Russian aggression. It’s worth mentioning that I generally separated colonies from their mother countries, so, for instance, French Algeria and British Uganda were in different categories than France or Britain.</p>
+
+<p>That’s all well and good, but what exactly does it mean? Why did the Gazette think these countries and cities, as well as the news surrounding them, was important enough to cover? The obvious answer is that they believed that these places and events were somehow relevant to their audience. So the question that follows is, why did the Gazette think their readers would find this information to be useful and/or interesting? The Gazette’s audience at the time was largely English-speaking businessmen, and as such, upper-class British nationalists/patriots/whichever-term-you-prefer, as well. Anything the Egyptian Gazette would put into its international news section specifically to satisfy that audience would have to fill one of three criteria. It would either have to involve something that would impact worldwide economic affairs, something that would interest or amuse their readership, or it could just be a slow news day, and the editor needed to fill space. For the sake of professionalism, we’ll focus on the first two reasons.</p>
+
+<p>The Russo-Japanese War was without a doubt the biggest story in the Gazette’s international section. The reasons why are obvious. It involved a conflict between the stalwart giant of Europe and the new, up-and-coming power of Asia, one that the underdog was decisively winning at most every term. Whoever won the war would ascertain whether or not an upcoming great power was stamped down, or whether one of the old powers would keep plodding along. Either way, it would shake up the world order, and thus, the world economy, which would obviously impact the predominantly businessman readership of the Gazette. One must realize that the Japanese were an ally of Britain’s, fighting against one of London’s geopolitical rivals. There’s also the fact that it was primarily a naval war, and Britain was a maritime nation. Add those details together, and you have the perfect recipe for a conflict that would intrigue and captivate the audience of the Gazette.</p>
+
+<p>If one is discussing Russia in 1905, they cannot neglect the mention the myriad of mutinies and uprisings that occurred across the Empire, bearing the torch for the Revolution that would arise in the years to come. While most rebellions were brought up one day and unceremoniously squashed by Tsarist forces the next, wherever they were, the news of their occurrence was, without fail, right there in the Gazette. Newspapers always have narratives to push, and the tale of the oppressive, despotic, collapsing Russian state was one at the top of their list, and its audience was clearly receptive to the idea, Russia being generally opposed to Britain’s interests.</p>
+
+<p>There’s also the First Moroccan Crisis to consider. While the Crisis perhaps wasn’t as explosive as the Russo-Japanese War, it was much closer to home for both England and Egypt, as it threatened to throw France and Germany into war, nine years early. But while the potential dangers of a Franco-German conflict over Morocco were readily apparent, the proceedings were absolutely bland to the bone. The entirety of the ‘crisis’, as it were, was polite, yet firm disagreements between ambassadors and politicians from the three countries, with the minor exception of some military posturing from Paris and Berlin. It was nowhere near as flashy as the war in Asia, but it had great implications for a war in Europe, and obviously, said war would have been (and eventually was) a matter of great concern to Britons home and abroad.</p>
+
+<p>Then there were the comparatively minor global incidents. As mentioned before, there were the stories of royals and politicians visiting certain places and exchanging diplomatic pleasantries, or a disaster and/or uprising here or there. Little trivialities to fill space and provide their readers with what they deemed necessary information about the world beyond Alexandria and her environs. Cricket and horse racing were also fairly regular topics in the international news section, and London was mentioned almost each and every time those sports came up.</p>
+
+<p>Ultimately, a look through the cities and countries mentioned most often in four months of the Egyptian Gazette’s international news section turns out to be exactly what you would expect. The Russo-Japanese War hogs the spotlight, London, St. Petersburg, and Paris are mentioned most often, and the world kept trucking along the businessman perusing the Gazette. All in all, the Gazette was an intriguing keyhole into the world of 1905, and I appreciate having had the opportunity to look through this window to the past.</p>
+
+<p><a href="https://docs.google.com/spreadsheets/d/1zLgicH8_-uWgo_B-rnv5zX1_2MTYGxqwfbABuMq5XTI/edit#gid=0">Link to spreadsheet containing list of cities and maps of where exactly said cities are/how often they’re mentioned.</a></p>
+
+			</div>
+
+			
+
+			
+		</article>
+	</div><!-- /.medium-8.columns -->
+
+
+	
+
+
+	
+</div><!-- /.row -->
+
+
+	
+	    <div id="up-to-top" class="row">
+      <div class="small-12 columns" style="text-align: right;">
+        <a class="iconfont" href="#top-of-page">&#xf108;</a>
+      </div><!-- /.small-12.columns -->
+    </div><!-- /.row -->
+
+
+    <footer id="footer-content" class="bg-grau">
+      <div id="footer">
+        <div class="row">
+          <div class="medium-6 large-5 columns">
+            <h5 class="shadow-black">About This Site</h5>
+
+            <p class="shadow-black">
+              A daily newspaper from turn-of-the-century Egypt, in marked up full text.
+              <a href="/info/">More ›</a>
+            </p>
+          </div><!-- /.large-6.columns -->
+
+
+          <div class="small-6 medium-3 large-3 large-offset-1 columns">
+            
+              
+                <h5 class="shadow-black">Services</h5>
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+
+              <ul class="no-bullet shadow-black">
+              
+                
+                  <li >
+                    <a href=""  title=""></a>
+                  </li>
+              
+                
+                  <li >
+                    <a href="/contact/"  title="Contact">Contact</a>
+                  </li>
+              
+                
+                  <li >
+                    <a href="/feed.xml"  title="Subscribe to RSS Feed">RSS</a>
+                  </li>
+              
+                
+                  <li >
+                    <a href="/atom.xml"  title="Subscribe to Atom Feed">Atom</a>
+                  </li>
+              
+                
+                  <li >
+                    <a href="/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
+                  </li>
+              
+              </ul>
+          </div><!-- /.large-4.columns -->
+
+
+          <div class="small-6 medium-3 large-3 columns">
+            
+              
+                <h5 class="shadow-black">Credits</h5>
+              
+            
+              
+            
+              
+            
+
+            <ul class="no-bullet shadow-black">
+            
+              
+                <li >
+                  <a href=""  title=""></a>
+                </li>
+            
+              
+                <li >
+                  <a href="http://www.lib.fsu.edu/" target="_blank"  title="FSU Libraries">FSU Libraries</a>
+                </li>
+            
+              
+                <li >
+                  <a href="https://github.com/mrmiguez/" target="_blank"  title="Matthew Miguez">Matthew Miguez</a>
+                </li>
+            
+            </ul>
+          </div><!-- /.large-3.columns -->
+        </div><!-- /.row -->
+
+      </div><!-- /#footer -->
+
+
+      <div id="subfooter">
+        <nav class="row">
+          <section id="subfooter-left" class="small-12 medium-6 columns credits">
+            <p>Created by <a href="http://nationality-history.info/">Will Hanley</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>
+          </section>
+
+          <section id="subfooter-right" class="small-12 medium-6 columns">
+            <ul class="inline-list social-icons">
+            
+              <li><a href="http://github.com/dig-eg-gaz" target="_blank" class="icon-github" title="Code and more..."></a></li>
+            
+              <li><a href="http://twitter.com/HanleyWill" target="_blank" class="icon-twitter" title="Will Hanley on Twitter"></a></li>
+            
+            </ul>
+          </section>
+        </nav>
+      </div><!-- /#subfooter -->
+    </footer>
+
+	
+
+	
+
+
+<script src="/assets/js/javascript.min.js"></script>
+
+
+
+
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-60112281-1', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+
+
+
+
+
+
+
+
+</body>
+</html>
+

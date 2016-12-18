@@ -12,7 +12,7 @@ Week|Start date (Monday)|End date (Saturday)|Personal repository|Images|Files|Pa
 2|January 9, 1905|January 14, 1905|[Brett Crawford](https://github.com/wbc13/dig-eg-gaz)|Complete|All|38|Wed issue six pages
 3|January 16, 1905|January 21, 1905|[Tara Kagan](https://github.com/tkhagan/dig_eg)|21/38|||Wed issue six pages
 4|January 23, 1905|January 28, 1905|[Matthew Cooper](https://github.com/Mic15b/dig-eg-gaz)|Complete|All|5|Wed issue six pages
-5|January 30, 1905|February 4, 1905|[Daisy Vazquez](https://github.com/dvazquez703/dig-eg-gaz)|Complete|All|11|Wed issue six pages
+5|January 30, 1905|February 4, 1905|[Daisy Vazquez](https://github.com/dvazquez703/dig-eg-gaz)|Complete|All|16|Wed issue six pages
 6|February 6, 1905|February 11, 1905|[Brandon Barrett](https://github.com/bcb14g/dig-eg-gaz)|Complete|All|18|Wed issue six pages
 7|February 13, 1905|February 18, 1905|[Kevin Monell](https://github.com/knm15e/dig-eg-gaz)|Complete|||Wed issue six pages
 8|February 20, 1905|February 25, 1905|[Samantha Curran](https://github.com/samrcurran/dig-eg-gaz)|||

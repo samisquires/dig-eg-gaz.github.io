@@ -14,6 +14,8 @@ Part of your work is to compose a serial question that makes sense and can be an
 
 Fork the [analysis](https://github.com/dig-eg-gaz/analysis) repository, add your analysis and images, and send a pull request. Do this at least twice: aonce you've finished your question, and a second time once you've written your analysis. It is fine to do it more often too, sending partial material or drafts. I will make comments, and you can revise them.
 
+Make sure that *every* file name starts with your name (so that we don't get confused by a whole bunch of `graph.jpg` files), and that you have no spaces in your file names--use dashes instead.
+
 ## How do I format my serial analysis?
 
 Write it in markdown.
@@ -27,6 +29,8 @@ title: <!--- insert title --->
 author: YourName
 ---
 ```
+
+Name it something like `yourname-analysis.md`.
 
 ## What about images?
 
