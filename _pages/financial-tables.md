@@ -162,7 +162,7 @@ The first table is sometimes empty (sans changement). In this case, use [this xm
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/marche-de-minet-el-bassal.png?raw=true)
 
 ### Mouvement Maritime
-xml:id="deg-el-mmpa01" This model [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/marche-de-minet-el-bassal.xml) doesn't contain much useful formatting, but it shows that places, persons, dates, and tonnage should be tagged.
+xml:id="deg-el-mmpa01" This model [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/mouvement-maritime.xml) doesn't contain much useful formatting, but it shows that places, persons, dates, and tonnage should be tagged.
 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/mouvement-maritime.png?raw=true)
 
