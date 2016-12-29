@@ -12,7 +12,7 @@ HTML pages below represent TEI documents transformed to HTML using the TEI Conso
 # 1905
 
 Week|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday
-1|[Jan 2]() ([TEI-XML]())|[Jan 3]() ([TEI-XML]())|[Jan 4]() ([TEI-XML]())|[Jan 5]() ([TEI-XML]())|[Jan 6]() ([TEI-XML]())|[Jan 7]() ([TEI-XML]())
+1|[Jan 2](https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-02.html) ([TEI-XML](https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-02.html))|[Jan 3](https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-03.html) ([TEI-XML](https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-03.html))|[Jan 4](https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-04.html) ([TEI-XML](https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-04.html))|[Jan 5](https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-05.html) ([TEI-XML](https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-05.html))|[Jan 6](https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-06.html) ([TEI-XML](https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-06.html))|[Jan 7](https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-07.html) ([TEI-XML](https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-07.html))
 2|[Jan 9]() ([TEI-XML]())|[Jan 10]() ([TEI-XML]())|[Jan 11]() ([TEI-XML]())|[Jan 12]() ([TEI-XML]())|[Jan 13]() ([TEI-XML]())|[Jan 14]() ([TEI-XML]())
 17|[Apr 24]() ([TEI-XML]())|[Apr 25]() ([TEI-XML]())|[Apr 26]() ([TEI-XML]())|[Apr 27]() ([TEI-XML]())|[Apr 28]() ([TEI-XML]())|[Apr 29]() ([TEI-XML]())
 20|[May 15]() ([TEI-XML]())|[May 16]() ([TEI-XML]())|[May 17]() ([TEI-XML]())|[May 18]() ([TEI-XML]())|[May 19]() ([TEI-XML]())|[May 20]() ([TEI-XML]())
