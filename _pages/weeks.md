@@ -5,7 +5,7 @@ permalink: /weeks/
 header:
   image_fullwidth: front-page.jpg
 ---
-Week|Start date (Monday)|End date (Saturday)|Personal repository|Images|Files|Pages|Notes
+Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Notes
 3|January 16, 1905|January 21, 1905|unassigned||||
 8|February 20, 1905|February 25, 1905||||
 9|February 27, 1905|March 4, 1905||||
@@ -19,6 +19,46 @@ Week|Start date (Monday)|End date (Saturday)|Personal repository|Images|Files|Pa
 37|September 11, 1905|September 16, 1905|||
 49|December 4, 1905|December 9, 1905|||
 51|December 18, 1905|December 23, 1905|||||
+1|January 1, 1906|January 6, 1906|||||
+2|January 8, 1906|January 13, 1906|||||
+3|January 15, 1906|January 20, 1906|||||
+4|January 22, 1906|January 27, 1906|||||
+5|January 29, 1906|February 3, 1906|||||
+6|February 5, 1906|February 10, 1906|||||
+7|February 12, 1906|February 17, 1906|||||
+8|February 19, 1906|February 24, 1906|||||
+9|February 26, 1906|March 3, 1906|||||
+10|March 5, 1906|March 10, 1906|||||
+11|March 12, 1906|March 17, 1906|||||
+12|March 19, 1906|March 24, 1906|||||
+13|March 26, 1906|March 31, 1906|||||
+14|April 2, 1906|April 7, 1906|||||
+15|April 9, 1906|April 14, 1906|||||
+16|April 16, 1906|April 21, 1906|||||
+17|April 23, 1906|April 28, 1906|||||
+18|April 30, 1906|May 5, 1906|||||
+19|May 7, 1906|May 12, 1906|||||
+20|May 14, 1906|May 19, 1906|||||
+21|May 21, 1906|May 26, 1906|||||
+22|May 28, 1906|June 2, 1906|||||
+23|June 4, 1906|June 9, 1906|||||
+24|June 11, 1906|June 16, 1906|||||
+25|June 18, 1906|June 23, 1906|||||
+26|June 25, 1906|June 30, 1906|||||
+27|July 2, 1906|July 7, 1906|||||
+28|July 9, 1906|July 14, 1906|||||
+29|July 16, 1906|July 21, 1906|||||
+30|July 23, 1906|July 28, 1906|||||
+31|July 30, 1906|August 4, 1906|||||
+32|August 6, 1906|August 11, 1906|||||
+33|August 13, 1906|August 18, 1906|||||
+34|August 20, 1906|August 25, 1906|||||
+35|August 27, 1906|September 1, 1906|||||
+36|September 3, 1906|September 8, 1906|||||
+37|September 10, 1906|September 15, 1906|||||
+38|September 17, 1906|September 22, 1906|||||
+39|September 24, 1906|September 29, 1906|||||
+40|October 1, 1906|October 6, 1906|[Will Hanley](https://github.com/whanley)||||
 
 ## Partial weeks
 
@@ -68,4 +108,4 @@ Week|Start date (Monday)|End date (Saturday)|Personal repository|Images|Files|Pa
 52|December 25, 1905|December 30, 1905|[Celita Summa](https://github.com/CelitaS)|Complete|All|46|December 25 lacking; all issues 8 pages
 
 # Archive
-[IFS 2116 Fall 2016](https://dig-eg-gaz.github.io/weeks-fall-2016/)
+[IFS 2116 Fall 1906](https://dig-eg-gaz.github.io/weeks-fall-1906/)
