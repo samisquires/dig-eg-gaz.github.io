@@ -6,7 +6,7 @@ header:
   image_fullwidth: front-page.jpg
 ---
 Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Notes
-3|January 16, 1905|January 21, 1905|unassigned||||
+3|January 16, 1905|January 21, 1905|||||
 8|February 20, 1905|February 25, 1905||||
 9|February 27, 1905|March 4, 1905||||
 10|March 6, 1905|March 11, 1905|||||
@@ -108,4 +108,4 @@ Week|Start date (Monday)|End date (Saturday)|Personal repository|Images|Files|Pa
 52|December 25, 1905|December 30, 1905|[Celita Summa](https://github.com/CelitaS)|Complete|All|46|December 25 lacking; all issues 8 pages
 
 # Archive
-[IFS 2116 Fall 1906](https://dig-eg-gaz.github.io/weeks-fall-1906/)
+[IFS 2116 Fall 1906](https://dig-eg-gaz.github.io/weeks-fall-2016/)
