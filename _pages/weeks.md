@@ -108,4 +108,4 @@ Week|Start date (Monday)|End date (Saturday)|Personal repository|Images|Files|Pa
 52|December 25, 1905|December 30, 1905|[Celita Summa](https://github.com/CelitaS)|Complete|All|46|December 25 lacking; all issues 8 pages
 
 # Archive
-[IFS 2116 Fall 1906](https://dig-eg-gaz.github.io/weeks-fall-2016/)
+[IFS 2116 Fall 2016](https://dig-eg-gaz.github.io/weeks-fall-2016/)

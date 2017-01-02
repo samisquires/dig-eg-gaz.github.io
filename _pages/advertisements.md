@@ -324,6 +324,10 @@ xml text: [lea01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [lea01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/lgo01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/lgo01-ladies-gents-outfitting.png?raw=true)
 
+### lig01 Liniment Géneau
+xml text: [lig01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/lig01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/lig01-liniment-geneau.png?raw=true)
+
 ### map01 Maple & Co.
 xml text: [map01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/map01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/map01-Maple-and-Co.png?raw=true)
@@ -544,3 +548,7 @@ xml text: [yos01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### yos02 Yost
 xml text: [yos02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/yos02.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/yos02-yost.png?raw=true)
+
+### you01 Youngs
+xml text: [you01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/you01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/you01-youngs.png?raw=true)

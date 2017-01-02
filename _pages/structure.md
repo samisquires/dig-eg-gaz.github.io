@@ -16,10 +16,12 @@ Advertisements, one column of content, masthead
 Miscellaneous articles, and
 
 ## Sections
-- Wire reports (international)
+Each of these sections (ought to) contain sub-items, most of them with headlines, often also bylines and datelines.
+- Wire reports (international news)
 - Local and General
 - Sporting News
 - Personal and Social
 - Notes from Port Said
-- Notes from Sudan
+- Notes from Suez
+- Notes from the Sudan
 - Notes from Suakin

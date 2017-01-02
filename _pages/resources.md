@@ -21,3 +21,5 @@ header:
 [TEI P5 guidelines](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html) - tags to use.
 
 [Matthew Miguez’s page](http://myweb.fsu.edu/mmiguez/tei/index.html) - metadata librarian at FSU.
+
+## Unicode symbols reference key
