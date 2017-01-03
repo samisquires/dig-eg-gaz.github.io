@@ -132,6 +132,10 @@ xml text: [chl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [clh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/clh01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/clh01-Cigares-de-la-Havane.png?raw=true)
 
+### cpc01 Crown Preserved Coal
+xml text: [cpc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cpc01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cpc01-crown-preserved-coal.png?raw=true)
+
 ### crl01 Credit Lyonnais
 xml text: [crl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/crl01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/crl01-Credit-Lyonnais.png?raw=true)
@@ -364,6 +368,10 @@ xml text: [nbe01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [ncs01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ncs01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ncs01-Nile-Cold-Storage.png?raw=true)
 
+### nea01 Neave's Food
+xml text: [nea01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nea01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nea01-neaves.png?raw=true)
+
 ### nfl01 Northern Fire and Life Assurance Coy
 xml text: [nfl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nfl01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nfl01-Northern-Fire-and-Life-Assurance-Coy.png?raw=true)
@@ -483,6 +491,10 @@ xml text: [sun01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### sun02 Sunlight
 xml text: [sun02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sun02.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sun02-Sunlight.png?raw=true)
+
+### sun03 Sunlight
+xml text: [sun03](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sun03.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sun03-sunlight.png?raw=true)
 
 ### tas01 T. A. Spartali & Co.
 xml text: [tas01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text as01.xml)
