@@ -8,7 +8,7 @@ header:
 ---
 For my project I have decided to look into the sports that took place in 1905.
 
-![Serial Question Pic](https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/blog-images/barrett-Pic.png?raw=true)
+![Serial Question Pic](barrett-Pic.png)
 
 So far in my week of newspaper articles I have only read about rugby football
 being played in London between Wales and Scotland, but I am sure that there is
@@ -25,7 +25,7 @@ starters it will show us how the world functioned, what people care about, how
 they spend their free time, where popular places to live were, and how influential
 sports were to the people back then.
 
-![Serial Question Map](https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/blog-images/barrett-Map.png?raw=true)
+![Serial Question Map](barrett-Map.png)
 
 For example, our society today is very sports
 oriented. There are a very large amount of die hard fans for collegiate and
