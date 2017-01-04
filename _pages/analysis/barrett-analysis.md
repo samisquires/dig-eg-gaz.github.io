@@ -2,6 +2,7 @@
 layout: page
 title: Sports in the 1905 Egyptian Gazette
 author: Brandon Barrett
+permalink: /analysis/barrett-analysis
 ---
 For my project I have decided to look into the sports that took place in 1905.
 
@@ -54,8 +55,7 @@ greater understanding of Alexandria in 1905, which is our overall goal in this
 class.
 
 In order to find out this information, I gathered all of the data that students
-in this class have created, made them into one big project, and searched all of the xml files for keywords like "football", "sport", "rugby", and "score" through the XPath query box using //div[@type="item"][contains(., 'cotton')].  These key words led me to passages
-talking about a variety of different sports and events.
+in this class have created, made them into one big project, and searched all of the xml files for keywords like "football", "sport", "rugby", and "score" through the XPath query box using `//div[@type="item"][contains(., 'cotton')]`.  These key words led me to passages talking about a variety of different sports and events.
 After going through multiple pages of text, I have found a significant list of
 sports that were played or observed back in 1905.  We have no way of knowing
 for sure that these are the only sport that went on and that were cared for back
