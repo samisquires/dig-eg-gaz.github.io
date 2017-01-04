@@ -18,11 +18,11 @@ It is an unquestionable fact that the British Empire was one of the mightiest an
 
 ![Countries Map](https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/analysis-images/jcw3-country-map.png?raw=true)
 
-[Countries Map](http://i.imgur.com/80YDniq.png)
+[Countries Map](http://i.imgur.com/80YDniq.png?raw=true)
 
 I generally started by viewing the XML files of the various documents, and double checking with the page images, to collect the cities/countries mentioned most often. I then consulted with individuals on a website called Quora to figure out the modern names of cities mentioned in the Gazette that no longer have those names, such as Kalismi or Kalisz and Dayet or Da Lat. Then I used a blank basemap of the year 1905 to map out the countries mentioned most often (Russia, Japan, France, and so on) before transferring to Google Spreadsheets and Google GeoCharts to map out the cities.
 
-![Cities Map](http://i.imgur.com/WhScV1J.png)
+![Cities Map](http://i.imgur.com/WhScV1J.png?raw=true)
 
 Starting with the cities, the top three were London (142 mentions), St. Petersburg (109), and Paris (91). It’s obvious why London is at the top. It’s the capital of the British Empire, which, as we all know, mightiest civilization on human history, especially at the time. However, London’s role as capital as the British Empire wasn’t as much a reason for its large results as you might think, given that the country of Great Britain only received eighty-five mentions throughout those four months. No, it’s a variety of reasons that gave London its position at the top of the list. Each and every time cricket matches or horse racing came up, London was there. Every time there was a scuffle in Parliament, market news, or some politician needed to make a statement, London came up. Of course, whenever something came out that effected the Empire as a whole, London was involved.
 

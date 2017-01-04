@@ -21,7 +21,11 @@ At first, I did some research on horse racing and the gambling that goes along w
 
 In order to analyze my collected data, I developed a point system which gave each horse three points for every win, two points for every place, and one point for every show, and the horse with the most points would be deemed the fastest horse in Alexandria. There were a total of twenty-eight horses who competed in sixty-one races. Although, not every horse took part of every race, which might have caused for some slight error in my data.
 
+![Serial Analysis Data](https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/analysis-images/cooper-graph1.png?raw=true)
+
 In my data visualization, the first graph shows the number of wins, places, and shows and the second graph shows the number of points each horse received, using the point system described in the previous paragraph.
+
+![Serial Analysis Data](https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/analysis-images/cooper-graph2.png?raw=true)
 
 The three horses with the most points were Starboard Light with twenty-one points, Latiff with twenty-six points, and, the winner, Chinaman with twenty-eight points.
 
