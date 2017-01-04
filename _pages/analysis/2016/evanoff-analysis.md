@@ -7,6 +7,8 @@ header:
   image_fullwidth: front-page.jpg
 ---
 
+![table](https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/analysis-images/evanoff-table.jpg?raw=true "table")
+
 Alexandria Egypt in 1905 kept a record of the news they deemed to be
 important via their newspaper. The title of the newspaper is "The Egyptian
 Gazette". The newspaper kept a general record of the lives of not only the
@@ -16,7 +18,7 @@ their losses, and their own writings. However, I have drawn my focus more to
 the first page. The cover of "The Egyptian Gazette" provides details that
 can push us to understand the way the Egyptians lived. The first page is full
 of advertisements by different companies. The very first things you see when
-you grab the newspaper are advertisements. The reccuring advertisements are,
+you grab the newspaper are advertisements. The recurring advertisements are,
 generally speaking, deemed the most crucial or the most well targeted ads. In
 comparison to modern times, that is what culturally seems to make the most
 sense. This newspaper was distributed to millions of people all over the city.
@@ -48,6 +50,8 @@ utilized in the society. I really feel that we can get more insight into the
 lives of people and the fads that were important to them if we look at their
 possible spending.
 
+![Comparing Ads](https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/analysis-images/evanoff-Comparing-Ads.png?raw=true "Comparing Ads")
+
 In order to answer this question I had to first categorize or at least
 recognize the different categories of advertisements that were posted on the
 front page. The Eastern Telegraph advertisement is the very first one to be
@@ -60,7 +64,7 @@ as well. The Khedival Mail Line, Bibby Line Mail Steamers, and the Telephone
 Company of Egypt are all examples of competing firms. I have found that another
 major category of advertisements is travel and lodge. Each company is targeting a
 different group of people and travels to a different place. Some examples of
-these companies are Norddeutscher Lloyd, The Moss S.S company LLTD.,Messageries
+these companies are Norddeutscher Lloyd, The Moss S.S company LLTD., Messageries
 Maritime, Hotel Brisco in Cairo, and Navigation Generale Ialienne are just a few
 of the most commonly appearing advertisements about travel and lodge. The
 excessive amounts of companies that offer travel opportunities can provide
@@ -98,6 +102,8 @@ differentiation is one that is even still used today. From a cultural stand-
 point this says the same thing it does about companies today. It says that
 people want to promote their product in the most efficient and positive
 way possible.
+
+![Types of Advertisements](https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/analysis-images/evanoff-Types-of-Advertisements?raw=true "Types of Advertisements")
 
 For the most part, the advertisements on the first page all fit relatively the
 same mold. Each one advertises their company name in large emboldened text and

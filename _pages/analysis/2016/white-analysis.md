@@ -44,5 +44,4 @@ Then there were the comparatively minor global incidents. As mentioned before, t
 
 Ultimately, a look through the cities and countries mentioned most often in four months of the Egyptian Gazette’s international news section turns out to be exactly what you would expect. The Russo-Japanese War hogs the spotlight, London, St. Petersburg, and Paris are mentioned most often, and the world kept trucking along the businessman perusing the Gazette. All in all, the Gazette was an intriguing keyhole into the world of 1905, and I appreciate having had the opportunity to look through this window to the past.
 
-
 [Link to spreadsheet containing list of cities and maps of where exactly said cities are/how often they're mentioned.](https://docs.google.com/spreadsheets/d/1zLgicH8_-uWgo_B-rnv5zX1_2MTYGxqwfbABuMq5XTI/edit#gid=0)

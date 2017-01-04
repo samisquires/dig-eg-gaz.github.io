@@ -7,6 +7,8 @@ header:
   image_fullwidth: front-page.jpg
 ---
 
+![photo](https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/analysis-images/fling-Individual-Project-Photo.png?raw=true "photo")
+
 ##Serial Question:
 How often did the Egyptian Gazette report fires in 1905? What were the causes of these fires? What methods where used to subdue these fires?
 
@@ -40,4 +42,4 @@ The process of research itself, using digital methods in microhistory has had it
 
 I would definitely say that the weaknesses of the research methods outweigh the strengths. The time consumption of these processes is the hardest to overcome. It can take over 2 hours to convert each page to text and convert the text to XML code. Another complex program that was asked of us to use was Github. It is also a difficult program to work with mainly because I have not ever used a program like it. I am slowly getting the hang of the program but I still love to check to make sure everything goes through correctly. This class is a very interesting class because it has shown me a whole new way to look through and record History. The technical aspect of the class is difficult, but the challenge is well worth it.
 
-Querying was a whole new struggle for me. Since my final project is about the frequency of fires in this time period I decided the word I should focus in on is fire. At first I tried to search the class documents with, //div[@type=”item”][contains(.,’fire’) and even, count(//div[contains(.,’fire’). Neither of these generated many results. After consultation with my professor, we found that the query that worked for my project was, //div[@n=3]//p[contains(., 'fire')]. This produced many results. The only negative of this query is that words such as ‘firework’ and ‘fired’ are still included in the search when I am mainly seeking fires.
+Querying was a whole new struggle for me. Since my final project is about the frequency of fires in this time period I decided the word I should focus in on is fire. At first I tried to search the class documents with `//div[@type=”item”][contains(.,’fire’)` and even, `count(//div[contains(.,’fire’)`. Neither of these generated many results. After consultation with my professor, we found that the query that worked for my project was, `//div[@n=3]//p[contains(., 'fire')]`. This produced many results. The only negative of this query is that words such as ‘firework’ and ‘fired’ are still included in the search when I am mainly seeking fires.

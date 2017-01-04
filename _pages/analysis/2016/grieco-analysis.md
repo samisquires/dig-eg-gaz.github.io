@@ -47,7 +47,7 @@ to present and play with the data to build a cumulative picture on international
 Building this larger picture from the ground up is an exercise which I believe resonates
 with the main goal of this course.
 
-![Cotton Exports Map](Cottonmap.png)
+![Cotton Exports Map](https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/analysis-images/grieco-Cottonmap.png?raw=true)
 
 I used the Tableau software to create the graphic visualizations of my data. The first
 graphic shown here shows the countries that received cotton exports from Egypt. The depth
@@ -58,7 +58,7 @@ by far received the most exports, almost 160,000 bales in total. This is roughly
 times greater than the second most popular export destination, France, with almost 26,000
 bales in total.
 
-![Cotton Box Chart](Cottonchart.png)
+![Cotton Box Chart](https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/analysis-images/grieco-Cottonchart.png?raw=true)
 
 The first conclusion I derived from this data is that England was clearly the dominant
 colonial power not just when it came to ruling Egypt, but when it came to extracting its
@@ -84,7 +84,7 @@ sanctions and exclusionary international trade deals are very prevalent in today
 This is due, perhaps, to Britain’s central role in maintaining world peace and stability
 during Pax Britannica.
 
-![Total Exports by Month](Cottonbar.png)
+![Total Exports by Month](https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/analysis-images/grieco-Cottonbar.png?raw=true)
 
 The above chart shows the total cotton exportation by month in terms of bales. The most
 obvious trend seen here is a decline from April to August, followed by a massive increase
@@ -96,7 +96,7 @@ or a domestic policy by Britain to dramatically increase its exports from Egypt.
 satisfy this particular query, I analyzed individual monthly trends from five of the
 biggest importers and created the graph below.
 
-![Biggest Importers by Month](Cottonmonth.png)
+![Biggest Importers by Month](https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/analysis-images/grieco-Cottonmonth.png?raw=true)
 
 As this graph clearly shows, the most significant spike in exports during the month
 of November came from England. This fact adds credence to the hypothesis that a domestic

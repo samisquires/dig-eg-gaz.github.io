@@ -6,9 +6,9 @@ permalink: /analysis/2016/stefonek-analysis
 header:
   image_fullwidth: front-page.jpg
 ---
-Please click [here](https://www.google.com/maps/@15.4200469,40.3520146,3z/data=!3m1!4b1!4m2!6m1!1s1CWd7cdi_tApAVJFwYXbqsVxbDYM) to access my data visualization.
+![figure](https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/analysis-images/stefonek-Serial-Example.PNG?raw=true "figure")
 
-Embed: <iframe src="https://www.google.com/maps/d/embed?mid=1CWd7cdi_tApAVJFwYXbqsVxbDYM" width="640" height="480"></iframe>
+Please click [here](https://www.google.com/maps/@15.4200469,40.3520146,3z/data=!3m1!4b1!4m2!6m1!1s1CWd7cdi_tApAVJFwYXbqsVxbDYM) to access my full data visualization.
 
 My serial question is, "Where were the Russian and Japanese fleets during the year of 1905?" I am asking this question because the Russo-Japanese war occurred during this time and the two military powers engaged in quite a bit of naval combat. We know the Japanese eventually won the war and we are aware of the major battles that occurred at sea. The information in the Egyptian Gazette can provide us with a wealth of ship names, smaller skirmishes, admirals and fleet movements that would otherwise go unmentioned in most historical collections. Querying the Digital Egyptian Gazette certainly produced an impressive micro-historical account of what happened on the seas.
 
@@ -25,13 +25,3 @@ Naturally, most of the action occurred near contested territory in China, Japan 
 One of the most interesting events turned up by my research was an instance where a portion of the Baltic Fleet fired upon the royal yacht of King George I of Greece while he was traveling from Denmark to France. This mishap, like the defeat at Tsushima, is excellent evidence of the inexperience of the Russian navy, which was likely a major factor in the overall Russian defeat. Couple the poor skills of the Russian military with the poor leadership of the Tsar and the Russians had a recipe for defeat.
 
 Unfortunately, we only examined a year of the Egyptian Gazette and thus are missing a significant amount of information regarding the movements of the fleets beforehand. This made it hard to understand exactly how the fleets were distributed at the beginning of the Russo-Japanese War and how they came to be placed at the beginning of the year 1905.
-
-
-
-[Serial Example](Serial Example.png).
-
-eastern telegraph co.
-horse races
-nile gauge
-check blog
----
