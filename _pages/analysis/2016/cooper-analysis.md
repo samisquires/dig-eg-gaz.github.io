@@ -2,6 +2,9 @@
 layout: page
 title: Who is the Fastest Horse in Alexandria?
 author: MatthewCooper
+permalink: /analysis/2016/cooper-analysis
+header:
+  image_fullwidth: front-page.jpg
 ---
 
 For my serial question for this course, I would like to find out who the fastest horse in all of Alexandria during the year of nineteen-hundred and five. The topic sparked my interest while I was coding the XML for my page threes. I am fascinated by sports and I noticed that there were reoccurring articles regarding horse racing and bets taking place around the races.

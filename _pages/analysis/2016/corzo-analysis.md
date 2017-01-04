@@ -2,6 +2,9 @@
 layout: page
 title: Silent Killer
 author: thomascorzo
+permalink: /analysis/2016/corzo-analysis
+header:
+  image_fullwidth: front-page.jpg
 ---
 
 The Egyptian Gazette has been one of the most respected and successful newspapers in Egypt for decades. Originally located in Alexandria Egypt, it has reported on multiple major stories and events throughout the 19th and 20th centuries. Given this history of the newspaper, it perplexed me to see the reporting of a deadly widespread plague to be minimal. Granted I only had a tiny section of the newspaper in the year 1905 but still I expected more on such a catastrophic disease. This curiosity presented itself to be the perfect serial question for me to explore. I wanted to know if the plague was reported on more thoroughly in any other issues during that year and how widespread the disease was. Was it just affecting Alexandria or was it also spreading throughout Egypt. To do this I queried the newspaper and researched outside sources.

@@ -3,6 +3,9 @@ layout: page
 title: Capital Market Integration
 teaser: "Turn of the Century Information Flows in the Global Capital Market"
 author: Brett Crawford
+permalink: /analysis/2016/crawford-analysis
+header:
+  image_fullwidth: front-page.jpg
 ---
 
 In the process of digitally transcribing the Egyptian Gazette, I was struck by how much of the paper was devoted every day to financial tables, commodity price lists, and information on cargo shipping. As the paper was primarily geared towards the international businessman, I suppose this comes as no surprise. It reminded me, however, of a banking crisis that occurred in Alexandria in 1907. At the local level, the blame is normally placed on excessive speculation in the real estate market, but the underlying causes are said to have emanated in global capital markets. Specifically, massive insurance payments made in San Francisco after the Great Fire dramatically increased the local money supply, spurring inflation and imbalances which were then transmitted into global financial markets. The implication of all this, however, is that by the turn of the century, global capital markets had integrated to a sufficient level to allow seemingly local  shocks to have international ramifications. In other words, one may consider this from a perspective of globalization. Just how connected were the different financial markets in America, England and Egypt? To what extent did investors live in a �globalized� world, where international news was consumed to make business decisions at the local level? When what did was going on �over there� matter �over here�? I would like to ask my serial question then in a way which would return quantitative data on the responsiveness of the market in Alexandria to international factors. But what variables should I examine?

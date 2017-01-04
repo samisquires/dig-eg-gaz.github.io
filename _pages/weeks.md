@@ -85,7 +85,7 @@ Week|Start date (Monday)|End date (Saturday)|Personal repository|Images|Files|Pa
 41|October 9, 1905|October 14, 1905|[Christian Ragland](https://github.com/christianragland/dig-eg-gaz)|39/40|All|26|1905-10-09-p3 image incomplete|?
 42|October 16, 1905|October 21, 1905|[Brooklyn Vincent](https://github.com/bjv15/dig-eg-gaz)|Complete|5/6|38||?
 44|October 30, 1905|November 4, 1905|[Henry Thompson](https://github.com/Hat15/Dig-eg-gaz)|Complete|All|18|
-45|November 6, 1905|November 11, 1905|[Olivia Evanoff](https://github.com/oliviaevanoff)||All|6|
+45|November 6, 1905|November 11, 1905|[Olivia Evanoff](https://github.com/oliviaevanoff)|28/40|All|6|
 47|November 20, 1905|November 25, 1905|[Amber Fling](https://github.com/alf15c/dig-eg-gaz)|Complete|All|5|
 
 ## Complete weeks

@@ -2,9 +2,9 @@
 layout: page
 title: The Exploration of Musicians in Alexandria
 author: ChristianRagland
-image: 
-  title: content-images/Pie-Chart.png
-  thumb: content-images/Pie-Chart.png
+permalink: /analysis/2016/ragland-analysis
+header:
+  image_fullwidth: front-page.jpg
 ---
 #Intro and Question
 

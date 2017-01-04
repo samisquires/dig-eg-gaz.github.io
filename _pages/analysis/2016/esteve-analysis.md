@@ -2,6 +2,9 @@
 layout: page
 title: The Uses of Counting
 author: JustinEsteve
+permalink: /analysis/2016/esteve-analysis
+header:
+  image_fullwidth: front-page.jpg
 ---
 The Egyptian Gazette is made up of a myriad of information. This information takes many forms, and because the newspaper issues are from 1905, the newspaper's structure and content can be confusing. However, this also provides an opportunity, the ability to explore. With over one hundred and fifty days of newspaper, a picture of life in Alexandria, Egypt at the time can be glimpsed. Some will choose to focus on stories and events. Others might spend their efforts looking at tables and making conclusions about Alexandria's economy based on that information. While I initially shared those goals, I came to see a unique opportunity. After months of painstaking work, I wanted to do some analysis that could potentially help others long-term. As I began querying, I was immediately drawn to counting and the different ways that I could use it.  
 

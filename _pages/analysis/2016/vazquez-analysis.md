@@ -2,6 +2,9 @@
 layout: page
 title: How did the Cattle Plague affect populations during the year of 1905?
 author: DaisyVazquez
+permalink: /analysis/2016/vazquez-analysis
+header:
+  image_fullwidth: front-page.jpg
 ---
 In discussing reoccurring issues within the Digital Egyptian Gazette, several medical conditions were mentioned, affecting the people of Egypt and beyond. The serial question I have chosen to answer is, "How did the Cattle Plague affect populations during the year of 1905?" Specifically, this topic caught my interest because I was only previously aware of the bubonic plague, but not aware of the cattle plague. I was clueless to what defines the cattle plague, and wanted to learn more about how it affected Egyptians in 1905. I am also asking this question because general epidemics of serious health conditions were becoming a problem with morality rates in Africa and Asia. We know medicine back in the early 20th century was not advanced enough to work on containing or reducing epidemic situations, and not able to establish herd immunity as we do today. The information found within the Digital Egyptian Gazette can provide exact numbers of mortality rates amongst populations, locations of where the epidemic of cattle plague has spread, detailed case stories of cattle plague, issues relating to the trading crisis, and delays in societal progression.
 

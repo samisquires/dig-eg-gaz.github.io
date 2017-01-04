@@ -2,7 +2,9 @@
 layout: page
 title: Sports in the 1905 Egyptian Gazette
 author: Brandon Barrett
-permalink: /analysis/barrett-analysis
+permalink: /analysis/2016/barrett-analysis
+header:
+  image_fullwidth: front-page.jpg
 ---
 For my project I have decided to look into the sports that took place in 1905.
 

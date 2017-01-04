@@ -2,6 +2,9 @@
 layout: page
 title: The Egyptian Gazette’s Fires of 1905
 author: AmberFling
+permalink: /analysis/2016/fling-analysis
+header:
+  image_fullwidth: front-page.jpg
 ---
 
 ##Serial Question:

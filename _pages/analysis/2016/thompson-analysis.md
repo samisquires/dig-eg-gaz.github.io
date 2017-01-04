@@ -2,6 +2,9 @@
 layout: page
 Title: The Deaths of Alexandrian Citizens in 1905
 Author: Hank Thompson
+permalink: /analysis/2016/thompson-analysis
+header:
+  image_fullwidth: front-page.jpg
 ---
 
 Benjamin Franklin once said that there are only two certainties in life, taxes and death. While the former of these is more of a satirical remark on governmental practices, the latter is a very real thing. Whether it be the worry of meeting an early end on your morning commute or worrying about your weight, death colors most things in life a little darker. In modern society, death is viewed in a multitude of ways. There are those who mourn it, those who celebrate it, and those who treat it as merely a part of life, and this last approach tends to be more common in societies where death itself is more prevalent. Take the early 20th century for example, death was more common, and the rather lackadaisical view of it is prevalent in the writings of the time. The Egyptian Gazette that we have been examining over the course of the semester presents the death of the citizens of Alexandria in this way, but rather than cover their methods, I am more concerned with the deaths themselves. Put simply, I want to find out how many deaths occurred in Alexandria in the year of 1905. In this essay, I will start out by giving a more in depth explanation of this question before moving on to my search methods then move on to the examination of my research.

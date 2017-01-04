@@ -1,6 +1,10 @@
 ---
+layout: page
 title: Advertising in Alexandria Egypt 1905
-author: Olivial Evanoff
+author: Olivia Evanoff
+permalink: /analysis/2016/evanoff-analysis
+header:
+  image_fullwidth: front-page.jpg
 ---
 
 Alexandria Egypt in 1905 kept a record of the news they deemed to be

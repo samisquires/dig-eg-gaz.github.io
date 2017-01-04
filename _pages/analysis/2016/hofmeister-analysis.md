@@ -2,6 +2,9 @@
 layout: page
 author: Kara Hofmeister
 title: Changes Over the Year
+permalink: /analysis/2016/hofmeister-analysis
+header:
+  image_fullwidth: front-page.jpg
 ---
 
 While working on assignments for this class, I quickly realized that the formatting of my issue was very different from the rest. Many of my advertisements were different, the financial tables were all ordered in a weird way, and my Wednesday issue only contained six pages instead of eight. This caused many problems for me because I would have to make all of the tables myself, which was very time consuming and confusing because I had no idea how to do any of it. Particularly, the tables for Marche de Minet-el-Bassal were very different. The first change I encountered with this table was actually in my own week. I first saw the table on page two of my first day, January second, then noticed that on January third the table began appearing on page 4. After looking through images of the other issues, I noticed the table then remained on page four. I also quickly noticed that issues containing eight pages would display these data tables on page six, and many issues in December contained eight pages throughout the week, not just the usual Wednesday and Saturday issues. So, I am left curious as to why it was on page two of the first issue of the year. Maybe there was a mistake made or something of the sort but the reasoning is lost in history.

@@ -2,6 +2,9 @@
 layout: page
 title: Analysis
 author: RileyOuellette
+permalink: /analysis/2016/ouellette-analysis
+header:
+  image_fullwidth: front-page.jpg
 ---
 
 Alexandria is the second largest city and a major economic center in Egypt, extending about twenty miles along the coast of the Mediterranean Sea in the north central part of the country. Alexandria was founded around a small Ancient Egyptian town c. 331 BC by Alexander the Great. From the late 18th century, the city profited from the easy overland connection between the Mediterranean Sea and the Red Sea, along with the lucrative trade in Egyptian cotton. As a result, Alexandria became a major center of the international shipping industry in addition to one of the most important trading centers in the world. As great as this city sounds, many people will never realize the amount of crime that was committed throughout Alexandria’s history. By using instruments in my digital micro-history class, I have been able to reveal over a month’s worth of Alexandra’s newspaper, The Egyptian Gazette. This newspaper is filled with reports of anything from wars to sports, not to mention all of the crime.

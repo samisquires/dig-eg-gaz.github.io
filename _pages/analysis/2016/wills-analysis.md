@@ -1,9 +1,13 @@
 ---
 layout: page
-title: Global Diplomatic Influence on Egpyt
+title: Global Diplomatic Influence on Egypt
 author: LoganWills
+permalink: /analysis/2016/wills-analysis
+header:
+  image_fullwidth: front-page.jpg
+
 ---
-The *Egyptian Gazette* was a popular newspaper company that first published its one of a 
+The *Egyptian Gazette* was a popular newspaper company that first published its one of a
 kind for the Middle East English newspaper in the year 1880, and enjoyed a long tenure of
 success.  The paper covered a range of topics anywhere from the daily necessities such as
 weather reports, stock exchanges, and market prices, to bold current event storylines.  Records

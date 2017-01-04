@@ -2,6 +2,9 @@
 layout: page
 title: Medical Miracles
 author: Valerie Curcio
+permalink: /analysis/2016/curcio-analysis
+header:
+  image_fullwidth: front-page.jpg
 ---
 #Medical Miracles
      While searching for a serial question to embark on, I really wanted to be drawn

@@ -2,6 +2,9 @@
 layout: page
 title: A Serial Analysis of St. Petersburg, London, and Paris Through the Lens of the Egyptian Gazette
 author: Celita Summa
+permalink: /analysis/2016/summa-analysis
+header:
+  image_fullwidth: front-page.jpg
 ---
 
 My serial question for this paper was: "What topics are discussed in the international section of the Egyptian Gazette and how do these topics differ based on location?" In order to query this question, I decided to examine the news reporting for three major cities detailed in the international news section of the Egyptian Gazette. The goal of asking this question was ultimately to reveal similarities and differences between three major cities at the time of the paper and through the unique lens of the Egyptian Gazette. In addition, shedding light on events going on at the time was also a primary goal of the project. The cities I chose to analyze were St. Petersburg, Russia; London, England; and Paris, France.
