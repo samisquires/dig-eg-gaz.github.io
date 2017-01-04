@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Contents by date</title>
+	<title>Tracking Stray and Ownerless Dogs</title>
 	<link rel="stylesheet" type="text/css" href="/assets/css/styles_feeling_responsive.css">
 	<script src="/assets/js/modernizr.min.js"></script>
 
@@ -31,9 +31,9 @@
 
 
 	<!-- Facebook Open Graph -->
-	<meta property="og:title" content="Contents by date">
+	<meta property="og:title" content="Tracking Stray and Ownerless Dogs">
 	<meta property="og:description" content="A daily newspaper from turn-of-the-century Egypt, in marked up full text.">
-	<meta property="og:url" content="/contents/">
+	<meta property="og:url" content="/_pages/analysis/sain-Final-Project/">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Digital Egyptian Gazette">
@@ -46,7 +46,7 @@
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" content="HanleyWill">
 	<meta name="twitter:creator" content="HanleyWill">
-	<meta name="twitter:title" content="Contents by date">
+	<meta name="twitter:title" content="Tracking Stray and Ownerless Dogs">
 	<meta name="twitter:description" content="A daily newspaper from turn-of-the-century Egypt, in marked up full text.">
 	
 	
@@ -209,7 +209,7 @@
             
             
 
-              <li class="has-dropdown active">
+              <li class="has-dropdown">
                 <a href="/contents/">Contents</a>
 
                   <ul class="dropdown">
@@ -391,7 +391,7 @@
 
 	
 
-<div id="masthead">
+<div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
 			<a id="logo" href="" title="Digital Egyptian Gazette – A full-text paper from 1905">
@@ -408,8 +408,6 @@
 
 
 
-
-
 	<div class="row t30">
 	<div class="medium-8 columns medium-offset-2 end">
 		<article itemscope itemtype="http://schema.org/Article">
@@ -418,7 +416,7 @@
 
 				<div itemprop="name">
 					
-					<h1>Contents by date</h1>
+					<h1>Tracking Stray and Ownerless Dogs</h1>
 				</div>
 			</header>
 
@@ -426,160 +424,27 @@
 			
 
 			<div itemprop="articleSection">
-			<p>Page images are <a href="https://github.com/dig-eg-gaz/page-images">here</a>, listed by date and page number.</p>
+			<p>In each issue the Egyptian Gazette (1905) that was analyzed from my week, there was often a “Stray and Ownerless Dog” subsection that fell below the Local and General portion of the paper. In the six issues that I started out working with, the stray dog article lists very little information, usually only the location they were collected and when they were to be poisoned by police. This leads to the question “Why is the ‘Stray and Ownerless’ section general news? And how does the information found in this section affect the social aspects of the city?” More specifically I want to look at the locations the dogs are being found as well as if any other issues (outside of mine) give more detail regarding this practice of poisoning stray dogs, like the reason it is done or an estimation of the amount of dogs taken.</p>
 
-<p>HTML pages below represent TEI documents transformed to HTML using the TEI Consortium’s default <a href="http://www.tei-c.org/release/doc/tei-xsl/">TEI to HTML XSLT</a> and served via <a href="http://rawgit.com">rawgit.com</a>. Many links are not yet active. For reference, see week 28 (July 10-15).</p>
+<p>To search through the Digital Egyptian Gazette I will mostly be using querying with specific words such as “ownerless” or “dog” in order to locate the specific articles I am trying to find. In particular, I have been using “//div[@type=”item”][contains(.,’Stray’)]” which usually brings me to the Local and General section of the files and from there I can locate the information I need. I may also use the querying to count the number of issues that contain this recurring message in the paper, I will do this by using the format “count(//div[contains(., ‘Ownerless’)])”. I chose the word ownerless because I figured the word “dog” may occur in other places in the newspaper, whereas “ownerless” will most likely only appear as the title of the articles for each issue. This should give an estimate (give or take some based on what was available when downloaded) of the amount of times the newspaper notifies the public about the stray dog dilemma.</p>
 
-<h1 id="section">1905</h1>
+<p>I began my searches using the query terms I previously mentioned but as I began searching I noticed only a few issues (15 different days) were providing results. Since they were all from the same months toward the end of the year, I considered maybe it was a recent thing they added to the paper, but after researching further I was able to find results from the stray and ownerless dog section for almost every month. I then used the query formula //p[contains(.,’dogs’)], which not only gave me access to more months but also showed articles that gave information on the regulations that were to be implemented due to the over population of dogs.</p>
 
-<table>
-  <tbody>
-    <tr>
-      <td>Week</td>
-      <td>Monday</td>
-      <td>Tuesday</td>
-      <td>Wednesday</td>
-      <td>Thursday</td>
-      <td>Friday</td>
-      <td>Saturday</td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td><a href="https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-02.html">Jan 2</a> (<a href="https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-02.html">TEI-XML</a>)</td>
-      <td><a href="https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-03.html">Jan 3</a> (<a href="https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-03.html">TEI-XML</a>)</td>
-      <td><a href="https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-04.html">Jan 4</a> (<a href="https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-04.html">TEI-XML</a>)</td>
-      <td><a href="https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-05.html">Jan 5</a> (<a href="https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-05.html">TEI-XML</a>)</td>
-      <td><a href="https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-06.html">Jan 6</a> (<a href="https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-06.html">TEI-XML</a>)</td>
-      <td><a href="https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-07.html">Jan 7</a> (<a href="https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-07.html">TEI-XML</a>)</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td><a href="https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-09.html">Jan 9</a> (<a href="https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-09.html">TEI-XML</a>)</td>
-      <td><a href="https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-10.html">Jan 10</a> (<a href="https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-10.html">TEI-XML</a>)</td>
-      <td><a href="https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-11.html">Jan 11</a> (<a href="https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-11.html">TEI-XML</a>)</td>
-      <td><a href="https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-12.html">Jan 12</a> (<a href="https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-12.html">TEI-XML</a>)</td>
-      <td><a href="https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-13.html">Jan 13</a> (<a href="https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-13.html">TEI-XML</a>)</td>
-      <td><a href="https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-14.html">Jan 14</a> (<a href="https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-14.html">TEI-XML</a>)</td>
-    </tr>
-    <tr>
-      <td>17</td>
-      <td><a href="">Apr 24</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">Apr 25</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">Apr 26</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">Apr 27</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">Apr 28</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">Apr 29</a> (<a href="">TEI-XML</a>)</td>
-    </tr>
-    <tr>
-      <td>20</td>
-      <td><a href="">May 15</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">May 16</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">May 17</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">May 18</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">May 19</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">May 20</a> (<a href="">TEI-XML</a>)</td>
-    </tr>
-    <tr>
-      <td>21</td>
-      <td><a href="">May 22</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">May 23</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">May 24</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">May 25</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">May 26</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">May 27</a> (<a href="">TEI-XML</a>)</td>
-    </tr>
-    <tr>
-      <td>22</td>
-      <td><a href="">May 29</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">May 30</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">May 31</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">Jun 1</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">Jun 2</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">Jun 3</a> (<a href="">TEI-XML</a>)</td>
-    </tr>
-    <tr>
-      <td>27</td>
-      <td><a href="">Jul 3</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">Jul 4</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">Jul 5</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">Jul 6</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">Jul 7</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">Jul 8</a> (<a href="">TEI-XML</a>)</td>
-    </tr>
-    <tr>
-      <td>28</td>
-      <td><a href="https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-07-10.html">Jul 10</a> (<a href="https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-07-10.xml">TEI-XML</a>)</td>
-      <td><a href="https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-07-11.html">Jul 11</a> (<a href="https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-07-11.xml">TEI-XML</a>)</td>
-      <td><a href="https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-07-12.html">Jul 12</a> (<a href="https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-07-12.xml">TEI-XML</a>)</td>
-      <td><a href="https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-07-13.html">Jul 13</a> (<a href="https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-07-13.xml">TEI-XML</a>)</td>
-      <td><a href="https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-07-14.html">Jul 14</a> (<a href="https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-07-14.xml">TEI-XML</a>)</td>
-      <td><a href="https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-07-15.html">Jul 15</a> (<a href="https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-07-15.xml">TEI-XML</a>)</td>
-    </tr>
-    <tr>
-      <td>38</td>
-      <td><a href="">Sep 18</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">Sep 19</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">Sep 20</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">Sep 21</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">Sep 22</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">Sep 23</a> (<a href="">TEI-XML</a>)</td>
-    </tr>
-    <tr>
-      <td>39</td>
-      <td><a href="">Sep 25</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">Sep 26</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">Sep 27</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">Sep 28</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">Sep 29</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">Sep 30</a> (<a href="">TEI-XML</a>)</td>
-    </tr>
-    <tr>
-      <td>43</td>
-      <td><a href="">Oct 23</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">Oct 24</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">Oct 25</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">Oct 26</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">Oct 27</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">Oct 28</a> (<a href="">TEI-XML</a>)</td>
-    </tr>
-    <tr>
-      <td>46</td>
-      <td><a href="">Nov 13</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">Nov 14</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">Nov 15</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">Nov 16</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">Nov 17</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">Nov 18</a> (<a href="">TEI-XML</a>)</td>
-    </tr>
-    <tr>
-      <td>48</td>
-      <td><a href="">Nov 27</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">Nov 28</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">Nov 29</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">Nov 30</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">Dec 1</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">Dec 2</a> (<a href="">TEI-XML</a>)</td>
-    </tr>
-    <tr>
-      <td>50</td>
-      <td><a href="">Dec 11</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">Dec 12</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">Dec 13</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">Dec 14</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">Dec 15</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">Dec 16</a> (<a href="">TEI-XML</a>)</td>
-    </tr>
-    <tr>
-      <td>52</td>
-      <td><a href="">Dec 25</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">Dec 26</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">Dec 27</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">Dec 28</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">Dec 29</a> (<a href="">TEI-XML</a>)</td>
-      <td><a href="">Dec 30</a> (<a href="">TEI-XML</a>)</td>
-    </tr>
-  </tbody>
-</table>
+<p>While querying through the Egyptian Gazette, I gathered a lot of information regarding the whole stray dog situation in Alexandria. In January of 1905 there was an article that explained the city had been trying to control the overpopulation of stray dogs by euthanizing them (with poison) when they were caught. The article said that the amount of strays was never really under control because no matter how many dogs were destroyed, more continued to come from Ghizeh and Galioubieh. A couple weeks after this was written in the paper, another article regarding the treatment of dogs was published. The second article stated that the city was trying to implement a new regulatory process in which the people of Alexandria had to get their dogs registered. This was later followed up in May when the paper briefly outlined the general idea behind the dog registration. The article announced that all registered dogs will be required to wear a collar with a “metallic plaque” that would be engraved with the dogs’ registration number. Any animals found without the collar were to be collected and held for five days. The contained dogs that were not claimed after the five days were sentenced to be destroyed. In July the government of Alexandria proposed that they were going to start reducing the number of stray dogs (through increased deaths by poison) and provide more funding toward institutions in Cairo that can cure rabies. I did some more research about this online and I found that there was a large increase in the amount of rabies cases starting in 1905. Around mid-November there was mention of even more regulations that were to be implemented starting in December.  The next article I analyzed was published about a week after the previous one mentioned and it stated that fifty dog kennels were going to be built by the Prevention of Cruelty to Animals in Boulac and all captured stray dogs are to be given to the institution rather than going to the police station to be euthanized.</p>
+
+<p>I also composed a list of the top ten districts most mentioned in the Gazette for having stray dogs being captured (not in any particular order).
++Boulac
++Shoubra
++Sayeda Zenab
++Khalifa
++Old Cairo
++Abbassieh
++Waily
++Matarieh
++Gamalieh
++Darb-el-Abmar</p>
+
+<p>I found this topic interesting because you could briefly follow the process in which the city handled a minor social issue. Their overpopulation of strays was not only a nuisance for the people but was also a health risk because of the possibility of contracting rabies. They began making regulation that improved their problems and you can watch how these ideas expanded over the course of the year. It was also interesting that after a whole year of destroying the dogs and making harsher protocols in the treatment of the dogs that an animal rights group decided to step in. When first looking over my week in the paper, I did not understand the point of the “Stray and Ownerless” section, it seemed like irrelevant information to mention, why would people be concerned that stray dogs were found? But upon analyzing all the issues, it begins to make sense. Not only could people use this section to be notified that their dog was potentially captured and they then have five days to retrieve it, but it also keeps people updated on the status of the general amount of strays. The city’s citizens, even the non-pet owners, may want to have a general idea of where there is a higher population of stray dogs because of the problems the city had with rabies and their difficulty to cure it.</p>
 
 			</div>
 
@@ -726,11 +591,6 @@
 <script src="/assets/js/javascript.min.js"></script>
 
 
-
-<script>
-    $("#masthead").backstretch("https://dig-eg-gaz.github.io/images/front-page.jpg", {fade: 700});
-    $("#masthead-with-text").backstretch("https://dig-eg-gaz.github.io/images/front-page.jpg", {fade: 700});
-</script>
 
 
 
