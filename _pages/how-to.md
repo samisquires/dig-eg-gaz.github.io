@@ -26,7 +26,6 @@ header:
 
 ## Technical notes
 
-1. [XML to HTML conversion for Egyptian Gazette]
 2. [TEI customizations for Egyptian Gazette]
 
 ## Further instructions (to come in future semesters)
@@ -34,3 +33,18 @@ header:
 1. [How to map places mentioned in the Egyptian Gazette]
 2. [How to identify people mentioned in the Egyptian Gazette]
 3. [How to identify organizations and institutions mentioned in the Egyptian Gazette]
+
+## Programs
+
+1. Oxygen
+2. Atom text editor
+3. Photo stitch
+4. Palladio
+5. GitHub (and GitHub Desktop)
+6. FineReader or Cisdem (OCR)
+
+## Languages and syntaxes
+
+1. XML
+2. markdown
+3. XPath

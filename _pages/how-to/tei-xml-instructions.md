@@ -45,3 +45,7 @@ There are more tags that you can add:
 - **`<dateline>`** for datelines. There can only be one dateline per division. In the international news section, this means that you must make a new `<div type="item">` for each newswire report.
 - **`<byline>`** for authors. There can only be one byline per division.
 - **`<gap/>`** for holes in the text, **`<unclear>`** for illegible text (you can supply an attribute explaining why), and **`<supplied>`** for something that was illegible but which you figured out by finding the same thing in a different issue.
+- pieces of articles that are continuous texts broken up by ads or between issues should be connected using xml:id and the next and prev elements, thus: if the articles are in the same issue, make their tags `<div type="item" xml:id="item1" next="item2">` and `<div type="item" xml:id="item2" prev="item1">`. If the articles are in different issues, make their tags `<div type="item" xml:id="item1" next="YYYY-MM-DD.xml#item2">` and `<div type="item" xml:id="item2" prev="YYYY-MM-DD.xml#item1">`. 
+
+## Resources
+- “[A Gentle Introduction to XML](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SG.html),” TEI Consortium.
