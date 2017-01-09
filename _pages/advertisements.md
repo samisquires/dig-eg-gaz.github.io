@@ -241,6 +241,10 @@ xml text: [epi01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [epm01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/epm01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/epm01-English-Penmakers.png?raw=true)
 
+### esr01 Egyptian State Railways
+xml text: [esr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/esr01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/esr01-egyptian-state-railways.png?raw=true)
+
 ### etc01 The Eastern Telegraph Company, Limited
 xml text: [etc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/etc01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/etc01-Eastern-Telegraph.png?raw=true)
