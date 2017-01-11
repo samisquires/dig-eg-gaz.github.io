@@ -8,7 +8,7 @@ header:
 Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Notes
 3|January 16, 1905|January 21, 1905|Andres Acosta
 8|February 20, 1905|February 25, 1905|Taj Ali
-9|February 27, 1905|March 4, 1905Jacob Baenen
+9|February 27, 1905|March 4, 1905|Jacob Baenen
 10|March 6, 1905|March 11, 1905|Elizabeth Barrett
 11|March 13, 1905|March 18, 1905|Madison Bolton
 12|March 20, 1905|March 25, 1905|Jackson Boucher
