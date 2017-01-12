@@ -16,3 +16,8 @@ Your computer already contains a plain text editor that should work fine initial
 
 1. **.txt** is the simplest way to format plain text.
 2. **.md** (Markdown) allows simple formatting.
+
+## What other features of Atom should I know about?
+
+- *Markdown Preview* - under the "Packages" menu, you can open a window that shows how your Markdown text will look when formatted.
+- *Soft Wrap* - under the "View" menu, you can toggle soft wrap, which will allow you to see long lines of text on your screen.

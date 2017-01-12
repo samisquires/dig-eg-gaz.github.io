@@ -8,12 +8,12 @@ header:
 
 ## Digital Egyptian Gazette project instructions
 
-1. [How to use a plain text editor](text-editor-instructions)
-2. [How to use GitHub](github-instructions)
 3. [How to scan microfilm](microfilm-instructions)
-4. [How to OCR text](OCR-instructions)
 5. [How to perform structural markup in TEI-XML](tei-xml-instructions)
 6. [How to use boilerplates](templating-instructions)
+2. [How to use GitHub](github-instructions)
+4. [How to OCR text](OCR-instructions)
+1. [How to use a plain text editor](text-editor-instructions)
 7. [How to perform content markup](tagging-people-and-places-instructions)
 8. [How to query the full contents](query-instructions)
 9. [How to use regular expressions](regular-expressions-instructions)
@@ -26,7 +26,7 @@ header:
 
 ## Technical notes
 
-2. [TEI customizations for Egyptian Gazette]
+1. [TEI customizations for Egyptian Gazette]
 
 ## Further instructions (to come in future semesters)
 
@@ -42,9 +42,12 @@ header:
 4. Palladio
 5. GitHub (and GitHub Desktop)
 6. FineReader or Cisdem (OCR)
+7. Slack
 
 ## Languages and syntaxes
 
 1. XML
+2. TEI
 2. markdown
 3. XPath
+5. Regex (regular expressions)
