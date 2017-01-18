@@ -19,7 +19,7 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 37|September 11, 1905|September 16, 1905|[Diana Fajardo]()||||
 49|December 4, 1905|December 9, 1905|[Katherine Ferguson]()||||
 51|December 18, 1905|December 23, 1905|[Kevin Fitzpatrick]()||||
-1|January 1, 1906|January 6, 1906|[Madison Flick]()||||
+1|January 1, 1906|January 6, 1906|[Madison Flick](https://github.com/mlf15c)||||
 2|January 8, 1906|January 13, 1906|[Antonino Fricano]()||||
 3|January 15, 1906|January 20, 1906|[Cameron Greco]()||||
 4|January 22, 1906|January 27, 1906|[Sadie Gruber](https://github.com/TheHatMage)||||
@@ -41,7 +41,7 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 20|May 14, 1906|May 19, 1906|[Joseph Ng](https://github.com/Josephng123)||||
 21|May 21, 1906|May 26, 1906|[Sabrina Nunez]()||||
 22|May 28, 1906|June 2, 1906|[Anthony Nunno]()||||
-23|June 4, 1906|June 9, 1906|[William Ortiz]()||||
+23|June 4, 1906|June 9, 1906|[William Ortiz](https://github.com/williamseortiz)||||
 24|June 11, 1906|June 16, 1906|[Isaac Parfait]()||||
 25|June 18, 1906|June 23, 1906|[Katherine Parish](https://github.com/KParish22)||||
 26|June 25, 1906|June 30, 1906|[William Pearce]()||||
@@ -53,7 +53,7 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 32|August 6, 1906|August 11, 1906|[Shelby Shoup]()||||
 33|August 13, 1906|August 18, 1906|[Quin Smith]()||||
 34|August 20, 1906|August 25, 1906|[Joshua Story]()||||
-35|August 27, 1906|September 1, 1906|[Kenneth Ukah]()||||
+35|August 27, 1906|September 1, 1906|[Kenneth Ukah](https://github.com/knu14)||||
 36|September 3, 1906|September 8, 1906|[Caroline Vaverek]()||||
 37|September 10, 1906|September 15, 1906|[Erin Webster]()||||
 38|September 17, 1906|September 22, 1906|[Jessica Willette]()||||
