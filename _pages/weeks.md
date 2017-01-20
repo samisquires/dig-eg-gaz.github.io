@@ -19,7 +19,7 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 37|September 11, 1905|September 16, 1905|[Diana Fajardo](https://github.com/Dianafaj01)||||
 49|December 4, 1905|December 9, 1905|[Katherine Ferguson](https://github.com/kf15b)||||
 51|December 18, 1905|December 23, 1905|[Kevin Fitzpatrick]()||||
-1|January 1, 1906|January 6, 1906|[Madison Flick](https://github.com/mlf15c)||||
+1|January 2, 1906|January 6, 1906|[Madison Flick](https://github.com/mlf15c)||||No issue published January 1
 2|January 8, 1906|January 13, 1906|[Antonino Fricano](https://github.com/ninofricano)||||
 3|January 15, 1906|January 20, 1906|[Cameron Greco]()||||
 4|January 22, 1906|January 27, 1906|[Sadie Gruber](https://github.com/TheHatMage)||||
@@ -33,7 +33,7 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 12|March 19, 1906|March 24, 1906|[Hanna Lashhab](https://github.com/hannalashhab)||||
 13|March 26, 1906|March 31, 1906|[Grant Leisy](https://github.com/Grantleisy)||||
 14|April 2, 1906|April 7, 1906|[Taylor Cwikla](https://github.com/cwiklata)||||
-15|April 9, 1906|April 14, 1906|[Adrian Martinez]()||||
+15|April 9, 1906|April 14, 1906|[Adrian Martinez](https://github.com/adrianmar01)||||
 16|April 16, 1906|April 21, 1906|[Mia Meixner](https://github.com/Miameixner)||||1906-04-06 issue lacking
 17|April 23, 1906|April 28, 1906|[Marsella Migdalski](https://github.com/MarsellaM)||||
 18|April 30, 1906|May 5, 1906|[Jonathan Morales](https://github.com/Jonmorazav)||||
@@ -57,7 +57,7 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 36|September 3, 1906|September 8, 1906|[Caroline Vaverek](https://github.com/Carovav)||||
 37|September 10, 1906|September 15, 1906|[Erin Webster]()||||
 38|September 17, 1906|September 22, 1906|||||
-39|September 24, 1906|September 29, 1906|[Aliza Anderson]](https://github.com/alizacarolyn)||||
+39|September 24, 1906|September 29, 1906|[Aliza Anderson](https://github.com/alizacarolyn)||||
 40|October 1, 1906|October 6, 1906|[Will Hanley](https://github.com/whanley)
 
 ## Partial weeks
