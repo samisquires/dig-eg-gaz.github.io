@@ -9,13 +9,15 @@ image:
 
 We will manage our digitization of the Egyptian Gazette using GitHub. Each of us will create an individual account where we'll store and refine our work until it's ready to upload to the [dig-eg-gaz organization repositories](https://github.com/dig-eg-gaz).
 
-You can approach GitHub three ways: using a web browser to access [github.com](https://github.com/), using the [GitHub Desktop](https://desktop.github.com/) client , or using [the command line](http://programminghistorian.org/lessons/intro-to-bash). At first, it's easiest to start with the first of these.
+You can approach GitHub three ways: using a web browser to access [github.com](https://github.com/), using the [GitHub Desktop](https://desktop.github.com/) client , or using [the command line](http://programminghistorian.org/lessons/intro-to-bash). We'll be using the Desktop client mostly, but in a pinch you can use the web browser.
 
-1. Create an account.
-2. Create a dig-eg-gaz repository
-3. Once you've signed up for your week list that week in the README file.
-4. In this repository, you'll create a folder for the image files as you digitize the microfilm, and another folder for the text files you created using OCR. Eventually, you'll add folders for your blog posts and other research work.
-5. Tell me your username so that I can add you to the dig-eg-gaz organization.
+## How to
+1. Create an account, and email me your username so that I can add you to the dig-eg-gaz organization..
+2. Navigate to the organization [content repository](https://github.com/dig-eg-gaz/content), and fork the repository, using the button at the top left.
+3. Clone this repository in your Desktop.
+4. In Desktop, right click the "content" repository, and choose "View in Finder." This will show where the content files you've just cloned are stored on your hard drive. Add your xml files here.
+5. Commit to Master, then sync.
+6. Send a pull request.
 
 ### Github tutorials
 

@@ -7,7 +7,7 @@ header:
 ---
 Page images are [here](https://github.com/dig-eg-gaz/page-images), listed by date and page number.
 
-The pages below represent TEI documents transformed to HTML using a XSL and CSS customizations by [Sarah Stanley](https://github.com/scstanley7). Many links are not yet active. For reference, see week 28 (July 10-15).
+The pages below represent TEI documents transformed to HTML using a XSL and CSS customizations by [Sarah Stanley](https://github.com/scstanley7).
 
 # 1905
 

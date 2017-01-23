@@ -28,7 +28,7 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 7|February 12, 1906|February 17, 1906|[Michael Hensley]()||||
 8|February 19, 1906|February 24, 1906|[Alexia Horton](https://github.com/Ahorton12)||||
 9|February 26, 1906|March 3, 1906|[Jasmine Johnson]()||||
-10|March 5, 1906|March 10, 1906|[Kyle Kampsen]()||||
+10|March 5, 1906|March 10, 1906|[Kyle Kampsen](https://github.com/Kampsenkyle23)||||
 11|March 12, 1906|March 17, 1906|[Rosalyn Baxter]()||||
 12|March 19, 1906|March 24, 1906|[Hanna Lashhab](https://github.com/hannalashhab)||||
 13|March 26, 1906|March 31, 1906|[Grant Leisy](https://github.com/Grantleisy)||||
@@ -40,7 +40,7 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 19|May 7, 1906|May 12, 1906|[Anthony Muniz](https://github.com/Amuniz97)||||
 20|May 14, 1906|May 19, 1906|[Joseph Ng](https://github.com/Josephng123)||||
 21|May 21, 1906|May 26, 1906|[Sabrina Nuñez](https://github.com/sabrinanunez)||||
-22|May 28, 1906|June 2, 1906|[Jordan Frazier]()||||
+22|May 28, 1906|June 2, 1906|[Jordan Frazier](https://github.com/jordanfrazier97)||||
 23|June 4, 1906|June 9, 1906|[William Ortiz](https://github.com/williamseortiz)||||
 24|June 11, 1906|June 16, 1906|[Isaac Parfait]()||||
 25|June 18, 1906|June 23, 1906|[Katherine Parish](https://github.com/KParish22)||||
@@ -55,7 +55,7 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 34|August 20, 1906|August 25, 1906|[Joshua Story]()||||
 35|August 27, 1906|September 1, 1906|[Kenneth Ukah](https://github.com/knu14)||||
 36|September 3, 1906|September 8, 1906|[Caroline Vaverek](https://github.com/Carovav)||||
-37|September 10, 1906|September 15, 1906|[Erin Webster]()||||
+37|September 10, 1906|September 15, 1906|[Erin Webster](https://github.com/ew14e)||||
 38|September 17, 1906|September 22, 1906|||||
 39|September 24, 1906|September 29, 1906|[Aliza Anderson](https://github.com/alizacarolyn)||||
 40|October 1, 1906|October 6, 1906|[Will Hanley](https://github.com/whanley)
