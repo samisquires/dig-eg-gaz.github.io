@@ -15,9 +15,9 @@ You can approach GitHub three ways: using a web browser to access [github.com](h
 1. Create an account, and email me your username so that I can add you to the dig-eg-gaz organization..
 2. Navigate to the organization [content repository](https://github.com/dig-eg-gaz/content), and fork the repository, using the button at the top left.
 3. Clone this repository in your Desktop.
-4. In Desktop, right click the "content" repository, and choose "View in Finder." This will show where the content files you've just cloned are stored on your hard drive. Add your xml files here.
-5. Commit to Master, then sync.
-6. Send a pull request.
+4. In Desktop, right click the "content" repository, and choose "View in Finder." This will show where the content files you've just cloned are stored on your hard drive. Move your xml files here, and continue to edit them in this location. Desktop will help you to send these edits to Github.
+5. When you're ready to save your changes to github, write a summary of your changes (e.g., "creating page 1"), hit "Commit to Master", then hit "Sync".
+6. Send a pull request, following instructions under step 6 of the [TEI-XML instructions](https://dig-eg-gaz.github.io/how-to/tei-xml-instructions/)).
 
 ### Github tutorials
 
