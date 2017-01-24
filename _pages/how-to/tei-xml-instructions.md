@@ -52,4 +52,5 @@ There are more tags that you can add:
 - the **`<figure>`** element will be useful for the *Egyptian Gazette*, but I have not yet worked out how to use it.
 
 ## Resources
+- [TEI Guidelines](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html) - listing all of the elements under use and giving rules for their usage.
 - “[A Gentle Introduction to XML](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SG.html),” TEI Consortium.
