@@ -7,7 +7,7 @@ header:
 ---
 Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Notes
 3|January 16, 1905|January 21, 1905|[Andres Acosta](https://github.com/aaa15g)||||
-8|February 20, 1905|February 25, 1905|[Taj Ali](https://github.com/)||||
+8|February 20, 1905|February 25, 1905|[Taj Ali](https://github.com/tajali016 )||||
 9|February 27, 1905|March 4, 1905|[Jacob Baenen](https://github.com/JBaenen)||||
 10|March 6, 1905|March 11, 1905|[Elizabeth Barrett](https://github.com/Ekb15fsu)||||
 11|March 13, 1905|March 18, 1905|[Madison Bolton](https://github.com/madibolton)||||
@@ -29,7 +29,7 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 8|February 19, 1906|February 24, 1906|[Alexia Horton](https://github.com/Ahorton12)||||
 9|February 26, 1906|March 3, 1906|[Jasmine Johnson](https://github.com/jkj16)||||
 10|March 5, 1906|March 10, 1906|[Kyle Kampsen](https://github.com/Kampsenkyle23)||||
-11|March 12, 1906|March 17, 1906|[Rosalyn Baxter](https://github.com/)||||
+11|March 12, 1906|March 17, 1906|[Rosalyn Baxter](https://github.com/rosie-baxter)||||
 12|March 19, 1906|March 24, 1906|[Hanna Lashhab](https://github.com/hannalashhab)||||
 13|March 26, 1906|March 31, 1906|[Grant Leisy](https://github.com/Grantleisy)||||
 14|April 2, 1906|April 7, 1906|[Taylor Cwikla](https://github.com/cwiklata)||||
