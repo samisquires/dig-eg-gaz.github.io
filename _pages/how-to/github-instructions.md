@@ -19,8 +19,22 @@ You can approach GitHub three ways: using a web browser to access [github.com](h
 5. When you're ready to save your changes to github, write a summary of your changes (e.g., "creating page 1"), hit "Commit to Master", then hit "Sync".
 6. Send a pull request, following instructions under step 6 of the [TEI-XML instructions](https://dig-eg-gaz.github.io/how-to/tei-xml-instructions/)).
 
-### Github tutorials
+## How do I make sure that my content fork is up to date?
+It's very important to make sure that you are working on an up-to-date version of the content files. When you look at your fork of the `dig-eg-gaz/content` repository, you will see a line comparing your repository to the organization repository:
+![not up to date](https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/250-commits-behind.png?raw=true)
+If you are ahead, click the "new pull request" button above the status report and ask the organization to merge your changes.
 
+If you are behind:
+
+1. click "pull request" on the same line and to the right of the status of the report.
+2. You may then be taken to a screen saying "There isn't anything to compare." Click on the "switching the base" link just below.
+3. You will then be taken to a screen that allows you to create a pull request. Do so.
+4. This pull request will now appear on the "pull requests" tab of your fork of the content folder.
+![pull requests](https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/pull-requests-tab.png?raw=true)
+Click on the tab, and on the pull request, and then merge the pull request.
+5. Your fork should now be up to date--the status line will confirm this.
+
+### Github tutorials
 - [Github flow](https://guides.github.com/introduction/flow/): describes branch, commit, pull, etc. 5 minute read.
 - [Hello world](https://guides.github.com/activities/hello-world/): step-by-step explanation of key functions via web interface. 10 minute read.
 - [Understanding Github](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/): very clear introductory discussion, focusing on command line interface.
