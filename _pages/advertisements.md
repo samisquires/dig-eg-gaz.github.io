@@ -206,7 +206,7 @@ xml text: [doa01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### doa02 Deutsche Ost-Afrika Linie
 xml text: [doa02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/doa02.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/doa02-deutsche ost-afrika-linie.png?raw=true)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/doa02-deutsche-ost-afrika-linie.png?raw=true)
 
 ### edl01 Egyptian Delta Light Railways Co., Limited
 xml text: [edl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/edl01.xml)
