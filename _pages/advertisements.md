@@ -611,7 +611,7 @@ xml text: [wlb01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/wlb01-Wrexham-Lager-Beer.png?raw=true)
 
 ### wsl01 White Star Line
-xml text: [wsl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/wsl01.xml)
+xml text: [wsl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/wsl01.xml) produced by Madison Flick.
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/wsl01-white-star-line.png?raw=true)
 
 ### yos01 Yost Typewriter
