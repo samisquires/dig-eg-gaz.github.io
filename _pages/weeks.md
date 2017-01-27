@@ -23,7 +23,7 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 2|January 8, 1906|January 13, 1906|[Antonino Fricano](https://github.com/ninofricano)||||
 3|January 15, 1906|January 20, 1906|[Cameron Greco](https://github.com/cgreco1)||||
 4|January 22, 1906|January 27, 1906|[Sadie Gruber](https://github.com/TheHatMage)||||
-5|January 29, 1906|February 3, 1906|[Paola Hammermaster](https://github.com/)||||
+5|January 29, 1906|February 3, 1906|[Paola Hammermaster](https://github.com/livhammer)||||
 6|February 5, 1906|February 10, 1906|[Jeffrey Hayden](https://github.com/Jeffhayden11)||||
 7|February 12, 1906|February 17, 1906|[Michael Hensley](https://github.com/mch15d)||||
 8|February 19, 1906|February 24, 1906|[Alexia Horton](https://github.com/Ahorton12)||||

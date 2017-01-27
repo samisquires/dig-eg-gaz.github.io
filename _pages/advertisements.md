@@ -610,6 +610,10 @@ xml text: [whr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [wlb01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/wlb01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/wlb01-Wrexham-Lager-Beer.png?raw=true)
 
+### wsl01 White Star Line
+xml text: [wsl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/wsl01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/wsl01-white-star-line.png?raw=true)
+
 ### yos01 Yost Typewriter
 xml text: [yos01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/yos01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/yos01-yost.png?raw=true)

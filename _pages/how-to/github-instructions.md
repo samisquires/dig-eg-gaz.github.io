@@ -9,6 +9,10 @@ image:
 
 We will manage our digitization of the Egyptian Gazette using GitHub. Each of us will create an individual account where we'll store and refine our work until it's ready to upload to the [dig-eg-gaz organization repositories](https://github.com/dig-eg-gaz).
 
+## What is GitHub?
+GitHub is a tool to manage versioning.
+
+## How to access GitHub?
 You can approach GitHub three ways: using a web browser to access [github.com](https://github.com/), using the [GitHub Desktop](https://desktop.github.com/) client , or using [the command line](http://programminghistorian.org/lessons/intro-to-bash). We'll be using the Desktop client mostly, but in a pinch you can use the web browser.
 
 ## How to
