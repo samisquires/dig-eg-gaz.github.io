@@ -21,17 +21,17 @@ header:
 ## If you are using Mac:
 This is one of the rare instances when you may be better off using Windows. If you can get ahold of a Windows machine and use Finereader following the instructions above, that's it may be easiest. (The Mac version of Finereader lacks a verification tool, and will only allow you to download three pages.)
 
-That said, I've had good preliminary results with [Cisdem PDFConverterOCR](https://www.cisdem.com/pdf-converter-ocr-mac.html). I'm not sure how long their free trial lasts, but it's worth a try, and can also be purchased for $60. Follow the directions below.
+That said, I've had good preliminary results with [Cisdem OCR Wizard](https://www.cisdem.com/ocr-wizard-mac.html). I'm not sure how long their free trial lasts, but it's worth a try, and can also be purchased for $60. Follow the directions below.
 
-(There are other options, too, but none seems to work as well as Cisdem: you could try the 10-day, 100-page trial of [Readiris Pro](http://www.irislink.com/EN-US/c1195/10-Day-FREE-Trial---Experience-Readiris-Pro-15--OCR-Software-.aspx?utm_source=IRISLINK&utm_medium=Popup&utm_campaign=Popup-trial). [PDF OCR X Community Edition](http://solutions.weblite.ca/pdfocrx/download_mac) also didn't do a great job, but it's free.
+(There are other options, too, but none seems to work as well as Cisdem: you could try the 10-day, 100-page trial of [Readiris Pro](http://www.irislink.com/EN-US/c1195/10-Day-FREE-Trial---Experience-Readiris-Pro-15--OCR-Software-.aspx?utm_source=IRISLINK&utm_medium=Popup&utm_campaign=Popup-trial). [PDF OCR X Community Edition](http://solutions.weblite.ca/pdfocrx/download_mac) also didn't do a great job, but it's free).
 
-Instructions for Cisdem:
+###Instructions for Cisdem:
 
-1.  Open the program, then open the image file of the 3rd page of the issue you scanned (pages 1 and 2 have lots of ads in them, and are a more complicated place to start). When you open the document, Cisdem will automatically analyze it. Let it do its work.
+1.  Open the program, then open the image file of the page you scanned (likely page 2 or 3). When you open the document, Cisdem might automatically analyze it, or it might require you to press "recognize". Let it do its work.
 3. Cisdem seems to recognize newspaper columns quite well, and you can probably simply proceed to OCR once the recognition is finished and correct by hand later. But if you notice egregious errors, reshape the green boxes.
-5. Select "Save as text" as the output format, and click convert. Wait. When you are offered the option to save the document, name it following the standard format of YYYY-MM-DD-p#.
+5. Select .text or .docx as the output format, and click export. Wait. When you are offered the option to save the document, name it following the standard format of YYYY-MM-DD-p#.
 6. Once you have saved the text file, open it and proceed to correct the text. It may be most convenient to have the image file on one half of the screen and your text editor on the other. When verifying the text, remember that you are only correcting the automatic reading. *Do not* correct any errors you might find in the newspaper itself--not even minor spelling errors. We want to preserve the newspaper in its original text, warts and all.
-8. Once you've finished work on the page, upload it to your personal GitHub repository.
+8. Once you've finished work on the page, save it--soon we'll upload it to your xml issue file.
 
 
 ## FAQs
