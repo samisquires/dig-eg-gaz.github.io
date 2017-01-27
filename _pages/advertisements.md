@@ -206,8 +206,7 @@ xml text: [doa01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### doa02 Deutsche Ost-Afrika Linie
 xml text: [doa02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/doa02.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/doa02-Deutsche Ost-Afrika-Linie.png?raw=true)
-
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/doa02-deutsche ost-afrika-linie.png?raw=true)
 
 ### edl01 Egyptian Delta Light Railways Co., Limited
 xml text: [edl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/edl01.xml)
@@ -459,7 +458,7 @@ xml text: [opl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### orm01 Orient-Royal Mail
 xml text: Outwards/homewards ship names and sailing dates change. Variant of opl01. [orm01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/orm01.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/orm01-oreint-royal-mail.png?raw=true)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/orm01-orient-royal-mail.png?raw=true)
 
 ### pap01 The Papyanni Line
 xml text: [pap01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pap01.xml). Dates, ships and destinations vary in third paragraph.
