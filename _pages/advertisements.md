@@ -104,6 +104,10 @@ xml text: [bcp01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [bcp02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bcp02.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bcp02-Becks-and-Co.png?raw=true)
 
+### bct01 British Commercial Travellers
+xml text: [bct01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bct01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bct01-british-commercial-travellers.png?raw=true)
+
 ### bis01 British India S. N. Company, Limited
 xml text: [bis01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bis01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bis01-British-India-SN-Company-Limited.png?raw=true)
@@ -187,6 +191,10 @@ xml text: [dbc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### dcl01 DCL Scotch Whisky
 xml text: [dcl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/dcl01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/dcl01-DCL-Scotch-Whisky.png?raw=true)
+
+### ddg01 Direction der Disconto-Gesellschaft
+xml text: [ddg01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ddg01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ddg01-Direction-der-Disconto-Gesellschaft.png?raw=true)
 
 ### dlc01 Dr Le Clerc's Pills
 xml text: [dlc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/dlc01.xml)
@@ -296,6 +304,10 @@ xml text: [hbr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [hcs01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hcs01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hcs01-Hotel-Casino-San-Stefano.png?raw=true)
 
+### hct01 High-Class Tools
+xml text: [hct01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hct01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hct01-high-class-tools.png?raw=true)
+
 ### hdi01 Halls Distemper
 xml text: [hdi01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hdi01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hdi01-Halls-Distemper.png?raw=true)
@@ -307,6 +319,10 @@ xml text: [hdi02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### hdr01 H. D. Rawlings Limited
 xml text: [hdr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hdr01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hdr01-H-D-Rawlings-Limited.png?raw=true)
+
+### hob01 Howies Butter
+xml text: [hob01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hob01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hob01-howies-butter.png?raw=true)
 
 ### hsm01 Howies Sterilized Milk
 xml text: [hsm01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hsm01.xml)
@@ -360,6 +376,10 @@ xml text: [jma05](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [jma06](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/jma06.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/jma06-J-Margosches.png?raw=true)
 
+### kbs01 Kupper's Beer
+xml text: [kbs01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/kbs01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/kbs01-kuppers-beer.png?raw=true)
+
 ### kml01 Khedivial Mail Line
 xml text: [kml01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/kml01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/kml01-Khedivial-Mail-Line.png?raw=true)
@@ -379,6 +399,10 @@ xml text: [lea01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### lig01 Liniment Géneau
 xml text: [lig01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/lig01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/lig01-liniment-geneau.png?raw=true)
+
+### liv01 Livadas
+xml text: [liv01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/liv01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/liv01-livadas.png?raw=true)
 
 ### map01 Maple & Co.
 xml text: [map01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/map01.xml)
@@ -419,6 +443,10 @@ xml text: [ncs01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### nea01 Neave's Food
 xml text: [nea01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nea01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nea01-neaves.png?raw=true)
+
+### nfc01 Nile Flotilla Co
+xml text: [nfc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nfc01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nfc01-nile-flotilla-co.png?raw=true)
 
 ### nfl01 Northern Fire and Life Assurance Coy
 xml text: [nfl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nfl01.xml)
@@ -535,6 +563,10 @@ xml text: [sla01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### smc01 Steineman, Mabardi & Co
 xml text: [smc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/smc01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/smc01-steineman-mabardi.png?raw=true)
+
+### smw01 Sandy Macdonald Whisky
+xml text: [smw01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/smw01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/smw01-sandy-macdonald.png?raw=true)
 
 ### spa01 Spathis Grill Room
 xml text: [spa01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/spa01.xml)
