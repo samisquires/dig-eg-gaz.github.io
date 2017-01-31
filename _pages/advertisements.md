@@ -232,6 +232,10 @@ xml text: [ell02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [ell03](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ell03.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ell03-Ellermans.png?raw=true)
 
+### ems01 Emulsion Scott
+xml text: [ems01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ems01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ems01-emulsion-scott.png?raw=true)
+
 ### epi01 English Pension, Italian Riviera
 xml text: [epi01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/epi01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/epi01-English-Pension-Italian-Riviera.png?raw=true)
@@ -427,6 +431,10 @@ xml text: [ngi01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### nkh01 New Khedivial Hotel Alexandria
 xml text: [nkh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nkh01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nkh01-New-Khedivial-Hotel-Alexandria.png?raw=true)
+
+### nkh02 New Khedivial Hotel Cairo
+xml text: [nkh02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nkh02.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nkh02-new-khedivial-hotel-cairo.png?raw=true)
 
 ### nll01 Norddeutscher Lloyd
 xml text: [nll01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nll01.xml)

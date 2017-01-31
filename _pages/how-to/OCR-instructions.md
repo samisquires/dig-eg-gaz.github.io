@@ -25,7 +25,7 @@ That said, I've had good preliminary results with [Cisdem OCR Wizard](https://ww
 
 (There are other options, too, but none seems to work as well as Cisdem: you could try the 10-day, 100-page trial of [Readiris Pro](http://www.irislink.com/EN-US/c1195/10-Day-FREE-Trial---Experience-Readiris-Pro-15--OCR-Software-.aspx?utm_source=IRISLINK&utm_medium=Popup&utm_campaign=Popup-trial). [PDF OCR X Community Edition](http://solutions.weblite.ca/pdfocrx/download_mac) also didn't do a great job, but it's free).
 
-###Instructions for Cisdem:
+### Instructions for Cisdem:
 
 1.  Open the program, then open the image file of the page you scanned (likely page 2 or 3). When you open the document, Cisdem might automatically analyze it, or it might require you to press "recognize". Let it do its work.
 3. Cisdem seems to recognize newspaper columns quite well, and you can probably simply proceed to OCR once the recognition is finished and correct by hand later. But if you notice egregious errors, reshape the green boxes.
