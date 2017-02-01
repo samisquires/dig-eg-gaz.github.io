@@ -26,7 +26,7 @@ Paste only this portion of the text into your issue document.
 
 ![Daily Weather Report](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/daily-weather-report.png?raw=true "Daily Weather Report")
 
-This element typically appears on page 2. A template is [here](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/daily-weather-report.xml). It may be most efficient to use the author view in Oxygen to enter particulars. xml:id="deg-el-dawr01"; tables xml:id="deg-el-dawr01", xml:id="deg-el-dawr02", xml:id="deg-el-dawr03", xml:id="deg-el-dawr04"
+This element typically appears on page 2. A template is [here](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/daily-weather-report.xml). An alternate template, from October 1906, is [here](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/daily-weather-report-02.xml).  It may be most efficient to use the author view in Oxygen to enter particulars. xml:id="deg-el-dawr01", xml:id="deg-el-dawr02"; tables xml:id="deg-el-dawr01", xml:id="deg-el-dawr02", xml:id="deg-el-dawr03", xml:id="deg-el-dawr04"
 
 ### 2. Newspaper Subscriptions
 

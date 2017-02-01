@@ -84,6 +84,10 @@ xml text: [baa01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [bal01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bal01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bal01-Bank-of-Athens-Limited.png?raw=true)
 
+### bal02 Bank of Athens, Limited
+xml text: [bal02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bal02.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bal02-bank-of-athens-limited.png?raw=true)
+
 ### bam01 Bell's Asia Minor Steamship Co.
 xml text: [bam01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bam01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bam01-Bells-Asia-Minor-Steamship-Co.png?raw=true)
@@ -148,6 +152,10 @@ xml text: [cbb01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [ccc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ccc01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ccc01-The-Cleopatra-Cigarette-Co.png?raw=true)
 
+### cfe01 Credit Franco-Egyptien
+xml text: [cfe01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cfe01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cfe01-credit-franco-egyptien.png?raw=true)
+
 ### cgg01 Champagne George Goulet
 xml text: [cgg01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cgg01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cgg01-Champagne-George-Goulet.png?raw=true)
@@ -159,6 +167,14 @@ xml text: [chl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### clh01 Cigares de la Havane
 xml text: [clh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/clh01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/clh01-Cigares-de-la-Havane.png?raw=true)
+
+### cnc01 Comptoir Financier & Commercial D'Egypte
+xml text: [cnc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cnc01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ccnc01-comptoir-financier-commercial.png?raw=true)
+
+### cne01 Comptoir National D'Escompte
+xml text: [cne01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cne01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cne01-comptoir-national-descompte.png?raw=true)
 
 ### cpc01 Crown Preserved Coal
 xml text: [cpc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cpc01.xml)
@@ -196,6 +212,10 @@ xml text: [dcl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [ddg01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ddg01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ddg01-Direction-der-Disconto-Gesellschaft.png?raw=true)
 
+### deb01 Deutsche Bank
+xml text: [deb01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/deb01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/deb01-deutsche-bank.png?raw=true)
+
 ### dlc01 Dr Le Clerc's Pills
 xml text: [dlc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/dlc01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/dlc01-dr-le-clercs-pills.png?raw=true)
@@ -215,6 +235,10 @@ xml text: [doa01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### doa02 Deutsche Ost-Afrika Linie
 xml text: [doa02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/doa02.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/doa02-deutsche-ost-afrika-linie.png?raw=true)
+
+### dob01 Deutsche Orientbank
+xml text: [dob01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/dob01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/dob01-deutsche-orientbank.png?raw=true)
 
 ### edl01 Egyptian Delta Light Railways Co., Limited
 xml text: [edl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/edl01.xml)
@@ -271,6 +295,10 @@ xml text: [fre01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### gac01 Guardian Assurance Company Limited
 xml text: [gac01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/gac01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/gac01-Guardian-Assurance-Company-Limited.png?raw=true)
+
+### gac02 Guardian Assurance Company Limited
+xml text: [gac02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/gac02.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/gac02-guardian-assurance-company.png?raw=true)
 
 ### ghb01 Grand Hotel Bonnard
 xml text: [ghb01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ghb01.xml)
@@ -339,6 +367,10 @@ xml text: [inv01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### iob01 Imperial Ottoman Bank
 xml text: [iob01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/iob01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/iob01-Imperial-Ottoman-Bank.png?raw=true)
+
+### iob02 Imperial Ottoman Bank
+xml text: [iob02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/iob02.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/iob02-imperial-ottoman-bank.png?raw=true)
 
 ### isr01 International Sleeping and Restaurant Cars Company
 xml text: [isr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/isr01.xml)
@@ -436,6 +468,10 @@ xml text: [mss01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [nbe01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nbe01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nbe01-National-Bank-of-Egypt.png?raw=true)
 
+### nbe02 National Bank of Egypt
+xml text: [nbe02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nbe02.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nbe02-national-bank-of-egypt.png?raw=true)
+
 ### ncs01 Nile Cold Storage
 xml text: [ncs01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ncs01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ncs01-Nile-Cold-Storage.png?raw=true)
@@ -475,6 +511,10 @@ xml text: [nll02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### nml01 The National Mutual Life Association of Australasia, Limited
 xml text: [nml01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nml01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nml01-The-National-Mutual-Life-Association-of-Australasia-Limited.png?raw=true)
+
+### nml02 The National Mutual Life Association of Australasia, Limited
+xml text: [nml02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nml02.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nml02-national-mutual-life.png?raw=true)
 
 ### nrp01 Nouveau Remede Purgatif
 xml text (containing errors?): [nrp01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nrp01.xml)
