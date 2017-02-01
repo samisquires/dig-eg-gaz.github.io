@@ -40,7 +40,7 @@ In the latter pages of the newspaper, we also find a brief item explaining where
 ![Egyptian Gazette en vente](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/egyptian-gazette-en-vente.png?raw=true)
 
 ### 3. Calendars
-These calendars are lightly formatted. The Calendar of the Week ([xml template here](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/calendar-of-the-week.xml); xml:id="deg-el-cotw01", table xml:id="deg-ta-cotw01") seems to have been changed only once per week. The Calendar of Coming Events ([xml template here](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/calendar-of-coming events.xml); xml:id="deg-el-coce01", table xml:id="deg-ta-coce01") changed each day it appears, moving future elements downwards.
+These calendars are lightly formatted. The Calendar of the Week ([xml template here](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/calendar-of-the-week.xml); xml:id="deg-el-cotw01", table xml:id="deg-ta-cotw01") seems to have been changed only once per week. The Calendar of Coming Events ([xml template here](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/calendar-of-coming-events.xml); xml:id="deg-el-coce01", table xml:id="deg-ta-coce01") changed each day it appears, moving future elements downwards.
 
 ![Calendar of Coming Events](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/calendar-of-coming-events.png?raw=true)
 
