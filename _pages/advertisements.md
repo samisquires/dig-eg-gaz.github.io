@@ -300,6 +300,10 @@ xml text: [gac01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [gac02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/gac02.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/gac02-guardian-assurance-company.png?raw=true)
 
+### ggd01 G.G. Drossos & Co.
+xml text: [ggd01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ggd01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ggd01-g-g-drossos-co.png?raw=true)
+
 ### ghb01 Grand Hotel Bonnard
 xml text: [ghb01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ghb01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ghb01-Grand-Hotel-Bonnard.png?raw=true)
@@ -432,6 +436,10 @@ xml text: [lea01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [lig01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/lig01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/lig01-liniment-geneau.png?raw=true)
 
+### lip01 Liptons
+xml text: [lip01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/lip01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/lip01-liptons.png?raw=true)
+
 ### liv01 Livadas
 xml text: [liv01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/liv01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/liv01-livadas.png?raw=true)
@@ -524,6 +532,10 @@ xml text (containing errors?): [nrp01](https://github.com/dig-eg-gaz/advertiseme
 xml text: [nsa01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nsa01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nsa01-N-Spathis.png?raw=true)
 
+### nvh01 New Victoria Hotel
+xml text: [nvh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nvh01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nvh01-new-victoria-hotel.png?raw=true)
+
 ### okl01 Orenstein & Koppel Ltd.
 xml text: [okl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/okl01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/okl01-orenstein-koppel.png?raw=true)
@@ -580,6 +592,10 @@ xml text: [ric01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [rsn01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/rsn01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/rsn01-Russian-Steam-Navigation.png?raw=true)
 
+### say01 Sayers
+xml text: [say01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/say01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/say01-sayers.png?raw=true)
+
 ### sde01 Sudan Development & Exploration Company, Limited
 xml text (with errors): [sde01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sde01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sde01-Sudan-Development-Exploration-Company-Limited.png?raw=true)
@@ -591,6 +607,10 @@ xml text: [sfp01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### sgr01 Sudan Government Railways
 xml text: [sgr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sgr01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sgr01-Sudan-Government-Railways.png?raw=true)
+
+### sgr02 Sudan Government Railways
+xml text: [sgr02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sgr02.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sgr02-sudan-government-railways.png?raw=true)
 
 ### sio01 Sun Insurance Office
 xml text: [sio01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sio01.xml)
@@ -655,6 +675,10 @@ xml text: [thc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### the01 Therapion
 xml text: [the01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/the01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/the01-Therapion.png?raw=true)
+
+### tnh01 The National Hotel, Cairo
+xml text: [tnh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/tnh01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/tnh01-the-national-hotel.png?raw=true)
 
 ### toh01 The Olympus Hotel
 xml text: [toh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/toh01.xml)
