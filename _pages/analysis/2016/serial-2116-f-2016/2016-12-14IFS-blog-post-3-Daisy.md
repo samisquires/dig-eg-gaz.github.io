@@ -1,6 +1,6 @@
 ---
 layout: page
-subheadline: "DaisyVazquez"
+subheadline: "Daisy Vazquez"
 title: "How Did Cattle Plague Affect Populations During the Year of 1905"
 teaser: "Cows can Carry Evil"
 date: 2016-12-14 <!--- date of post submission --->
