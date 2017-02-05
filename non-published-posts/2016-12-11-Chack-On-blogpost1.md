@@ -1,8 +1,8 @@
 ---
 layout: page
 subheadline: "Joseph Chack-On"
-title: "Curiosity on The powers of The World"
-teaser: "The newspaper covers an array of subjects. But the armies, admirals and leaders general take over the page."
+title: "The powers of The World"
+teaser: "The newspaper covers an array of subjects, But the armies, admirals and leaders general take over the page."
 date: 2016-12-11 <!--- date of post submission --->
 categories:
   - curiosities

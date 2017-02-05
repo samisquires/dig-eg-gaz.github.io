@@ -2,7 +2,7 @@
 layout: page
 subheadline: "Alexander Amorello"
 title: "Higher Learning through the Newspaper"
-teaser: "Would you apply to a Secondary Institution because of advertisement in the newspaper?"
+teaser: "Would you apply to a Secondary Institution because of an advertisement in the newspaper?"
 date: 2016-12-11
 categories:
   - curiosities
@@ -20,7 +20,7 @@ image:
   caption: Week of September 18 to 23, nearly every issue
   caption_url:
 ---
-Within a every issue throughout my week I continually saw two advertisements that stood out to me, an advertisement for a school of Language and an advertisement for an "English School". Seeing education opportunities from the early 1900s is fascinating to me as it is during the century that public education became a cornerstone in developed nations.
+Within     s every issue throughout my week I continually saw two advertisements that stood out to me, an advertisement for a school of Language and an advertisement for an "English School". Seeing education opportunities from the early 1900s is fascinating to me as it is during the century that public education became a cornerstone in developed nations.
 
 First are the Berlitz Schools of Languages, typically found under the "Cheap Pre-paid advertisement" column on Page 5's. It sounded familiar to me, and after doing a brief amount of searching, this is a education company/institution that has persisted since 1878 all the way until to the present day, hailing from the state of Rhode Island. In 1905 however, students in Egypt would only be able to attend the locations present in Alexandria and Cairo, unlike now, as the Berlitz Corporation offers full courses online.
 
