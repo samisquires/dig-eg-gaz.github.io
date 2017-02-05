@@ -11,7 +11,7 @@ tags:
   - hashish
   - drugs
 header: no
-image: <!--- for image-name.png, substitute name you've given your image file --->
+image:
   title: blog-images/barbosa-hashish.png
   thumb: blog-images/barbosa-hashish.png
   homepage: blog-images/barbosa-hashish.png

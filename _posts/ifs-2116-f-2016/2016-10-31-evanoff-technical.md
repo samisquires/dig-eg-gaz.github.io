@@ -13,10 +13,10 @@ tags:
   - images
 header: no
 image:
-  title: blog-images/11-08-1905--3.jpg
-  thumb: blog-images/11-08-1905--3.jpg
-  homepage: blog-images/11-08-1905--3.jpg
-  caption: November 6,1905 - November 11,1905
+  title: blog-images/1905-11-08--3.jpg
+  thumb: blog-images/1905-11-08--3.jpg
+  homepage: blog-images/1905-11-08--3.jpg
+  caption: November 6, 1905 - November 11, 1905
   link:
 ---
 My biggest issue that I have had during this project is trying to work with

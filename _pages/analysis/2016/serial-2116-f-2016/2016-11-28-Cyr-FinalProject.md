@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 subheadline: "Erek Cyr"
 title: "Bubonic Plague in Egypt, 1905"
 teaser: "What types of Plague were in Egypt in 1905?"

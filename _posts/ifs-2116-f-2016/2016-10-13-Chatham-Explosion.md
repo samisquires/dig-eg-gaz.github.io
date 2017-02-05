@@ -1,5 +1,5 @@
 ---
-Layout: page
+layout: page
 subheadline: "Logan Wills"
 title: "Chatham Explosion"
 teaser: "World's Largest Explosion"
@@ -31,7 +31,7 @@ put to plan a series of precautions and emergency aids in case anything went wro
 explosives were to be carried to the scene of the wreckage by train, and detonated through a
 length of copper wire hooked up to a detonator.  
 
-![screenshot-name](wills-explosion-screenshot.jpg)
+![screenshot-name](https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/blog-images/wills-explosion-screenshot.jpg?raw=true)
 
 The townspeople at this time were extremely
 anxious for the explosion out of fear that some of their personal property may accidentally be

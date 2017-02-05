@@ -258,22 +258,7 @@
 
                       
 
-                      <li><a href="/how-to/text-editor-instructions">Text Editor Instructions</a></li>
-                    
-
-                      
-
-                      <li><a href="/how-to/github-instructions">GitHub Instructions</a></li>
-                    
-
-                      
-
                       <li><a href="/how-to/microfilm-instructions">Microfilm Instructions</a></li>
-                    
-
-                      
-
-                      <li><a href="/how-to/OCR-instructions">OCR Instructions</a></li>
                     
 
                       
@@ -284,6 +269,21 @@
                       
 
                       <li><a href="/how-to/templating-instructions">Templating Instructions</a></li>
+                    
+
+                      
+
+                      <li><a href="/how-to/text-editor-instructions">Text Editor Instructions</a></li>
+                    
+
+                      
+
+                      <li><a href="/how-to/github-instructions">GitHub Instructions</a></li>
+                    
+
+                      
+
+                      <li><a href="/how-to/OCR-instructions">OCR Instructions</a></li>
                     
 
                       
@@ -319,7 +319,7 @@
 
                       
 
-                      <li><a href="https://docs.google.com/document/d/1HRh9jvHUBwWkuWcWJAZOQMQqMI8PFhut0MMUiUSEsag/edit?usp=sharing" target="_blank">Syllabus</a></li>
+                      <li><a href="https://docs.google.com/document/d/142jYs2uAe8RhPSjnogT7NZm9VcYOGi6mCbOyDQnv-EI/edit?usp=sharing" target="_blank">Syllabus</a></li>
                     
 
                       
@@ -426,18 +426,40 @@
 			<div itemprop="articleSection">
 			<p>We will manage our digitization of the Egyptian Gazette using GitHub. Each of us will create an individual account where we’ll store and refine our work until it’s ready to upload to the <a href="https://github.com/dig-eg-gaz">dig-eg-gaz organization repositories</a>.</p>
 
-<p>You can approach GitHub three ways: using a web browser to access <a href="https://github.com/">github.com</a>, using the <a href="https://desktop.github.com/">GitHub Desktop</a> client , or using <a href="http://programminghistorian.org/lessons/intro-to-bash">the command line</a>. At first, it’s easiest to start with the first of these.</p>
+<h2 id="what-is-github">What is GitHub?</h2>
+<p>GitHub is a tool to manage versioning.</p>
+
+<h2 id="how-to-access-github">How to access GitHub?</h2>
+<p>You can approach GitHub three ways: using a web browser to access <a href="https://github.com/">github.com</a>, using the <a href="https://desktop.github.com/">GitHub Desktop</a> client , or using <a href="http://programminghistorian.org/lessons/intro-to-bash">the command line</a>. We’ll be using the Desktop client mostly, but in a pinch you can use the web browser.</p>
+
+<h2 id="how-to">How to</h2>
+<ol>
+  <li>Create an account, and email me your username so that I can add you to the dig-eg-gaz organization..</li>
+  <li>Navigate to the organization <a href="https://github.com/dig-eg-gaz/content">content repository</a>, and fork the repository, using the button at the top left.</li>
+  <li>Clone this repository in your Desktop.</li>
+  <li>In Desktop, right click the “content” repository, and choose “View in Finder.” This will show where the content files you’ve just cloned are stored on your hard drive. Move your xml files here, and continue to edit them in this location. Desktop will help you to send these edits to Github.</li>
+  <li>When you’re ready to save your changes to github, write a summary of your changes (e.g., “creating page 1”), hit “Commit to Master”, then hit “Sync”.</li>
+  <li>Send a pull request, following instructions under step 6 of the <a href="https://dig-eg-gaz.github.io/how-to/tei-xml-instructions/">TEI-XML instructions</a>).</li>
+</ol>
+
+<h2 id="how-do-i-make-sure-that-my-content-fork-is-up-to-date">How do I make sure that my content fork is up to date?</h2>
+<p>It’s very important to make sure that you are working on an up-to-date version of the content files. When you look at your fork of the <code class="highlighter-rouge">dig-eg-gaz/content</code> repository, you will see a line comparing your repository to the organization repository:
+<img src="https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/250-commits-behind.png?raw=true" alt="not up to date" />
+If you are ahead, click the “new pull request” button above the status report and ask the organization to merge your changes.</p>
+
+<p>If you are behind:</p>
 
 <ol>
-  <li>Create an account.</li>
-  <li>Create a dig-eg-gaz repository</li>
-  <li>Once you’ve signed up for your week list that week in the README file.</li>
-  <li>In this repository, you’ll create a folder for the image files as you digitize the microfilm, and another folder for the text files you created using OCR. Eventually, you’ll add folders for your blog posts and other research work.</li>
-  <li>Tell me your username so that I can add you to the dig-eg-gaz organization.</li>
+  <li>click “pull request” on the same line and to the right of the status of the report.</li>
+  <li>You may then be taken to a screen saying “There isn’t anything to compare.” Click on the “switching the base” link just below.</li>
+  <li>You will then be taken to a screen that allows you to create a pull request. Do so.</li>
+  <li>This pull request will now appear on the “pull requests” tab of your fork of the content folder.
+<img src="https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/pull-requests-tab.png?raw=true" alt="pull requests" />
+Click on the tab, and on the pull request, and then merge the pull request.</li>
+  <li>Your fork should now be up to date–the status line will confirm this.</li>
 </ol>
 
 <h3 id="github-tutorials">Github tutorials</h3>
-
 <ul>
   <li><a href="https://guides.github.com/introduction/flow/">Github flow</a>: describes branch, commit, pull, etc. 5 minute read.</li>
   <li><a href="https://guides.github.com/activities/hello-world/">Hello world</a>: step-by-step explanation of key functions via web interface. 10 minute read.</li>

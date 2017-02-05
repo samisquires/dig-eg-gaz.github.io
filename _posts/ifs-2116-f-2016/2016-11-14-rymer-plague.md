@@ -1,8 +1,8 @@
 ---
 layout: page
-subheadline: “Charlie Rymer“
-title: “The Plague”
-teaser: “Why is the report of a plague hidden in the middle of a newspaper? Find out why.”
+subheadline: "Charlie Rymer"
+title: "The Plague"
+teaser: "Why is the report of a plague hidden in the middle of a newspaper? Find out why."
 date: 2016-11-14
 categories:
   - curiosities

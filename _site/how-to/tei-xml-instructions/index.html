@@ -258,22 +258,7 @@
 
                       
 
-                      <li><a href="/how-to/text-editor-instructions">Text Editor Instructions</a></li>
-                    
-
-                      
-
-                      <li><a href="/how-to/github-instructions">GitHub Instructions</a></li>
-                    
-
-                      
-
                       <li><a href="/how-to/microfilm-instructions">Microfilm Instructions</a></li>
-                    
-
-                      
-
-                      <li><a href="/how-to/OCR-instructions">OCR Instructions</a></li>
                     
 
                       
@@ -284,6 +269,21 @@
                       
 
                       <li><a href="/how-to/templating-instructions">Templating Instructions</a></li>
+                    
+
+                      
+
+                      <li><a href="/how-to/text-editor-instructions">Text Editor Instructions</a></li>
+                    
+
+                      
+
+                      <li><a href="/how-to/github-instructions">GitHub Instructions</a></li>
+                    
+
+                      
+
+                      <li><a href="/how-to/OCR-instructions">OCR Instructions</a></li>
                     
 
                       
@@ -319,7 +319,7 @@
 
                       
 
-                      <li><a href="https://docs.google.com/document/d/1HRh9jvHUBwWkuWcWJAZOQMQqMI8PFhut0MMUiUSEsag/edit?usp=sharing" target="_blank">Syllabus</a></li>
+                      <li><a href="https://docs.google.com/document/d/142jYs2uAe8RhPSjnogT7NZm9VcYOGi6mCbOyDQnv-EI/edit?usp=sharing" target="_blank">Syllabus</a></li>
                     
 
                       
@@ -446,7 +446,10 @@
 
 <p>Oxygen offers many shortcuts to make this work go faster. Highlight the text you wish to wrap, then hit <code class="highlighter-rouge">command-E</code>. You will be offered a menu of tags. Choose the one you want. If you want to add more tags of the same type, hit <code class="highlighter-rouge">command-slash</code>.</p>
 
-<h2 id="fork-the-organization-content-repository-and-save-to-github">5. Fork the organization content repository and save to GitHub</h2>
+<h2 id="make-sure-that-your-document-is-well-formed">5. Make sure that your document is well-formed</h2>
+<p>At the top right hand corner of your editing window in Oxygen, there is a square that will be either red or green. If it’s green, your document is well-formed, which means that it conforms to TEI XML standards and will be searchable and useable. If it’s red, the file contains errors that you must fix before you submit it. The errors appear as red lines on the right hand scrolling column. Click on a line to see the error described at the bottom of your editing screen.</p>
+
+<h2 id="fork-the-organization-content-repository-and-save-to-github">6. Fork the organization content repository and save to GitHub</h2>
 
 <p>Once you’ve completed some of the structural tagging of your page, it’s time to save it to GitHub. We’re going to use the “fork” and “pull” functions of GitHub to do this. First, “<strong>fork</strong>” the <a href="https://github.com/dig-eg-gaz/content">dig-eg-gaz/content</a> repository by clicking on the “fork” icon on the top right. You will be offered the chance to fork the repository under your own username–do so. This will make a copy of the repository in your own GitHub account, in which you should save your .xml page files. Later, when your page files are complete, you can fold them back into the organization content repository by sending me a <strong>pull request</strong>. You do this by clicking the “new pull request” button the top left above your list of files. I will then see the pull request and either merge your files into the organization’s content or request that you change something before doing so.</p>
 
@@ -465,7 +468,15 @@
 - <strong><code class="highlighter-rouge">&lt;div type="section"&gt;</code></strong> to wrap multiple items that belong together, for instance in the international or local news sections.
 - <strong><code class="highlighter-rouge">&lt;dateline&gt;</code></strong> for datelines. There can only be one dateline per division. In the international news section, this means that you must make a new <code class="highlighter-rouge">&lt;div type="item"&gt;</code> for each newswire report.
 - <strong><code class="highlighter-rouge">&lt;byline&gt;</code></strong> for authors. There can only be one byline per division.
-- <strong><code class="highlighter-rouge">&lt;gap/&gt;</code></strong> for holes in the text, <strong><code class="highlighter-rouge">&lt;unclear&gt;</code></strong> for illegible text (you can supply an attribute explaining why), and <strong><code class="highlighter-rouge">&lt;supplied&gt;</code></strong> for something that was illegible but which you figured out by finding the same thing in a different issue.</p>
+- <strong><code class="highlighter-rouge">&lt;gap/&gt;</code></strong> for holes in the text, <strong><code class="highlighter-rouge">&lt;unclear&gt;</code></strong> for illegible text (you can supply an attribute explaining why), and <strong><code class="highlighter-rouge">&lt;supplied&gt;</code></strong> for something that was illegible but which you figured out by finding the same thing in a different issue.
+- pieces of articles that are continuous texts broken up by ads or between issues should be connected using xml:id and the next and prev elements, thus: if the articles are in the same issue, make their tags <code class="highlighter-rouge">&lt;div type="item" xml:id="item1" next="item2"&gt;</code> and <code class="highlighter-rouge">&lt;div type="item" xml:id="item2" prev="item1"&gt;</code>. If the articles are in different issues, make their tags <code class="highlighter-rouge">&lt;div type="item" xml:id="item1" next="YYYY-MM-DD.xml#item2"&gt;</code> and <code class="highlighter-rouge">&lt;div type="item" xml:id="item2" prev="YYYY-MM-DD.xml#item1"&gt;</code>.
+- the <strong><code class="highlighter-rouge">&lt;figure&gt;</code></strong> element will be useful for the <em>Egyptian Gazette</em>, but I have not yet worked out how to use it.</p>
+
+<h2 id="resources">Resources</h2>
+<ul>
+  <li><a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html">TEI Guidelines</a> - listing all of the elements under use and giving rules for their usage.</li>
+  <li>“<a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SG.html">A Gentle Introduction to XML</a>,” TEI Consortium.</li>
+</ul>
 
 			</div>
 

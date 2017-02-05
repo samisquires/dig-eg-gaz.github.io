@@ -25,7 +25,7 @@ An important lesson has been learned in preserving past information when possibl
 
 The result is simply accepting our realities and a great lesson towards preservation.
 
-## For further study:
+#### For further study:
 Best Way to Preserve Your Newspaper:
 [http://www.mnhs.org/preserve/conservation/reports/nytimes_preserving.pdf](http://www.mnhs.org/preserve/conservation/reports/nytimes_preserving.pdf)
 
