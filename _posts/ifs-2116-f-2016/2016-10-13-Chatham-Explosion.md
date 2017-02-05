@@ -14,10 +14,11 @@ tags:
   - Egypt
 header: no
 image:
-  title: blog-images/chatham-siege-operations-explosion-of-mines-under-the-medway.jpg
-  thumb: blog-images/chatham-siege-operations-explosion-of-mines-under-the-medway.jpg
-  homepage: blog-images/chatham-siege-operations-explosion-of-mines-under-the-medway.jpg
-  caption: From [allpostersimages.com](http://imgc.allpostersimages.com/images/P-473-488-90/91/9173/CERG500Z/posters/chatham-siege-operations-explosion-of-mines-under-the-medway.jpg)
+  title: blog-images/chatham-siege-operations-explosion-of-mines-under-the-medway.jpeg
+  thumb: blog-images/chatham-siege-operations-explosion-of-mines-under-the-medway.jpeg
+  homepage: blog-images/chatham-siege-operations-explosion-of-mines-under-the-medway.jpeg
+  caption: From allpostersimages.com
+  link: http://imgc.allpostersimages.com/images/P-473-488-90/91/9173/CERG500Z/posters/chatham-siege-operations-explosion-of-mines-under-the-medway.jpg
 ---
 
 This week of the **Egyptian Gazette** contained a consistent current event throughout the duration

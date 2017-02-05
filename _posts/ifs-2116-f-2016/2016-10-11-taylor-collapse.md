@@ -8,9 +8,9 @@ categories:
   - curiosities
 author: EmmaTaylor
 tags:
-  -fatalities
-  -locals
-  -ancient structures
+  - fatalities
+  - locals
+  - ancient structures
 header: no
 image:
   title: blog-images/taylor-blog-post-1-image.jpg

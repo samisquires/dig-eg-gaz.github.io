@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: "Riley Oulette"
-title: “Murder In Cairo“
+title: "Murder In Cairo"
 teaser: ""
 categories:
   - curiosities
