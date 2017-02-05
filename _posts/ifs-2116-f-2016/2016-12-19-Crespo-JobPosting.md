@@ -2,7 +2,7 @@
 layout: page
 subheadline: "Anet Crespo"
 title: "Job Posting"
-teaser: "Job posting in the Egyptian Gazzette, very picky about it's candidates."
+teaser: "Job posting in the Egyptian Gazzette, very picky about its candidates."
 date: 2016-12-19
 categories:
   - curiosity
