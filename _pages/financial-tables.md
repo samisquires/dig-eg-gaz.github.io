@@ -125,6 +125,11 @@ xml:id="deg-el-egsa01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blo
 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/subscriptions-advertisements.png?raw=true)
 
+xml:id="deg-el-egsa02" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/subscriptions-advertisements-02.xml)
+
+![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/subscriptions-advertisements-02.png?raw=true)
+
+
 ### Egyptian Markets, Limited
 xml:id="deg-el-egml01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/egyptian-markets-limited.xml) table xml:id="deg-ta-egml01"
 

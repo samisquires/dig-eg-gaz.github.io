@@ -92,6 +92,10 @@ xml text: [bal02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [bam01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bam01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bam01-Bells-Asia-Minor-Steamship-Co.png?raw=true)
 
+### boa01 Bon Accord
+xml text: [boa01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/boa01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/boa01-bon-accord.png?raw=true)
+
 ### bam02 Asia Minor Steamship Co., Ltd.
 xml text: [bam02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bam02.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bam02-asia-minor-steamship.png?raw=true)
@@ -179,6 +183,10 @@ xml text: [cne01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### cpc01 Crown Preserved Coal
 xml text: [cpc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cpc01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cpc01-crown-preserved-coal.png?raw=true)
+
+### cps01 Cairo Photographic Stores
+xml text: [cps01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cps01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cps01-cairo-photographic-stores.png?raw=true)
 
 ### crl01 Credit Lyonnais
 xml text: [crl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/crl01.xml)
@@ -284,6 +292,10 @@ xml text: [esr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [etc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/etc01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/etc01-Eastern-Telegraph.png?raw=true)
 
+### fpc01 F. Phillips & Co.
+xml text: [fpc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/fpc01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/fpc01-f-phillips-co.png?raw=true)
+
 ### fus01 Fussell’s Cream
 xml text: [fus01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/fus01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/fus01-Fussells-Cream.png?raw=true)
@@ -364,6 +376,10 @@ xml text: [hsm01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [icc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/icc01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/icc01-Ind-Coope-Co-Ltd.png?raw=true)
 
+### ici01 Icilma
+xml text: [ici01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ici01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ici01-icilma.png?raw=true)
+
 ### inv01 "Investments"
 xml text: [inv01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/inv01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/inv01-investments.png?raw=true)
@@ -420,6 +436,10 @@ xml text: [kbs01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [kml01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/kml01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/kml01-Khedivial-Mail-Line.png?raw=true)
 
+### lar01 Larola
+xml text: [lar01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/lar01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/lar01-larola.png?raw=true)
+
 ### lac01 London Assurance Corporation
 xml text: [lac01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/lac01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/lac01-London-Assurance-Corporation.png?raw=true)
@@ -436,9 +456,9 @@ xml text: [lea01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [lig01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/lig01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/lig01-liniment-geneau.png?raw=true)
 
-### lip01 Liptons
+### lip01 Lipton Limited
 xml text: [lip01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/lip01.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/lip01-liptons.png?raw=true)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/lip01-lipton-limited.png?raw=true)
 
 ### liv01 Livadas
 xml text: [liv01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/liv01.xml)
@@ -580,6 +600,10 @@ xml text: [pss01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [pwl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pwl01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pwl01-Papier-Wlinsi.png?raw=true)
 
+### rbi01 Reiser & Binder
+xml text: [rbi01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/rbi01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/rbi01-reiser-binder.png?raw=true)
+
 ### rea01 Royal Exchange Assurance
 xml text: [rea01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/rea01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/rea01-Royal-Exchange-Assurance.png?raw=true)
@@ -587,6 +611,10 @@ xml text: [rea01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### ric01 Royal Insurance Coy
 xml text: [ric01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ric01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ric01-Royal-Insurance-Coy.png?raw=true)
+
+### rob01 Robinson's Barley
+xml text: [rob01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/rob01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/rob01-robinsons-barley.png?raw=true)
 
 ### rsn01 Russian Steam Navigation
 xml text: [rsn01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/rsn01.xml)
