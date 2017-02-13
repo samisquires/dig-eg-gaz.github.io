@@ -272,6 +272,10 @@ xml text: [ell02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [ell03](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ell03.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ell03-Ellermans.png?raw=true)
 
+### emp01 English Made Petroleum Engines
+xml text: [emp01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/emp01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/emp01-english-made-petroleum-engines.png?raw=true)
+
 ### ems01 Emulsion Scott
 xml text: [ems01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ems01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ems01-emulsion-scott.png?raw=true)
@@ -332,6 +336,10 @@ xml text: [gmc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [gwy01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/gwy01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/gwy01-Gwynnes-Limited.png?raw=true)
 
+### haa01 Hamburg & Anglo-American
+xml text: [haa01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/haa01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/haa01-hamburg-anglo-american.png?raw=true)
+
 ### hbc01 Hotel Bristol Cairo
 xml text: [hbc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hbc01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hbc01-Hotel-Bristol-Cairo.png?raw=true)
@@ -379,6 +387,10 @@ xml text: [icc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### ici01 Icilma
 xml text: [ici01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ici01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ici01-icilma.png?raw=true)
+
+### imc01 Irish Manufactured Collars
+xml text: [imc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/imc01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/imc01-irish-manufactured-collars.png?raw=true)
 
 ### inv01 "Investments"
 xml text: [inv01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/inv01.xml)
@@ -487,6 +499,10 @@ xml text: [mil01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### mma01 Messageries Maritimes
 xml text: [mma01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/mma01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/mma01-Messageries-Maritimes.png?raw=true)
+
+### msp01 McLaren's Steam Ploughs
+xml text: [msp01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/msp01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/msp01-mclarens-steam-ploughs.png?raw=true)
 
 ### mss01 The Moss S. S. Company, Ltd.
 xml text: [mss01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/mss01.xml). Dates, destinations, and ship names in 5th and 6th paragraphs from end change.
@@ -620,6 +636,10 @@ xml text: [rob01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [rsn01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/rsn01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/rsn01-Russian-Steam-Navigation.png?raw=true)
 
+### san01 Sanitas
+xml text: [san01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/san01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/san01-sanitas.png?raw=true)
+
 ### say01 Sayers
 xml text: [say01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/say01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/say01-sayers.png?raw=true)
@@ -640,6 +660,10 @@ xml text: [sgr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [sgr02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sgr02.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sgr02-sudan-government-railways.png?raw=true)
 
+### sha01 Shannon System
+xml text: [sha01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sha01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sha01-shannon-system.png?raw=true)
+
 ### sio01 Sun Insurance Office
 xml text: [sio01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sio01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sio01-Sun-Insurance-Office.png?raw=true)
@@ -647,6 +671,10 @@ xml text: [sio01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### sla01 Standard Life Assurance Company
 xml text: [sla01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sla01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sla01-Standard-Life-Assurance-Company.png?raw=true)
+
+### sla02 Standard Life Assurance Company
+xml text: [sla02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sla02.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sla02-standard-life-assurance.png?raw=true)
 
 ### smc01 Steineman, Mabardi & Co
 xml text: [smc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/smc01.xml)
@@ -733,6 +761,10 @@ xml text: [whc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/whc01-White-Horse-Cellar.png?raw=true)
 
+### who01 Windsor Hotel
+xml text: [who01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/who01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/who01-windsor-hotel.png?raw=true)
+
 ### whr01 Windsor Hotel Restaurant
 xml text: [whr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/whr01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/whr01-Windsor-Hotel-Restaurant.png?raw=true)
@@ -752,6 +784,10 @@ xml text: [yos01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### yos02 Yost
 xml text: [yos02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/yos02.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/yos02-yost.png?raw=true)
+
+### yos03 Yost
+xml text: [yos03](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/yos03.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/yos03-yost.png?raw=true)
 
 ### you01 Youngs
 xml text: [you01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/you01.xml)
