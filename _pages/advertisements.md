@@ -174,7 +174,7 @@ xml text: [clh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### cnc01 Comptoir Financier & Commercial D'Egypte
 xml text: [cnc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cnc01.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ccnc01-comptoir-financier-commercial.png?raw=true)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cnc01-comptoir-financier-commercial.png?raw=true)
 
 ### cne01 Comptoir National D'Escompte
 xml text: [cne01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cne01.xml)
