@@ -404,6 +404,10 @@ xml text: [iob01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [iob02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/iob02.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/iob02-imperial-ottoman-bank.png?raw=true)
 
+### ish01 Isherwood's Cairo Cigarettes
+xml text: [ish01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ish01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ish01-isherwoods-cairo-cigarettes.png?raw=true)
+
 ### isr01 International Sleeping and Restaurant Cars Company
 xml text: [isr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/isr01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/isr01-International-Sleeping-and-Restaurant-Cars-Company.png?raw=true)
