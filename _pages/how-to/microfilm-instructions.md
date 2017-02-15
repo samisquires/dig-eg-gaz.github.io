@@ -6,6 +6,7 @@ author: Will Hanley
 image:
   image_fullwidth: masthead.jpg
 ---
+## The Basics
 1. Get film NP 486 for the appropriate month and year from the reserve desk in the basement in Strozier. You can sign it out for two hours.
 2. Log on to one of the six microfilm-enabled computers, and open the "Microform PowerScan" program. Indicate that you are using microfilm. Thread the film into the microfilm reader (a "ScanPro 1000"), carefully following the threading route mapped on the machine itself. Run a bit of film through the machine until you begin to see page images--the first foot of film is only black.
 3. Familiarize yourself with the controls at the bottom of the program. The "Motorized Roll Film Control" allows you to move through the film and find the issue you need. The toggle switch at the top moves the film slowly, and is useful to make exact adjustments. The larger "Adjust Image" menu has numerous controls. If your image is only displaying as half screen, click the "Film Orientation" button and it will shift to full screen. You can play with the zoom until you see a whole page on the screen--you may have to move the carriage in the microfilm reader itself to center the image. You can focus, change the brightness, and so on, which will give you a more readable result.
@@ -13,6 +14,7 @@ image:
 5. Find the image files you've created on the computer's hard drive, and copy them to a USB key, save them to Dropbox, or save them some other way. Do not simply leave them on the microfilm computer.
 6. Return the microfilm to the checkout desk--your classmates will need to find it.
 
+## For Best Results
 1. The preceding steps produce a human-readable image, but this image will not be good enough for OCR. In order to produce a high-quality, OCR-ready image, it is necessary to scan the page in quarters, then stitch the image together. Zoom in on the image until the screen shows just the top left-hand quarter of the page, thus:
 ![quarter page example](https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/quarter-page-example.jpg?raw=true)
 Make sure that you leave a bit of overlap, so that the image stitching software can do its task. Change the shape of the green box, which shows the part of the image that you will save to a file, so that it contains the edges of the print. Now you are ready to save it as an image file. Under the Scan/Print tab, change the scan resolution to 600dpi. Press "Scan to Drive #1." Name your file following the standard dating format plus page number plus a suffix for the top left hand corner (YYYY-MM-DD-p1a). Choose file type jpg. Then proceed to scan the bottom left hand corner (p1b), the top right (p1c), and the bottom right (p1d).
