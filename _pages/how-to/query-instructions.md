@@ -34,6 +34,7 @@ This will return lots of results. It will be useful for you to refine these some
 - return the number contained in the cell after a cell containing the text "Augment." `//table//cell[contains(.,'Augment.')]/following-sibling::cell[1]/number()`. Does not work if number appears as a string (i.e. contains a comma after the thousands for example).
 - return the string contained in the cell after a cell containing the text "Augment." `//table//cell[contains(.,'Augment.')]/following-sibling::cell[1]/string()`
 - return the string text of the first paragraph of the div with the heading "MARCHE DE MINET" `//div//head[contains(.,'MARCHE DE MINET')]/following-sibling::p[1]/string()`
+- return the value of the "when" attribute of dates in the third line of the Orient-Royal Mail Line ad: `//div[@xml:id="deg-ad-orm01"]//head/following-sibling::p[3]/date/@when`
 
 An example of working your way through table cells, looking at prices for cotton:
 
