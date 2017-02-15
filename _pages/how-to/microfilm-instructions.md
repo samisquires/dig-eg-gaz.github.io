@@ -19,3 +19,13 @@ Make sure that you leave a bit of overlap, so that the image stitching software 
 4. Stitch the four quarters into a single high-resolution file using the [Microsoft Image Composite Editor](http://research.microsoft.com/en-us/um/redmond/projects/ice/). The program is loaded on all of the scanning computers at Strozier. If you use a Windows computer, it is free to download for your own computer. When you open the program, click "New Panorama," import the four quarter images you just produced, click "Stitch," then click "Export." Choose image quality "superb," and save the file with the name "YYYY-MM-DD-p1.jpg". This is the file that you will use for subsequent work--save it to your hard drive.
 4. Go ahead and do the same for all the pages of the issue. **Note:** You may find that certain pages (often page 1) are doubled on the microfilm. When this is the case, you only need scan one version of the doubled page.
 7. Once you are satisfied with your images, upload them directly to the appropriate subfolder within the [page-images repository](https://github.com/dig-eg-gaz/page-images) repository on GitHub. There are four subfolders (one for each quarter of the year). Make doubly sure *before you upload* that your images are named exactly according to this format: `YYYY-MM-DD-p1.jpg` (substitute .png or .pdf if using those format).
+
+### Troubleshooting
+Sometimes the microfilm hardware fails to function. When this is the case, follow these instructions (courtesy Malcolm Shackelford of FSU libraries): Those MF machines are prone to fits, but the cure is nearly always to
+
+1. stop the microform viewing/scanning application.
+2. turn off the MF machine using the switch on the rear left
+3. detach and reattach the firewire cable from both the MF machine and the computer
+4. fire up the machine, then the scanning program
+
+Doing the above makes sure we don't have a loose cable, and reminds Windows that the device is there and alive.
