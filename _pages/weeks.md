@@ -6,7 +6,7 @@ header:
   image_fullwidth: front-page.jpg
 ---
 Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Notes
-3|January 16, 1905|January 21, 1905|[Andres Acosta](https://github.com/aaa15g)||||
+3|January 16, 1905|January 21, 1905|[Andres Acosta](https://github.com/aaa15g)||1||
 8|February 20, 1905|February 25, 1905|[Taj Ali](https://github.com/tajali016 )||1||
 9|February 27, 1905|March 4, 1905|[Jacob Baenen](https://github.com/JBaenen)||1||
 10|March 6, 1905|March 11, 1905|[Elizabeth Barrett](https://github.com/Ekb15fsu)||1||
@@ -23,7 +23,7 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 2|January 8, 1906|January 13, 1906|[Antonino Fricano](https://github.com/ninofricano)||1||
 3|January 15, 1906|January 20, 1906|[Cameron Greco](https://github.com/cgreco1)||1||
 4|January 22, 1906|January 27, 1906|[Sadie Gruber](https://github.com/TheHatMage)||||
-5|January 29, 1906|February 3, 1906|[Paola Hammermaster](https://github.com/livhammer)||||
+5|January 29, 1906|February 3, 1906|[Paola Hammermaster](https://github.com/livhammer)||1||
 6|February 5, 1906|February 10, 1906|[Jeffrey Hayden](https://github.com/Jeffhayden11)||1||
 7|February 12, 1906|February 17, 1906|[Michael Hensley](https://github.com/mch15d)||||
 8|February 19, 1906|February 24, 1906|[Alexia Horton](https://github.com/Ahorton12)||1||
