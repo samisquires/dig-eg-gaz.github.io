@@ -16,14 +16,14 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 29|July 17, 1905|July 22, 1905|[Quentin Coombs](https://github.com/qrc16)||1||
 31|July 31, 1905|August 5, 1905|[Tanner Doring](https://github.com/Tnd15b)||1||
 33|August 14, 1905|August 19, 1905|[Zach Reddick](https://github.com/znr13)||1||
-37|September 11, 1905|September 16, 1905|[Diana Fajardo](https://github.com/Dianafaj01)||||
+37|September 11, 1905|September 16, 1905|[Diana Fajardo](https://github.com/Dianafaj01)||1||
 49|December 4, 1905|December 9, 1905|[Katherine Ferguson](https://github.com/kf15b)||1||
 51|December 18, 1905|December 23, 1905|[Kevin Fitzpatrick](https://github.com/kf16)||1||
 1|January 2, 1906|January 6, 1906|[Madison Flick](https://github.com/mlf15c)||1||No issue published January 1
 2|January 8, 1906|January 13, 1906|[Antonino Fricano](https://github.com/ninofricano)||1||
 3|January 15, 1906|January 20, 1906|[Cameron Greco](https://github.com/cgreco1)||1||
 4|January 22, 1906|January 27, 1906|[Sadie Gruber](https://github.com/TheHatMage)||||
-5|January 29, 1906|February 3, 1906|[Paola Hammermaster](https://github.com/livhammer)||1||
+5|January 29, 1906|February 3, 1906|[Olivia Hammermaster](https://github.com/livhammer)||1||
 6|February 5, 1906|February 10, 1906|[Jeffrey Hayden](https://github.com/Jeffhayden11)||1||
 7|February 12, 1906|February 17, 1906|[Michael Hensley](https://github.com/mch15d)||||
 8|February 19, 1906|February 24, 1906|[Alexia Horton](https://github.com/Ahorton12)||1||
@@ -52,7 +52,7 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 31|July 30, 1906|August 4, 1906|[Jaime Sepulveda](https://github.com/jsepulveda43)||1||
 32|August 6, 1906|August 11, 1906|||||
 33|August 13, 1906|August 18, 1906|[Quin Smith](https://github.com/quinelaine)||1||
-34|August 20, 1906|August 25, 1906|[Joshua Story](https://github.com/JoshuaStory)||||
+34|August 20, 1906|August 25, 1906|[Joshua Story](https://github.com/JoshuaStory)||1||
 35|August 27, 1906|September 1, 1906|[Kenneth Ukah](https://github.com/knu14)||1||
 36|September 3, 1906|September 8, 1906|[Caroline Vaverek](https://github.com/Carovav)||1||
 37|September 10, 1906|September 15, 1906|[Erin Webster](https://github.com/ew14e)||1||
