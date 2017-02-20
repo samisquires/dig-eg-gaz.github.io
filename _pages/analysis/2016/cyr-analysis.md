@@ -2,7 +2,7 @@
 layout: page
 title: Bubonic Plague In Egypt, 1905
 author: Erek Cyr
-permalink: /analysis/2016/barrett-analysis
+permalink: /analysis/2016/cyr-analysis
 header:
   image_fullwidth: front-page.jpg
 ---
