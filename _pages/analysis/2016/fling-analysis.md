@@ -9,15 +9,15 @@ header:
 
 ![photo](https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/analysis-images/fling-Individual-Project-Photo.png?raw=true "photo")
 
-##Serial Question:
+## Serial Question:
 How often did the Egyptian Gazette report fires in 1905? What were the causes of these fires? What methods where used to subdue these fires?
 
-##Personal Findings:
+## Personal Findings:
 In my week of the Gazette I came across a ship that caught on fire. This report was found on page 3 of November 25,1905. The ship was full of cotton and rice when it was set aflame. Flames were not visible but smoke was 1pouring out from the vessel. The smoke calmed due to incessant pumping for about two hours. Soon after the ship fire seemed to be controlled, the smoke began again. Two hours later, it was decided that the ship was to be put ashore, on the bank in hopes that the hold would fill with water to subdue the fire. This did the trick and finally  calmed the fire upon the ship. Oddly, the cause of the fire is reported as, "unknown."
 
 This section of the newspaper seems to report the most severe of fires. I am curious, as to what the other weeks of the Egyptian Gazette will have to offer about such fires. I wonder if the Gazette often lists the causes to these fires as “unknown”, as it did on page 3 of November 25, 1905.
 
-##Peer Data Visualization:
+## Peer Data Visualization:
 While searching through the pages of the Gazette, I found many references of fires in Alexandria. This includes:
 
 On January 24,1905 in the General Strike at Moscow there was a fire at a Telephone Office.  “Fire at Telephone Office.—At about 10 o’clock last night a fire broke out in the telephone central office at Kom el-Dik, which caused a complete interruption of the lines connected with this office. The Telephone Company inform us that they will re-establish communication as early as possible.” (Gazette).
