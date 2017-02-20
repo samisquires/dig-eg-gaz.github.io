@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Counting Countries, Counting Cities: IFS 2116 Final Project"
+title: Counting Countries, Counting Cities
 teaser: "My final project for IFS 2116."
 permalink: /analysis/2016/white-analysis
 date: 2016-12-07
