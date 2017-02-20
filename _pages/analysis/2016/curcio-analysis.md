@@ -6,8 +6,7 @@ permalink: /analysis/2016/curcio-analysis
 header:
   image_fullwidth: front-page.jpg
 ---
-#Medical Miracles
-     While searching for a serial question to embark on, I really wanted to be drawn
+While searching for a serial question to embark on, I really wanted to be drawn
 to the patterns of trade or mail lines maybe even exciting expeditions.  But
 I noticed one aspect of each issue that always caught my attention, the medical
 miracles.  I would see personal accounts of Egyptian citizens telling their
@@ -22,7 +21,8 @@ further studies of the proclaimed brand and gain more historical and background
 knowledge of its origins and the pill's chemical makeup.  I hope to conclude
 how successful of a brand this really was and determine if it was as miraculous
 as the people of Egypt claim.
-     I began my research by trying to gain a more conclusive background of the
+
+I began my research by trying to gain a more conclusive background of the
 brand.  Was it more natural or synthetic? What was the main ingredient? By
 sifting through countless pages I finally found my answer within the newspaper
 itself.   Apparently Doan's Backache Kidney Pills were a more natural remedy
@@ -37,7 +37,7 @@ of these claims in the following images.
 
 ![claims](https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/analysis-images/curcio-claims.png?raw=true)
 
-     I however decided to conduct my own personal research.  I did find that they
+I however decided to conduct my own personal research.  I did find that they
 were indeed comprised of natural ingredients,"purely vegetable" to be exact.  I
 discovered this through a reliable web source, detailing the pill's wrapper
 information and directions for use.  I have provided a chart listing the
@@ -46,7 +46,7 @@ cited.
 
 ![ingredients](https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/analysis-images/curcio-ingredients.png?raw=true)
 
-     I then decided to turn my attention back to the newspaper.  Knowing that
+I then decided to turn my attention back to the newspaper.  Knowing that
 these pills were actually what they claimed to be, just how many cases of success
 were reported?  And what did they all have in common?  I began to search for a
 pattern.  There were fourteen total features of the Doan's Backache Kidney Pills.
@@ -57,12 +57,13 @@ claimed to have  been cured.  I then organized this into the following chart.
 
 ![conditions cured](https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/analysis-images/curcio-conditions-cured.png?raw=true)
 
-     The results were astonishing.  The drug did in fact treat a wide variety of
+The results were astonishing.  The drug did in fact treat a wide variety of
 diseases that it claimed to have.  One of the most prevalent being kidney disease
 which is a very serious condition.  I decided to research all of the diseases
 that patients claimed to have been cured from, and compare them to modern ways of
 treatment, I made several breakthroughs with this method.
-     Kidney disease cannot be treated by medication alone, it can ease symptoms
+
+Kidney disease cannot be treated by medication alone, it can ease symptoms
 by providing much needed vitamins, but it cannot actually cure kidney disease
 which is what these subjects claimed.  Nowadays the only real cure is dialysis or
 kidney transplantation, anything else is just a cover up for the real issues at hand,
@@ -72,7 +73,7 @@ included up to date information from a reliable medical source.
 
 ![kidney disease](https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/analysis-images/curcio-kidney-disease.png?raw=true)
 
-     Rheumatism, unlike kidney disease can be treated with medication.  There is
+Rheumatism, unlike kidney disease can be treated with medication.  There is
 no cure for this disease but anti-inflammatory drugs can make an unbelievable
 difference and ease joint pain greatly, so it is very likely that sufferers of
 this condition were actually assisted by Doan's Backache Kidney Pills.  Again I
@@ -81,7 +82,7 @@ that I have included up to date information from a reliable medical source.
 
 ![rheumatism](https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/analysis-images/curcio-rheumatism.png?raw=true)
 
-     Bright's Disease was another claimed ailment supposedly cured by these pills.
+Bright's Disease was another claimed ailment supposedly cured by these pills.
 Bright's Disease is currently treated on a case by case basis because each
 underlying cause of disease is very different and there could be a wide range of
 causes for each unique person.  However, it is greatly possible that the Doan's
@@ -93,7 +94,7 @@ reliable medical source.
 
 ![brights disease](https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/analysis-images/curcio-brights-disease.png?raw=true)
 
-     Next was dropsy, currently known as edema.  This is swelling caused by
+Next was dropsy, currently known as edema.  This is swelling caused by
 excess fluid trapped inside your tissues.  It was proven that this ailment can
 in fact be treated by simple diuretics, just like Doan's Backache Kidney Pills
 so I have concluded that all of these patient claims are valid.  Again, I
@@ -102,7 +103,7 @@ have included up to date information from a reliable medical source.
 
 ![dropsy](https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/analysis-images/curcio-dropsy.png?raw=true)
 
-    Individuals also claimed that their loss of appetite was somehow regained
+Individuals also claimed that their loss of appetite was somehow regained
 after taking the pills.  Upon research, this was the most difficult to conclude.
 Loss of appetite can stem from many things, a majority of them being
 psychological.  But many cases occur because of bacteria, viruses, and severe
@@ -115,7 +116,7 @@ that I have included up to date information from a reliable medical source.
 
 ![appetite](https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/analysis-images/curcio-appetite.png?raw=true)
 
-     Back pain was one of the last conditions that was claimed to have been
+Back pain was one of the last conditions that was claimed to have been
 cured by these pills.  Just as Bright's Disease, it is diagnosed on an
 individual basis by doctors and treated accordingly.  But medications have been
 proven useful if they contain anti-inflammatory agents.  Therefore I have to
@@ -125,7 +126,7 @@ have included up to date information from a reliable medical source.
 
 ![back pain](https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/analysis-images/curcio-back-pain.png?raw=true)
 
-     Lastly was urethral stricture, this is the narrowing of the urethra which
+Lastly was urethral stricture, this is the narrowing of the urethra which
 restricts urinary flow.  Modern research suggests that medication is of no
 assistance in treating the disease.  It can only be cured surgically by physically
 removing the blockage.  Therefore, the claim made for urethral stricture being
@@ -135,7 +136,7 @@ up to date information from a reliable medical source.
 
 ![strictures](https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/analysis-images/curcio-strictures.png?raw=true)
 
-     My final conclusion is that Doan's Backache and Kidney Pills were
+My final conclusion is that Doan's Backache and Kidney Pills were
 undoubtedly effective.  However they were not as miraculous as they claimed to be.
 They were not the cure for kidney disease and they could not have been curative
 for urethral strictures.  And not to mention there were diseases they said they
@@ -154,11 +155,11 @@ believe that this was an extraordinary brand, maybe not capable of medical
 miracles but certainly capable of relief.
 
 Works cited:
-- https://macdonaldtownbicycleclub.com/2016/08/15/doans-backache-and-kidney-pills-mr-john-loaney-a-permanent-cure-after-three-years-suffering/
-- https://www.gstatic.com/healthricherkp/pdf/chronic_kidney_disease.pdf
-- https://www.gstatic.com/healthricherkp/pdf/rheumatoid_arthritis.pdf
-- https://medlineplus.gov/ency/article/000464.htm
-- http://www.mayoclinic.org/diseases-conditions/edema/basics/definition/con-20033037
-- http://www.healthline.com/symptom/loss-of-appetite
-- https://www.gstatic.com/healthricherkp/pdf/low_back_pain.pdf
-- http://www.urologyhealth.org/urologic-conditions/urethral-stricture-disease/treatment
+- [https://macdonaldtownbicycleclub.com/2016/08/15/doans-backache-and-kidney-pills-mr-john-loaney-a-permanent-cure-after-three-years-suffering/](https://macdonaldtownbicycleclub.com/2016/08/15/doans-backache-and-kidney-pills-mr-john-loaney-a-permanent-cure-after-three-years-suffering/)
+- [https://www.gstatic.com/healthricherkp/pdf/chronic_kidney_disease.pdf](https://www.gstatic.com/healthricherkp/pdf/chronic_kidney_disease.pdf)
+- [https://www.gstatic.com/healthricherkp/pdf/rheumatoid_arthritis.pdf](https://www.gstatic.com/healthricherkp/pdf/rheumatoid_arthritis.pdf)
+- [https://medlineplus.gov/ency/article/000464.htm](https://medlineplus.gov/ency/article/000464.htm)
+- [http://www.mayoclinic.org/diseases-conditions/edema/basics/definition/con-20033037](http://www.mayoclinic.org/diseases-conditions/edema/basics/definition/con-20033037)
+- [http://www.healthline.com/symptom/loss-of-appetite](http://www.healthline.com/symptom/loss-of-appetite)
+- [https://www.gstatic.com/healthricherkp/pdf/low_back_pain.pdf](https://www.gstatic.com/healthricherkp/pdf/low_back_pain.pdf)
+- [http://www.urologyhealth.org/urologic-conditions/urethral-stricture-disease/treatment](http://www.urologyhealth.org/urologic-conditions/urethral-stricture-disease/treatment) 
