@@ -2,6 +2,9 @@
 layout: page
 title: How Much Coal was Imported Into Egypt in 1905?
 author: KedricHeyward
+permalink: /analysis/2016/heyward-analysis
+header:
+  image_fullwidth: front-page.jpg
 ---
 1905 was a prosperous time for Egypt and the Egyptian Gazette has the information to prove it. The Egyptian Gazette contained a great deal of all happenings within and around Egypt. In the year of 1905, The Egyptian Gazette contained information about the political doings of leaders within and around Egypt, news (or gossip) about the royalty in Egypt, and a expansive volume of information about the prices and import/export information of many different scarce resources. This was of interest to people in politics, business owners, and investors. This sparked an initial interest due to the fact that information such as, the prices of resources, or the amount imported or exported were translating to how Egypt’s economy stayed alive at that time.
 

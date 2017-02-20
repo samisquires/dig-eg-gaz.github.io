@@ -2,6 +2,9 @@
 layout: page
 title: Letters to the Editor in the 1905 Egyptian Gazette
 author: Alexander Amorello
+permalink: /analysis/2016/amorello-analysis
+header:
+  image_fullwidth: front-page.jpg
 ---
 Through the existence of newspapers, expressing opinions has become more acceptable and has developed over time into dedicating entire sections of the newspaper to it. These opinions formally come from the editors of the paper in the forms of editorials and the readers of the paper in the form of Letters to the Editor. Within the Egyptian Gazette in 1905, there are a wide selection of the Letters to the editor that were published and I wanted to examine them as a whole to hopefully gain some insight on what the readers of the Egyptian Gazette are concerned about. Were the primarily British readers more interested in the financial content of the newspaper? Alternatively, did they want make a point known about the culture in Alexandria at the time? What follows is an examination of peoples that are not talked about in the historical mainstream, not men with fancy hats who rule over others, but a more common folk.
 

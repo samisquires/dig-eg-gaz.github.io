@@ -3,6 +3,9 @@ layout: page
 author: Cassandra Frederick
 title: The African Pygmies
 date: 2016-12-20
+permalink: /analysis/2016/frederick-analysis
+header:
+  image_fullwidth: front-page.jpg
 ---
 ![pygmies.jpg](https://github.com/caf15b/dig-eg-gaz/blob/master/pygmies.jpg?raw=true)
 

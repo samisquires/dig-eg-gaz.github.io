@@ -2,6 +2,9 @@
 layout: page
 title: Anti-Semitism
 author: David Gressgott
+permalink: /analysis/2016/gressgott-analysis
+header:
+  image_fullwidth: front-page.jpg
 ---
 My serial question for this course was centered on the waves of anti-Semitism that was beginning to emerge around the world. The majority of this hate, especially in 1905, was based in Russia. Possibly, were there any warning signs that could have hindered the Holocaust that resulted in later years? Throughout the course of this newspaper you can find bits and pieces of prejudice acts happening to Jews.  
 

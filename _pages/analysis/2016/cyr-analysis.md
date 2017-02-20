@@ -2,6 +2,9 @@
 layout: page
 title: Bubonic Plague In Egypt, 1905
 author: Erek Cyr
+permalink: /analysis/2016/barrett-analysis
+header:
+  image_fullwidth: front-page.jpg
 ---
 The goal of this final project was to focus and analyze instances of ‘disease’ found
 within the pages of the Egyptian Gazette in the year 1905. Each student in the class
@@ -91,7 +94,7 @@ As noted above, a minimum of 39 cases (85% of plague responses), usually involve
 an incidence of bubonic plague. The problem with these numerous responses to the bubonic plague is they are a very short
 summary of each occurrence, not giving much information on the statistics of those affected, just that they had either caught
 the disease or died:
- 
+
 1. January 4th - Today's bulletin records a fatal case and two deaths at Suez.
 2. January 4th - Case of Plague on Steamer - The SS "City of Agra," which arrived at Suez yesterday from Calcutta, had on board a suspected case of plague. The steamer was disinfected by the quarantine authorities and the patients were conveyed to Moses Wells for treatment
 3. April 18th -    The Plague .—During last week, only one case of plague was reported throughout Egypt this occurred in the Toukh district.

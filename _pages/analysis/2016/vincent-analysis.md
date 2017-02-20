@@ -2,6 +2,9 @@
 layout: page
 title: Tragic Events in 1905
 author: Brooklyn Vincent
+permalink: /analysis/2016/vincent-analysis
+header:
+  image_fullwidth: front-page.jpg
 ---
 Throughout the Egyptian Gazette Newspaper, tons of catastrophic events were discussed. As I read, I found it interesting how tragic events were described in such different ways than they would be in today’s world.  From murders to fires, the Egyptian Gazette covers them all. I would like to focus my attention on the events that occurred within 1905 in Cairo, Egypt that left astonishing and tragic results. It is interesting to me to see how the society went about these events and how the reactions after such an extreme event took place. I would also like to look at how the society dealt with these tragic events that occurred. In today’s world, when a murder or fire takes place, society freaks out. It is interesting to see that in past years, the year 1905 for example, some events were not as tremendous as they would be in the eyes of people today.
 

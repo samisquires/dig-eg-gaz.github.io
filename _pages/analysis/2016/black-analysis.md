@@ -2,6 +2,9 @@
 layout: page
 title: Investigating the Calendar of the Week
 author: Melizza Black
+permalink: /analysis/2016/black-analysis
+header:
+  image_fullwidth: front-page.jpg
 ---
 
 The “Egyptian Gazette” was a newspaper printed in Alexandria, Egypt during 1905. This newspaper served many purposes. It kept its citizens up to date on current events in business and their personal lives both in Alexandria and worldwide. For my digital micro-history project, I decided that the best way to understand the daily lives of the people living in Alexandria at the time is to investigate a section in the “Egyptian Gazette” titled “CALENDAR OF THE WEEK”. This section is included in every issue, typically on pages three or four. It lists the important events happening in Alexandria and its surrounding areas. This serves as a tool to keep its citizens up-to-date with what is happening in the town and advises them to go and participate in these events. By taking a further look into this section, we can see the types of things or event that the people of Alexandria enjoyed doing and which ones seemed to be very important to them.
