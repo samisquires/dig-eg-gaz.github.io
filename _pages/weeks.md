@@ -39,9 +39,9 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 18|April 30, 1906|May 5, 1906|[Jonathan Morales](https://github.com/Jonmorazav)||1|3|
 19|May 7, 1906|May 12, 1906|[Anthony Muniz](https://github.com/Amuniz97)||1|1|
 20|May 14, 1906|May 19, 1906|[Joseph Ng](https://github.com/Josephng123)||1|5|
-21|May 21, 1906|May 26, 1906|[Sabrina Nuñez](https://github.com/sabrinanunez)||||
+21|May 21, 1906|May 26, 1906|[Sabrina Nuñez](https://github.com/sabrinanunez)||1|5|
 22|May 28, 1906|June 2, 1906|[Jordan Frazier](https://github.com/jordanfrazier97)||1|2|
-23|June 4, 1906|June 9, 1906|[William Ortiz](https://github.com/williamseortiz)||||
+23|June 4, 1906|June 9, 1906|[William Ortiz](https://github.com/williamseortiz)||1|4|
 24|June 11, 1906|June 16, 1906|[Isaac Parfait](https://github.com/hmSlim)||||
 25|June 18, 1906|June 23, 1906|[Katherine Parish](https://github.com/KParish22)||1|1|
 26|June 25, 1906|June 30, 1906|[William Pearce](https://github.com/willpearce1)||2|6|
@@ -52,7 +52,7 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 31|July 30, 1906|August 4, 1906|[Jaime Sepulveda](https://github.com/jsepulveda43)||1|2|
 32|August 6, 1906|August 11, 1906|||||
 33|August 13, 1906|August 18, 1906|[Quin Smith](https://github.com/quinelaine)||1|1|
-34|August 20, 1906|August 25, 1906|[Joshua Story](https://github.com/JoshuaStory)||2||
+34|August 20, 1906|August 25, 1906|[Joshua Story](https://github.com/JoshuaStory)||2|2|
 35|August 27, 1906|September 1, 1906|[Kenneth Ukah](https://github.com/knu14)||1|1|
 36|September 3, 1906|September 8, 1906|[Caroline Vaverek](https://github.com/Carovav)||1|6|
 37|September 10, 1906|September 15, 1906|[Erin Webster](https://github.com/ew14e)||1|2|
