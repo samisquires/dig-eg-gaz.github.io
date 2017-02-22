@@ -7,34 +7,34 @@ header:
 ---
 Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Notes
 3|January 16, 1905|January 21, 1905|[Andres Acosta](https://github.com/aaa15g)||1|1|
-8|February 20, 1905|February 25, 1905|[Taj Ali](https://github.com/tajali016 )||1|5|
+8|February 20, 1905|February 25, 1905|[Taj Ali](https://github.com/tajali016 )||2|5|
 9|February 27, 1905|March 4, 1905|[Jacob Baenen](https://github.com/JBaenen)||1|6|
-10|March 6, 1905|March 11, 1905|[Elizabeth Barrett](https://github.com/Ekb15fsu)||1|3|
+10|March 6, 1905|March 11, 1905|[Elizabeth Barrett](https://github.com/Ekb15fsu)||2|3|
 11|March 13, 1905|March 18, 1905|[Madison Bolton](https://github.com/madibolton)||||
-12|March 20, 1905|March 25, 1905|[Jackson Boucher](https://github.com/jacksonboucher)||||
+12|March 20, 1905|March 25, 1905|[Jackson Boucher](https://github.com/jacksonboucher)||1|3|
 13|March 27, 1905|April 1, 1905|[Giselle Chacon](https://github.com/Gisellechacon)||1||
-29|July 17, 1905|July 22, 1905|[Quentin Coombs](https://github.com/qrc16)||1|1|
-31|July 31, 1905|August 5, 1905|[Tanner Doring](https://github.com/Tnd15b)||1|6|
+29|July 17, 1905|July 22, 1905|||1|1|
+31|July 31, 1905|August 5, 1905|[Tanner Doring](https://github.com/Tnd15b)||2|6|
 33|August 14, 1905|August 19, 1905|[Zach Reddick](https://github.com/znr13)||1|4|
 37|September 11, 1905|September 16, 1905|[Diana Fajardo](https://github.com/Dianafaj01)||1|5|
 49|December 4, 1905|December 9, 1905|[Katherine Ferguson](https://github.com/kf15b)||1|4|
 51|December 18, 1905|December 23, 1905|[Kevin Fitzpatrick](https://github.com/kf16)||1|2|
-1|January 2, 1906|January 6, 1906|[Madison Flick](https://github.com/mlf15c)||1||No issue published January 1
+1|January 2, 1906|January 6, 1906|[Madison Flick](https://github.com/mlf15c)||2||No issue published January 1
 2|January 8, 1906|January 13, 1906|[Antonino Fricano](https://github.com/ninofricano)||1|1|
 3|January 15, 1906|January 20, 1906|[Cameron Greco](https://github.com/cgreco1)||1|3|
 4|January 22, 1906|January 27, 1906|[Sadie Gruber](https://github.com/TheHatMage)||||
 5|January 29, 1906|February 3, 1906|[Olivia Hammermaster](https://github.com/livhammer)||1||
 6|February 5, 1906|February 10, 1906|[Jeffrey Hayden](https://github.com/Jeffhayden11)||1|6|
-7|February 12, 1906|February 17, 1906|[Michael Hensley](https://github.com/mch15d)||||
-8|February 19, 1906|February 24, 1906|[Alexia Horton](https://github.com/Ahorton12)||1|6|
+7|February 12, 1906|February 17, 1906|[Michael Hensley](https://github.com/mch15d)||2||
+8|February 19, 1906|February 24, 1906|[Alexia Horton](https://github.com/Ahorton12)||2|6|
 9|February 26, 1906|March 3, 1906|[Jasmine Johnson](https://github.com/jkj16)||1||
-10|March 5, 1906|March 10, 1906|[Kyle Kampsen](https://github.com/Kampsenkyle23)||||
-11|March 12, 1906|March 17, 1906|[Rosalyn Baxter](https://github.com/rosie-baxter)||1|6|
+10|March 5, 1906|March 10, 1906|||||
+11|March 12, 1906|March 17, 1906|[Rosalyn Baxter](https://github.com/rosie-baxter)||2|6|
 12|March 19, 1906|March 24, 1906|[Hanna Lashhab](https://github.com/hannalashhab)||||
-13|March 26, 1906|March 31, 1906|[Grant Leisy](https://github.com/Grantleisy)||||
-14|April 2, 1906|April 7, 1906|[Taylor Cwikla](https://github.com/cwiklata)||1|6?|
+13|March 26, 1906|March 31, 1906|||||
+14|April 2, 1906|April 7, 1906|[Taylor Cwikla](https://github.com/cwiklata)||2|6?|
 15|April 9, 1906|April 14, 1906|[Adrian Martinez](https://github.com/adrianmar01)||1|1|
-16|April 16, 1906|April 21, 1906|[Mia Meixner](https://github.com/Miameixner)||1|6|1906-04-16 issue lacking
+16|April 16, 1906|April 21, 1906|[Mia Meixner](https://github.com/Miameixner)||2|6|1906-04-16 issue lacking
 17|April 23, 1906|April 28, 1906|[Marsella Migdalski](https://github.com/MarsellaM)||1||
 18|April 30, 1906|May 5, 1906|[Jonathan Morales](https://github.com/Jonmorazav)||1|3|
 19|May 7, 1906|May 12, 1906|[Anthony Muniz](https://github.com/Amuniz97)||1|1|
@@ -44,7 +44,7 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 23|June 4, 1906|June 9, 1906|[William Ortiz](https://github.com/williamseortiz)||||
 24|June 11, 1906|June 16, 1906|[Isaac Parfait](https://github.com/hmSlim)||||
 25|June 18, 1906|June 23, 1906|[Katherine Parish](https://github.com/KParish22)||1|1|
-26|June 25, 1906|June 30, 1906|[William Pearce](https://github.com/willpearce1)||1|6|
+26|June 25, 1906|June 30, 1906|[William Pearce](https://github.com/willpearce1)||2|6|
 27|July 2, 1906|July 7, 1906|||||
 28|July 9, 1906|July 14, 1906|[Justin Petersen](https://github.com/Jjp15f)||1|6|
 29|July 16, 1906|July 21, 1906|[Carlos Rodriguez](https://github.com/CarlosRod77)||||
@@ -52,7 +52,7 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 31|July 30, 1906|August 4, 1906|[Jaime Sepulveda](https://github.com/jsepulveda43)||1|2|
 32|August 6, 1906|August 11, 1906|||||
 33|August 13, 1906|August 18, 1906|[Quin Smith](https://github.com/quinelaine)||1|1|
-34|August 20, 1906|August 25, 1906|[Joshua Story](https://github.com/JoshuaStory)||1||
+34|August 20, 1906|August 25, 1906|[Joshua Story](https://github.com/JoshuaStory)||2||
 35|August 27, 1906|September 1, 1906|[Kenneth Ukah](https://github.com/knu14)||1|1|
 36|September 3, 1906|September 8, 1906|[Caroline Vaverek](https://github.com/Carovav)||1|6|
 37|September 10, 1906|September 15, 1906|[Erin Webster](https://github.com/ew14e)||1|2|
