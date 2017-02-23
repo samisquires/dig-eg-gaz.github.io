@@ -171,21 +171,28 @@ td {
 /* Code
 ------------------------------------------------------------------- */
 
-pre {
-    overflow: auto;
-    margin-bottom: rem-calc(20);
-    padding: 5px;
-}
-pre code {
-    padding: rem-calc(2) rem-calc(5) rem-calc(1) rem-calc(0);
-    border: 0;
-}
+//pre {
+//    overflow: auto;
+//    margin-bottom: rem-calc(20);
+//    padding: 5px;
+//    background-color: $code-background-color;
+//    border-radius: $global-radius;
+//}
+//pre code {
+//    padding: rem-calc(2) rem-calc(5) rem-calc(1) rem-calc(0);
+//    border: 0;
+//}
 
+//code {
+//    font-size: rem-calc(14);
+//    line-height: 1.5;
+//}
 code {
-    font-size: rem-calc(14);
-    line-height: 1.5;
+    color: $accent;
+    font-family: "Monaco", "Courier New", "Courier";
+    font-size: .75em;
+    font-weight: bold;
 }
-
 
 
 /* Lists
