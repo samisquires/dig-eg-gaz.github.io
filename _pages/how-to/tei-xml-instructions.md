@@ -50,6 +50,8 @@ There are more tags that you can add:
 - pieces of articles that are continuous texts broken up by ads or between issues should be connected using xml:id and the next and prev elements, thus: if the articles are in the same issue, make their tags `<div type="item" xml:id="item1" next="item2">` and `<div type="item" xml:id="item2" prev="item1">`. If the articles are in different issues, make their tags `<div type="item" xml:id="item1" next="YYYY-MM-DD.xml#item2">` and `<div type="item" xml:id="item2" prev="YYYY-MM-DD.xml#item1">`.
 - the **`<figure>`** element will be useful for the *Egyptian Gazette*, but I have not yet worked out how to use it.
 
+## 9. Add content tags
+
 ## Resources
 - [TEI Guidelines](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html) - listing all of the elements under use and giving rules for their usage.
 - “[A Gentle Introduction to XML](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SG.html),” TEI Consortium.
