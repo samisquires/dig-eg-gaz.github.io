@@ -31,16 +31,15 @@ Oxygen offers many shortcuts to make this work go faster. Highlight the text you
 At the top right hand corner of your editing window in Oxygen, there is a square that will be either red or green. If it's green, your document is well-formed, which means that it conforms to TEI XML standards and will be searchable and useable. If it's red, the file contains errors that you must fix before you submit it. The errors appear as red lines on the right hand scrolling column. Click on a line to see the error described at the bottom of your editing screen.
 
 ## 6. Fork the organization content repository and save to GitHub
-
 Once you've completed some of the structural tagging of your page, it's time to save it to GitHub. We're going to use the "fork" and "pull" functions of GitHub to do this. First, "**fork**" the [dig-eg-gaz/content](https://github.com/dig-eg-gaz/content) repository by clicking on the "fork" icon on the top right. You will be offered the chance to fork the repository under your own username--do so. This will make a copy of the repository in your own GitHub account, in which you should save your .xml page files. Later, when your page files are complete, you can fold them back into the organization content repository by sending me a **pull request**. You do this by clicking the "new pull request" button the top left above your list of files. I will then see the pull request and either merge your files into the organization's content or request that you change something before doing so.
 
-## 6. Common errors
+## 7. Common errors
 - **&**: the ampersand is represented as `&amp;` in xml. `&` alone will create an error.
 - **>** or **<**: the OCR process produces stray angle brackets. The editor thinks these are part of a xml tag, and it causes an error.
 - anything not in a `<div>`
 - doubled `<?xml version="1.0" encoding="UTF-8"?>` lines at the opening of the xml document.
 
-## 7. Add more complex tags
+## 8. Add more complex tags
 There are more tags that you can add:
 - If the article or item is in French, add the attribute `xml:lang="fr"` to the `<div>` tag.
 - **`<cb/>`** for column breaks. Be sure to put this tag at the *beginning* of the column. Add the number of the column, as well, thus: `<cb n="1"/>` For mixed columns, see [this guidance](http://dcs.library.virginia.edu/digital-stewardship-services/tei-encoding-guidelines/#cb).
