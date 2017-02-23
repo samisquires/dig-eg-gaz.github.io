@@ -39,7 +39,7 @@ Once you've completed some of the structural tagging of your page, it's time to 
 - anything not in a `<div>`
 - doubled `<?xml version="1.0" encoding="UTF-8"?>` lines at the opening of the xml document.
 
-## 8. Add more complex tags
+## 8. Add more complex structural tags
 There are more tags that you can add:
 - If the article or item is in French, add the attribute `xml:lang="fr"` to the `<div>` tag.
 - **`<cb/>`** for column breaks. Be sure to put this tag at the *beginning* of the column. Add the number of the column, as well, thus: `<cb n="1"/>` For mixed columns, see [this guidance](http://dcs.library.virginia.edu/digital-stewardship-services/tei-encoding-guidelines/#cb).
