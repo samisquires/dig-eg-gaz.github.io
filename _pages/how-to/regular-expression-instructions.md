@@ -8,6 +8,10 @@ header:
 ---
 Regular expressions (regex) is a very useful means of working with serial data which repeats similar information using similar formats.
 
+## Using regex in Atom
+
+To put `<persName>` around passenger names in a list: find `Mr. [A-Z][a-z, 0-9]+,` replace with `<persName>$&</persName>`.
+
 ## Using regex in Microsoft word
 
 Say you are trying to make a table of the results that you exported from Oxygen.
