@@ -9,7 +9,7 @@ header:
 # IFS 2116 Fall 2016 directory
 
 Amorello|[Letters to the Editor in the 1905 Egyptian Gazette](2016/amorello-analysis)
-Barbosa|[Murder](2016/barbosa-analysis)
+Barbosa|[Murder](2016/barbosa-analysis)|archive
 Barrett|[Sports](2016/barrett-analysis)
 Black|[Investigating the Calendar of the Week](2016/black-analysis)
 Caliendo|[20th Century Smoking Culture](2016/caliendo-analysis)

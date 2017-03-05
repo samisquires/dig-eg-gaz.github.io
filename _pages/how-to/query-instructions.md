@@ -2,6 +2,7 @@
 layout: page
 title: Querying the digital Egyptian Gazette
 permalink: /how-to/query-instructions
+author: Will Hanley
 header:
   image_fullwidth: front-page.jpg
 ---
