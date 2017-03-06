@@ -232,6 +232,11 @@ This element often contains only a few changes from day to day.
 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/to-days-exchange-quotations.png?raw=true)
 
+### Vade Mecum for the Homeward Bound
+xml:id="deg-el-vmhb01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/vade-mecum.xml) This example is from December 5, 1905. Variations to be determined.
+
+![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/vade-mecum.jpg?raw=true)
+
 ### Weekly Postal Table
 xml:id="deg-el-wept01"
 [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/weekly-postal-table.xml) (produced by John White) Table xml:id="deg-ta-wept01"
