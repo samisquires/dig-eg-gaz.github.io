@@ -14,7 +14,7 @@ While parts of the *Egyptian Gazette* were composed fresh each day, much of each
 
 [This table](https://docs.google.com/spreadsheets/d/118Zv13fpHfm67i1k0Sm79OThV4ApD-d1iccvrpw1iYU/edit?authuser=0) lists items commonly present in issues of the *Egyptian Gazette*. For a given date, the page and column number are listed. [This powerpoint presentation](https://docs.google.com/presentation/d/1vMoj-5ktfUAsfXrEbQJqy8vSsKhYiVyGVIZZqefrJW0/edit?authuser=0) displays the content layout of several issues during the month of July 1905. (The main boilerplate is six pages long. On Wednesday and Saturday, when issues are eight pages, the extra pages are the fourth and fifth pages. Pages 6-8 of extended editions correspond to pages 4-6 of regular editions.)
 
-Advertisements and financial reports form the greatest part of the templated content, and each is dealt with in separate sections. The complete catalog of advertisements is [here](https://dig-eg-gaz.github.io/advertisements/). And the complete catalog of financial tables is [here](https://dig-eg-gaz.github.io/financial-tables/). Below we discuss a few other miscellaneous templates.
+Advertisements and financial reports form the greatest part of the templated content, and each is dealt with in separate sections. The complete catalog of advertisements is [here](https://dig-eg-gaz.github.io/advertisements/). And the complete catalog of financial tables and other boilerplates is [here](https://dig-eg-gaz.github.io/boilerplates-and-tables/). Below we discuss a few other miscellaneous templates.
 
 Once you've identified the relevant template, copy and paste the xml into your own file, then customize the template content to match your issue's content. **Important**: Only copy the material contained within the `<body> </body>` tags--the rest of the file should not appear in your issue file. To do so, select the text like this:
 
@@ -60,3 +60,8 @@ Change name, rank, post, and dates on the [xml template](https://github.com/dig-
 Add each advertisement as a `<div type="item">` within the section. xml:id="deg-el-cppa01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/cheap-prepaid-advertisements.xml)
 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/cheap-prepaid-advertisements.png?raw=true)
+
+### 7. Vade Mecum for the Homeward Bound
+This example is from December 5, 1905. Variations to be determined. xml:id="deg-el-vmhb01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/vade-mecum.xml)
+
+![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/vade-mecum.jpg?raw=true)

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Financial tables
-permalink: /financial-tables/
+title: Boilerplates and tables
+permalink: /boilerplates-and-tables/
 header:
   image_fullwidth: masthead.jpg
 ---

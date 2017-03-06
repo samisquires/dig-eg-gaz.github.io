@@ -14,8 +14,8 @@
     url: "/contents"
   - title: "Status by Week"
     url: "/weeks/"
-  - title: "Financial Tables"
-    url: "/financial-tables/"
+  - title: "Boilerplates and Tables"
+    url: "/boilerplates-and-tables/"
   - title: "Advertisements"
     url: "/advertisements"
 
