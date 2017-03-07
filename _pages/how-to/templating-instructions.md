@@ -62,6 +62,6 @@ Add each advertisement as a `<div type="item">` within the section. xml:id="deg-
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/cheap-prepaid-advertisements.png?raw=true)
 
 ### 7. Vade Mecum for the Homeward Bound
-This example is from December 5, 1905. Variations to be determined. xml:id="deg-el-vmhb01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/vade-mecum.xml)
+This full-page vacation advertising section features on the seventh page of many issues between December 1905 and April 1906. This example is from December 5, 1905. Variations from issue to issue appear to be minor. Individual ads are not given their own xml:ids, because they are consistently repeated. For the whole page: xml:id="deg-el-vmhb01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/vade-mecum.xml)
 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/vade-mecum.jpg?raw=true)
