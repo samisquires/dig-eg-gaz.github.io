@@ -9,8 +9,8 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 3|January 16, 1905|January 21, 1905|[Andres Acosta](https://github.com/aaa15g)|20/38|1|1|
 8|February 20, 1905|February 25, 1905|[Taj Ali](https://github.com/tajali016 )||3|5|
 9|February 27, 1905|March 4, 1905|[Jacob Baenen](https://github.com/JBaenen)|All|3|18|
-10|March 6, 1905|March 11, 1905|[Elizabeth Barrett](https://github.com/Ekb15fsu)|35/40|13|3|
-11|March 13, 1905|March 18, 1905|[Madison Bolton](https://github.com/madibolton)||||
+10|March 6, 1905|March 11, 1905|[Elizabeth Barrett](https://github.com/Ekb15fsu)|All|3|13|
+11|March 13, 1905|March 18, 1905|[Madison Bolton](https://github.com/madibolton)|7/48|1|1|
 12|March 20, 1905|March 25, 1905|[Jackson Boucher](https://github.com/jacksonboucher)||1|3|
 13|March 27, 1905|April 1, 1905|[Giselle Chacon](https://github.com/Gisellechacon)|32/40|1||
 31|July 31, 1905|August 5, 1905|[Tanner Doring](https://github.com/Tnd15b)|All|3|19|
@@ -18,8 +18,8 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 37|September 11, 1905|September 16, 1905|[Diana Fajardo](https://github.com/Dianafaj01)|16/40|3|5|
 49|December 4, 1905|December 9, 1905|[Katherine Ferguson](https://github.com/kf15b)|All|3|8|
 51|December 18, 1905|December 23, 1905|[Kevin Fitzpatrick](https://github.com/kf16)|46/48|1|2|
-1|January 2, 1906|January 6, 1906|[Madison Flick](https://github.com/mlf15c)|All|3|20|No issue published January 1
-2|January 8, 1906|January 13, 1906|[Antonino Fricano](https://github.com/ninofricano)|21/48|1|8|
+1|January 2, 1906|January 6, 1906|[Madison Flick](https://github.com/mlf15c)|All|4|24|No issue published January 1
+2|January 8, 1906|January 13, 1906|[Nino Fricano](https://github.com/ninofricano)|29/48|1|8|
 3|January 15, 1906|January 20, 1906|[Cameron Greco](https://github.com/cgreco1)||1|3|
 4|January 22, 1906|January 27, 1906|[Sadie Gruber](https://github.com/TheHatMage)||||
 5|January 29, 1906|February 3, 1906|[Olivia Hammermaster](https://github.com/livhammer)||1||
@@ -27,9 +27,9 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 7|February 12, 1906|February 17, 1906|[Michael Hensley](https://github.com/mch15d)||2||
 8|February 19, 1906|February 24, 1906|[Alexia Horton](https://github.com/Ahorton12)|All|6|17|
 9|February 26, 1906|March 3, 1906|[Jasmine Johnson](https://github.com/jkj16)||1|2|
-11|March 12, 1906|March 17, 1906|[Rosalyn Baxter](https://github.com/rosie-baxter)|15/48|2|14|
+11|March 12, 1906|March 17, 1906|[Rosalyn Baxter](https://github.com/rosie-baxter)|41/48|2|14|
 12|March 19, 1906|March 24, 1906|[Hanna Lashhab](https://github.com/hannalashhab)||||
-14|April 2, 1906|April 7, 1906|[Taylor Cwikla](https://github.com/cwiklata)|21|4|22|
+14|April 2, 1906|April 7, 1906|[Taylor Cwikla](https://github.com/cwiklata)|All|4|22|
 15|April 9, 1906|April 14, 1906|[Adrian Martinez](https://github.com/adrianmar01)|3|1|1|
 16|April 16, 1906|April 21, 1906|[Mia Meixner](https://github.com/Miameixner)|20/32|3|13|1906-04-16 issue lacking
 17|April 23, 1906|April 28, 1906|[Marsella Migdalski](https://github.com/MarsellaM)|21|2||
@@ -42,8 +42,8 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 24|June 11, 1906|June 16, 1906|[Isaac Parfait](https://github.com/hmSlim)||||
 25|June 18, 1906|June 23, 1906|[Katherine Parish](https://github.com/KParish22)||1|1|
 26|June 25, 1906|June 30, 1906|[William Pearce](https://github.com/willpearce1)|All|3|18|
-28|July 9, 1906|July 14, 1906|[Justin Petersen](https://github.com/Jjp15f)|26/40|3|20|
-29|July 16, 1906|July 21, 1906|[Carlos Rodriguez](https://github.com/CarlosRod77)||||
+28|July 9, 1906|July 14, 1906|[Justin Petersen](https://github.com/Jjp15f)|26/40|4|20|
+29|July 16, 1906|July 21, 1906|[Carlos Rodriguez](https://github.com/CarlosRod77)||2||
 30|July 23, 1906|July 28, 1906|[Gretchen Sandorf](https://github.com/gretchensandorf)|37/40|1||
 31|July 30, 1906|August 4, 1906|[Jaime Sepulveda](https://github.com/jsepulveda43)||1|2|
 33|August 13, 1906|August 18, 1906|[Quin Smith](https://github.com/quinelaine)||1|1|
