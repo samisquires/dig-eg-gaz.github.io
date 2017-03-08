@@ -8,10 +8,38 @@ header:
 ---
 We encode documents in XML to make their contents more searchable. Two main query (search) languages for XML are [XPath and XQuery](https://www.w3.org/TR/xpath-datamodel-30/). These instructions focus on XPath as used in the Oxygen XML editor.
 
+An XPath query is a series of terms (words) separated by slashes (/) and other punctuation. For example:
+
+`//div[@type="section"]/div/p[contains(., 'cotton')]`
+
 ## 1. Basic principles
+XPath asks you to do two things: specify **where** you want to search, and specify **what** you want to search for.
 
+#### "Where" searches
+We use XML to structure our issues of the *Egyptian Gazette* by page, section, item, and so on. For example, we use nesting pairs of tags to put `<div type="item"> </div>` inside `<div type="section"> </div>`, and `<div type="section"> </div>` inside `<div type="page"> </div>`.
 
-## 2. Searching across many files
+This structure is commonly described as a "tree." The root is the issue, which branches into six or eight pages, and each page branches into sections and items and paragraphs.
+
+An XPath query shows the tree parts separated slashes, starting from root and heading towards the branches, like so:
+
+`//div[@type="page"]/div[@type="section"]/div[@type="item"]/p`
+
+A double slash (**//**) tells the computer to look anywhere in the document for the item that comes next. A single slash (**/**) tells the computer to look only one level up the tree. What difference does this make?
+
+- `//div//p` would return any paragraph in any div in the whole document. This would not be a very good search, because it would return a huge number of results.
+- `//div/div/div/div/p` would return any paragraph that is inside four divisions (for instance, a paragraph in an item in a section in a page). This would return fewer results.
+
+The best way to say exactly where you want to look is by using **attributes**. These are contained in square brackets. For example, if you want to search for the paragraphs within page 1 only, you would say `//div[@type="page"][@n="1"]//p`. What goes in the square brackets is the attributes you put in the `<div>` tag when you're encoding the issues.
+
+With a little practice, you'll learn to search for results only in the relevant parts of the newspaper.
+
+#### "What" searches
+After you tell XPath *where* you want it to search, you can tell it *what* you want it to return. (This is optional.) Add a slash to the end of the location, then tell it you want
+- `count()` -- how many of these things are there?
+- `string()` -- what is the text this thing contains?
+- `number()` -- what number is found on this branch?
+
+## 2. Searching in Oxygen XML editor
 
 ### Searching your own files
 Open the file(s) that you wish to search in the Oxygen XML editor. Locate the XPath query box near the top left. You can return a list of elements using simple queries, which be displayed at the bottom of the editor. Click on any item in this list to be taken to that location in your file.
