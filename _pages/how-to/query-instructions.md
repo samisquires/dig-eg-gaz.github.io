@@ -15,7 +15,7 @@ An XPath query is a series of terms (words) separated by slashes (/) and other p
 ## 1. Basic principles
 XPath asks you to do two things: specify **where** you want to search, and specify **what** you want to search for.
 
-#### "Where" searches
+### "Where" searches
 We use XML to structure our issues of the *Egyptian Gazette* by page, section, item, and so on. For example, we use nesting pairs of tags to put `<div type="item"> </div>` inside `<div type="section"> </div>`, and `<div type="section"> </div>` inside `<div type="page"> </div>`.
 
 This structure is commonly described as a "tree." The root is the issue, which branches into six or eight pages, and each page branches into sections and items and paragraphs.
@@ -33,7 +33,7 @@ The best way to say exactly where you want to look is by using **attributes**. T
 
 With a little practice, you'll learn to search for results only in the relevant parts of the newspaper.
 
-#### "What" searches
+### "What" searches
 After you tell XPath *where* you want it to search, you can tell it *what* you want it to return. (This is optional.) Probably the most common thing to search for is a word or words. To do this, add `[contains(., "searchtext")]` to the end of your search, putting your search word(s) between the quotation marks. For example, `//div[contains(., "plague")]` will return all divs that contain the word "plague." Note that this search is case sensitive, so you may also want to search "PLAGUE" and "Plague." <!--- how to deal with case sensitive searches? --->
 
 You can also search for particular kinds of information. Add a slash to the end of the location, then tell it you want
@@ -90,9 +90,9 @@ The possibilities are endless. Here are some samples.
 - count the number of paragraphs in the division whose heading contains "MARCHE DE MINET": `count(//div/head[contains(.,'MARCHE DE MINET')]/following-sibling::p)`
 
 ## 7. Searching with regular expressions
-It is possible to combine regular expression and XPath searches by using the find/replace menu. <!--- explain further --->
+It is possible to combine regular expression and XPath searches by using the find/replace menu. Enter the regular expression you wish to search for in the Find box, and the XPath location in which you wish to search in the XPath box. <!--- explain further --->
 
-## 8. How do I export and manipulate results?
+## 8. Export and manipulate results
 Right click on results, then export file. You can then clean up these results with regular expressions to remove the parts you don't want. After this, you can work with the results in a spreadsheet.
 
 ## 9. Resources
