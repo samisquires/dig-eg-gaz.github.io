@@ -14,7 +14,7 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 12|March 20, 1905|March 25, 1905|[Jackson Boucher](https://github.com/jacksonboucher)||1|3|
 13|March 27, 1905|April 1, 1905|[Giselle Chacon](https://github.com/Gisellechacon)|32/40|1||
 31|July 31, 1905|August 5, 1905|[Tanner Doring](https://github.com/Tnd15b)|All|3|19|
-33|August 14, 1905|August 19, 1905|[Zach Reddick](https://github.com/znr13)|2/40|6|4|
+33|August 14, 1905|August 19, 1905|[Zach Reddick](https://github.com/znr13)|35/40|6|4|
 37|September 11, 1905|September 16, 1905|[Diana Fajardo](https://github.com/Dianafaj01)|16/40|3|5|
 49|December 4, 1905|December 9, 1905|[Katherine Ferguson](https://github.com/kf15b)|All|3|8|
 51|December 18, 1905|December 23, 1905|[Kevin Fitzpatrick](https://github.com/kf16)|46/48|1|2|
@@ -38,7 +38,7 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 20|May 14, 1906|May 19, 1906|[Joseph Ng](https://github.com/Josephng123)|20|1|5|
 21|May 21, 1906|May 26, 1906|[Sabrina Nuñez](https://github.com/sabrinanunez)||1|5|
 22|May 28, 1906|June 2, 1906|[Jordan Frazier](https://github.com/jordanfrazier97)|All|1|6|
-23|June 4, 1906|June 9, 1906|[William Ortiz](https://github.com/williamseortiz)||1|4|
+23|June 4, 1906|June 9, 1906|[William Ortiz](https://github.com/williamseortiz)|All|1|4|
 24|June 11, 1906|June 16, 1906|[Isaac Parfait](https://github.com/hmSlim)||||
 25|June 18, 1906|June 23, 1906|[Katherine Parish](https://github.com/KParish22)||1|1|
 26|June 25, 1906|June 30, 1906|[William Pearce](https://github.com/willpearce1)|All|3|18|
