@@ -26,7 +26,7 @@ cricket games. For the majority of this week, though, the section featured a reg
 Yacht Club. Unlike cricket, a regatta is a series of boat races, so I initially found its placement  
 in the newspaper odd, until reading this sub article:
 
-![Yachting in Alexandria](KHEDIVAL2.png)
+![Yachting in Alexandria](https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/blog-images/KHEDIVAL2.png?raw=true)
 
 Yachting has apparently found an audience in Alexandria's sporting community, so much so that private owners with  
 large money influences have begun to participate in races. (That is how I understand it at least.) I figured  
@@ -54,7 +54,7 @@ enjoyable social functions at the handsome club house."
 
 To conclude, here are the results of the week in question's regatta:
 
-![Regatta Results](KHEDIVAL3.png)
+![Regatta Results](https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/blog-images/KHEDIVAL3.png?raw=true)
 
 The Ananke, a privately owned craft favored by the newspaper to win the race in its class, could not withstand the wind and  
 waters that day, and had to forfeit the race.
