@@ -227,7 +227,7 @@
 
                       
 
-                      <li><a href="/financial-tables/">Financial Tables</a></li>
+                      <li><a href="/boilerplates-and-tables/">Boilerplates and Tables</a></li>
                     
 
                       
@@ -432,19 +432,43 @@
 <h1 id="page-2">Page 2</h1>
 <p>Advertisements, one column of content, masthead</p>
 
+<h3 id="daily-weather-report">Daily Weather Report</h3>
+<p>xml:id=”deg-el-dawr01” <a href="https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/daily-weather-report.xml">xml text</a> tables xml:id=”deg-ta-dawr01” xml:id=”deg-ta-dawr02” xml:id=”deg-ta-dawr03” xml:id=”deg-ta-dawr04”</p>
+
 <h1 id="page-3">Page 3</h1>
 <p>Miscellaneous articles, and</p>
 
 <h2 id="sections">Sections</h2>
-<p>Each of these sections (ought to) contain sub-items, most of them with headlines, often also bylines and datelines.
-- Wire reports (international news)
-- Local and General
-- Sporting News
-- Personal and Social
-- Notes from Port Said
-- Notes from Suez
-- Notes from the Sudan
-- Notes from Suakin</p>
+<p>Each of these sections (ought to) contain sub-items, most of them with headlines, often also bylines and datelines. <!-- I should make it a requirement that all sections contain xml:id -->
+- Wire reports (international news) <code class="highlighter-rouge">xml:id="deg-el-intl01"</code>: treat wire reports as individual divs (<code class="highlighter-rouge">type="wireReport"</code>), each with its own <code class="highlighter-rouge">&lt;dateline&gt;</code> and <code class="highlighter-rouge">&lt;title&gt;</code>.
+- Local and General <code class="highlighter-rouge">xml:id="deg-el-locl01"</code>: treat individual paragraphs as individual divs (<code class="highlighter-rouge">type="item"</code>), each with its own <code class="highlighter-rouge">&lt;head&gt;</code>
+- Sport and Play <code class="highlighter-rouge">xml:id="deg-el-spor01"</code>
+- Personal and Social <code class="highlighter-rouge">xml:id="deg-el-pers01"</code>
+- Notes from: Port Said <code class="highlighter-rouge">xml:id="deg-el-nf-port01"</code>, Suez <code class="highlighter-rouge">xml:id="deg-el-nf-suez01"</code>, Suakin <code class="highlighter-rouge">xml:id="deg-el-nf-suak01"</code>, Khartoum <code class="highlighter-rouge">xml:id="deg-el-nf-khrt01"</code>, Constantinople <code class="highlighter-rouge">xml:id="deg-el-nf-cnst01"</code>, Wadi Medani <code class="highlighter-rouge">xml:id="deg-el-nf-wame01"</code>, Assiout <code class="highlighter-rouge">xml:id="deg-el-nf-assi01"</code>, Luxor <code class="highlighter-rouge">xml:id="deg-el-nf-luxr01"</code>, Cyprus <code class="highlighter-rouge">xml:id="deg-el-nf-cypr01"</code>, Minet el Gamh <code class="highlighter-rouge">xml:id="deg-el-nf-miga01"</code>, Fayoum <code class="highlighter-rouge">xml:id="deg-el-nf-faym01"</code>, the Sudan <code class="highlighter-rouge">xml:id="deg-el-nf-sudn01"</code>, Kafr Zayat <code class="highlighter-rouge">xml:id="deg-el-nf-kfrz01"</code>, Mena <code class="highlighter-rouge">xml:id="deg-el-nf-mena01"</code>, Helouan <code class="highlighter-rouge">xml:id="deg-el-nf-hlwn01"</code>, Keneh <code class="highlighter-rouge">xml:id="deg-el-nf-kena01"</code>
+- Passenger List <code class="highlighter-rouge">xml:id="deg-el-plst01"</code>
+<!-- Constantinople notes --></p>
+
+<ul>
+  <li>
+    <p>Letters to the Editor <code class="highlighter-rouge">xml:id="deg-el-lett01"</code></p>
+  </li>
+  <li>
+    <p>Native Press Comments <code class="highlighter-rouge">xml:id="deg-el-napc01"</code></p>
+  </li>
+  <li>
+    <p>The Khedive <code class="highlighter-rouge">xml:id="deg-el-khed01"</code></p>
+  </li>
+</ul>
+
+<p>Steamer Movements
+Army and Navy
+Egyptian Army</p>
+
+<h1 id="page-4">Page 4</h1>
+<ul>
+  <li>Chronique Financiere <code class="highlighter-rouge">xml:id="deg-el-chrf01"</code></li>
+  <li>Chronique Judiciare <code class="highlighter-rouge">xml:id="deg-el-chrj01"</code></li>
+</ul>
 
 			</div>
 

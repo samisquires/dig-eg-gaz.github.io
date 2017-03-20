@@ -227,7 +227,7 @@
 
                       
 
-                      <li><a href="/financial-tables/">Financial Tables</a></li>
+                      <li><a href="/boilerplates-and-tables/">Boilerplates and Tables</a></li>
                     
 
                       
@@ -426,10 +426,52 @@
 			
 
 			<div itemprop="articleSection">
-			<h2 id="searching-your-own-files">Searching your own files</h2>
+			<p>We encode documents in XML to make their contents more searchable. Two main query (search) languages for XML are <a href="https://www.w3.org/TR/xpath-datamodel-30/">XPath and XQuery</a>. These instructions focus on XPath as used in the Oxygen XML editor.</p>
 
+<p>An XPath query is a series of terms (words) separated by slashes (/) and other punctuation. For example:</p>
+
+<p><code class="highlighter-rouge">//div[@type="section"]/div/p[contains(., 'cotton')]</code></p>
+
+<h2 id="basic-principles">1. Basic principles</h2>
+<p>XPath asks you to do two things: specify <strong>where</strong> you want to search, and specify <strong>what</strong> you want to search for.</p>
+
+<h3 id="where-searches">“Where” searches</h3>
+<p>We use XML to structure our issues of the <em>Egyptian Gazette</em> by page, section, item, and so on. For example, we use nesting pairs of tags to put <code class="highlighter-rouge">&lt;div type="item"&gt; &lt;/div&gt;</code> inside <code class="highlighter-rouge">&lt;div type="section"&gt; &lt;/div&gt;</code>, and <code class="highlighter-rouge">&lt;div type="section"&gt; &lt;/div&gt;</code> inside <code class="highlighter-rouge">&lt;div type="page"&gt; &lt;/div&gt;</code>.</p>
+
+<p>This structure is commonly described as a “tree.” The root is the issue, which branches into six or eight pages, and each page branches into sections and items and paragraphs.</p>
+
+<p>An XPath query shows the tree parts separated slashes, starting from root and heading towards the branches, like so:</p>
+
+<p><code class="highlighter-rouge">//div[@type="page"]/div[@type="section"]/div[@type="item"]/p</code></p>
+
+<p>A double slash (<strong>//</strong>) tells the computer to look anywhere in the document for the item that comes next. A single slash (<strong>/</strong>) tells the computer to look only one level up the tree. What difference does this make?</p>
+
+<ul>
+  <li><code class="highlighter-rouge">//div//head</code> would return any headline in any div in the whole document. This would not be a very good search, because it would return a huge number of results.</li>
+  <li><code class="highlighter-rouge">//div/div/div/div/head</code> would return any paragraph that is inside four divisions (for instance, a paragraph in an item in a section in a page). This would return fewer results.</li>
+</ul>
+
+<p>The best way to say exactly where you want to look is by using <strong>attributes</strong>. These are contained in square brackets. For example, if you want to search for the headlines within page 1 only, you would say <code class="highlighter-rouge">//div[@type="page"][@n="1"]//head</code>. What goes in the square brackets is the attributes you put in the <code class="highlighter-rouge">&lt;div&gt;</code> tag when you’re encoding the issues.</p>
+
+<p>With a little practice, you’ll learn to search for results only in the relevant parts of the newspaper.</p>
+
+<h3 id="what-searches">“What” searches</h3>
+<p>After you tell XPath <em>where</em> you want it to search, you can tell it <em>what</em> you want it to return. (This is optional.) Probably the most common thing to search for is a word or words. To do this, add <code class="highlighter-rouge">[contains(., "searchtext")]</code> to the end of your search, putting your search word(s) between the quotation marks. For example, <code class="highlighter-rouge">//div[contains(., "plague")]</code> will return all divs that contain the word “plague.” Note that this search is case sensitive, so you may also want to search “PLAGUE” and “Plague.” <!--- how to deal with case sensitive searches? ---></p>
+
+<p>You can also search for particular kinds of information. Add a slash to the end of the location, then tell it you want
+- <code class="highlighter-rouge">count()</code> – how many of these things are there?
+- <code class="highlighter-rouge">string()</code> – what is the string of text this thing contains?
+- <code class="highlighter-rouge">number()</code> – what number is found on this branch?</p>
+
+<h2 id="searching-in-oxygen-xml-editor">2. Searching in Oxygen XML editor</h2>
+
+<h3 id="searching-your-own-files">Searching your own files</h3>
 <p>Open the file(s) that you wish to search in the Oxygen XML editor. Locate the XPath query box near the top left. You can return a list of elements using simple queries, which be displayed at the bottom of the editor. Click on any item in this list to be taken to that location in your file.</p>
 
+<h3 id="searching-the-full-contents-of-the-digital-egyptian-gazette">Searching the full contents of the digital Egyptian Gazette</h3>
+<p>To search everything in the <a href="https://github.com/dig-eg-gaz/content">Digital Egyptian Gazette content repository</a>, you will have to use Oxygen’s project function. Create a new project, then right click to add a folder–this should be a copy of the content repository on your local computer. (If you don’t have one, download it from Github). Then change the icon at the left edge of the query box to search project.</p>
+
+<h2 id="basic-searches">3. Basic searches</h2>
 <ul>
   <li>a list of all the “divs” in your file: <code class="highlighter-rouge">//div</code></li>
   <li>a list of all the item-type divs in your file: <code class="highlighter-rouge">//div[@type="item"]</code></li>
@@ -437,38 +479,37 @@
   <li>all tagged names of persons or places in the files: <code class="highlighter-rouge">//persName</code> or <code class="highlighter-rouge">//placeName</code></li>
 </ul>
 
-<!--- how to deal with case sensitive searches? --->
+<h2 id="navigating-the-tree">4. Navigating the tree</h2>
+<p>You can navigate around the tree by using commands like <code class="highlighter-rouge">parent::</code> or <code class="highlighter-rouge">following-sibling::</code> instead of the slash. These will move you up and down the tree.</p>
 
-<h2 id="searching-the-full-contents-of-the-digital-egyptian-gazette">Searching the full contents of the digital Egyptian Gazette</h2>
+<p>For example:
+- Return all datelines contained in a “wireReport” div type: <code class="highlighter-rouge">//div[@type="wireReport"]/parent::div//dateline</code>
+- Return all placeNames in wireReports: <code class="highlighter-rouge">//div[@type="wireReport"]/parent::div//dateline//placeName</code></p>
 
-<p>To search everything in the <a href="https://github.com/dig-eg-gaz/content">Digital Egyptian Gazette content repository</a>, you will have to use Oxygen’s project function. Create a new project, then right click to add a folder–this should be a copy of the content repository on your local computer. (If you don’t have one, download it from Github). Then change the icon at the left edge of the query box to search project.</p>
+<h3 id="search-using-xmlid">Search using xml:id</h3>
+<p>Many ads, templates, and sections have <code class="highlighter-rouge">xml:id</code>s embedded in them. These are meant to simplify your search. For elements, use <code class="highlighter-rouge">//div[@xml:id="deg-el-cppa01"]</code>. For tables, use <code class="highlighter-rouge">//table[@xml:id="deg-ta-cppa01"]</code>.</p>
 
-<p>This will return lots of results. It will be useful for you to refine these somewhat, using expressions such as:</p>
-
-<h3 id="searching-for-instances-of-particular-words">Searching for instances of particular words</h3>
-<ul>
-  <li>Return all placename items that contain the word “Aden”: <code class="highlighter-rouge">//placeName[contains(.,'Aden')]</code></li>
-</ul>
-
-<h3 id="searching-for-specific-item-types">Searching for specific item types</h3>
-<ul>
-  <li>Return all datelines contained in a “wireReport” div type: <code class="highlighter-rouge">//div/@type[contains(.,'wireReport')]/parent::div//dateline</code></li>
-  <li>Return all placeNames in wireReports: <code class="highlighter-rouge">//div/@type[contains(.,'wireReport')]/parent::div//dateline//placeName</code></li>
-</ul>
-
-<h3 id="return-specific-numbers-and-text">Return specific numbers and text</h3>
-<ul>
-  <li>return the text contained in the cell after a cell containing the text “P.T.” <code class="highlighter-rouge">//table//cell[contains(.,'P.T.')]/following-sibling::cell[1]/text()</code>. Does not work for numbers, it seems.</li>
-  <li>return the number contained in the cell after a cell containing the text “Augment.” <code class="highlighter-rouge">//table//cell[contains(.,'Augment.')]/following-sibling::cell[1]/number()</code>. Does not work if number appears as a string (i.e. contains a comma after the thousands for example).</li>
-  <li>return the string contained in the cell after a cell containing the text “Augment.” <code class="highlighter-rouge">//table//cell[contains(.,'Augment.')]/following-sibling::cell[1]/string()</code></li>
-  <li>return the string text of the first paragraph of the div with the heading “MARCHE DE MINET” <code class="highlighter-rouge">//div//head[contains(.,'MARCHE DE MINET')]/following-sibling::p[1]/string()</code></li>
-</ul>
+<h2 id="working-with-tables">5. Working with tables</h2>
+<p>Tables are a powerful part of the XML-encoded <em>Egyptian Gazette</em>. XPath gives us tools to return precise parts of the information these tables contain. For example:
+- return the text contained in the cell after a cell containing the text “P.T.” <code class="highlighter-rouge">//table//cell[contains(.,'P.T.')]/following-sibling::cell[1]/text()</code>. Does not work for numbers, it seems.
+- return the number contained in the cell after a cell containing the text “Augment.” <code class="highlighter-rouge">//table//cell[contains(.,'Augment.')]/following-sibling::cell[1]/number()</code>. Does not work if number appears as a string (i.e. contains a comma after the thousands for example).
+- return the string contained in the cell after a cell containing the text “Augment.” <code class="highlighter-rouge">//table//cell[contains(.,'Augment.')]/following-sibling::cell[1]/string()</code>
+- return the string text of the first paragraph of the div with the heading “MARCHE DE MINET” <code class="highlighter-rouge">//div//head[contains(.,'MARCHE DE MINET')]/following-sibling::p[1]/string()</code>
+- return the value of the “when” attribute of dates in the third line of the Orient-Royal Mail Line ad: <code class="highlighter-rouge">//div[@xml:id="deg-ad-orm01"]//head/following-sibling::p[3]/date/@when</code></p>
 
 <p>An example of working your way through table cells, looking at prices for cotton:</p>
 
 <ul>
   <li>This query will look at all tables and return the value in the fourth cell to the right of the cell containing the word “Cotton”: <code class="highlighter-rouge">//table//cell[contains(.,'Cotton')]/following-sibling::cell[4]</code></li>
   <li>This query will look at the “Coton” table (which has an xml:id of “deg-ta-cotn01”), and return the value in the cell to the right of the cell containing the word “Russie”:  <code class="highlighter-rouge">//table[@xml:id="deg-ta-cotn01"]//cell[contains(.,'Russie')]/following-sibling::cell[1]</code></li>
+</ul>
+
+<h2 id="recipe-book">6. Recipe book</h2>
+<p>The possibilities are endless. Here are some samples.</p>
+
+<h3 id="searching-for-instances-of-particular-words">Searching for instances of particular words</h3>
+<ul>
+  <li>Return all placename items that contain the word “Aden”: <code class="highlighter-rouge">//placeName[contains(.,'Aden')]</code></li>
 </ul>
 
 <h3 id="counting-instances">Counting instances</h3>
@@ -478,27 +519,19 @@
   <li>count the number of paragraphs in the division whose heading contains “MARCHE DE MINET”: <code class="highlighter-rouge">count(//div/head[contains(.,'MARCHE DE MINET')]/following-sibling::p)</code></li>
 </ul>
 
-<h3 id="searching-with-regular-expressions">Searching with regular expressions</h3>
-<p>It is possible to combine regular expression and xpath searches by using the find/replace menu. <!--- explain further ---></p>
+<h2 id="searching-with-regular-expressions">7. Searching with regular expressions</h2>
+<p>It is possible to combine regular expression and XPath searches by using the find/replace menu. Enter the regular expression you wish to search for in the Find box, and the XPath location in which you wish to search in the XPath box. <!--- explain further ---></p>
 
-<h2 id="how-do-i-search-using-xmlid">How do I search using xml:id?</h2>
+<h2 id="export-and-manipulate-results">8. Export and manipulate results</h2>
+<p>Right click on results, then export file. You can then clean up these results with regular expressions to remove the parts you don’t want. After this, you can work with the results in a spreadsheet.</p>
 
-<p>For elements, use <code class="highlighter-rouge">//div[@xml:id="deg-el-cppa01"]</code>. For tables, use <code class="highlighter-rouge">//table[@xml:id="deg-ta-cppa01"]</code>.</p>
-
-<h2 id="how-do-i-export-and-manipulate-results">How do I export and manipulate results?</h2>
-
-<p>Right click on results, then export file. You can then clean up these results with regular expressions, to remove the parts you don’t want. After this, you can work with the results in a spreadsheet.</p>
-
-<h2 id="resources">Resources</h2>
-
+<h2 id="resources">9. Resources</h2>
 <ul>
   <li><a href="http://www.w3schools.com/xml/xsl_functions.asp">XPath functions list</a></li>
   <li><a href="https://www.w3.org/TR/2010/REC-xpath-functions-20101214/#func-number">W3C XPath functions list</a></li>
   <li><a href="http://www.w3schools.com/xml/xpath_intro.asp">XPath tutorial</a></li>
   <li>Got a question or comment? File an issue <a href="https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/_pages/how-to/query-instructions.md">here</a>.</li>
 </ul>
-
-<h2 id="recipes">Recipes</h2>
 
 			</div>
 

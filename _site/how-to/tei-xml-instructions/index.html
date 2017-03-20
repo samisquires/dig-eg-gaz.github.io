@@ -227,7 +227,7 @@
 
                       
 
-                      <li><a href="/financial-tables/">Financial Tables</a></li>
+                      <li><a href="/boilerplates-and-tables/">Boilerplates and Tables</a></li>
                     
 
                       
@@ -450,10 +450,9 @@
 <p>At the top right hand corner of your editing window in Oxygen, there is a square that will be either red or green. If it’s green, your document is well-formed, which means that it conforms to TEI XML standards and will be searchable and useable. If it’s red, the file contains errors that you must fix before you submit it. The errors appear as red lines on the right hand scrolling column. Click on a line to see the error described at the bottom of your editing screen.</p>
 
 <h2 id="fork-the-organization-content-repository-and-save-to-github">6. Fork the organization content repository and save to GitHub</h2>
-
 <p>Once you’ve completed some of the structural tagging of your page, it’s time to save it to GitHub. We’re going to use the “fork” and “pull” functions of GitHub to do this. First, “<strong>fork</strong>” the <a href="https://github.com/dig-eg-gaz/content">dig-eg-gaz/content</a> repository by clicking on the “fork” icon on the top right. You will be offered the chance to fork the repository under your own username–do so. This will make a copy of the repository in your own GitHub account, in which you should save your .xml page files. Later, when your page files are complete, you can fold them back into the organization content repository by sending me a <strong>pull request</strong>. You do this by clicking the “new pull request” button the top left above your list of files. I will then see the pull request and either merge your files into the organization’s content or request that you change something before doing so.</p>
 
-<h2 id="common-errors">6. Common errors</h2>
+<h2 id="common-errors">7. Common errors</h2>
 <ul>
   <li><strong>&amp;</strong>: the ampersand is represented as <code class="highlighter-rouge">&amp;amp;</code> in xml. <code class="highlighter-rouge">&amp;</code> alone will create an error.</li>
   <li><strong>&gt;</strong> or <strong>&lt;</strong>: the OCR process produces stray angle brackets. The editor thinks these are part of a xml tag, and it causes an error.</li>
@@ -461,7 +460,7 @@
   <li>doubled <code class="highlighter-rouge"><span class="cp">&lt;?xml version="1.0" encoding="UTF-8"?&gt;</span></code> lines at the opening of the xml document.</li>
 </ul>
 
-<h2 id="add-more-complex-tags">7. Add more complex tags</h2>
+<h2 id="add-more-complex-structural-tags">8. Add more complex structural tags</h2>
 <p>There are more tags that you can add:
 - If the article or item is in French, add the attribute <code class="highlighter-rouge">xml:lang="fr"</code> to the <code class="highlighter-rouge">&lt;div&gt;</code> tag.
 - <strong><code class="highlighter-rouge">&lt;cb/&gt;</code></strong> for column breaks. Be sure to put this tag at the <em>beginning</em> of the column. Add the number of the column, as well, thus: <code class="highlighter-rouge">&lt;cb n="1"/&gt;</code> For mixed columns, see <a href="http://dcs.library.virginia.edu/digital-stewardship-services/tei-encoding-guidelines/#cb">this guidance</a>.
@@ -471,6 +470,8 @@
 - <strong><code class="highlighter-rouge">&lt;gap/&gt;</code></strong> for holes in the text, <strong><code class="highlighter-rouge">&lt;unclear&gt;</code></strong> for illegible text (you can supply an attribute explaining why), and <strong><code class="highlighter-rouge">&lt;supplied&gt;</code></strong> for something that was illegible but which you figured out by finding the same thing in a different issue.
 - pieces of articles that are continuous texts broken up by ads or between issues should be connected using xml:id and the next and prev elements, thus: if the articles are in the same issue, make their tags <code class="highlighter-rouge">&lt;div type="item" xml:id="item1" next="item2"&gt;</code> and <code class="highlighter-rouge">&lt;div type="item" xml:id="item2" prev="item1"&gt;</code>. If the articles are in different issues, make their tags <code class="highlighter-rouge">&lt;div type="item" xml:id="item1" next="YYYY-MM-DD.xml#item2"&gt;</code> and <code class="highlighter-rouge">&lt;div type="item" xml:id="item2" prev="YYYY-MM-DD.xml#item1"&gt;</code>.
 - the <strong><code class="highlighter-rouge">&lt;figure&gt;</code></strong> element will be useful for the <em>Egyptian Gazette</em>, but I have not yet worked out how to use it.</p>
+
+<h2 id="add-content-tags">9. Add content tags</h2>
 
 <h2 id="resources">Resources</h2>
 <ul>
