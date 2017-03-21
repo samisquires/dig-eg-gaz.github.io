@@ -24,9 +24,12 @@ Each of these sections (ought to) contain sub-items, most of them with headlines
 - Local and General `xml:id="deg-el-locl01"`: treat individual paragraphs as individual divs (`type="item"`), each with its own `<head>`
 - Sport and Play `xml:id="deg-el-spor01"`
 - Personal and Social `xml:id="deg-el-pers01"`
-- Notes from: Port Said `xml:id="deg-el-nf-port01"`, Suez `xml:id="deg-el-nf-suez01"`, Suakin `xml:id="deg-el-nf-suak01"`, Khartoum `xml:id="deg-el-nf-khrt01"`, Constantinople `xml:id="deg-el-nf-cnst01"`, Wadi Medani `xml:id="deg-el-nf-wame01"`, Assiout `xml:id="deg-el-nf-assi01"`, Luxor `xml:id="deg-el-nf-luxr01"`, Cyprus `xml:id="deg-el-nf-cypr01"`, Minet el Gamh `xml:id="deg-el-nf-miga01"`, Fayoum `xml:id="deg-el-nf-faym01"`, the Sudan `xml:id="deg-el-nf-sudn01"`, Kafr Zayat `xml:id="deg-el-nf-kfrz01"`, Mena `xml:id="deg-el-nf-mena01"`, Helouan `xml:id="deg-el-nf-hlwn01"`, Keneh `xml:id="deg-el-nf-kena01"`
+- Notes from: Port Said `xml:id="deg-el-nf-port01"`, Suez `xml:id="deg-el-nf-suez01"`, Suakin `xml:id="deg-el-nf-suak01"`, Khartoum `xml:id="deg-el-nf-khrt01"`, Constantinople `xml:id="deg-el-nf-cnst01"`(also including Constantinople Notes), Wadi Medani `xml:id="deg-el-nf-wame01"`, Assiout `xml:id="deg-el-nf-assi01"`, Luxor `xml:id="deg-el-nf-luxr01"`, Cyprus `xml:id="deg-el-nf-cypr01"`, Minet el Gamh `xml:id="deg-el-nf-miga01"`, Fayoum `xml:id="deg-el-nf-faym01"`, the Sudan `xml:id="deg-el-nf-sudn01"`, Kafr Zayat `xml:id="deg-el-nf-kfrz01"`, Mena `xml:id="deg-el-nf-mena01"`, Helouan `xml:id="deg-el-nf-hlwn01"`, Keneh `xml:id="deg-el-nf-kena01"`
+
+Fayoum Notes.
+
 - Passenger List `xml:id="deg-el-plst01"`
-<!-- Constantinople notes -->
+- Visitors' List
 
 - Letters to the Editor `xml:id="deg-el-lett01"`
 
@@ -34,10 +37,29 @@ Each of these sections (ought to) contain sub-items, most of them with headlines
 
 - The Khedive `xml:id="deg-el-khed01"`
 
-Steamer Movements
-Army and Navy
-Egyptian Army
+- Steamer Movements `xml:id="deg-el-stmr01"`
+
+- Army and Navy `xml:id="deg-el-army01"`
+- Egyptian Army `xml:id="deg-el-egar01"`
+
+- Our London Letter `xml:id="deg-el-lonl01"`
+- Our Paris Letter `xml:id="deg-el-parl01"`
+
+- To-day's telegrams
+
+- Legal Notes
+
+- Questions municipalites
+
+- Pith of the Press Comments
+- Esbekieh Gardens
 
 # Page 4
 - Chronique Financiere `xml:id="deg-el-chrf01"`
 - Chronique Judiciare `xml:id="deg-el-chrj01"`
+- Shipping Movements `xml:id="deg-el-ship01"`
+- Mouvement Maritime
+- Council of Ministers
+
+# Page 5
+- Matters of Moment
