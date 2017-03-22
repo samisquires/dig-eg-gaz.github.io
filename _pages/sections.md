@@ -9,30 +9,30 @@ header:
 Most of the sections listed below (ought to) contain sub-items, most of them with headlines, often also bylines and datelines. <!-- I should make it a requirement that all sections contain xml:id -->
 
 Section name|xml:id|Usual page|Notes
-[Advertisements](https://dig-eg-gaz.github.io/advertisements/)|various|1,2|Use templates
-[Daily Weather Report](https://dig-eg-gaz.github.io/boilerplates-and-tables/#daily-weather-report)|`deg-el-dawr01`|2|[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/daily-weather-report.xml)
-Wire reports (international news)|`deg-el-intl01`|3|There is typically no heading for this section. Treat wire reports as individual divs (`type="wireReport"`), each with its own `<dateline>` and `<title>`.
-Local and General|`deg-el-locl01`|3|treat individual paragraphs as individual divs (`type="item"`), each with its own `<head>`
-Sport and Play|`deg-el-spor01`|3|Treat contents as items, each with own headline.
-Personal and Social|`deg-el-pers01`|3|Treat contents as paragraphs
-[Calendar of Coming Events](https://dig-eg-gaz.github.io/boilerplates-and-tables/#calendar-of-coming-events)|`deg-el-coce01`|2-3|see [template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/calendar-of-coming-events.xml) for format
-Passenger List|`deg-el-plst01`|3|Treat arrivals and departures as items.
-Visitors' List|`deg-el-vlst01`|3|Treat each hotel as an item.
-Letters to the Editor|`deg-el-lett01`|3|Treat each letter as an item, with `<byline>` and `<dateline>`
-Native Press Comments|`deg-el-napc01`||
-The Khedive|`deg-el-khed01`|3|
-Steamer Movements|`deg-el-stmr01`||Treat contents as paragraphs.
-Army and Navy / Army of Occupation|`deg-el-army01`||
-Egyptian Army|`deg-el-egar01`||
-Our London Letter|`deg-el-lonl01`||
-Our Paris Letter|`deg-el-parl01`||
-Egyptian Share Market|`deg-el-egsh01`||
-Bulletin de la bourse|`deg-el-bdlb01`||French language
-Chronique Financiere|`deg-el-chrf01`|4|French language
-Chronique Judiciare|`deg-el-chrj01`|4|French language
-Shipping Movements|`deg-el-ship01`|4|
-Mouvement Maritime|`deg-el-moma01`|4|French language
-Council of Ministers|`deg-el-cmin"`|4|
+**[Advertisements](https://dig-eg-gaz.github.io/advertisements/)** |various|1,2|Use templates
+**[Daily Weather Report](https://dig-eg-gaz.github.io/boilerplates-and-tables/#daily-weather-report)** |`deg-el-dawr01`|2|[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/daily-weather-report.xml)
+**Telegrams / Wire Reports** (international news)|`deg-el-wire01`|2,3|Sometimes appears as "To-day's telegrams", but typically there is no heading for this section. Treat wire reports as individual divs (`type="wireReport"`), each with its own `<dateline>` and `<title>`. This section is sometimes spread over two pages; when this is the case, add the attribute `next="deg-el-wire02"` to the first `<div>` tag, and use `<div type="section" xml:id="deg-el-wire02" prev="deg-el-wire01">` for the second section.
+**Local and General** |`deg-el-locl01`|3|treat individual paragraphs as individual divs (`type="item"`), each with its own `<head>`
+**Sport and Play** |`deg-el-spor01`|3|Treat contents as items, each with own headline.
+**Personal and Social** |`deg-el-pers01`|3|Treat contents as paragraphs
+**[Calendar of Coming Events](https://dig-eg-gaz.github.io/boilerplates-and-tables/#calendar-of-coming-events)** |`deg-el-coce01`|2-3|see [template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/calendar-of-coming-events.xml) for format
+**Passenger List** |`deg-el-plst01`|3|Treat arrivals and departures as items.
+**Visitors' List** |`deg-el-vlst01`|3|Treat each hotel as an item.
+**Letters to the Editor** |`deg-el-lett01`|3|Treat each letter as an item, with `<byline>` and `<dateline>`
+**Native Press Comments** |`deg-el-napc01`||
+**The Khedive** |`deg-el-khed01`|3|
+**Steamer Movements** |`deg-el-stmr01`||Treat contents as paragraphs.
+**Army and Navy / Army of Occupation** |`deg-el-army01`||
+**Egyptian Army** |`deg-el-egar01`||
+**Our London Letter** |`deg-el-lonl01`||
+**Our Paris Letter** |`deg-el-parl01`||
+**Egyptian Share Market** |`deg-el-egsh01`||
+**Bulletin de la bourse** |`deg-el-bdlb01`||French language
+**Chronique Financiere** |`deg-el-chrf01`|4|French language
+**Chronique Judiciare** |`deg-el-chrj01`|4|French language
+**Shipping Movements** |`deg-el-ship01`|4|
+**Mouvement Maritime** |`deg-el-moma01`|4|French language
+**Council of Ministers** |`deg-el-cmin"`|4|
 
 ## "Notes from" section:
 These notes typically appear on page 3. They are sourced to "Our Own Correspondent". Treat individual stories as `<div type="item">`, each with its own `<head>`. It is not always clear how many stories belong to the section.
@@ -56,7 +56,6 @@ Helouan|`deg-el-nf-hlwn01`
 Keneh|`deg-el-nf-kena01`
 
 Others:
-- To-day's telegrams
 - Legal Notes
 - Questions municipales
 - Pith of the Press Comments
