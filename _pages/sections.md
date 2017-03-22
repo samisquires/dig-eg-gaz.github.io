@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Structure
-permalink: /structure/
+title: Sections
+permalink: /sections/
 header:
   image_fullwidth: front-page.jpg
 ---
