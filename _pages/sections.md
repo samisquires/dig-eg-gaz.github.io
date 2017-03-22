@@ -36,6 +36,7 @@ Council of Ministers|`deg-el-cmin"`|4|
 
 ## "Notes from" section:
 These notes typically appear on page 3. They are sourced to "Our Own Correspondent". Treat individual stories as `<div type="item">`, each with its own `<head>`. It is not always clear how many stories belong to the section.
+
 Place|xml:id|Notes
 Port Said|`deg-el-nf-port01`|
 Suez|`deg-el-nf-suez01`
