@@ -164,6 +164,10 @@ xml text: [cfe01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [cgg01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cgg01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cgg01-Champagne-George-Goulet.png?raw=true)
 
+### cgh01 Cairo Grand Hammam
+xml text: [cgh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cgg01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cgh01-cairo-grand-hammam.png?raw=true)
+
 ### chl01 Chlorodyne
 xml text: [chl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/chl01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/chl01-Chlorodyne.png?raw=true)
@@ -415,6 +419,10 @@ xml text: [isr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### jbc01 John B Caffari’s Economical Stores
 xml text: [jbc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/jbc01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/jbc01-John-B-Caffaris-Economical-Stores.png?raw=true)
+
+### jco01 Joseph Comas
+xml text: [jco01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/jes01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/jco01-joseph-comas.png?raw=true)
 
 ### jes01 Joseph Evans Sons
 xml text: [jes01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/jes01.xml)
