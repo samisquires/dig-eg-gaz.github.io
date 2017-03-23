@@ -12,6 +12,8 @@ Regular expressions (regex) is a very useful means of working with serial data w
 
 To put `<persName>` around passenger names in a list: find `Mr. [A-Z][a-z, 0-9]+,` replace with `<persName>$&</persName>`.
 
+To convert `<p>Budapest, January 4.</p>` to `<dateline>Budapest, January 4.</dateline>`: find `<p>[A-Z][a-z]+, [A-Z][a-z]+ [0-9]+\.<\/p>` and replace with `<dateline>$&</dateline>`.
+
 ## Using regex in Microsoft word
 
 Say you are trying to make a table of the results that you exported from Oxygen.

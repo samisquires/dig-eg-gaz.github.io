@@ -23,6 +23,30 @@ In addition to the tags offered by the [TEI P5 guidelines](http://www.tei-c.org/
 - wireReport
 - advert
 
+### Element
+- weather: Daily Weather Report
+- wire: Telegrams
+- local: Local and General
+- sport: Sport and Play
+- social: Personal and Social
+- coce: Calendar of Coming Events
+- pass: Passenger List
+- visit: Visitors' List
+- letters: Letters to the Editor
+- khedive: The Khedive
+- army: Army and Navy / Army of Occupation / Egyptian Army / Naval Notes
+- londonLetter: Our London Letter
+- parisLetter: Our Paris Letter
+- notesPortSaid: Notes from Port Said
+- notesSuez: Notes from Suez
+- notesSuakin: Notes from Suakin
+- notesKhartoum: Notes from Khartoum
+- notesConstantinople: Notes from Constantinople
+- notesCyprus: Notes from Cyprus
+- notesSudan: Notes from the Sudan
+- notesFayoum: Notes from Fayoum
+- notesOther: Notes from other places
+
 ### Scope
 - advertisement
 - international
@@ -51,30 +75,6 @@ In addition to the tags offered by the [TEI P5 guidelines](http://www.tei-c.org/
 ### Source
 - local
 - wire
-
-### Element
-- weather: Daily Weather Report
-- wire: Telegrams
-- local: Local and General
-- sport: Sport and Play
-- social: Personal and Social
-- coce: Calendar of Coming Events
-- pass: Passenger List
-- visit: Visitors' List
-- letters: Letters to the Editor
-- khedive: The Khedive
-- army: Army and Navy / Army of Occupation / Egyptian Army / Naval Notes
-- londonLetter: Our London Letter
-- parisLetter: Our Paris Letter
-- notesPortSaid: Notes from Port Said
-- notesSuez: Notes from Suez
-- notesSuakin: Notes from Suakin
-- notesKhartoum: Notes from Khartoum
-- notesConstantinople: Notes from Constantinople
-- notesCyprus: Notes from Cyprus
-- notesSudan: Notes from the Sudan
-- notesFayoum: Notes from Fayoum
-- notesOther: Notes from other places
 
 ## `<measure>` attributes
 
