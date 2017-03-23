@@ -11,9 +11,9 @@ The schema expressed in relaxNG compact (made from .odd files using the [Roma to
 
 In addition to the tags offered by the [TEI P5 guidelines](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html), the customized schema employs the following terms.
 
-# `<div>` attributes
+## `<div>` attributes
 
-# Type
+### Type
 - masthead
 - page
 - section
@@ -23,7 +23,7 @@ In addition to the tags offered by the [TEI P5 guidelines](http://www.tei-c.org/
 - wireReport
 - advert
 
-# Scope
+### Scope
 - advertisement
 - international
 - local
@@ -41,18 +41,18 @@ In addition to the tags offered by the [TEI P5 guidelines](http://www.tei-c.org/
 - announcements
 - municipality
 
-# Site
+### Site
 - Alexandria
 - Cairo
 - Suez
 - Port Said
 - Suakin
 
-# Source
+### Source
 - local
 - wire
 
-# Element
+### Element
 - weather: Daily Weather Report
 - wire: Telegrams
 - local: Local and General
@@ -76,9 +76,9 @@ In addition to the tags offered by the [TEI P5 guidelines](http://www.tei-c.org/
 - notesFayoum: Notes from Fayoum
 - notesOther: Notes from other places
 
-# `<measure>` attributes
+## `<measure>` attributes
 
-## Units
+### Units
 - tal: Talari
 - cantar: qantar
 - £: British Pounds Sterling
@@ -96,12 +96,12 @@ In addition to the tags offered by the [TEI P5 guidelines](http://www.tei-c.org/
 - $: US dollars
 - sack: sacks
 
-## Commodity
+### Commodity
 - currency
 
-## Type
+### Type
 - indexNo: number corresponding to indexing system for newspaper elements, especially paid advertisements
 
-# Columns
+## Columns
 - cols: Specifies the number of columns in a given section
 - colSpan: Used to specifies the width of a div which spans multiple columns and cannot be accurately described using the cols and cb elements.
