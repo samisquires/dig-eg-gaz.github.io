@@ -6,13 +6,13 @@ header:
   image_fullwidth: front-page.jpg
 ---
 
-Most of the sections listed below (ought to) contain sub-items, most of them with headlines, often also bylines and datelines. <!-- I should make it a requirement that all sections contain xml:id -->
+Most of the sections listed below (ought to) contain sub-items, most of them with headlines, often also bylines and datelines. These sections are identified using the `element=` attribute.
 
 Section name|element (or deprecated xml:id)|Usual page|Notes
 **[Advertisements](https://dig-eg-gaz.github.io/advertisements/)** |various|1,2|Use templates
 **[Daily Weather Report](https://dig-eg-gaz.github.io/boilerplates-and-tables/#daily-weather-report)** |`deg-el-dawr01`|2|[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/daily-weather-report.xml)
-**Telegrams / Wire Reports** (international news)|"wire"|2,3|Sometimes appears as "To-day's telegrams", but typically there is no heading for this section. Treat wire reports as individual divs (`type="wireReport"`), each with its own `<dateline>` and `<title>`. This section is sometimes spread over two pages; when this is the case, add the attribute `next="deg-el-wire02"` to the first `<div>` tag, and use `<div type="section" xml:id="deg-el-wire02" prev="deg-el-wire01">` for the second section.
-**Local and General** |"local"|3|treat individual paragraphs as individual divs (`type="item"`), each with its own `<head>`
+**Telegrams / Wire Reports** (international news)|"wire"|2,3|Sometimes appears as "To-day's telegrams", but typically there is no heading for this section. Treat wire reports as individual divs (`type="wireReport"`), each with its own `<dateline>` and `<title>`. This section is sometimes spread over two pages; when this is the case, you can use the `next` and `prev` attributes.
+**Local and General** |"local"|3|treat individual paragraphs as individual divs (`type="item"`), each with its own `<head>`.
 **Sport and Play** |"sport"|3|Treat contents as items, each with own headline.
 **Personal and Social** |"social"|3|Treat contents as paragraphs
 **[Calendar of Coming Events](https://dig-eg-gaz.github.io/boilerplates-and-tables/#calendar-of-coming-events)** |`deg-el-coce01`|2-3|see [template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/calendar-of-coming-events.xml) for format
