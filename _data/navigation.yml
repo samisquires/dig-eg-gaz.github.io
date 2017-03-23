@@ -50,6 +50,8 @@
     url: "https://docs.google.com/document/d/142jYs2uAe8RhPSjnogT7NZm9VcYOGi6mCbOyDQnv-EI/edit?usp=sharing"
   - title: "GitHub"
     url: "https://github.com/dig-eg-gaz"
+  - title: "Schema"
+    url: "/schema/"
   - title: "Changelog"
     url: "/changelog/"
   - title: "Roadmap"

@@ -5,6 +5,11 @@ permalink: /schema/
 header:
   image_fullwidth: front-page.jpg
 ---
+This page describes the schema used in the Digital Egyptian Gazette project, which lives [here](https://github.com/dig-eg-gaz/resources/blob/master/egSchema.odd) in [ODD (‘One Document Does it All’)](http://www.tei-c.org/Guidelines/Customization/odds.xml) format.
+
+The schema expressed in relaxNG compact (made from .odd files using the [Roma tool](http://www.tei-c.org/Roma/) at [TEI-c.org.](http://www.tei-c.org/Roma/)) is [here](https://github.com/dig-eg-gaz/resources/blob/master/egSchema.rnc). It can be validated against by using the URL [https://raw.githubusercontent.com/dig-eg-gaz/resources/master/egSchema.rnc](https://raw.githubusercontent.com/dig-eg-gaz/resources/master/egSchema.rnc) in an XML editor.
+
+In addition to the tags offered by the [TEI P5 guidelines](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html), the customized schema employs the following terms.
 
 # `<div>` attributes
 
