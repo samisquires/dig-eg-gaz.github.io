@@ -16,19 +16,20 @@ Section name|element (or deprecated xml:id)|Usual page|Notes
 **Sport and Play** |"sport"|3|Treat contents as items, each with own headline.
 **Personal and Social** |"social"|3|Treat contents as paragraphs
 **[Calendar of Coming Events](https://dig-eg-gaz.github.io/boilerplates-and-tables/#calendar-of-coming-events)** |`deg-el-coce01`|2-3|see [template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/calendar-of-coming-events.xml) for format
-**Passenger List** |"passList"|3|Treat arrivals and departures as items.
+**Passenger List** |"passList"|3,4,5,6,7|Treat arrivals and departures as items.
 **Visitors' List** |"visitList"|3|Treat each hotel as an item.
 **Letters to the Editor** |"letters"|3|Treat each letter as an item, with `<byline>` and `<dateline>`
-**Native Press Comments** |"nativePress"||
+**Native Press Comments** |"nativePress"|3|
 **Matters of Moment. Pith of the Press Comments.** |"mattersMoment"|5|
 **The Khedive** |"khedive"|3|
-**Steamer Movements** |"steamerMovement"||Treat contents as paragraphs.
-**Shipping Movements** |"shippingMovement"|4|
+**Steamer Movements** |"steamerMovements"|3|Treat contents as paragraphs.
+**Shipping Movements** |"shippingMovements"|4|
 **Mouvement Maritime** |"mouvementMaritime"|4|French language
-**Army and Navy / Army of Occupation / Egyptian Army** |"army"||
-**Naval Notes** |"navalNotes"||
-**Our London Letter** |"londonLetter"||
-**Our Paris Letter** |"parisLetter"||
+**Army and Navy / Army of Occupation / Egyptian Army** |"army"|3,4,5,7|
+**Naval Notes** |"navalNotes"|3|
+**Our London Letter** |"londonLetter"|7|
+**Our Paris Letter** |"parisLetter"|7|
+**Cheap Prepaid Advertisements** |"prepaidAdvertisements"|2,5,7|Section template [here](https://dig-eg-gaz.github.io/boilerplates-and-tables/#cheap-prepaid-advertisements). Treat each advertisement as an item.
 **Egyptian Share Market** |`deg-el-egsh01`||
 **Bulletin de la bourse** |`deg-el-bdlb01`||French language
 **Chronique Financiere** |`deg-el-chrf01`|4|French language

@@ -43,6 +43,7 @@ In addition to the tags offered by the [TEI P5 guidelines](http://www.tei-c.org/
 - mouvementMaritime: Mouvement Maritime
 - londonLetter: Our London Letter
 - parisLetter: Our Paris Letter
+- prepaidAdvertisements: Cheap Prepaid advertisements
 - notesPortSaid: Notes from Port Said
 - notesSuez: Notes from Suez
 - notesSuakin: Notes from Suakin

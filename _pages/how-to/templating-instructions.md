@@ -56,12 +56,7 @@ Change name, rank, post, and dates on the [xml template](https://github.com/dig-
 
 ![Claims against the estate](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/claims-against-the-estate.png?raw=true)
 
-### 6. Cheap Prepaid Advertisements
-Add each advertisement as a `<div type="item">` within the section. xml:id="deg-el-cppa01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/cheap-prepaid-advertisements.xml)
-
-![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/cheap-prepaid-advertisements.png?raw=true)
-
-### 7. Vade Mecum for the Homeward Bound
+### 6. Vade Mecum for the Homeward Bound
 This full-page vacation advertising section features on the seventh page of many issues between December 1905 and April 1906. This example is from December 5, 1905. Variations from issue to issue appear to be minor. Individual ads are not given their own xml:ids, because they are consistently repeated. For the whole page: xml:id="deg-el-vmhb01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/vade-mecum.xml)
 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/vade-mecum.jpg?raw=true)
