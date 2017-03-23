@@ -19,7 +19,8 @@ Section name|element (or deprecated xml:id)|Usual page|Notes
 **Passenger List** |"passList"|3|Treat arrivals and departures as items.
 **Visitors' List** |"visitList"|3|Treat each hotel as an item.
 **Letters to the Editor** |"letters"|3|Treat each letter as an item, with `<byline>` and `<dateline>`
-**Native Press Comments** |`deg-el-napc01`||
+**Native Press Comments** |"nativePress"||
+**Matters of Moment. Pith of the Press Comments.** |"mattersMoment"|5|
 **The Khedive** |"khedive"|3|
 **Steamer Movements** |"steamerMovement"||Treat contents as paragraphs.
 **Shipping Movements** |"shippingMovement"|4|
@@ -54,8 +55,6 @@ Other|"notesOther"|Notes from Akhmin, Keneh, Kafr Zayat, Minet el Gamh, Wadi Med
 Others:
 - Legal Notes
 - Questions municipales
-- Pith of the Press Comments
 - Esbekieh Gardens
-- Matters of Moment
 - Egyptological Notes
 - Cheap Advertisements
