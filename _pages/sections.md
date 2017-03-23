@@ -46,15 +46,10 @@ Cyprus|"notesCyprus"
 The Sudan|"notesSudan"
 Suakin|"notesSuakin"
 Khartoum|"notesKhartoum"
-Wadi Medani|`deg-el-nf-wame01`
-Assiout|`deg-el-nf-assi01`
-Luxor|`deg-el-nf-luxr01`|also appears as Luxor Notes
-Minet el Gamh|`deg-el-nf-miga01`
-Kafr Zayat|`deg-el-nf-kfrz01`
-Mena|`deg-el-nf-mena01`
-Helouan|`deg-el-nf-hlwn01`
-Keneh|`deg-el-nf-kena01`
-Akhmin|`deg-el-nf-akhm01`
+Assiout|"notesAssiout"
+Luxor|"notesLuxor"|also appears as Luxor Notes
+Kafr Zayat|"notesKafrZayat"
+Other|"notesOther"|Notes from Akhmin, Keneh, Kafr Zayat, Minet el Gamh, Wadi Medani, and other places in Egypt
 
 Others:
 - Legal Notes
