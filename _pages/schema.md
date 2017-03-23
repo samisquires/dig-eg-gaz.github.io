@@ -61,7 +61,7 @@ In addition to the tags offered by the [TEI P5 guidelines](http://www.tei-c.org/
 - coce: Calendar of Coming Events
 - pass: Passenger List
 - visit: Visitors' List
-- letter: Letters to the Editor
+- letters: Letters to the Editor
 - khedive: The Khedive
 - army: Army and Navy / Army of Occupation / Egyptian Army / Naval Notes
 - londonLetter: Our London Letter

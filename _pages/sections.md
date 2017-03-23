@@ -18,7 +18,7 @@ Section name|element (or deprecated xml:id)|Usual page|Notes
 **[Calendar of Coming Events](https://dig-eg-gaz.github.io/boilerplates-and-tables/#calendar-of-coming-events)** |`deg-el-coce01`|2-3|see [template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/calendar-of-coming-events.xml) for format
 **Passenger List** |`deg-el-plst01`|3|Treat arrivals and departures as items.
 **Visitors' List** |`deg-el-vlst01`|3|Treat each hotel as an item.
-**Letters to the Editor** |`deg-el-lett01`|3|Treat each letter as an item, with `<byline>` and `<dateline>`
+**Letters to the Editor** |"letters"|3|Treat each letter as an item, with `<byline>` and `<dateline>`
 **Native Press Comments** |`deg-el-napc01`||
 **The Khedive** |`deg-el-khed01`|3|
 **Steamer Movements** |`deg-el-stmr01`||Treat contents as paragraphs.
@@ -64,3 +64,4 @@ Others:
 - Matters of Moment
 - Naval Notes
 - Egyptological Notes
+- Cheap Advertisements

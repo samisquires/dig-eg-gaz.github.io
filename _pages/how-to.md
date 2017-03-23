@@ -16,7 +16,7 @@ header:
 1. [How to use a plain text editor](text-editor-instructions)
 7. [How to perform content markup](tagging-people-and-places-instructions)
 8. [How to query the full contents](query-instructions)
-9. [How to use regular expressions](regular-expressions-instructions)
+9. [How to use regular expressions](regular-expression-instructions)
 
 ## Course-specific instructions
 
