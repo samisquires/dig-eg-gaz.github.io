@@ -30,11 +30,17 @@ In addition to the tags offered by the [TEI P5 guidelines](http://www.tei-c.org/
 - sport: Sport and Play
 - social: Personal and Social
 - coce: Calendar of Coming Events
-- pass: Passenger List
-- visit: Visitors' List
+- passList: Passenger List
+- visitList: Visitors' List
 - letters: Letters to the Editor
+- mattersMoment: Matters of Moment. Pith of the Press Comments.
+- nativePress: Native Press Comments
 - khedive: The Khedive
-- army: Army and Navy / Army of Occupation / Egyptian Army / Naval Notes
+- army: Army and Navy / Army of Occupation / Egyptian Army
+- shippingMovement: Shipping Movement
+- steamerMovement: Steamer Movement
+- navalNotes: Naval Notes
+- mouvementMaritime: Mouvement Maritime
 - londonLetter: Our London Letter
 - parisLetter: Our Paris Letter
 - notesPortSaid: Notes from Port Said
@@ -45,7 +51,7 @@ In addition to the tags offered by the [TEI P5 guidelines](http://www.tei-c.org/
 - notesCyprus: Notes from Cyprus
 - notesSudan: Notes from the Sudan
 - notesFayoum: Notes from Fayoum
-- notesOther: Notes from other places
+- notesOther: Notes from other places in Egypt
 
 ### Scope
 - advertisement
