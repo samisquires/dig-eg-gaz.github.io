@@ -5,7 +5,7 @@ permalink: /templates/
 header:
   image_fullwidth: masthead.jpg
 ---
-Many elements in the *Egyptian Gazette* were produced using boilerplates. This page's database contains a complete set of these elements. Use the images and links to text below, or consult the separate [database](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-db.tsv), [XML files](https://github.com/dig-eg-gaz/boilerplates/tree/master/boilerplates-text), or [image files](https://github.com/dig-eg-gaz/boilerplates/tree/master/boilerplates-images). - [Table boilerplates](https://github.com/dig-eg-gaz/boilerplates) - copy and paste for standard-format tables, then fill in the details that change from issue to issue.
+Many elements in the *Egyptian Gazette* were produced using boilerplates. This page's database contains a complete set of these elements. Use the images and links to text below, or consult the separate directories of [XML files](https://github.com/dig-eg-gaz/boilerplates/tree/master/boilerplates-text) and [image files](https://github.com/dig-eg-gaz/boilerplates/tree/master/boilerplates-images). Copy and paste for standard-format elements, then fill in the details that change from issue to issue.
 
 <div class="panel radius" markdown="1">
 **List of Templates**
