@@ -14,14 +14,14 @@ In addition to the tags offered by the [TEI P5 guidelines](http://www.tei-c.org/
 ## `<div>` attributes
 
 ### Type
-- masthead
-- page
-- section
-- subsection
-- article
-- item
-- wireReport
-- advert
+- masthead: use for the first page of the paper only
+- page: always use the `n=""` attribute
+- item: the default and most generic `div` type
+- section: a `div` containing other `div`s, typically of the `item` type.
+- subsection: a `div` within a `section` itself containing other `div`s, typically of the `item` type.
+- article: use for longer pieces
+- wireReport: a single wire report with a `<dateline>` and the name of the wireservice (typically Reuters or Havas)
+- advert: any advertisement; templates are listed [here](https://dig-eg-gaz.github.io/advertisements)
 
 ### Element
 - weather: Daily Weather Report
@@ -29,13 +29,14 @@ In addition to the tags offered by the [TEI P5 guidelines](http://www.tei-c.org/
 - local: Local and General
 - sport: Sport and Play
 - social: Personal and Social
-- coce: Calendar of Coming Events
+- comingEvents: Calendar of Coming Events
 - passList: Passenger List
 - visitList: Visitors' List
 - letters: Letters to the Editor
 - mattersMoment: Matters of Moment. Pith of the Press Comments.
 - nativePress: Native Press Comments
 - khedive: The Khedive
+- esbekieh: Esbekieh Gardens
 - army: Army and Navy / Army of Occupation / Egyptian Army
 - shippingMovement: Shipping Movement
 - steamerMovement: Steamer Movement
@@ -44,6 +45,9 @@ In addition to the tags offered by the [TEI P5 guidelines](http://www.tei-c.org/
 - londonLetter: Our London Letter
 - parisLetter: Our Paris Letter
 - prepaidAdvertisements: Cheap Prepaid advertisements
+- bulletinBourse: Bulletin de la bulletin
+- councilMinisters: Council of Ministers
+- shareMarket: Egyptian Share Market
 - notesPortSaid: Notes from Port Said
 - notesSuez: Notes from Suez
 - notesSuakin: Notes from Suakin

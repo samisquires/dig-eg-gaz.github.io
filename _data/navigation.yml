@@ -14,10 +14,10 @@
     url: "/contents"
   - title: "Status by Week"
     url: "/weeks/"
-  - title: "Section Structure"
+  - title: "Elements"
     url: "/sections/"
-  - title: "Boilerplates and Tables"
-    url: "/boilerplates-and-tables/"
+  - title: "Templates"
+    url: "/templates/"
   - title: "Advertisements"
     url: "/advertisements"
 
