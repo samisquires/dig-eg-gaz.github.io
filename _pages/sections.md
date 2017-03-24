@@ -10,8 +10,8 @@ Most of the sections listed below (ought to) contain sub-items, most of them wit
 
 Section name|element (or deprecated xml:id)|Usual page(s)|Notes
 **[Advertisements](https://dig-eg-gaz.github.io/advertisements/)** |various|1,2|Use [templates](https://dig-eg-gaz.github.io/advertisements/)
-**[Daily Weather Report](https://dig-eg-gaz.github.io/boilerplates-and-tables/#daily-weather-report)** |`deg-el-dawr01`|2|[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/daily-weather-report.xml)
-**[Calendar of Coming Events](https://dig-eg-gaz.github.io/boilerplates-and-tables/#calendar-of-coming-events)** |`deg-el-coce01`|2-3|see [template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/calendar-of-coming-events.xml) for format
+**[Daily Weather Report](https://dig-eg-gaz.github.io/boilerplates-and-tables/#daily-weather-report)** |"weather"|2|[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/daily-weather-report.xml)
+**[Calendar of Coming Events](https://dig-eg-gaz.github.io/boilerplates-and-tables/#calendar-of-coming-events)** |"comingEvents"|2-3|see [template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/calendar-of-coming-events.xml) for format
 **Telegrams / Wire Reports** (international news)|"wire"|2,3|Sometimes appears as "To-day's telegrams", but typically there is no heading for this section. Treat wire reports as individual divs (`type="wireReport"`), each with its own `<dateline>` and `<title>`. This section is sometimes spread over two pages; when this is the case, you can use the `next` and `prev` attributes.
 **Local and General** |"local"|3|treat individual paragraphs as individual divs (`type="item"`), each with its own `<head>`.
 **Sport and Play** |"sport"|3|Treat contents as items, each with own headline.
