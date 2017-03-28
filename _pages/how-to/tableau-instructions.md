@@ -1,7 +1,11 @@
 ---
+layout: page
 title: Tableau and Data Visualization Tutorial
+permalink: /how-to/tableau-instructions
 author: Zachary Reddick
 date: 2017-03-28
+header:
+  image_fullwidth: front-page.jpg
 ---
 ## Installation:
 1. A free trial of Tableau online is available for download [here](https://www.tableau.com/products/trial).
@@ -35,7 +39,7 @@ analyze data.
 
 4. The resulting data from each of these queries will be quite raw. We can use [Regular Expressions](https://dig-eg-gaz.github.io/how-to/regular-expression-instructions/) to clean up our data before putting it into Tableau.
 
-5. The ![spreadsheet](cotton-exports.xlsx) we create should contain the following variables: Month, Country, and Total Cotton Export (Bales).
+5. The [spreadsheet](https://raw.githubusercontent.com/dig-eg-gaz/samples/master/cotton-exports.xlsx) we create should contain the following variables: Month, Country, and Total Cotton Export (Bales).
 
 6. Now that we have data representing cotton exports to monthly totals and where they are being shipped to we want to visualize this data.
 
@@ -43,17 +47,17 @@ analyze data.
 
 8. While in the Data Source interface, change the “Month” column from string to date value by Clicking on the “Abc” icon and selecting “Date” from the drop down menu. Set the “Country” column's geographic role to "Country/Region". At the bottom, click Sheet 1.
 
-9. After dragging and dropping the “Total Cotton Export (Bales)” cell in the row slot, place the “Month” cell in the column slot, under Marks select “Bar”. ![Cotton Exports](1905-cotton-export-total) The resulting visual gives us an annual total of exports, but we can go deeper.
+9. After dragging and dropping the “Total Cotton Export (Bales)” cell in the row slot, place the “Month” cell in the column slot, under Marks select “Bar”. ![Cotton Exports](https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/1905-cotton-export-total.png?raw=true) The resulting visual gives us an annual total of exports, but we can go deeper.
 
-10. In the column slot, click the “Date” cell and select “Month”. This provides a clearer representation of fluctuations in the cotton export value during the year. If we select the second “Month” in the drop down menu it provides a visualization that includes zero value months.![Cotton Exports](1905-monthly-cotton-exports.png)
+10. In the column slot, click the “Date” cell and select “Month”. This provides a clearer representation of fluctuations in the cotton export value during the year. If we select the second “Month” in the drop down menu it provides a visualization that includes zero value months.![Cotton Exports](https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/1905-monthly-cotton-exports.png?raw=true)
 
 11. In the "Marks" box select "Label", and click the box next to "Show Mark Labels". Now our data is effectively communicating the monthly totals of cotton exports. Now let's incorporate each destination to further increase the accuracy of the data.
 
-12. Drag and drop the "Country" cell into the Color box. Now we can see that a majority of the cotton exported every month was shipped to England ![Cotton Exports](cotton-exports-by-country).
+12. Drag and drop the "Country" cell into the Color box. Now we can see that a majority of the cotton exported every month was shipped to England ![Cotton Exports](https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/cotton-exports-by-country.png?raw=true).
 
-13. For a simpler comparative drag and drop the "Country" cell into the Filters box, click none, then select which countries you want to compare. For now let's look at the difference between cotton exports to England and France ![Cotton Exports to England and France](cotton-exports-england-france).
+13. For a simpler comparative drag and drop the "Country" cell into the Filters box, click none, then select which countries you want to compare. For now let's look at the difference between cotton exports to England and France ![Cotton Exports to England and France](https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/cotton-exports-england-france.png?raw=true).
 
-14. To create a different kind of visualization clear the Columns and Rows then drag and drop the "Country" cell into the Columns slot and "Total Cotton Export" into the Rows slot. On the right hand side of the interface click "Show Me", and select the Symbol Map option. The resulting image depicts the amount of comparative cotton exported to each location. ![Global Cotton Exports](global-cotton-exports)
+14. To create a different kind of visualization clear the Columns and Rows then drag and drop the "Country" cell into the Columns slot and "Total Cotton Export" into the Rows slot. On the right hand side of the interface click "Show Me", and select the Symbol Map option. The resulting image depicts the amount of comparative cotton exported to each location. ![Global Cotton Exports](https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/global-cotton-exports.png?raw=true)
 
 15. To save our visualizations, click “Story”, “New Story”. Drag the desired sheet to the designated location. Click “Story”, “Export Image”.
 
