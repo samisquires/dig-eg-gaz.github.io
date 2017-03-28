@@ -52,12 +52,10 @@ The resulting visual gives us an annual total of exports, but we can go deeper.
 13. For a simpler comparative drag and drop the "Country" cell into the Filters box, click none, then select which countries you want to compare. For now let's look at the difference between cotton exports to England and France
 ![Cotton Exports to England and France](https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/tableau-cotton-exports-england-france.png?raw=true).
 
-14. To create a different kind of visualization clear the Columns and Rows then drag and drop the "Country" cell into the Columns slot and "Total Cotton Export" into the Rows slot. On the right hand side of the interface click "Show Me", and select the Symbol Map option. The resulting image depicts the amount of comparative cotton exported to each location.
+14. To create a different kind of visualization clear the Columns and Rows then drag and drop the "Country" cell into the Columns slot and "Total Cotton Export" into the Rows slot. (You may need to remove the filter to display all countries). On the right hand side of the interface click "Show Me", and select the Symbol Map option. The resulting image depicts the amount of comparative cotton exported to each location.
 ![Global Cotton Exports](https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/tableau-global-cotton-exports.png?raw=true)
 
 15. To save our visualizations, click “Story”, “New Story”. Drag the desired sheet to the designated location. Click “Story”, “Export Image”.
 
-
 ## Conclusion:
-
 Tableau is great for creating visualisations from your data, but it also is useful for data exploration. When we create data visualisations it is important to remember to keep graphics simple and self-explanatory. For independent data exploration, however, we can try simple as well as complex approaches. Experiment with your data in the software to not only create graphics, but to see how different visualisations help you think about your research.

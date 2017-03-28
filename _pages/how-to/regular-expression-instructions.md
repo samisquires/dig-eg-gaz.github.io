@@ -14,6 +14,22 @@ To put `<persName>` around passenger names in a list: find `Mr. [A-Z][a-z, 0-9]+
 
 To convert `<p>Budapest, January 4.</p>` to `<dateline>Budapest, January 4.</dateline>`: find `<p>[A-Z][a-z]+, [A-Z][a-z]+ [0-9]+\.<\/p>` and replace with `<dateline>$&</dateline>`.
 
+## Cleaning XPath results
+
+1. Select all, copy, and paste results into atom text editor.
+
+2. Open find and replace. Click the Regex option, then use this line to remove some of the results:
+Find `XPath location: .+\nStart location: .+\nEnd location: .+\n\nSystem ID: `
+Replace with (leave empty). Click Replace All.
+
+3. Remove the file location that precedes the issue date:
+Find `/Users/whanley/GitHub/DEG-content/` (this will be different on your computer--just select everything that comes before the date filename)
+Replace with (leave empty). Click Replace All.
+
+4. Find `.xml\nDescription: `, Replace with `\t`. Replace All.
+
+5. You'll have a bit of garbage left over at the beginning and end of the file. Delete this. Now you will have 
+
 ## Using regex in Microsoft word
 
 Say you are trying to make a table of the results that you exported from Oxygen.
