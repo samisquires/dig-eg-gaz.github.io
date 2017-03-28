@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tableau and Data Visualization Tutorial
-permalink: /how-to/tableau-instructions
+permalink: /how-to/tableau-instructions/
 author: Zachary Reddick
 date: 2017-03-28
 header:
