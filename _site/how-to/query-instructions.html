@@ -227,7 +227,12 @@
 
                       
 
-                      <li><a href="/boilerplates-and-tables/">Boilerplates and Tables</a></li>
+                      <li><a href="/elements/">Elements</a></li>
+                    
+
+                      
+
+                      <li><a href="/templates/">Templates</a></li>
                     
 
                       
@@ -325,6 +330,11 @@
                       
 
                       <li><a href="https://github.com/dig-eg-gaz" target="_blank">GitHub</a></li>
+                    
+
+                      
+
+                      <li><a href="/schema/">Schema</a></li>
                     
 
                       
@@ -525,7 +535,21 @@
 <h2 id="export-and-manipulate-results">8. Export and manipulate results</h2>
 <p>Right click on results, then export file. You can then clean up these results with regular expressions to remove the parts you don’t want. After this, you can work with the results in a spreadsheet.</p>
 
-<h2 id="resources">9. Resources</h2>
+<h2 id="xquery">9. XQuery</h2>
+<p>More complex querying can be accomplished using XQuery.</p>
+
+<p>Example, returning the date of every issue with a page 7:
+<code class="highlighter-rouge">for $a in collection("file:/Users/whanley/GitHub/DEG-content/?select=1905-*.xml;recurse=yes")
+where $a//*:div[@n="7"]
+return $a//*:bibl/*:date</code></p>
+
+<p>Identify six versus eight page issues:
+<code class="highlighter-rouge">for $a in collection("file:/Users/whanley/GitHub/DEG-content/?select=1905-*.xml;recurse=yes")
+return if ($a//*:div[@n="7"])
+then &lt;eight-page&gt;{data($a//*:bibl/*:date)}&lt;/eight-page&gt;
+else &lt;six-page&gt;{data($a//*:bibl/*:date)}&lt;/six-page&gt;</code></p>
+
+<h2 id="resources">10. Resources</h2>
 <ul>
   <li><a href="http://www.w3schools.com/xml/xsl_functions.asp">XPath functions list</a></li>
   <li><a href="https://www.w3.org/TR/2010/REC-xpath-functions-20101214/#func-number">W3C XPath functions list</a></li>

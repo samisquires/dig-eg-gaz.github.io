@@ -227,7 +227,12 @@
 
                       
 
-                      <li><a href="/boilerplates-and-tables/">Boilerplates and Tables</a></li>
+                      <li><a href="/elements/">Elements</a></li>
+                    
+
+                      
+
+                      <li><a href="/templates/">Templates</a></li>
                     
 
                       
@@ -325,6 +330,11 @@
                       
 
                       <li><a href="https://github.com/dig-eg-gaz" target="_blank">GitHub</a></li>
+                    
+
+                      
+
+                      <li><a href="/schema/">Schema</a></li>
                     
 
                       
@@ -428,13 +438,13 @@
 			<div itemprop="articleSection">
 			<h2 id="objectives">Objectives</h2>
 
-<p>While parts of the <em>Egyptian Gazette</em> were composed fresh each day, much of each issue consisted of templates reapplied with minor or no modifications from issue to issue. As we produce our marked-up version of the newspaper, we can save efforts by reusing templates in our own work. We must remain alert to minor variations, however.</p>
+<p>While <a href="https://dig-eg-gaz.github.io/elements/">elements</a> of the <em>Egyptian Gazette</em> were composed fresh each day, much of each issue consisted of templates reapplied with minor or no modifications from issue to issue. As we produce our marked-up version of the newspaper, we can save efforts by reusing templates in our own work. We must remain alert to minor variations, however.</p>
 
 <h2 id="recurring-elements">Recurring elements</h2>
 
 <p><a href="https://docs.google.com/spreadsheets/d/118Zv13fpHfm67i1k0Sm79OThV4ApD-d1iccvrpw1iYU/edit?authuser=0">This table</a> lists items commonly present in issues of the <em>Egyptian Gazette</em>. For a given date, the page and column number are listed. <a href="https://docs.google.com/presentation/d/1vMoj-5ktfUAsfXrEbQJqy8vSsKhYiVyGVIZZqefrJW0/edit?authuser=0">This powerpoint presentation</a> displays the content layout of several issues during the month of July 1905. (The main boilerplate is six pages long. On Wednesday and Saturday, when issues are eight pages, the extra pages are the fourth and fifth pages. Pages 6-8 of extended editions correspond to pages 4-6 of regular editions.)</p>
 
-<p>Advertisements and financial reports form the greatest part of the templated content, and each is dealt with in separate sections. The complete catalog of advertisements is <a href="https://dig-eg-gaz.github.io/advertisements/">here</a>. And the complete catalog of financial tables and other boilerplates is <a href="https://dig-eg-gaz.github.io/boilerplates-and-tables/">here</a>. Below we discuss a few other miscellaneous templates.</p>
+<p>Advertisements and financial reports form the greatest part of the templated content, and each is dealt with in separate sections. The complete catalog of advertisements is <a href="https://dig-eg-gaz.github.io/advertisements/">here</a>. And the complete catalog of financial tables and other boilerplates is <a href="https://dig-eg-gaz.github.io/templates/">here</a>. For a general summary of recurring elements, see the tables <a href="https://dig-eg-gaz.github.io/elements/">here</a>. Below we discuss a few other miscellaneous templates.</p>
 
 <p>Once you’ve identified the relevant template, copy and paste the xml into your own file, then customize the template content to match your issue’s content. <strong>Important</strong>: Only copy the material contained within the <code class="highlighter-rouge">&lt;body&gt; &lt;/body&gt;</code> tags–the rest of the file should not appear in your issue file. To do so, select the text like this:</p>
 
@@ -476,12 +486,7 @@
 
 <p><img src="https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/claims-against-the-estate.png?raw=true" alt="Claims against the estate" /></p>
 
-<h3 id="cheap-prepaid-advertisements">6. Cheap Prepaid Advertisements</h3>
-<p>Add each advertisement as a <code class="highlighter-rouge">&lt;div type="item"&gt;</code> within the section. xml:id=”deg-el-cppa01” <a href="https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/cheap-prepaid-advertisements.xml">xml text</a></p>
-
-<p><img src="https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/cheap-prepaid-advertisements.png?raw=true" alt="Link to image" /></p>
-
-<h3 id="vade-mecum-for-the-homeward-bound">7. Vade Mecum for the Homeward Bound</h3>
+<h3 id="vade-mecum-for-the-homeward-bound">6. Vade Mecum for the Homeward Bound</h3>
 <p>This full-page vacation advertising section features on the seventh page of many issues between December 1905 and April 1906. This example is from December 5, 1905. Variations from issue to issue appear to be minor. Individual ads are not given their own xml:ids, because they are consistently repeated. For the whole page: xml:id=”deg-el-vmhb01” <a href="https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/vade-mecum.xml">xml text</a></p>
 
 <p><img src="https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/vade-mecum.jpg?raw=true" alt="Link to image" /></p>

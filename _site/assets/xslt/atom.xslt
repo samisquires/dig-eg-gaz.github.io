@@ -233,7 +233,12 @@
 
                       
 
-                      <li><a href="/boilerplates-and-tables/">Boilerplates and Tables</a></li>
+                      <li><a href="/elements/">Elements</a></li>
+                    
+
+                      
+
+                      <li><a href="/templates/">Templates</a></li>
                     
 
                       
@@ -331,6 +336,11 @@
                       
 
                       <li><a href="https://github.com/dig-eg-gaz" target="_blank">GitHub</a></li>
+                    
+
+                      
+
+                      <li><a href="/schema/">Schema</a></li>
                     
 
                       
