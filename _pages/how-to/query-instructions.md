@@ -95,7 +95,21 @@ It is possible to combine regular expression and XPath searches by using the fin
 ## 8. Export and manipulate results
 Right click on results, then export file. You can then clean up these results with regular expressions to remove the parts you don't want. After this, you can work with the results in a spreadsheet.
 
-## 9. Resources
+## 9. XQuery
+More complex querying can be accomplished using XQuery.
+
+Example, returning the date of every issue with a page 7:
+`for $a in collection("file:/Users/whanley/GitHub/DEG-content/?select=1905-*.xml;recurse=yes")
+where $a//*:div[@n="7"]
+return $a//*:bibl/*:date`
+
+Identify six versus eight page issues:
+`for $a in collection("file:/Users/whanley/GitHub/DEG-content/?select=1905-*.xml;recurse=yes")
+return if ($a//*:div[@n="7"])
+then <eight-page>{data($a//*:bibl/*:date)}</eight-page>
+else <six-page>{data($a//*:bibl/*:date)}</six-page>`
+
+## 10. Resources
 - [XPath functions list](http://www.w3schools.com/xml/xsl_functions.asp)
 - [W3C XPath functions list](https://www.w3.org/TR/2010/REC-xpath-functions-20101214/#func-number)
 - [XPath tutorial](http://www.w3schools.com/xml/xpath_intro.asp)

@@ -9,9 +9,9 @@ The Egyptian Gazette features a large number of recurring elements, which this p
 
 Section name|element (or deprecated xml:id)|Usual page(s)|Notes
 **[Advertisements](https://dig-eg-gaz.github.io/advertisements/)** |various|1,2|Use [templates](https://dig-eg-gaz.github.io/advertisements/)
-**[Daily Weather Report](https://dig-eg-gaz.github.io/templates/#daily-weather-report)** |"weather"|2|[xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/daily-weather-report.xml)
+**[Daily Weather Report](https://dig-eg-gaz.github.io/templates/#daily-weather-report)** |"weather"|2|[tempate](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/daily-weather-report.xml) [alternate tempate](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/daily-weather-report-02.xml)
 **Telegrams / Wire Reports** (international news)|"wire"|2,3|Sometimes appears as "To-day's telegrams", but typically there is no heading for this section. Treat wire reports as individual divs (`type="wireReport"`), each with its own `<dateline>` and `<title>`. This section is sometimes spread over two pages; when this is the case, you can use the `next` and `prev` attributes.
-**Local and General** |"local"|3|treat individual paragraphs as individual divs (`type="item"`), each with its own `<head>`.
+**Local and General** |"local"|3|Treat individual paragraphs as individual divs (`type="item"`), each with its own `<head>`.
 **Sport and Play** |"sport"|3|Treat contents as items, each with own headline.
 **Personal and Social** |"social"|3|Treat contents as paragraphs
 **The Khedive** |"khedive"|3|
@@ -20,7 +20,7 @@ Section name|element (or deprecated xml:id)|Usual page(s)|Notes
 **Letters to the Editor** |"letters"|3|Treat each letter as an item, with `<byline>` and `<dateline>`
 **Native Press Comments** |"nativePress"|3|
 **Naval Notes** |"navalNotes"|3|
-**Esbekieh Gardens** |"esbekieh"|3|Format concert program as a list
+**Esbekieh Gardens** |"esbekieh"|3|Format concert program as a `list`
 **Passenger List** |"passList"|3,4,5,6,7|Treat arrivals and departures as items.
 **Shipping Movements** |"shippingMovements"|4,6|
 **Mouvement Maritime** |"mouvementMaritime"|4|French language
@@ -50,7 +50,6 @@ Suakin|"notesSuakin"
 Khartoum|"notesKhartoum"
 Assiout|"notesAssiout"
 Luxor|"notesLuxor"|also appears as Luxor Notes
-Kafr Zayat|"notesKafrZayat"
 Other|"notesOther"|Notes from Akhmin, Keneh, Kafr Zayat, Minet el Gamh, Wadi Medani, and other places in Egypt
 
 Others infrequently occuring elements, not yet assigned an `element` value:
