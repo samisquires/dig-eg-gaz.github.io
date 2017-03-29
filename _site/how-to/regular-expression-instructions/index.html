@@ -298,6 +298,11 @@
 
                       
 
+                      <li><a href="/how-to/visualization-instructions">Data Visualization Instructions</a></li>
+                    
+
+                      
+
                       <li><a href="/how-to/blogging-instructions">Blogging Instructions</a></li>
                     
                   </ul>
@@ -443,6 +448,30 @@
 <p>To put <code class="highlighter-rouge">&lt;persName&gt;</code> around passenger names in a list: find <code class="highlighter-rouge">Mr. [A-Z][a-z, 0-9]+,</code> replace with <code class="highlighter-rouge">&lt;persName&gt;$&amp;&lt;/persName&gt;</code>.</p>
 
 <p>To convert <code class="highlighter-rouge">&lt;p&gt;Budapest, January 4.&lt;/p&gt;</code> to <code class="highlighter-rouge">&lt;dateline&gt;Budapest, January 4.&lt;/dateline&gt;</code>: find <code class="highlighter-rouge">&lt;p&gt;[A-Z][a-z]+, [A-Z][a-z]+ [0-9]+\.&lt;\/p&gt;</code> and replace with <code class="highlighter-rouge">&lt;dateline&gt;$&amp;&lt;/dateline&gt;</code>.</p>
+
+<h2 id="cleaning-xpath-results">Cleaning XPath results</h2>
+
+<ol>
+  <li>
+    <p>Select all, copy, and paste results into atom text editor.</p>
+  </li>
+  <li>
+    <p>Open find and replace. Click the Regex option, then use this line to remove some of the results:
+Find <code class="highlighter-rouge">XPath location: .+\nStart location: .+\nEnd location: .+\n\nSystem ID: </code>
+Replace with (leave empty). Click Replace All.</p>
+  </li>
+  <li>
+    <p>Remove the file location that precedes the issue date:
+Find <code class="highlighter-rouge">/Users/whanley/GitHub/DEG-content/</code> (this will be different on your computer–just select everything that comes before the date filename)
+Replace with (leave empty). Click Replace All.</p>
+  </li>
+  <li>
+    <p>Find <code class="highlighter-rouge">.xml\nDescription: </code>, Replace with <code class="highlighter-rouge">\t</code>. Replace All.</p>
+  </li>
+  <li>
+    <p>You’ll have a bit of garbage left over at the beginning and end of the file. Delete this. Now you will have a tab-separated, two-column table that you can paste into a spreadsheet.</p>
+  </li>
+</ol>
 
 <h2 id="using-regex-in-microsoft-word">Using regex in Microsoft word</h2>
 
