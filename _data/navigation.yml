@@ -39,6 +39,8 @@
     url: "/how-to/OCR-instructions"
   - title: "Querying Instructions"
     url: "/how-to/query-instructions"
+  - title: "Data Visualization Instructions"
+    url: "/how-to/visualization-instructions"
   - title: "Blogging Instructions"
     url: "/how-to/blogging-instructions"
 

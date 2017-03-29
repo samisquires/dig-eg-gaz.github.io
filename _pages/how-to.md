@@ -17,6 +17,7 @@ header:
 7. [How to perform content markup](tagging-people-and-places-instructions)
 8. [How to query the full contents](query-instructions)
 9. [How to use regular expressions](regular-expression-instructions)
+10. [How to create data visualizations](visualization-instructions)
 
 ## Course-specific instructions
 

@@ -36,7 +36,7 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 18|April 30, 1906|May 5, 1906|[Jonathan Morales](https://github.com/Jonmorazav)||2|5|
 19|May 7, 1906|May 12, 1906|[Anthony Muniz](https://github.com/Amuniz97)|All|6|27|
 20|May 14, 1906|May 19, 1906|[Joseph Ng](https://github.com/Josephng123)|20|2|11|
-21|May 21, 1906|May 26, 1906|[Sabrina Nuñez](https://github.com/sabrinanunez)||1|5|
+21|May 21, 1906|May 26, 1906|[Sabrina Nuñez](https://github.com/sabrinanunez)|20|1|5|
 22|May 28, 1906|June 2, 1906|[Jordan Frazier](https://github.com/jordanfrazier97)|All|2|12|
 23|June 4, 1906|June 9, 1906|[William Ortiz](https://github.com/williamseortiz)|All|1|4|
 24|June 11, 1906|June 16, 1906|[Isaac Parfait](https://github.com/hmSlim)||||
