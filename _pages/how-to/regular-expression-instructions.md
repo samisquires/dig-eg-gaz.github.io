@@ -28,7 +28,7 @@ Replace with (leave empty). Click Replace All.
 
 4. Find `.xml\nDescription: `, Replace with `\t`. Replace All.
 
-5. You'll have a bit of garbage left over at the beginning and end of the file. Delete this. Now you will have 
+5. You'll have a bit of garbage left over at the beginning and end of the file. Delete this. Now you will have a tab-separated, two-column table that you can paste into a spreadsheet.
 
 ## Using regex in Microsoft word
 
