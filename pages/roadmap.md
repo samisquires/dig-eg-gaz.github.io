@@ -2,7 +2,7 @@
 layout: page
 title: "Roadmap"
 subheadline: "ToDo-List &amp; Ideas"
-teaser: "Here are some ideas and features I want to implement in the future."
+teaser: "Some ideas and features I want to implement in the future."
 header:
    image_fullwidth: "header_roadmap_3.jpg"
 permalink: "/roadmap/"
@@ -11,9 +11,13 @@ permalink: "/roadmap/"
 ## Ideas and possible new features
 {: .t30 }
 
-* to come
+* authors list
+* publication of weeks, under editors' names, on diginole
+* integration of page images in XML text
+* introduction of search form
+* deploying TEI Boilerplate
 
 
 ## Done
 
-* [<s>to come</s>]
+* [<s>XSLT stylesheet</s>]
