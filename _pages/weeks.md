@@ -15,14 +15,14 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 13|March 27, 1905|April 1, 1905|[Giselle Chacon](https://github.com/Gisellechacon)|32/40|3|2|
 31|July 31, 1905|August 5, 1905|[Tanner Doring](https://github.com/Tnd15b)|All|3|19|
 33|August 14, 1905|August 19, 1905|[Zach Reddick](https://github.com/znr13)|35/40|6|38|
-37|September 11, 1905|September 16, 1905|[Diana Fajardo](https://github.com/Dianafaj01)|16/40|6|24|
+37|September 11, 1905|September 16, 1905|[Diana Fajardo](https://github.com/Dianafaj01)|36/40|6|24|
 49|December 4, 1905|December 9, 1905|[Katherine Ferguson](https://github.com/kf15b)|All|4|17|
 51|December 18, 1905|December 23, 1905|[Kevin Fitzpatrick](https://github.com/kf16)|All|3|3|
 1|January 2, 1906|January 6, 1906|[Madison Flick](https://github.com/mlf15c)|All|4|24|No issue published January 1
 2|January 8, 1906|January 13, 1906|[Nino Fricano](https://github.com/ninofricano)|44/48|1|8|
-3|January 15, 1906|January 20, 1906|[Cameron Greco](https://github.com/cgreco1)||1|6|
+3|January 15, 1906|January 20, 1906|[Cameron Greco](https://github.com/cgreco1)|24/48|1|6|
 4|January 22, 1906|January 27, 1906|[Sadie Gruber](https://github.com/TheHatMage)||||
-5|January 29, 1906|February 3, 1906|[Olivia Hammermaster](https://github.com/livhammer)||1|4|
+5|January 29, 1906|February 3, 1906|[Olivia Hammermaster](https://github.com/livhammer)|All|1|4|
 6|February 5, 1906|February 10, 1906|[Jeffrey Hayden](https://github.com/Jeffhayden11)|31/48|4|11|
 7|February 12, 1906|February 17, 1906|[Michael Hensley](https://github.com/mch15d)||2||
 8|February 19, 1906|February 24, 1906|[Alexia Horton](https://github.com/Ahorton12)|All|6|17|
