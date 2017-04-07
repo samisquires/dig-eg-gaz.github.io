@@ -28,7 +28,6 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 8|February 19, 1906|February 24, 1906|[Alexia Horton](https://github.com/Ahorton12)|All|6|17|
 9|February 26, 1906|March 3, 1906|[Jasmine Johnson](https://github.com/jkj16)||4|2|
 11|March 12, 1906|March 17, 1906|[Rosalyn Baxter](https://github.com/rosie-baxter)|41/48|5|20|
-12|March 19, 1906|March 24, 1906|[Hanna Lashhab](https://github.com/hannalashhab)||||
 14|April 2, 1906|April 7, 1906|[Taylor Cwikla](https://github.com/cwiklata)|All|5|32|
 15|April 9, 1906|April 14, 1906|[Adrian Martinez](https://github.com/adrianmar01)|3|1|1|
 16|April 16, 1906|April 21, 1906|[Mia Meixner](https://github.com/Miameixner)|All|5|30|1906-04-16 issue lacking
@@ -42,13 +41,14 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 24|June 11, 1906|June 16, 1906|[Isaac Parfait](https://github.com/hmSlim)||||
 25|June 18, 1906|June 23, 1906|[Katherine Parish](https://github.com/KParish22)||1|1|
 26|June 25, 1906|June 30, 1906|[William Pearce](https://github.com/willpearce1)|All|4|26|
+27|July 2, 1906|July 7, 1906|[Huaqing Shi](https://github.com)||||
 28|July 9, 1906|July 14, 1906|[Justin Petersen](https://github.com/Jjp15f)|All|6|40|
 29|July 16, 1906|July 21, 1906|[Carlos Rodriguez](https://github.com/CarlosRod77)||2|3|
 30|July 23, 1906|July 28, 1906|[Gretchen Sandorf](https://github.com/gretchensandorf)|37/40|3|10|
 31|July 30, 1906|August 4, 1906|[Jaime Sepulveda](https://github.com/jsepulveda43)||2|12|
 33|August 13, 1906|August 18, 1906|[Quin Smith](https://github.com/quinelaine)||1|1|
 34|August 20, 1906|August 25, 1906|[Joshua Story](https://github.com/JoshuaStory)|16/40|4|5|
-35|August 27, 1906|September 1, 1906|[Kenneth Ukah](https://github.com/knu14)|All|1|6|
+35|August 27, 1906|September 1, 1906|[Kenneth Ukah](https://github.com/knu14)|All|2|12|
 36|September 3, 1906|September 8, 1906|[Caroline Vaverek](https://github.com/Carovav)|All|6|35|
 37|September 10, 1906|September 15, 1906|[Erin Webster](https://github.com/ew14e)||1|2|
 39|September 24, 1906|September 29, 1906|[Aliza Anderson](https://github.com/alizacarolyn)|24|3|5|
