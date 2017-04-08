@@ -34,12 +34,11 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 17|April 23, 1906|April 28, 1906|[Marsella Migdalski](https://github.com/MarsellaM)|21|2|1|
 18|April 30, 1906|May 5, 1906|[Jonathan Morales](https://github.com/Jonmorazav)||2|5|
 19|May 7, 1906|May 12, 1906|[Anthony Muniz](https://github.com/Amuniz97)|All|6|27|
-20|May 14, 1906|May 19, 1906|[Joseph Ng](https://github.com/Josephng123)|20|2|11|
+20|May 14, 1906|May 19, 1906|[Joseph Ng](https://github.com/Josephng123)|All|2|11|
 21|May 21, 1906|May 26, 1906|[Sabrina Nuñez](https://github.com/sabrinanunez)|20|1|5|
 22|May 28, 1906|June 2, 1906|[Jordan Frazier](https://github.com/jordanfrazier97)|All|2|12|
 23|June 4, 1906|June 9, 1906|[William Ortiz](https://github.com/williamseortiz)|All|1|4|
 24|June 11, 1906|June 16, 1906|[Isaac Parfait](https://github.com/hmSlim)||||
-25|June 18, 1906|June 23, 1906|[Katherine Parish](https://github.com/KParish22)||1|1|
 26|June 25, 1906|June 30, 1906|[William Pearce](https://github.com/willpearce1)|All|4|26|
 27|July 2, 1906|July 7, 1906|[Huaqing Shi](https://github.com)||||
 28|July 9, 1906|July 14, 1906|[Justin Petersen](https://github.com/Jjp15f)|All|6|40|

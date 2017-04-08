@@ -23,10 +23,10 @@ Section name|element (or deprecated xml:id)|Usual page(s)|Notes
 **Esbekieh Gardens** |"esbekieh"|3|Format concert program as a `list`
 **Passenger List** |"passList"|3,4,5,6,7|Treat arrivals and departures as items.
 **Shipping Movements** |"shippingMovements"|4,6|
-**Mouvement Maritime** |"mouvementMaritime"|4|French language
+**[Mouvement Maritime](https://dig-eg-gaz.github.io/templates/#mouvement-maritime)** |"mouvementMaritime"|4|French language. see [template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/mouvement-maritime.xml) for format
 **Army and Navy / Army of Occupation / Egyptian Army** |"army"|3,4,5,7|
 **[Calendar of Coming Events](https://dig-eg-gaz.github.io/templates/#calendar-of-coming-events)** |"comingEvents"|5|see [template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/calendar-of-coming-events.xml) for format
-**Cheap Prepaid Advertisements** |"prepaidAdvertisements"|2,5,7|Section template [here](https://dig-eg-gaz.github.io/templates/#cheap-prepaid-advertisements). Treat each advertisement as an item.
+**[Cheap Prepaid Advertisements](https://dig-eg-gaz.github.io/templates/#cheap-prepaid-advertisements)** |"prepaidAdvertisements"|2,5,7|Section template [here](https://dig-eg-gaz.github.io/templates/#cheap-prepaid-advertisements). Treat each advertisement as an item.
 **Visitors' List** |"visitList"|3,5|Treat each hotel as an item.
 **Matters of Moment. Pith of the Press Comments.** |"mattersMoment"|5|
 **Legal Notes / Chronique Judiciare** |"legal"|3,4,6|French language
@@ -35,6 +35,7 @@ Section name|element (or deprecated xml:id)|Usual page(s)|Notes
 **Egyptian Share Market** |"shareMarket"|3,5|contains items (Egyptians, Mining, Consols, Rails, etc.) with own heads; often closes with a table.
 **Bulletin de la bourse** |"bulletinBourse"|3,4,6|French language
 **Chronique Financiere** |"chroniqueFinanciere"|3,4|French language
+**[Export Manifests](https://dig-eg-gaz.github.io/templates/#export-manifests)** |"exportManifests"||See [template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/export-manifests.xml) for format
 
 ## "Notes from" section:
 These notes typically appear on page 3. They are sourced to "Our Own Correspondent". Treat individual stories as `<div type="item">`, each with its own `<head>`. It is not always clear how many stories belong to the section.

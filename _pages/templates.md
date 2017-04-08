@@ -45,10 +45,11 @@ xml:id="deg-el-bokh01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blo
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/cloture-de-la-bourse-khediviale.jpg?raw=true)
 
 ### Bulletin de la Bourse
+element="bulletinBourse"
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/bulletin-de-la-bourse.png?raw=true)
 
 ### Calendar of Coming Events
-xml:id="deg-el-coce01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/calendar-of-coming-events.xml) table xml:id="deg-ta-coce01"
+element="comingEvents" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/calendar-of-coming-events.xml) table xml:id="deg-ta-coce01"
 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/calendar-of-coming-events.png?raw=true)
 
@@ -64,7 +65,7 @@ xml:id="deg-el-cema01" At least one of the "Cereals in Boat" items changes from 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/cereal-market.png?raw=true)
 
 ### Cheap Prepaid Advertisements
-xml:id="deg-el-cppa01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/cheap-prepaid-advertisements.xml)
+element="prepaidAdvertisements" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/cheap-prepaid-advertisements.xml)
 
 Add each advertisement as a `<div type="item">` within the section.
 
@@ -167,7 +168,7 @@ The first table is sometimes empty (sans changement). In this case, use [this xm
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/marche-de-minet-el-bassal.png?raw=true)
 
 ### Mouvement Maritime
-xml:id="deg-el-mmpa01" This model [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/mouvement-maritime.xml) doesn't contain much useful formatting, but it shows that places, persons, dates, and tonnage should be tagged.
+element="mouvementMaritime" This model [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/mouvement-maritime.xml) doesn't contain much useful formatting, but it shows that places, persons, dates, and tonnage should be tagged.
 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/mouvement-maritime.png?raw=true)
 
