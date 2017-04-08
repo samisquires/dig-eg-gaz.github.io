@@ -144,7 +144,7 @@ xml:id="deg-el-egmm01" It seems that the figures in this table are identical in 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/egyptian-mining-market.png?raw=true)
 
 ### Export Manifests
-xml:id="deg-el-exma01" This list is unique in each issue. Tag placenames and dates, and break out the number and unit of exported commodities in the table. table xml:id="deg-ta-exma01"
+element="exportManifests" This list is unique in each issue. Tag placenames and dates, and break out the number and unit of exported commodities in the table. table xml:id="deg-ta-exma01"
 
 [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/export-manifests.xml)
 
