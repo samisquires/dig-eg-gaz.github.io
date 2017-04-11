@@ -206,6 +206,11 @@ This table varies in lines from day to day. Certain days of the week contain wee
 
 ![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/reuters-telegrams.png?raw=true)
 
+### Resume de la Situation Cotonniere
+xml:id="deg-el-rsco01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/resume-de-la-situation-cotonniere.xml)
+
+![Link to image](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-images/resume-de-la-situation-cotonniere.png?raw=true)
+
 ### Share list
 xml:id="deg-el-shli01" [xml text](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/share-list.xml) Table xml:id="deg-ta-shli01"
 

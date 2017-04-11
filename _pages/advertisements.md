@@ -304,6 +304,10 @@ xml text: [epi01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [epm01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/epm01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/epm01-English-Penmakers.png?raw=true)
 
+### erf01 E. R. & F. Turner
+xml text: [erf01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/erf01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/erf01-e-r-f-turner.png?raw=true)
+
 ### esr01 Egyptian State Railways
 xml text: [esr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/esr01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/esr01-egyptian-state-railways.png?raw=true)
@@ -523,6 +527,10 @@ xml text: [mic01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### mil01 Milner's Safes
 xml text: [mil01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/mil01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/mil01-Milners-Safes.jpg?raw=true)
+
+### mil02 Milner's Safes
+xml text: [mil02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/mil02.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/mil02-milners-safes.jpg?raw=true)
 
 ### mma01 Messageries Maritimes
 xml text: [mma01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/mma01.xml)
