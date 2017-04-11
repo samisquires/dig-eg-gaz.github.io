@@ -56,6 +56,10 @@ xml text: [aeb01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [afc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/afc01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/afc01-African-Commerce.png?raw=true)
 
+### akl01 Arthur Koppel, Ltd.
+xml text: [akl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/akl01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/akl01-arthur-koppel.png?raw=true)
+
 ### all01 Anchor Line, Limited
 xml text: [all01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/all01.xml). Destinations, ship names, and dates change.
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/all01-Anchor-Line-Limited.png?raw=true)
@@ -75,6 +79,10 @@ xml text: [als01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### als02 Austrian Lloyd's Steam Navigation
 xml text: [als02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/als02.xml). Ship dates, names, and captains' names change. Near bottom, destination dates change.
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/als02-Austrian-Lloyds-Steam-Navigation.png?raw=true)
+
+### ass01 American Shoe Store
+xml text: [ass01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ass01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ass01-american-shoe-store.png?raw=true)
 
 ### baa01 Boehme & Anderer
 xml text: [baa01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/baa01.xml)
@@ -167,6 +175,10 @@ xml text: [cgg01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### cgh01 Cairo Grand Hammam
 xml text: [cgh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cgg01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cgh01-cairo-grand-hammam.png?raw=true)
+
+### che01 Charles Evans
+xml text: [che01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/che01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/che01-charles-evans.png?raw=true)
 
 ### chl01 Chlorodyne
 xml text: [chl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/chl01.xml)
@@ -371,6 +383,10 @@ xml text: [hdi01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### hdi02 Halls Distemper
 xml text: [hdi02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hdi02.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hdi02-Halls-Distemper.png?raw=true)
+
+### hem01 Hemagene Tailleur
+xml text: [hem01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hem01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hem01-hemagene-tailleur.png?raw=true)
 
 ### hdr01 H. D. Rawlings Limited
 xml text: [hdr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hdr01.xml)
@@ -768,9 +784,12 @@ xml text: [vdt01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [wam01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/wam01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/wam01-Walker-and-Meimarachi.png?raw=true)
 
+### wha01 W. H. Allen
+xml text: [wha01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/wha01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/wha01-w-h-allen.png?raw=true)
+
 ### whc01 White Horse Cellar
 xml text: [whc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/whc01.xml)
-
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/whc01-White-Horse-Cellar.png?raw=true)
 
 ### who01 Windsor Hotel
