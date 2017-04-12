@@ -136,6 +136,10 @@ xml text: [bis01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [bis02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bis02.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bis02-British-India-SN-Company-Limited.png?raw=true)
 
+### blc01 Browett Lindley & Co.
+xml text: [blc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/blc01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/blc01-browett-lindley.png?raw=true)
+
 ### blm01 Bibby Line Mail Steamers
 xml text: [blm01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/blm01.xml). Ship names, weights, dates change.
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/blm01-Bibby-Line-Mail-Steamers.png?raw=true)
@@ -335,6 +339,10 @@ xml text: [fus01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### fre01 Freskel
 xml text: [fre01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/fre01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/fre01-Freskel.png?raw=true)
+
+### fre02 Freskel
+xml text: [fre02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/fre02.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/fre02-freskel.png?raw=true)
 
 ### gac01 Guardian Assurance Company Limited
 xml text: [gac01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/gac01.xml)
@@ -680,6 +688,10 @@ xml text: [rob01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [rsn01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/rsn01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/rsn01-Russian-Steam-Navigation.png?raw=true)
 
+### rwc01 R. Warner & Co.
+xml text: [rwc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/rwc01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/rwc01-r-warner.png?raw=true)
+
 ### san01 Sanitas
 xml text: [san01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/san01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/san01-sanitas.png?raw=true)
@@ -687,6 +699,10 @@ xml text: [san01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### say01 Sayers
 xml text: [say01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/say01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/say01-sayers.png?raw=true)
+
+### scf01 Supplement Commercial et Financier
+xml text: [scf01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/scf01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/scf01-supplement-commercial-financier.png?raw=true)
 
 ### sde01 Sudan Development & Exploration Company, Limited
 xml text (with errors): [sde01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sde01.xml)
