@@ -80,6 +80,10 @@ xml text: [als01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [als02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/als02.xml). Ship dates, names, and captains' names change. Near bottom, destination dates change.
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/als02-Austrian-Lloyds-Steam-Navigation.png?raw=true)
 
+### api01 Apiol
+xml text: [api01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/api01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/api01-apiol.png?raw=true)
+
 ### ass01 American Shoe Store
 xml text: [ass01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ass01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ass01-american-shoe-store.png?raw=true)
@@ -239,6 +243,10 @@ xml text: [ddg01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### deb01 Deutsche Bank
 xml text: [deb01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/deb01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/deb01-deutsche-bank.png?raw=true)
+
+### dix01 Dixon Bros. & Hutchinson
+xml text: [dix01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/dix01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/dix01-dixon-bros.png?raw=true)
 
 ### dlc01 Dr Le Clerc's Pills
 xml text: [dlc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/dlc01.xml)
