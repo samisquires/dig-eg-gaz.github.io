@@ -8,11 +8,13 @@ header:
 ---
 Regular expressions (regex) is a very useful means of working with serial data which repeats similar information using similar formats.
 
+[Regexr](regexr.com) is a great place to learn about and try out regular expressions.
+
 ## Using regex in Atom
 
 To put `<persName>` around passenger names in a list: find `Mr. [A-Z][a-z, 0-9]+,` replace with `<persName>$&</persName>`.
 
-To convert `<p>Budapest, January 4.</p>` to `<dateline>Budapest, January 4.</dateline>`: find `<p>[A-Z][a-z]+, [A-Z][a-z]+ [0-9]+\.<\/p>` and replace with `<dateline>$&</dateline>`.
+<!-- To convert `<p>Budapest, January 4.</p>` to `<dateline>Budapest, January 4.</dateline>`: find `<p>[A-Z][a-z]+, [A-Z][a-z]+ [0-9]+\.<\/p>` and replace with `<dateline>$&</dateline>`. -->
 
 ## Cleaning XPath results
 
