@@ -22,7 +22,7 @@ header:
 ## Course-specific instructions
 
 1. [How to produce blog posts](blogging-instructions)
-2. [How to write small tutorials](tutorial-instructions)
+2. [How to write small tutorials](tutorials-instructions)
 3. [How to submit serial question analysis](serial-question-instructions)
 
 ## Technical notes
