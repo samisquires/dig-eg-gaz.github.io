@@ -1,7 +1,7 @@
 ---
 layout: page
-title: How-to wish list
-permalink: /how-do/
+title: How-to tutorials instructions
+permalink: /how-do/how-to-to-do/
 author: Will Hanley
 header:
   image_fullwidth: masthead.jpg
