@@ -51,7 +51,7 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 36|September 3, 1906|September 8, 1906|[Caroline Vaverek](https://github.com/Carovav)|All|6|35|
 37|September 10, 1906|September 15, 1906|[Erin Webster](https://github.com/ew14e)||1|2|
 39|September 24, 1906|September 29, 1906|[Aliza Anderson](https://github.com/alizacarolyn)|24|6|22|
-40|October 1, 1906|October 6, 1906|[Will Hanley](https://github.com/whanley)|18|3|4|
+40|October 1, 1906|October 6, 1906|[Will Hanley](https://github.com/whanley)|18|3|10|
 
 ## Partial weeks
 
