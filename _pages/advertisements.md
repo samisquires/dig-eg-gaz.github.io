@@ -508,6 +508,10 @@ xml text: [lac01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [lea01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/lea01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/lea01.png?raw=true)
 
+### lem01 Lemco
+xml text: [lem01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/lem01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/lem01-lemco.png?raw=true)
+
 ### lgo01 Ladies & Gents Outfitting (S. Stein)
 xml text: [lea01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/lgo01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/lgo01-ladies-gents-outfitting.png?raw=true)
