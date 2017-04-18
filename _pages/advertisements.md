@@ -504,6 +504,10 @@ xml text: [lar01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [lac01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/lac01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/lac01-London-Assurance-Corporation.png?raw=true)
 
+### ldb01 Les Diamants Bera
+xml text: [ldb01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ldb01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ldb01-les-diamants-bera.png?raw=true)
+
 ### lea01 Lea and Perrins'
 xml text: [lea01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/lea01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/lea01.png?raw=true)
@@ -527,6 +531,10 @@ xml text: [lip01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### liv01 Livadas
 xml text: [liv01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/liv01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/liv01-livadas.png?raw=true)
+
+### lsh01 London Salisbury Hotel
+xml text: [lsh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/lsh01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/lsh01-london-salisbury-hotel.png?raw=true)
 
 ### map01 Maple & Co.
 xml text: [map01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/map01.xml)

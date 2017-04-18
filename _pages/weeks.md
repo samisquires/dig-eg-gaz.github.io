@@ -10,7 +10,7 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 8|February 20, 1905|February 25, 1905|[Taj Ali](https://github.com/tajali016 )||6|15|
 9|February 27, 1905|March 4, 1905|[Jacob Baenen](https://github.com/JBaenen)|All|6|38|
 10|March 6, 1905|March 11, 1905|[Elizabeth Barrett](https://github.com/Ekb15fsu)|All|6|24|
-11|March 13, 1905|March 18, 1905|[Madison Bolton](https://github.com/madibolton)|7/48|2|1|
+11|March 13, 1905|March 18, 1905|[Madison Bolton](https://github.com/madibolton)|7/48|6|6|
 12|March 20, 1905|March 25, 1905|[Jackson Boucher](https://github.com/jacksonboucher)||1|3|
 13|March 27, 1905|April 1, 1905|[Giselle Chacon](https://github.com/Gisellechacon)|32/40|3|2|
 31|July 31, 1905|August 5, 1905|[Tanner Doring](https://github.com/Tnd15b)|All|5|31|
@@ -23,7 +23,7 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 3|January 15, 1906|January 20, 1906|[Cameron Greco](https://github.com/cgreco1)|24/48|1|6|
 4|January 22, 1906|January 27, 1906|[Sadie Gruber](https://github.com/TheHatMage)||||
 5|January 29, 1906|February 3, 1906|[Olivia Hammermaster](https://github.com/livhammer)|All|1|4|
-6|February 5, 1906|February 10, 1906|[Jeffrey Hayden](https://github.com/Jeffhayden11)|47/48|6|11|
+6|February 5, 1906|February 10, 1906|[Jeffrey Hayden](https://github.com/Jeffhayden11)|All|6|11|
 7|February 12, 1906|February 17, 1906|[Michael Hensley](https://github.com/mch15d)||2||
 8|February 19, 1906|February 24, 1906|[Alexia Horton](https://github.com/Ahorton12)|All|6|19|
 9|February 26, 1906|March 3, 1906|[Jasmine Johnson](https://github.com/jkj16)||4|13|
@@ -31,7 +31,7 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 14|April 2, 1906|April 7, 1906|[Taylor Cwikla](https://github.com/cwiklata)|All|5|32|
 15|April 9, 1906|April 14, 1906|[Adrian Martinez](https://github.com/adrianmar01)|3|1|1|
 16|April 16, 1906|April 21, 1906|[Mia Meixner](https://github.com/Miameixner)|All|5|30|1906-04-16 issue lacking
-17|April 23, 1906|April 28, 1906|[Marsella Migdalski](https://github.com/MarsellaM)|41/42|3|4|
+17|April 23, 1906|April 28, 1906|[Marsella Migdalski](https://github.com/MarsellaM)|41/42|6|4|
 18|April 30, 1906|May 5, 1906|[Jonathan Morales](https://github.com/Jonmorazav)||2|5|
 19|May 7, 1906|May 12, 1906|[Anthony Muniz](https://github.com/Amuniz97)|All|6|29|
 20|May 14, 1906|May 19, 1906|[Joseph Ng](https://github.com/Josephng123)|All|3|18|
@@ -42,16 +42,16 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 26|June 25, 1906|June 30, 1906|[William Pearce](https://github.com/willpearce1)|All|4|26|
 27|July 2, 1906|July 7, 1906|[Huaqing Shi](https://github.com)||||
 28|July 9, 1906|July 14, 1906|[Justin Petersen](https://github.com/Jjp15f)|All|6|40|
-29|July 16, 1906|July 21, 1906|[Carlos Rodriguez](https://github.com/CarlosRod77)||2|3|
+29|July 16, 1906|July 21, 1906|[Carlos Rodriguez](https://github.com/CarlosRod77)||6|3|
 30|July 23, 1906|July 28, 1906|[Gretchen Sandorf](https://github.com/gretchensandorf)|37/40|6|10|
-31|July 30, 1906|August 4, 1906|[Jaime Sepulveda](https://github.com/jsepulveda43)||3|20|
-33|August 13, 1906|August 18, 1906|[Quin Smith](https://github.com/quinelaine)||1|1|
+31|July 30, 1906|August 4, 1906|[Jaime Sepulveda](https://github.com/jsepulveda43)|20/40|3|20|
+33|August 13, 1906|August 18, 1906|[Quin Smith](https://github.com/quinelaine)||2|7|
 34|August 20, 1906|August 25, 1906|[Joshua Story](https://github.com/JoshuaStory)|16/40|6|5|
 35|August 27, 1906|September 1, 1906|[Kenneth Ukah](https://github.com/knu14)|All|3|12|
 36|September 3, 1906|September 8, 1906|[Caroline Vaverek](https://github.com/Carovav)|All|6|35|
 37|September 10, 1906|September 15, 1906|[Erin Webster](https://github.com/ew14e)||1|2|
 39|September 24, 1906|September 29, 1906|[Aliza Anderson](https://github.com/alizacarolyn)|24|6|22|
-40|October 1, 1906|October 6, 1906|[Will Hanley](https://github.com/whanley)|18|3|13|
+40|October 1, 1906|October 6, 1906|[Will Hanley](https://github.com/whanley)|18|3|14|
 
 ## Partial weeks
 
