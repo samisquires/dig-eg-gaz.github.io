@@ -164,6 +164,10 @@ xml text: [cah01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [cah02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cah02.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cah02-Carlton-Hotel.png?raw=true)
 
+### cah03 Carlton Hotel
+xml text: [cah03](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cah03.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cah03-carlton-hotel.png?raw=true)
+
 ### cbb01 Callard & Bowser's Butter-Scotch
 xml text: [cbb01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cbb01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cbb01-Callard-Bowser-Butter-scotch.png?raw=true)

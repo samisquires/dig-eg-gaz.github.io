@@ -10,7 +10,7 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 8|February 20, 1905|February 25, 1905|[Taj Ali](https://github.com/tajali016 )||6|15|
 9|February 27, 1905|March 4, 1905|[Jacob Baenen](https://github.com/JBaenen)|All|6|38|
 10|March 6, 1905|March 11, 1905|[Elizabeth Barrett](https://github.com/Ekb15fsu)|All|6|24|
-11|March 13, 1905|March 18, 1905|[Madison Bolton](https://github.com/madibolton)|7/48|6|6|
+11|March 13, 1905|March 18, 1905|[Madison Bolton](https://github.com/madibolton)|All|6|6|
 12|March 20, 1905|March 25, 1905|[Jackson Boucher](https://github.com/jacksonboucher)||1|3|
 13|March 27, 1905|April 1, 1905|[Giselle Chacon](https://github.com/Gisellechacon)|32/40|3|2|
 31|July 31, 1905|August 5, 1905|[Tanner Doring](https://github.com/Tnd15b)|All|5|31|
@@ -51,7 +51,7 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 36|September 3, 1906|September 8, 1906|[Caroline Vaverek](https://github.com/Carovav)|All|6|35|
 37|September 10, 1906|September 15, 1906|[Erin Webster](https://github.com/ew14e)||1|2|
 39|September 24, 1906|September 29, 1906|[Aliza Anderson](https://github.com/alizacarolyn)|24|6|22|
-40|October 1, 1906|October 6, 1906|[Will Hanley](https://github.com/whanley)|18|3|14|
+40|October 1, 1906|October 6, 1906|[Will Hanley](https://github.com/whanley)|18|3|16|
 
 ## Partial weeks
 
