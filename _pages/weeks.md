@@ -16,7 +16,7 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 31|July 31, 1905|August 5, 1905|[Tanner Doring](https://github.com/Tnd15b)|All|5|31|
 33|August 14, 1905|August 19, 1905|[Zach Reddick](https://github.com/znr13)|35/40|6|38|
 37|September 11, 1905|September 16, 1905|[Diana Fajardo](https://github.com/Dianafaj01)|36/40|6|24|
-49|December 4, 1905|December 9, 1905|[Katherine Ferguson](https://github.com/kf15b)|All|4|17|
+49|December 4, 1905|December 9, 1905|[Katherine Ferguson](https://github.com/kf15b)|All|5|17|
 51|December 18, 1905|December 23, 1905|[Kevin Fitzpatrick](https://github.com/kf16)|All|3|3|
 1|January 2, 1906|January 6, 1906|[Madison Flick](https://github.com/mlf15c)|All|5|26|No issue published January 1
 2|January 8, 1906|January 13, 1906|[Nino Fricano](https://github.com/ninofricano)|44/48|3|22|
@@ -42,7 +42,7 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 26|June 25, 1906|June 30, 1906|[William Pearce](https://github.com/willpearce1)|All|4|26|
 27|July 2, 1906|July 7, 1906|[Huaqing Shi](https://github.com)||||
 28|July 9, 1906|July 14, 1906|[Justin Petersen](https://github.com/Jjp15f)|All|6|40|
-29|July 16, 1906|July 21, 1906|[Carlos Rodriguez](https://github.com/CarlosRod77)||6|3|
+29|July 16, 1906|July 21, 1906|[Carlos Rodriguez](https://github.com/CarlosRod77)|All|6|3|
 30|July 23, 1906|July 28, 1906|[Gretchen Sandorf](https://github.com/gretchensandorf)|37/40|6|10|
 31|July 30, 1906|August 4, 1906|[Jaime Sepulveda](https://github.com/jsepulveda43)|20/40|3|20|
 33|August 13, 1906|August 18, 1906|[Quin Smith](https://github.com/quinelaine)||2|7|
@@ -51,7 +51,7 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 36|September 3, 1906|September 8, 1906|[Caroline Vaverek](https://github.com/Carovav)|All|6|35|
 37|September 10, 1906|September 15, 1906|[Erin Webster](https://github.com/ew14e)||1|2|
 39|September 24, 1906|September 29, 1906|[Aliza Anderson](https://github.com/alizacarolyn)|24|6|22|
-40|October 1, 1906|October 6, 1906|[Will Hanley](https://github.com/whanley)|18|3|16|
+40|October 1, 1906|October 6, 1906|[Will Hanley](https://github.com/whanley)|18|3|18|
 
 ## Partial weeks
 

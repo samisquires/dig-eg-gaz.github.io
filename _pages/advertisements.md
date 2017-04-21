@@ -156,6 +156,10 @@ xml text: [bor01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [bov01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bov01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bov01-Bovril.png?raw=true)
 
+### bsl01 Berlitz School of Languages
+xml text: [bsl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bsl01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bsl01-berlitz-school.png?raw=true)
+
 ### cah01 Carlton Hotel
 xml text: [cah01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cah01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cah01-Carlton-Hotel.png?raw=true)
@@ -315,6 +319,10 @@ xml text: [ems01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### epi01 English Pension, Italian Riviera
 xml text: [epi01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/epi01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/epi01-English-Pension-Italian-Riviera.png?raw=true)
+
+### eph01 Eden Palace Hotel
+xml text: [eph01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/eph01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/eph01-eden-palace-hotel.png?raw=true)
 
 ### epm01 English Penmakers
 xml text: [epm01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/epm01.xml)
