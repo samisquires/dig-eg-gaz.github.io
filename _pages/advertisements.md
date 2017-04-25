@@ -32,6 +32,10 @@ xml text: [aan02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [aan03](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/aan03.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/aan03-Hamburg-Anglo-American-Nile.png?raw=true)
 
+### aan04 Anglo-American Nile Streamer & Hotel Coy.
+xml text: [aan04](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/aan04.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/aan04-anglo-american-nile-steamer.png?raw=true)
+
 ### aaw01 Ariston Aerated Waters
 xml text: [aaw01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/aaw01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/aaw01-Ariston-Aerated-Waters.png?raw=true)
@@ -424,6 +428,10 @@ xml text: [hem01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [hdr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hdr01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hdr01-H-D-Rawlings-Limited.png?raw=true)
 
+### hjm01 Henry J. Monson
+xml text: [hjm01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hjm01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hjm01-henry-j-monson.png?raw=true)
+
 ### hob01 Howies Butter
 xml text: [hob01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hob01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hob01-howies-butter.png?raw=true)
@@ -547,6 +555,10 @@ xml text: [liv01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### lsh01 London Salisbury Hotel
 xml text: [lsh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/lsh01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/lsh01-london-salisbury-hotel.png?raw=true)
+
+### luc01 Law Union & Crown Insurance Co.
+xml text: [luc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/luc01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/luc01-law-union-crown.png?raw=true)
 
 ### map01 Maple & Co.
 xml text: [map01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/map01.xml)
