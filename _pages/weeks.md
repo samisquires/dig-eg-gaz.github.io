@@ -21,7 +21,6 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 1|January 2, 1906|January 6, 1906|[Madison Flick](https://github.com/mlf15c)|All|5|37|No issue published January 1
 2|January 8, 1906|January 13, 1906|[Nino Fricano](https://github.com/ninofricano)|44/48|3|22|
 3|January 15, 1906|January 20, 1906|[Cameron Greco](https://github.com/cgreco1)|24/48|2|15|
-4|January 22, 1906|January 27, 1906|[Sadie Gruber](https://github.com/TheHatMage)||||
 5|January 29, 1906|February 3, 1906|[Olivia Hammermaster](https://github.com/livhammer)|All|1|4|
 6|February 5, 1906|February 10, 1906|[Jeffrey Hayden](https://github.com/Jeffhayden11)|All|6|14|
 7|February 12, 1906|February 17, 1906|[Michael Hensley](https://github.com/mch15d)||2||
@@ -35,10 +34,9 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 18|April 30, 1906|May 5, 1906|[Jonathan Morales](https://github.com/Jonmorazav)||2|5|
 19|May 7, 1906|May 12, 1906|[Anthony Muniz](https://github.com/Amuniz97)|All|6|29|
 20|May 14, 1906|May 19, 1906|[Joseph Ng](https://github.com/Josephng123)|All|5|32|
-21|May 21, 1906|May 26, 1906|[Sabrina Nuñez](https://github.com/sabrinanunez)|20|4|23|
+21|May 21, 1906|May 26, 1906|[Sabrina Nuñez](https://github.com/sabrinanunez)|All|4|23|
 22|May 28, 1906|June 2, 1906|[Jordan Frazier](https://github.com/jordanfrazier97)|All|4|26|
 23|June 4, 1906|June 9, 1906|[William Ortiz](https://github.com/williamseortiz)|All|1|4|
-24|June 11, 1906|June 16, 1906|[Isaac Parfait](https://github.com/hmSlim)||||
 26|June 25, 1906|June 30, 1906|[William Pearce](https://github.com/willpearce1)|All|5|27|
 27|July 2, 1906|July 7, 1906|[Huaqing Shi](https://github.com)||||
 28|July 9, 1906|July 14, 1906|[Justin Petersen](https://github.com/Jjp15f)|All|6|40|
@@ -47,10 +45,10 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 31|July 30, 1906|August 4, 1906|[Jaime Sepulveda](https://github.com/jsepulveda43)|20/40|3|20|
 33|August 13, 1906|August 18, 1906|[Quin Smith](https://github.com/quinelaine)||3|7|
 34|August 20, 1906|August 25, 1906|[Joshua Story](https://github.com/JoshuaStory)|16/40|6|14|
-35|August 27, 1906|September 1, 1906|[Kenneth Ukah](https://github.com/knu14)|All|4|26|
+35|August 27, 1906|September 1, 1906|[Kenneth Ukah](https://github.com/knu14)|All|5|32|
 36|September 3, 1906|September 8, 1906|[Caroline Vaverek](https://github.com/Carovav)|All|6|38|
 37|September 10, 1906|September 15, 1906|[Erin Webster](https://github.com/ew14e)||6|2|
-39|September 24, 1906|September 29, 1906|[Aliza Anderson](https://github.com/alizacarolyn)|24|6|36|
+39|September 24, 1906|September 29, 1906|[Aliza Anderson](https://github.com/alizacarolyn)|All|6|36|
 40|October 1, 1906|October 6, 1906|[Will Hanley](https://github.com/whanley)|18|3|18|
 
 ## Partial weeks
