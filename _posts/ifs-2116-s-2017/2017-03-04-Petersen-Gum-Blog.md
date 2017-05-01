@@ -3,7 +3,7 @@ layout: page
 subheadline: "Justin Petersen"
 title: "The Gum Trade"
 teaser: "Yesterday gums up today"
-date: 2016-03-04
+date: 2017-03-04
 categories:
   - curiosities
 author: JustinPetersen
