@@ -14,9 +14,9 @@ tags:
   - Cairo
 header: no
 image:
-  title: blog-posts/Barrett-post.jpeg
-  thumb: blog-posts/Barrett-post.jpeg
-  homepage: blog-posts/Barrett-post.jpeg
+  title: blog-posts/Barrett-post.jpg
+  thumb: blog-posts/Barrett-post.jpg
+  homepage: blog-posts/Barrett-post.jpg
   caption:
   caption_url:
 ---
