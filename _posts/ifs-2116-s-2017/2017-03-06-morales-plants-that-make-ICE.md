@@ -35,5 +35,5 @@ Obviously, this couldn’t be correct so I took it upon myself to call the numbe
 + [The Chemical Trade Journal: Volume XLIII](https://books.google.com/books?id=PYdJAQAAMAAJ&pg=PA172&lpg=PA172 "Printed 1908")
 
 ## Pictures
-![alt text](https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/blog-images/RAPLIN_Ice_Machine_Cleaned_Up.png?raw="true" "RAPLIN Hand Ice Machine") | ![alt text](https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/blog-images/Raplin_Ice_Machine_V2_Cleaned_up.png?raw="true" "RAPLIN Hand Ice Machine V2")
+![alt text](https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/blog-images/RAPLIN_Ice_Machine_Cleaned_Up.png?raw=true "RAPLIN Hand Ice Machine") | ![alt text](https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/blog-images/Raplin_Ice_Machine_V2_Cleaned_up.png?raw=true "RAPLIN Hand Ice Machine V2")
 ------------ | -------------
