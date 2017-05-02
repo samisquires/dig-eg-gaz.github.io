@@ -10,11 +10,11 @@ author: davidgressgott
 tags:
   - tag
 header: no
-image: 04-08-1905(p4)
-  title: 04-08-1905(p4)
-  thumb: 04-08-1905(p4)
-  homepage:04-08-1905(p4)
-  caption: 04-08-1905(p4)
+image:
+  title: 04-08-1905-p4
+  thumb: 04-08-1905-p4
+  homepage: 04-08-1905-p4
+  caption: 04-08-1905-p4
   caption_url:
 ---
 The majority of my technical dificulties arised from the microfilm reader.

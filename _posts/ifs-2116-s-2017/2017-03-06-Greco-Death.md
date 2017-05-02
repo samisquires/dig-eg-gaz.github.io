@@ -17,6 +17,7 @@ tags:
   - Tragedy
   - Local & General News
 header: no
+image:
   title: blog-images/greco-image.png
   thumb: blog-images/greco-image.png
   homepage: blog-images/greco-image.png
