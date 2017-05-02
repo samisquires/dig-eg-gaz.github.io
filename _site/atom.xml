@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>/</id>
 	<title>Digital Egyptian Gazette</title>
-	<updated>2017-05-01T22:42:10-04:00</updated>
+	<updated>2017-05-01T23:24:23-04:00</updated>
 
 	<subtitle>A daily newspaper from turn-of-the-century Egypt, in marked up full text.</subtitle>
 
@@ -311,6 +311,50 @@ Gazette was sold to an audience of mainly Europeans.&lt;/p&gt;
 		</entry>
 	
 		<entry>
+			<id>/curiosities/Horton-page6Disaster/</id>
+			<title>Page 6 Disaster</title>
+			<link href="/curiosities/Horton-page6Disaster/" rel="alternate" type="text/html" title="Page 6 Disaster" />
+			<updated>2017-03-10T00:00:00-05:00</updated>
+
+			
+				
+				<author>
+					
+						<name>AlexiaHorton</name>
+					
+					
+					
+				</author>
+			
+			<summary>The never ending pages of financial tables</summary>
+			<content type="html" xml:base="/curiosities/Horton-page6Disaster/">&lt;p&gt;For this class, I have been assigned the week of February 19, 1906. All in all, I have to say this has been one of absolute favorite classes. Not only have I learned to code and become what I like to call “tech savvy” but I am learning the everyday lives of individuals from not only the United Kingdom but from pretty much anywhere they associate with. When you think about it we are given Monday through Saturday editions of the newspaper to complete; that is a ton of work!&lt;/p&gt;
+
+&lt;p&gt;In every day’s edition, the page six usually consists of financial tables. This is by far the worse part of the “coding” aspect of the class. I mean, the class itself is very time consuming and tedious but using OCR really does help to speed the process up, but of course you cannot run financial tables through OCR. Not once, have I had an easy time just knocking out the page sixes. You might be thinking right now “I wonder what is so bad about the financial tables? You’re given the template, therefore all you need to do is change the actual information within it.” Well, you have successfully answered the question; building the template is the easy part, actually filling in the tables are the difficult part. Actually sitting down and attempting to read what the newspaper actually says the problematic part. Either the letters or numbers are so small that you cannot read it or (in most cases) the scans are extremely blurry in parts of the page. Majority of the time, even if I take smaller section scans of each page to get a clearer reading, it is still does not help. What I read as a three are sometimes an eight, or the “E” is actually a “D” or “B”.  The comparison happen for almost every letter and number, it is just really hard to decipher. Although, I have to say, as frustrating as the page sixes are… typing the last text for that page, sitting back and say “ah yes! Finally I finished!” It’s an extremely rewarding feeling and then I can actually look at the information I wrote down and compare it to other issues and today’s information such as the stocks and shares portion.&lt;/p&gt;
+
+&lt;p&gt;I find it quite interesting that when reading reviews of the Cisdem OCR system, on the following websites listed below, everyone seems to praise the system. I mean the system is indeed great, but I come across a lot of errors that still need to be fixed after running it through the OCR. I guess I must be doing something then, but I will definitely be looking into this!
+-	&lt;a href=&quot;https://www.cisdem.com/pdf-converter-ocr-mac/reviews.html&quot;&gt;https://www.cisdem.com/pdf-converter-ocr-mac/reviews.html&lt;/a&gt;
+-	&lt;a href=&quot;https://www.macupdate.com/app/mac/52109/cisdem-pdfconverterocr&quot;&gt;https://www.macupdate.com/app/mac/52109/cisdem-pdfconverterocr&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;And maybe I am just very naïve, and have not really taken the time to really think about each of the financial tables’ importance, but I just do not see why the public, whether the person is reading the paper in Great Britain or in Egypt, need to see a balance sheet for Egyptian investments. When you really think about it, that information can only be useful to someone who understands business, but not everyone reading the paper is “business savy.”&lt;/p&gt;
+</content>
+
+			
+				<category term="curiosities" />
+			
+			
+				<category term="Numbers" />
+			
+				<category term="Language" />
+			
+				<category term="Understanding" />
+			
+				<category term="Computer malfunctions" />
+			
+
+			<published>2017-03-10T00:00:00-05:00</published>
+		</entry>
+	
+		<entry>
 			<id>/curiosities/Ukah-A-Regatta-Is-a-Boat-Race/</id>
 			<title>A Regatta Is a Boat Race.</title>
 			<link href="/curiosities/Ukah-A-Regatta-Is-a-Boat-Race/" rel="alternate" type="text/html" title="A Regatta Is a Boat Race." />
@@ -396,63 +440,6 @@ Gazette was sold to an audience of mainly Europeans.&lt;/p&gt;
 			
 
 			<published>2017-03-08T00:00:00-05:00</published>
-		</entry>
-	
-		<entry>
-			<id>/curiosities/morales-plants-that-make-ICE/</id>
-			<title>Plants that make ice?</title>
-			<link href="/curiosities/morales-plants-that-make-ICE/" rel="alternate" type="text/html" title="Plants that make ice?" />
-			<updated>2017-03-06T00:00:00-05:00</updated>
-
-			
-				
-				<author>
-					
-						<name>jonathanmorales</name>
-					
-					
-					
-				</author>
-			
-			<summary>See what happens when engineers mix water with plants.</summary>
-			<content type="html" xml:base="/curiosities/morales-plants-that-make-ICE/">&lt;p&gt;While going through the newspaper, OCR-ing it, and transcribing it to XML, I usually don’t pay attention to what’s written. Not because I don’t want to - but because I go through it so fast, I don’t have time to. Until I came across this interesting advertisement. At a quick glance of the page, it immediately caught my attention. Yes, the big letters aided in that, but what was in the title is what really got me puzzled. “Ice Making Plants”? I thought, there’s &lt;em&gt;no way&lt;/em&gt; they found plants that make ice. Upon continuing to read I saw it said “Power Driven Machines to produce 1 cwt. Per 24 hours” (or about 1lb ≈ every 15 mins). So now I drew another conclusion – they’ve made robotic plants that make ice instead of oxygen.&lt;/p&gt;
-
-&lt;p&gt;Obviously, this couldn’t be correct so I took it upon myself to call the number on the ad and ask – but &lt;em&gt;of course&lt;/em&gt; I got a “Your call could not be completed as dialed” (must have been a typo). Unfortunately, they didn’t put an email I could contact so I went to my backup-backup plan and scoured the web. After adequate research, I came to my last conclusion: This misleading ad sold ice machines crankable by hand that could be used in &lt;strong&gt;factory&lt;/strong&gt; plants to produce a lot of ice. I also concluded that the “Egyptian Engineering Co., LTD.” didn’t come up with the product, it just resold it as a white label. The RAPLIN originally came from England in the 1890s made by “Pulsometer Engineering Co., LTD” which continued to manufacture ice machines and other advancements throughout the years. Who knew ~~an innocent~~ a deceptive advertisement from the early 1900s could get a person from the 21st century so well?&lt;/p&gt;
-
-&lt;h2 id=&quot;sources&quot;&gt;Sources:&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://books.google.com/books?id=kBMpAAAAYAAJ&amp;amp;pg=RA1-PA110&quot; title=&quot;Printed 1898&quot;&gt;Ice and Refrigeration Illustrated Vol. 14&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://books.google.com/books?id=mj5FAQAAMAAJ&amp;amp;pg=RA1-PA233&amp;amp;lpg=RA1-PA233&quot; title=&quot;Printed 1898&quot;&gt;The Practical Engineer. Volume XVII&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://books.google.com/books?id=cwsAAAAAMAAJ&amp;amp;pg=PA20&amp;amp;lpg=PA20&quot; title=&quot;Printed 1899&quot;&gt;The Chemical Trade Journal: Volume XXIII&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.gracesguide.co.uk/Pulsometer_Engineering_Co:_1914_Catalogue&quot; title=&quot;Catalogue of Pulsometer&#39;s machines&quot;&gt;Pulsometer Engineering Co: 1914 Catalogue&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://books.google.com/books?id=PYdJAQAAMAAJ&amp;amp;pg=PA172&amp;amp;lpg=PA172&quot; title=&quot;Printed 1908&quot;&gt;The Chemical Trade Journal: Volume XLIII&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;pictures&quot;&gt;Pictures&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/blog-images/RAPLIN_Ice_Machine_Cleaned_Up.png?raw=true&quot; alt=&quot;alt text&quot; title=&quot;RAPLIN Hand Ice Machine&quot; /&gt; | &lt;img src=&quot;https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/blog-images/Raplin_Ice_Machine_V2_Cleaned_up.png?raw=true&quot; alt=&quot;alt text&quot; title=&quot;RAPLIN Hand Ice Machine V2&quot; /&gt;
-———— | ————-&lt;/p&gt;
-</content>
-
-			
-				<category term="curiosities" />
-			
-			
-				<category term="advertisement" />
-			
-				<category term="engineering" />
-			
-				<category term="future" />
-			
-				<category term="machines" />
-			
-				<category term="ice" />
-			
-				<category term="water" />
-			
-				<category term="refrigeration" />
-			
-
-			<published>2017-03-06T00:00:00-05:00</published>
 		</entry>
 	
 </feed>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Pages: 152 links with priority=0.3, changefreq=monthly -->
+<!-- Pages: 153 links with priority=0.3, changefreq=monthly -->
 
 	
 	<url>
@@ -697,7 +697,7 @@
 	<url>
 	<loc>/_pages/analysis/2016/serial-2116-f-2016/2016-12-17-Barbosa-Murder/</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -845,6 +845,21 @@
 
 	
 	<url>
+	<loc>/non-published-posts/2017-03-29-Meixner-ThePlague/</loc>
+	
+		<lastmod>2017-03-29T00:00:00-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
 	<loc>/non-published-posts/2017-04-12-smith-quin-St.Petersburg/</loc>
 	
 		<lastmod>2017-04-12T00:00:00-04:00</lastmod>
@@ -862,7 +877,7 @@
 	<url>
 	<loc>/404.html</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -877,7 +892,7 @@
 	<url>
 	<loc>/404.html</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -892,7 +907,7 @@
 	<url>
 	<loc>/how-to/OCR-instructions/</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -907,7 +922,7 @@
 	<url>
 	<loc>/about/</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -922,7 +937,7 @@
 	<url>
 	<loc>/advertisements/</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -937,7 +952,7 @@
 	<url>
 	<loc>/analysis/2016/amorello-analysis</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -952,7 +967,7 @@
 	<url>
 	<loc>/analysis/analysis</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -967,7 +982,7 @@
 	<url>
 	<loc>/blog/archive/</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -984,7 +999,7 @@
 	<url>
 	<loc>/atom.xml</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1001,7 +1016,7 @@
 	<url>
 	<loc>/analysis/2016/barbosa-analysis</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1016,7 +1031,7 @@
 	<url>
 	<loc>/analysis/2016/barrett-analysis</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1031,7 +1046,7 @@
 	<url>
 	<loc>/analysis/2016/black-analysis</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1046,7 +1061,7 @@
 	<url>
 	<loc>/how-to/blogging-instructions/</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1061,7 +1076,7 @@
 	<url>
 	<loc>/analysis/2016/caliendo-analysis</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1076,7 +1091,7 @@
 	<url>
 	<loc>/changelog/</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1091,7 +1106,7 @@
 	<url>
 	<loc>/contact/</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1106,7 +1121,7 @@
 	<url>
 	<loc>/contents/</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1136,7 +1151,7 @@
 	<url>
 	<loc>/analysis/2016/cooper-analysis</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1151,7 +1166,7 @@
 	<url>
 	<loc>/analysis/2016/corzo-analysis</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1166,7 +1181,7 @@
 	<url>
 	<loc>/analysis/2016/crawford-analysis</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1181,7 +1196,7 @@
 	<url>
 	<loc>/analysis/2016/curcio-analysis</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1196,7 +1211,7 @@
 	<url>
 	<loc>/analysis/2016/cyr-analysis</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1211,7 +1226,7 @@
 	<url>
 	<loc>/design/</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1226,7 +1241,7 @@
 	<url>
 	<loc>/documentation/</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1241,7 +1256,7 @@
 	<url>
 	<loc>/elements/</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1256,7 +1271,7 @@
 	<url>
 	<loc>/analysis/2016/esteve-analysis</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1271,7 +1286,7 @@
 	<url>
 	<loc>/analysis/2016/eugenio-analysis</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1286,7 +1301,7 @@
 	<url>
 	<loc>/analysis/2016/evanoff-analysis</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1301,7 +1316,7 @@
 	<url>
 	<loc>/feed.xml</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1316,7 +1331,7 @@
 	<url>
 	<loc>/analysis/2016/fling-analysis</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1346,7 +1361,7 @@
 	<url>
 	<loc>/how-to/github-instructions/</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1361,7 +1376,7 @@
 	<url>
 	<loc>/analysis/2016/gressgott-analysis</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1376,7 +1391,7 @@
 	<url>
 	<loc>/analysis/2016/grieco-analysis</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1391,7 +1406,7 @@
 	<url>
 	<loc>/headers/</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1406,7 +1421,7 @@
 	<url>
 	<loc>/analysis/2016/heyward-analysis</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1421,7 +1436,7 @@
 	<url>
 	<loc>/analysis/2016/hofmeister-analysis</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1436,7 +1451,7 @@
 	<url>
 	<loc>/how-to/</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1451,7 +1466,7 @@
 	<url>
 	<loc>/humans.txt</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1466,7 +1481,7 @@
 	<url>
 	<loc>/blog/</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1481,7 +1496,7 @@
 	<url>
 	<loc>/</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1496,7 +1511,7 @@
 	<url>
 	<loc>/info/</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1511,7 +1526,7 @@
 	<url>
 	<loc>/analysis/2016/lappin-analysis</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1526,7 +1541,7 @@
 	<url>
 	<loc>/how-to/microfilm-instructions/</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1541,7 +1556,7 @@
 	<url>
 	<loc>/analysis/2016/ouellette-analysis</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1556,7 +1571,7 @@
 	<url>
 	<loc>/how-to/query-instructions</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1571,7 +1586,7 @@
 	<url>
 	<loc>/analysis/2016/ragland-analysis</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1586,7 +1601,7 @@
 	<url>
 	<loc>/redirect-page/</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1601,7 +1616,7 @@
 	<url>
 	<loc>/how-to/regular-expression-instructions/</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1616,7 +1631,7 @@
 	<url>
 	<loc>/resources/</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1631,7 +1646,7 @@
 	<url>
 	<loc>/roadmap/</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1646,7 +1661,7 @@
 	<url>
 	<loc>/robots.txt</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1680,7 +1695,7 @@
 	<url>
 	<loc>/analysis/2016/sain-analysis</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1695,7 +1710,7 @@
 	<url>
 	<loc>/schema/</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1710,7 +1725,7 @@
 	<url>
 	<loc>/search/</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1725,7 +1740,7 @@
 	<url>
 	<loc>/how-to/serial-question-instructions/</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1740,7 +1755,7 @@
 	<url>
 	<loc>/sitemap.xml</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1755,7 +1770,7 @@
 	<url>
 	<loc>/analysis/2016/stefonek-analysis</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1772,7 +1787,7 @@
 	<url>
 	<loc>/analysis/2016/summa-analysis</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1787,7 +1802,7 @@
 	<url>
 	<loc>/how-to/tagging-people-and-places-instructions/</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1802,7 +1817,7 @@
 	<url>
 	<loc>/analysis/2016/taylor-analysis</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1817,7 +1832,7 @@
 	<url>
 	<loc>/how-to/tei-xml-instructions/</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1832,7 +1847,7 @@
 	<url>
 	<loc>/templates/</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1847,7 +1862,7 @@
 	<url>
 	<loc>/how-to/templating-instructions/</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1862,7 +1877,7 @@
 	<url>
 	<loc>/how-to/text-editor-instructions/</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1877,7 +1892,7 @@
 	<url>
 	<loc>/analysis/2016/thompson-analysis</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1892,7 +1907,7 @@
 	<url>
 	<loc>/how-to/tutorials-instructions/</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1907,7 +1922,7 @@
 	<url>
 	<loc>/analysis/2016/vazquez-analysis</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1922,7 +1937,7 @@
 	<url>
 	<loc>/analysis/2016/vincent-analysis</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1952,7 +1967,7 @@
 	<url>
 	<loc>/weeks-fall-2016/</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1967,7 +1982,7 @@
 	<url>
 	<loc>/weeks/</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1997,7 +2012,7 @@
 	<url>
 	<loc>/analysis/2016/wills-analysis</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2012,7 +2027,7 @@
 	<url>
 	<loc>/blog/page2/</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2027,7 +2042,7 @@
 	<url>
 	<loc>/blog/page3/</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2042,7 +2057,7 @@
 	<url>
 	<loc>/blog/page4/</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2057,7 +2072,7 @@
 	<url>
 	<loc>/blog/page5/</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2072,7 +2087,7 @@
 	<url>
 	<loc>/blog/page6/</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2087,7 +2102,7 @@
 	<url>
 	<loc>/blog/page7/</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2102,7 +2117,7 @@
 	<url>
 	<loc>/blog/page8/</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2117,7 +2132,7 @@
 	<url>
 	<loc>/blog/page9/</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2132,7 +2147,7 @@
 	<url>
 	<loc>/blog/page10/</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2147,7 +2162,7 @@
 	<url>
 	<loc>/blog/page11/</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2162,7 +2177,7 @@
 	<url>
 	<loc>/blog/page12/</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2177,7 +2192,7 @@
 	<url>
 	<loc>/blog/page13/</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2192,7 +2207,7 @@
 	<url>
 	<loc>/blog/page14/</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2207,7 +2222,7 @@
 	<url>
 	<loc>/blog/page15/</loc>
 	
-		<lastmod>2017-05-01T22:42:10-04:00</lastmod>
+		<lastmod>2017-05-01T23:24:23-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2219,7 +2234,7 @@
 	
 
 
-<!-- Posts: 73 links with priority=0.5, changefreq=monthly -->
+<!-- Posts: 75 links with priority=0.5, changefreq=monthly -->
 
 	
 	<url>
@@ -2316,6 +2331,21 @@
 	<loc>/curiosities/pearce-blog/</loc>
 	
 		<lastmod>2017-03-16T00:00:00-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/curiosities/Horton-page6Disaster/</loc>
+	
+		<lastmod>2017-03-10T00:00:00-05:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -3291,6 +3321,21 @@
 	<loc>/curiosities/abduh/</loc>
 	
 		<lastmod>2016-09-28T00:00:00-04:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>/curiosities/bolton-blog/</loc>
+	
+		<lastmod>2016-04-14T00:00:00-04:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
