@@ -5,6 +5,13 @@ permalink: /analysis/analysis
 header:
   image_fullwidth: front-page.jpg
 ---
+# IFS 2116 Spring 2017 directory
+
+Doring|[The Ground War in China](2017/doring-analysis)
+Ferguson|[20th Century Mosquito Control Efforts in Egypt](2017/ferguson-analysis)
+Migdalski|[Plague in Egypt, 1905-1906](2017/migdalski-analysis)
+Doring|[Anarchism in Colonial Egypt](2017/ortiz-analysis)
+Story|[Climate Change in Alexandria](2017/doring-analysis)
 
 # IFS 2116 Fall 2016 directory
 
@@ -16,6 +23,7 @@ Caliendo|[20th Century Smoking Culture](2016/caliendo-analysis)
 Cooper|[Who is the Fastest Horse in Alexandria?](2016/cooper-analysis)
 Corzo|[Silent Killer](2016/corzo-analysis)
 Crawford|[Capital Market Integration](2016/crawford-analysis)
+Crespo|[Nile River](2016/crespo-analysis)
 Curcio|[Medical Miracles](2016/curcio-analysis)
 Cyr|[Bubonic Plague In Egypt, 1905](2016/cyr-analysis)
 Esteve|[The Uses of Counting](2016/esteve-analysis)
@@ -30,6 +38,7 @@ Hofmeister|[Changes Over the Year](2016/hofmeister-analysis)
 Lappin|[Cultural Significance of Events in Alexandria](2016/lappin-analysis)
 Ouelette|[Analysis](2016/ouelette-analysis)
 Ragland|[The Exploration of Musicians in Alexandria](2016/ragland-analysis)
+Rymer|[Egyptian Entertainment: Weekend activities of the everyday Egyptian in 1905](2016/finalproject-rymer.pdf)
 Sain|[Tracking Stray and Ownerless Dogs](2016/sain-analysis)
 Stefonek|[Fleet Tracking](2016/stefonek-analysis)
 Summa|[A Serial Analysis of St. Petersburg, London, and Paris Through the Lens of the Egyptian Gazette](2016/summa-analysis)
