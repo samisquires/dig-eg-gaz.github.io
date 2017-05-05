@@ -10,7 +10,7 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 8|February 20, 1905|February 25, 1905|[Taj Ali](https://github.com/tajali016 )|All|6|35|
 9|February 27, 1905|March 4, 1905|[Jacob Baenen](https://github.com/JBaenen)|All|6|38|
 10|March 6, 1905|March 11, 1905|[Elizabeth Barrett](https://github.com/Ekb15fsu)|All|6|36|
-11|March 13, 1905|March 18, 1905|[Madison Bolton](https://github.com/madibolton)|All|6|20|
+11|March 13, 1905|March 18, 1905|[Madison Bolton](https://github.com/madibolton)|All|6|20|1905-03-13-p3 missing from film
 12|March 20, 1905|March 25, 1905|[Jackson Boucher](https://github.com/jacksonboucher)|All|5|3|
 13|March 27, 1905|April 1, 1905|[Giselle Chacon](https://github.com/Gisellechacon)|All|3|2|
 31|July 31, 1905|August 5, 1905|[Tanner Doring](https://github.com/Tnd15b)|All|6|40|
@@ -23,7 +23,7 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 3|January 15, 1906|January 20, 1906|[Cameron Greco](https://github.com/cgreco1)|All|2|15|
 5|January 29, 1906|February 3, 1906|[Olivia Hammermaster](https://github.com/livhammer)|All|1|4|
 6|February 5, 1906|February 10, 1906|[Jeffrey Hayden](https://github.com/Jeffhayden11)|All|6|36|
-7|February 12, 1906|February 17, 1906|[Michael Hensley](https://github.com/mch15d)|8|2||
+7|February 12, 1906|February 17, 1906|[Michael Hensley](https://github.com/mch15d)|24/48|2||
 8|February 19, 1906|February 24, 1906|[Alexia Horton](https://github.com/Ahorton12)|All|6|40|
 9|February 26, 1906|March 3, 1906|[Jasmine Johnson](https://github.com/jkj16)|All|6|13|
 11|March 12, 1906|March 17, 1906|[Rosalyn Baxter](https://github.com/rosie-baxter)|41/48|5|24|
