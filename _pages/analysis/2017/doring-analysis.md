@@ -1,7 +1,8 @@
 ---
 layout: page
+subheadline: "Tanner Doring"
 title: "The Ground War in China"
-author: "Tanner Doring"
+author: TannerDoring
 permalink: /analysis/2017/doring-analysis
 header:
     image_fullwidth: front-page.jpg

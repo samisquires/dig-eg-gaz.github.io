@@ -1,7 +1,8 @@
 ---
 layout: page
+subheadline: "Joshua Story"
 title: "Climate Change in Alexandria"
-author: "Joshua Story"
+author: JoshuaStory
 permalink: /analysis/2017/story-analysis
 header:
   image_fullwidth: front-page.jpg

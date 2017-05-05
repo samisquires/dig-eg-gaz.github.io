@@ -1,7 +1,8 @@
 ---
 title: "Anarchism in Colonial Egypt"
+subheadline: "William Ortiz"
 date: 2017-04-17
-author: William Ortiz
+author: WilliamOrtiz
 permalink: /analysis/2017/ortiz-analysis
 header:
   image_fullwidth: front-page.jpg
