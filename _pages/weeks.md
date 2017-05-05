@@ -45,7 +45,7 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 31|July 30, 1906|August 4, 1906|[Jaime Sepulveda](https://github.com/jsepulveda43)|38/40|5|32|
 33|August 13, 1906|August 18, 1906|[Quin Smith](https://github.com/quinelaine)||3|7|
 34|August 20, 1906|August 25, 1906|[Joshua Story](https://github.com/JoshuaStory)|All|6|14|
-35|August 27, 1906|September 1, 1906|[Kenneth Ukah](https://github.com/knu14)|All|5|32|
+35|August 27, 1906|September 1, 1906|[Kenneth Ukah](https://github.com/knu14)|All|6|32|
 36|September 3, 1906|September 8, 1906|[Caroline Vaverek](https://github.com/Carovav)|All|6|38|
 37|September 10, 1906|September 15, 1906|[Erin Webster](https://github.com/ew14e)|36/38|6|2|
 39|September 24, 1906|September 29, 1906|[Aliza Anderson](https://github.com/alizacarolyn)|All|6|36|
