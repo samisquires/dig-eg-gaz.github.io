@@ -9,13 +9,17 @@ header:
 
 Cwikla|[Analyzing Archaeology](2017/cwikla-analysis)
 Doring|[The Ground War in China](2017/doring-analysis)
+Fajardo|[Bubonic Plague](2017/fajardo-analysis)
 Ferguson|[20th Century Mosquito Control Efforts in Egypt](2017/ferguson-analysis)
 Fitzpatrick|[Murder Reports](2017/fitzpatrick-analysis)
+Horton|[Hospitality through the eyes of the Egyptian Gazette](2017/horton-analysis)
 Migdalski|[Plague in Egypt, 1905-1906](2017/migdalski-analysis)
-Doring|[Anarchism in Colonial Egypt](2017/ortiz-analysis)
-Story|[Climate Change in Alexandria](2017/doring-analysis)
+Ng|[Front Page Advertisements in the Egyptian Gazette](2017/ng-analysis)
+Ortiz|[Anarchism in Colonial Egypt](2017/ortiz-analysis)
+Petersen|[Gum in Egypt](2017/petersen-analysis)
+Rodriguez|[Murder in Alexandria](2017/rodriguez-analysis)
+Story|[Climate Change in Alexandria](2017/story-analysis)
 Vaverek|[Making Sense of the Daily Weather Report](2017/vaverek-analysis)
-
 
 # IFS 2116 Fall 2016 directory
 
