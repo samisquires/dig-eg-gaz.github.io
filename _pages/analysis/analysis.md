@@ -7,17 +7,23 @@ header:
 ---
 # IFS 2116 Spring 2017 directory
 
+Acosta|[Patent Pills](2017/acosta-analysis)
+Barrett|[Donkeys](2017/barrett-analysis)
 Cwikla|[Analyzing Archaeology](2017/cwikla-analysis)
 Doring|[The Ground War in China](2017/doring-analysis)
 Fajardo|[Bubonic Plague](2017/fajardo-analysis)
 Ferguson|[20th Century Mosquito Control Efforts in Egypt](2017/ferguson-analysis)
 Fitzpatrick|[Murder Reports](2017/fitzpatrick-analysis)
+Flick|[Funerals in the Egyptian Gazette](2017/flick-analysis)
+Greco|[Coal in Early 1900s Alexandria](2017/greco-analysis)
 Horton|[Hospitality through the eyes of the Egyptian Gazette](2017/horton-analysis)
+Martinez|[Land Bank Stock Prices](2017/martinez-analysis)
 Migdalski|[Plague in Egypt, 1905-1906](2017/migdalski-analysis)
 Ng|[Front Page Advertisements in the Egyptian Gazette](2017/ng-analysis)
 Ortiz|[Anarchism in Colonial Egypt](2017/ortiz-analysis)
 Petersen|[Gum in Egypt](2017/petersen-analysis)
 Rodriguez|[Murder in Alexandria](2017/rodriguez-analysis)
+Sepulvia|[Analyzing Archaeology](2017/sepulvia-analysis)
 Story|[Climate Change in Alexandria](2017/story-analysis)
 Vaverek|[Making Sense of the Daily Weather Report](2017/vaverek-analysis)
 
