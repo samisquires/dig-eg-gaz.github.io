@@ -16,13 +16,13 @@ Patent Medicines, otherwise known as Nostrums, are medicines that are not consid
 
 In the *Egyptian Gazette*, there are many different occurrences of patent pill advertisements and this analysis will analyze the frequency of these advertisements throughout the publication, compare results of these occurrences to see which patent pills were the most successful, and lastly evaluate their longevity to see if it is positively correlated by their advertising frequency.
 
-![](acostaTotalMentions.png)
+![acostaTotalMentions](acostaTotalMentions.png)
 
 It seems that the total amount of advertisements of patent medicines in the Egyptian Gazette declined as the year passed.  The peaks occurred in January, March, and May of 1905 while the strongest dips were in February of both years, July of 1905, and a few other months in 1906. There seems to be a trend of slow decline throughout the two years but the month of February seems particularly odd since it is such a huge drop compared to the two months around it. According to the trend, February should have had around 5 total advertisements but instead it had none. The total then jumped back up to 3 in the immediately following month. The month of February in 1905 has a substantial amount of submissions (around 18) so a lack of postings does not seem to be the issue.
 
-![](acostaMentionsPerCompany.png)
+![acostaMentionsPerCompany](acostaMentionsPerCompany.png)
 
-![](acostaMentionsPerCompanyPie.png)
+![acostaMentionsPerCompanyPie](acostaMentionsPerCompanyPie.png)
 
 After splitting up the patent pill mentions by company there are some obvious signs of market dominance. Dr. Williams' Pink Pills for Pale People and Dr. Le Clerc's Pills for the Liver each both had around double of the mentions as the other companies combined (12 and 11 to 6 and 1). However, Doan’s Backache Kidney Pills was also dominant in the first few months and had as many mentions as the other top two medicines until the summer months of 1905 occurred. After this slump the company had no mentions for the rest of the two years.
 
@@ -30,7 +30,7 @@ I researched Doan’s Backache Kidney Pills and was surprised to notice that, de
 
 Towards the end of the analysis time period, Dr. William’s and Dr. Le Clerc’s pills seemed to both follow an identical pattern. Upon shifting the graph into a 3D version you can see that starting from August of 1905 the two companies had identical advertisement frequencies while the other two products seemed to flatline.
 
-![](acostaMentionsPerCompany3D.png)
+![acostaMentionsPerCompany3D](acostaMentionsPerCompany3D.png)
 
 The two products had the same advertisement frequency from August of 1905 to the end of the analysis in October of 1906. This strikes me as odd and leads me to believe that these patterns might be caused because of submission errors. Shifting the graph to a 3D version also helped emphasize how rarely Beecham’s Pills were advertised compared to the other 3 products. This shift also helps highlight the market dominance that Dr. Williams' Pink Pills for Pale People and Dr. Le Clerc's Pills for the Liver had throughout both years. Coming back to the analysis of company success in relation to advertisement frequency I was surprised to see that Dr. Le Clerc's Pills for the Liver did not seem to have lasted long after this time period, despite the large amount of advertisements the company had in the *Egyptian Gazette*. I could not find any recent information on this product or the company that advertised this product which was odd because even the Beecham product had information despite its lack of advertisement. However, the other market dominator, Dr. Williams' Pink Pills for Pale People, did seem to last much longer than its competitor.
 
