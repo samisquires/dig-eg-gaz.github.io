@@ -9,8 +9,8 @@ header:
 
 Acosta|[Patent Pills](2017/acosta-analysis)
 Ali|[Egypt's Grandest Stage](2017/ali-analysis)
-Barrett|[Donkeys](2017/barrett-analysis)
 Baenen|[Seasons of Sport](2017/baenen-analysis)
+Barrett|[Donkeys](2017/barrett-analysis)
 Bolton|[Vade Mecum for the Homeward Bound](2017/bolton-analysis)
 Boucher|[Bond Price Analysis](2017/boucher-analysis)
 Cwikla|[Analyzing Archaeology](2017/cwikla-analysis)
