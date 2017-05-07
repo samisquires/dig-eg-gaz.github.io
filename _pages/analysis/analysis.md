@@ -37,7 +37,7 @@ Petersen|[Gum in Egypt](2017/petersen-analysis)
 Rodriguez|[Murder in Alexandria](2017/rodriguez-analysis)
 Sepulveda|[1905 County Championship](2017/sepulveda-analysis)
 Story|[Climate Change in Alexandria](2017/story-analysis)
-Ukah|[“Aspects of Insurance](2017/ukah-analysis)
+Ukah|[Aspects of Insurance](2017/ukah-analysis)
 Vaverek|[Making Sense of the Daily Weather Report](2017/vaverek-analysis)
 
 # IFS 2116 Fall 2016 directory

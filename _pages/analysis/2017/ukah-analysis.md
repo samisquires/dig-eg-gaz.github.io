@@ -1,6 +1,6 @@
 ---
 layout: page
-title: “Aspects of Insurance in _The Egyptian Gazette_ (1905-1906)”
+title: Aspects of Insurance in _The Egyptian Gazette_ (1905-1906)
 date: 2017-04-30
 author: KennethUkah
 subheadline: "Kenneth Ukah"
