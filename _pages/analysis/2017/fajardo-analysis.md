@@ -10,7 +10,7 @@ header:
 ---
 The _Egyptian Gazette_ is one of the most remarkable newspaper developed in Egypt that has informed and entertained the community for centuries. The newspaper was the main source of information for members of the community, as it was filled with short stories, financial tables, advertisements, and records of sports. In order to find material for my research, I used `//div[@type="item"][contains(., 'insertword')]` as my search query. As shown in the table below, I ran results for search words including Bubonic, plague, cattle, and diseases. The results for plague were high- 131 items- as to Bubonic-17.
 
-![ResultsFajardo1](1.png)
+![ResultsFajardo1](fajardo-Results1.png)
 
 In order to improve the quality of my research, I decided to specifically target the Bubonic Plague.
 As death caused by plagues were repeatedly mentioned in my assigned week, the topic appeared numerous time through my classmates’ XML document.
@@ -21,7 +21,7 @@ As I began my research, I had to set the foundation of my project by adapting my
 
 A barrier I encountered was that there were short articles appear in the results or the article regarding about a plague was hidden among other articles.Compared to recurring data in the newspaper, the death counts from the Bubonic Plague were written in articles rather than recorded in tables. As a researcher, it was frustrating not having a tool that would allow me to quickly input data in the Atom software or Windows Excel. However, it would be morally wrong to simply remember the victims of the Bubonic Plague as data; for that reason, the victims were mentioned in articles to remember them as an individual rather than as simple numbers. Shown below is a graph from the collection of data from the beginning of January 1905 to the end of April 1906.
 
-![ChartFajardo2.png](2.png)
+![ChartFajardo2.png](fajardo-Chart2.png)
 
 As shown above, the city that was heavy affected by the Bubonic Plague was Alexandria, followed by Sues. The data contrasted my original presumption (Alexandria would be least affected by the plague), since it was a very attracted city to tourists. However, I realized how my assumption does not considered actual factors of the city’s condition. If a city or town is widely known it attracts numerous individuals, then the population will drastically increase since citizens will move to seek jobs. If a town is unknown and does not attract many business, then the population will be significant low compared to a city’s. As citizens of Egypt flock to  Alexandria, many would live in uncomfortable and unsanitary conditions since place was limited and many cannot afford a standard household. Since Alexandria had a large population, it was difficult to enforce sanitary laws. As individuals disregard sanitary laws to minimize diseases, the Bubonic Plague may have easily infected citizens since many individuals worked in close proximities and the disease could have easily been transmitted. However, the table below will depict how by the end of October, the Bubonic Plague was essentially gone. Since this became the case, I developed a new search query in order to answer how the government was able to control the plague and cure the victims.
 
