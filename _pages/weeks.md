@@ -26,7 +26,7 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 7|February 12, 1906|February 17, 1906|[Michael Hensley](https://github.com/mch15d)|24/48|2||
 8|February 19, 1906|February 24, 1906|[Alexia Horton](https://github.com/Ahorton12)|All|6|40|
 9|February 26, 1906|March 3, 1906|[Jasmine Johnson](https://github.com/jkj16)|All|6|13|
-11|March 12, 1906|March 17, 1906|[Rosalyn Baxter](https://github.com/rosie-baxter)|46/48|5|24|
+11|March 12, 1906|March 17, 1906|[Rosalyn Baxter](https://github.com/rosie-baxter)|All|5|24|
 14|April 2, 1906|April 7, 1906|[Taylor Cwikla](https://github.com/cwiklata)|All|6|35|
 15|April 9, 1906|April 14, 1906|[Adrian Martinez](https://github.com/adrianmar01)|All|5|1|1906-04-13 issue lacking
 16|April 16, 1906|April 21, 1906|[Mia Meixner](https://github.com/Miameixner)|All|5|30|1906-04-16 issue lacking
