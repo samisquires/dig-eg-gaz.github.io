@@ -8,7 +8,7 @@ permalink: /analysis/2017/ferguson-analysis
 header:
   image_fullwidth: front-page.jpg
 ---
-![malaria](malaria.png "[North Carolina Sanitary Engineering Division. 1955. Mosquitoes, and their control](http://digital.ncdcr.gov/cdm/ref/collection/p249901coll22/id/70479).")
+![malaria](ferguson-malaria.jpg "[North Carolina Sanitary Engineering Division. 1955. Mosquitoes, and their control](http://digital.ncdcr.gov/cdm/ref/collection/p249901coll22/id/70479).")
 
 Disease ran rampant in Egypt during the early 20th century due to a lack of education concerning proper mosquito repellent techniques. Malaria and Yellow Fever were among the greatest threats to human health mainly because citizens refused to believe that mosquitos could not only spread disease, but also cause it. At this time the Yellow Fever epidemic was coming to an end in America, however Malaria in Egypt was barely being addressed, much less eradicated. In order to create a better understanding of mosquito control efforts in 1905-1906, I have written an Xpath Query that has searched the Egyptian Gazzette Newspaper Catalogue throughout 1905 and 1906. The Xpath Query, written as, `//div[@type="section"]/div/p[contains(., 'mosquitoes')]`, returned approximately 22 results, of which only 3 were vital to this analysis project. Many queries require a ‘Where’ component, but since mosquitoes were barely spoken of in these issues, if I were to include a specific section or page for Xpath to look for, my results would have amounted to zero. To introduce mosquito/disease prophylaxis, as well as the context in which the yellow fever and malaria epidemic was raging, I have included a quotation taken from a concerned reader who wrote to the editor:
 
