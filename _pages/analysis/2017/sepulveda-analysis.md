@@ -3,7 +3,7 @@ layout: page
 title: "1905 County Championship"
 author: jaimesepulveda
 subheadline: "Jaime Sepulveda"
-permalink: /analysis/2017/sepulvia-analysis
+permalink: /analysis/2017/sepulveda-analysis
 header:
   image_fullwidth: front-page.jpg
 ---

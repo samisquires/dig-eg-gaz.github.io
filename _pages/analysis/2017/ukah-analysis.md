@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Aspects of Insurance in _The Egyptian Gazette_ (1905-1906)
+title: Aspects of Insurance
 date: 2017-04-30
 author: KennethUkah
 subheadline: "Kenneth Ukah"
@@ -38,17 +38,17 @@ There is a relatively even distribution of fire, life, and marine insurance firm
 
 The prevalence of these forms of insurance may be explained with historical perspective. Egypt in 1905-1906 is a colony under  Britain, and Britain brought to Egypt its forms of trade and business. Britain having port cities is an explanation for the  presence of marine insurance in the newspaper, for example. Most if not all of these firms are founded in London or  Europe at the least, and it seems most of them had spread their business practices.
 
-####A Closer Look at Some Insurance Firms
+#### A Closer Look at Some Insurance Firms
 
 The [1921 Insurance Almanac](https://play.google.com/store/books/details?id=mDVOAQAAMAAJ) by The Underwriter Printing and Publishing Co. provides descriptions of multiple  insurance firms found in the _Egyptian Gazette_.
 
 ##### Sun Insurance Office  
-> "The Sun Insurance Office is the oldest insurance company in the world, having been organized in 1710. It was known as the Sun Fire Office until 1891, when by act of Parliament its present title was assumed and the company received authority to transact all kinds of insurance. The resources and operations of the Sun are very extensive; it covers a great variety of risks and has agencies in all parts of the world."
+> The Sun Insurance Office is the oldest insurance company in the world, having been organized in 1710. It was known as the Sun Fire Office until 1891, when by act of Parliament its present title was assumed and the company received authority to transact all kinds of insurance. The resources and operations of the Sun are very extensive; it covers a great variety of risks and has agencies in all parts of the world.
 
 So about a decade after the time frame of this analysis, The Sun Insurance Office became a strong force in the market,  with assets in the quarter billions. Sun Insurance was one of the more prevalent ads in the _Gazette_ at this time as well.
 
 ##### Phoenix Assurance Company, Limited
->"The Phoenix is one of the largest and most widely operated Fire Insurance companies in the world. Its assets approximate $95,451,688; its surplus and special funds $11,584,565. The reputation of the company is of the best in all respects; its strength is most impressive, its respect for its obligations is traditional, and its operations have been attended with exceptional profit. Admitted to the United States in 1804, it was the first English fire insurance company to establish an American agency plant."
+>The Phoenix is one of the largest and most widely operated Fire Insurance companies in the world. Its assets approximate $95,451,688; its surplus and special funds $11,584,565. The reputation of the company is of the best in all respects; its strength is most impressive, its respect for its obligations is traditional, and its operations have been attended with exceptional profit. Admitted to the United States in 1804, it was the first English fire insurance company to establish an American agency plant.
 
 Phoenix Assurance was one of the most common insurance ads in the _Gazette_.
 
@@ -79,7 +79,7 @@ There are some other directions of study that can be taken with regards to insur
 
 ##### XPath and The Historical Context
 
-It is safe to say that there may be more about the insurance firms to be found in the newspaper apart from in advertisements,  and the key to finding that information lies in the _Gazette_'s articles. I had some success searching for key words  such as "fire," or "disaster" in paragraphs using XPath. And the fact that the majority of insurance firms in the _Gazette_ specialize in fire insurance is no coincidence. With a deeper understanding of Egypt's history through secondary sourcesor personal knowledge, the context behind the ads and articles can be better understood.  (P.G.M. Dickinson's _The Sun Insurance Office, 1710-1960: The History of Two and a Half Centuries of British Insurance._ is a good place to start.)
+It is safe to say that there may be more about the insurance firms to be found in the newspaper apart from in advertisements,  and the key to finding that information lies in the _Gazette_'s articles. I had some success searching for key words  such as "fire," or "disaster" in paragraphs using XPath. And the fact that the majority of insurance firms in the _Gazette_ specialize in fire insurance is no coincidence. With a deeper understanding of Egypt's history through secondary sourcesor personal knowledge, the context behind the ads and articles can be better understood.  (P.G.M. Dickinson's _The Sun Insurance Office, 1710-1960: The History of Two and a Half Centuries of British Insurance_ is a good place to start.)
 
 ##### The Financial Context
 

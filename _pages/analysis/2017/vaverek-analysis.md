@@ -12,7 +12,7 @@ header:
 ## Temperature in the Daily Weather Report
 The data I used for this project was gathered from two separate tables within the Daily Weather Report.
 
-![Daily Weather Report 1906-09-04](DWR.png)
+![Daily Weather Report 1906-09-04](vaverek-DWR.png)
 
 The Alexandria temperatures were retrieved from the bottom of the first table in this section, appropriately titled "Alexandria". Acquiring this section of the data required two X-Path queries as follows- `//table[@xml:id="deg-ta-dawr01"]//cell[contains(.,"Min. Temp in the shade")]/following-sibling::cell[1]/number()` and `//table[@xml:id="deg-ta-dawr01"]//cell[contains(.,"Max. Temp in the shade")]/following-sibling::cell[1]/number()`. These gave me both sets of temperatures for Alexandra, the maximum and minimum.
 
@@ -26,7 +26,7 @@ Analyzing and observing the variations in temperature reported in the Egyptian G
 
 All data is what was updated as of noon on April 12th for the purposes of being able to clean up data and create visualizations before continuing the project. For each location, for both the maximum and minimum temperature, I removed the data that was the same as the template data. The incomplete data (i.e. data that was copy and pasted from the template but not updated with the data from the contributor's week) was more common in the "Other Stations" chart than in the Alexandria temperatures. A few days also appear to not contain an "Other Stations" table at all, so Alexandria Station has a good deal more data than the other locations, making the averages more accurate than any other station included.
 
-![Average Maximum Monthly Temperature 1905-1906](AvgMaxTemp1905-06.png)
+![Average Maximum Monthly Temperature 1905-1906](vaverek-AvgMaxTemp05-06.png)
 
 These are the monthly average temperatures in some of the stations reported in the Daily Weather Report
 during 1905 and 1906. I chose the seven that are included because they were contained in the most editions of
@@ -36,7 +36,7 @@ at all useful.
 
 As you can see in the graph, there are a few months which contain no data for one or many locations. The limitations of the data are such that the month of October in 1905 only has one day of the newspaper containing a daily weather report with the proper xml:id, and so only returned one piece of data for every location. The average for that month, therefore, is only one number. This single day had no recorded data for the Cairo Halouan station, and so one missing number results in an entire month missing from our visualization. The entire month of January in 1906 is also missing for every station except for Alexandria; this month also was an average of only one day, and that day of the newspaper did not contain the "Other Stations" chart at all.
 
-![Average Minimum Monthly Temperature 1905-1906](AvgMinTemp05-06.png)
+![Average Minimum Monthly Temperature 1905-1906](vaverek-AvgMin05-06.png)
 
 The same gap in data for the maximum temperatures in January 1906 exists for the minimum, breaking up the data for all stations other than Alexandria. Both Port Said and Suakin stations have similar gaps in data for August 1906 because of data limitations- there are only two days of data for October.
 
