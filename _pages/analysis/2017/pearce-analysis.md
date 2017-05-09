@@ -4,7 +4,7 @@ subheadline: "Will Pearce"
 title: "Turn of the Century Exchange Rates"
 date: 2017-04-20
 author: willpearce
-permalink: /analysis/2017/surname-analysis
+permalink: /analysis/2017/pearce-analysis
 header:
   image_fullwidth: front-page.jpg
 ---
