@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: page
 subheadline: "Jordan Frazier"
 title: "Desert Weather"
 date: 2017-05-07
