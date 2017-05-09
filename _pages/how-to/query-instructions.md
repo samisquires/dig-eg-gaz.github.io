@@ -34,7 +34,7 @@ The best way to say exactly where you want to look is by using **attributes**. T
 With a little practice, you'll learn to search for results only in the relevant parts of the newspaper.
 
 ### "What" searches
-After you tell XPath *where* you want it to search, you can tell it *what* you want it to return. (This is optional.) Probably the most common thing to search for is a word or words. To do this, add `[contains(., "searchtext")]` to the end of your search, putting your search word(s) between the quotation marks. For example, `//div[contains(., "plague")]` will return all divs that contain the word "plague." Note that this search is case sensitive, so you may also want to search "PLAGUE" and "Plague." <!--- how to deal with case sensitive searches? --->
+After you tell XPath *where* you want it to search, you can tell it *what* you want it to return. (This is optional.) Probably the most common thing to search for is a word or words. To do this, add `[contains(., "searchtext")]` to the end of your search, putting your search word(s) between the quotation marks. For example, `//div[contains(., "plague")]` will return all divs that contain the word "plague." Note that this search is case sensitive, and will not return "PLAGUE" and "Plague." To remedy this ,use the `matches` function with the `'i'` flag, which makes the search case insensitive: `//div[matches(.,'the plague', 'i')]`.
 
 You can also search for particular kinds of information. Add a slash to the end of the location, then tell it you want
 - `count()` -- how many of these things are there?
