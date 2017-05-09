@@ -8,9 +8,7 @@ permalink: /analysis/2017/vaverek-analysis
 header:
   image_fullwidth: front-page.jpg
 ---
-
-## Temperature in the Daily Weather Report
-The data I used for this project was gathered from two separate tables within the Daily Weather Report.
+The data I used for this project was gathered from two separate tables within the [Daily Weather Report](https://dig-eg-gaz.github.io/templates/#daily-weather-report).
 
 ![Daily Weather Report 1906-09-04](vaverek-DWR.png)
 
