@@ -7,7 +7,7 @@ permalink: /analysis/2017/sepulvia-analysis
 header:
   image_fullwidth: front-page.jpg
 ---
-![](sepulveda-yorkshire-team.png)
+![sepulveda-yorkshire-team](sepulveda-yorkshire-team.png)
 
 The Egyptian Gazette provides insight to the lives of people living in Alexandria, Egypt in the early 20th century. An activity of importance to these people is sports, particularly the sport of cricket, with weekly updates of game results. The 1905 home cricket season is documented in the Egyptian Gazette, which normally includes a small “Sport and Play” section usually on the third page of each Monday edition dedicated to reporting on a number of sports including cricket. A reading of this section over the 1905 editions of the Egyptian Gazette provides a description of the teams and players participating in the 1905 County Championship.
 
