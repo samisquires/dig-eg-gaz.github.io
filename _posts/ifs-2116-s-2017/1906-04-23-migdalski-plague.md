@@ -13,9 +13,9 @@ tags:
   - treatment
 header: no
 image:
-  title: blog-images/preparingdrugsinancientegypt
-  thumb: blog-images/preparingdrugsinancientegypt
-  homepage: blog-images/preparingdrugsinancientegypt
+  title: blog-images/PreparingDrugsinAncientEgypt.jpg
+  thumb: blog-images/PreparingDrugsinAncientEgypt.jpg
+  homepage: blog-images/PreparingDrugsinAncientEgypt.jpg
   caption: Image posted in an article by Leopoldo Costa written June 5, 2011.
   caption_url: http://stravaganzastravaganza.blogspot.com/2011/06/medicine-in-ancient-egypt.html
 ---

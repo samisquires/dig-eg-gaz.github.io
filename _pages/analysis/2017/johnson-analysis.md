@@ -25,11 +25,11 @@ In order to return more applicable results, I then developed my query to include
 
 The prominent months in which strikes occurred were _November_, _May_, _October_, and _January_, with the former being the highest. Additionally the top locations in which strikes had occurred included _London, _St. Petersburg_, and _Paris_.
 
-![ Strikes 1905-1906 Per Month](johnson-strikes-graph.PNG)
+![ Strikes 1905-1906 Per Month](johnson-strikes-graph.png)
 
 In 1905 the Russian Revolution, a time which provoked hundreds of thousands of workers to resist, began and was the centripetal for labor strikes. According to "[Moscow Workers and the Revolutions of 1905 and 1917](http://www.jstor.org/stable/151392)", the strikes really escalated the last 4 months of 1905, beginning in September with the protest against the wages, and hours in the printing industry. This could possibly be an explanation as to why the queries yielded a great number of results for September 1905 through October 1905. In addition, the Russian city St. Petersburg yielded several results from this query which is understandable considering that it is the “primacy of the national economy...holding a seat of government.” In order for wages to truly change, or for universal suffrage rights to be upheld [The Situation in Russia](1905-12-28-p5.jpg) protesters most likely would have led strikes in St. Petersburg to be a direct link to reform that would be executed by the Russian Government.
 
-![Maps of Strikes](johnson-strikesmap.png)
+![Maps of Strikes](johnson-strikes-map.png)
 
 Moreover the months of October and November witnessed the formation of several labor unions, probably explaining the increase in yielded results for the word “Strike” among these two months. The question then becomes, why are the strikes in Russia relevant or newsworthy to the readers of the *Egyptian Gazette*? Egypt had amicable ties to Russia, which was exemplified by the construction of the [Egyptian Bridge](https://en.wikipedia.org/wiki/Egyptian_Bridge Besides) in January 1905. The success of the union strikes in Russia would more than likely yield hope for the union movements coexisting in Egypt.
 
@@ -58,6 +58,11 @@ Initially, it seemed as though the writers of the *Egyptian Gazette* did not con
 Nonetheless, the *Egyptian Gazette* and the information that was extractable helped to draw the conclusion that strikes are a very important part of history, often neglected. Even the minor strikes can lead to spreading awareness of issues which create movements and widespread advocacy. In addition these minuscule strikes, the successes of them are often the precursor to many future movements serving as an encouraging inspiration for change and hope for evolution.
 
 Further improvements could be made to develop this analysis by examining the *Egyptian Gazette* in later years. Perhaps getting a glimpse shortly after 1906 as well as in the mid 20th century will provide a more extensive look at the actual eruption of the several strikes thereafter due to the influence of surrounding nations' movements.
+
+## Queries
+- `//div[@type="section"]/div/p[contains(., 'strike')]`
+- `//div[contains(.,’strike’)]//dateline`
+- `//div[contains(.,’strike’)]//placename`
 
 ## Works Cited
 - "[Strike action](http://www.wikiwand.com/en/Strike_action)." Wikiwand. N.p., n.d. Web. 05 May 2017.
