@@ -3,7 +3,7 @@ layout: page
 subheadline: "Cameron C.L. Greco"
 title: "The Death in Egypt and in my Mind."
 teaser: "My social life isn't the only thing that's dying."
-date: 2016-03-06
+date: 2017-03-06
 categories:
   - curiosities
 author: CameronGreco

@@ -9,7 +9,7 @@ Page images are [here](https://github.com/dig-eg-gaz/page-images), listed by dat
 
 The pages below represent TEI documents transformed to HTML using a XSL and CSS customizations by [Sarah Stanley](https://github.com/scstanley7).
 
-# Key
+### Key
 - `plain text box`: complete, corrected issue
 - *italics*: (mostly) complete, uncorrected issue
 - **bold text**: partial issue

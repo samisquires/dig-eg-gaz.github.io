@@ -3,7 +3,7 @@ layout: page
 subheadline: "Anthony Muniz"
 title: "Hey That's My Good Arm!"
 teaser: "A deep and intellectual discussion on the horrors of life"
-date: 2017-03-05
+date: 2017-05-03
 categories:
   - curiosities
 author: AnthonyMuniz

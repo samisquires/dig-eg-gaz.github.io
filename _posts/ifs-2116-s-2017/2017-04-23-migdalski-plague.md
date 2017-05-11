@@ -3,7 +3,7 @@ layout: page
 subheadline: "Marsella Migdalski"
 title: "The Plague"
 teaser: "Origins, treatment, cure?"
-date: 2017-03-06
+date: 2017-04-23
 categories:
   - curiosities
 author: MarsellaMigdalski
