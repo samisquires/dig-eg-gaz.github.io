@@ -9,10 +9,16 @@ Page images are [here](https://github.com/dig-eg-gaz/page-images), listed by dat
 
 The pages below represent TEI documents transformed to HTML using a XSL and CSS customizations by [Sarah Stanley](https://github.com/scstanley7).
 
+# Key
+- **bold text**: complete, corrected issue
+- *italics*: (mostly) complete, uncorrected issue
+- plain text: partial issue
+- ~~strikethrough~~: no issue
+
 # 1905
 
 Week|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday
-**1|[Jan 02](https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-02.xml)|[Jan 03](https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-03.xml)|[Jan 04](https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-04.xml)|[Jan 05](https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-05.xml)|[Jan 06](https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-06.xml)|[Jan 07](https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-07.xml)**
+1|[*Jan 02*](https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-02.xml)|[*Jan 03*](https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-03.xml)|[**Jan 04**](https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-04.xml)|[~~Jan 05~~](https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-05.xml)|[Jan 06](https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-06.xml)|[Jan 07](https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-07.xml)
 **2|[Jan 09](https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-09.xml)|[Jan 10](https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-10.xml)|[Jan 11](https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-11.xml)|[Jan 12](https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-12.xml)|[Jan 13](https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-13.xml)|[Jan 14](https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-14.xml)**
 3|[Jan 16](https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-16.xml)|[Jan 17](https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-17.xml)|[Jan 18](https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-18.xml)|[Jan 19](https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-19.xml)|[Jan 20](https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-20.xml)|[Jan 21](https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-21.xml)
 4|[Jan 23](https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-23.xml)|[Jan 24](https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-24.xml)|[Jan 25](https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-25.xml)|[Jan 26](https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-26.xml)|[Jan 27](https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-27.xml)|[Jan 28](https://cdn.rawgit.com/dig-eg-gaz/content/master/1905-01-28.xml)
