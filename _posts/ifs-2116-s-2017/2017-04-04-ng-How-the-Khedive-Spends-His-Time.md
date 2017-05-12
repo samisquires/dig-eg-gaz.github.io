@@ -1,12 +1,12 @@
 ---
 layout: page
-subheadline: "Joseph Ng"
+subheadline: Joseph Ng
 title: "How the Khedive Spends His Time"
-teaser: "The activities of the Khedive as described by "The Egyptian Gazette""
+teaser: "The activities of the Khedive as described by The Egyptian Gazette"
 date: 2017-04-04
 categories:
   - curiosities
-author: "JosephNg"
+author: JosephNg
 tags:
   - khedive
   - daily update

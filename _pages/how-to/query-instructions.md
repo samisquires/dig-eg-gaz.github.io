@@ -89,6 +89,9 @@ The possibilities are endless. Here are some samples.
 - count the number of ads (divs) on page 1 (div n="1"): `count(//div[@n="1"]//div)`
 - count the number of paragraphs in the division whose heading contains "MARCHE DE MINET": `count(//div/head[contains(.,'MARCHE DE MINET')]/following-sibling::p)`
 
+### Item length
+- Find all paragraphs longer than 5000 characters: `//p[string-length() > 5000]`
+
 ## 7. Searching with regular expressions
 It is possible to combine regular expression and XPath searches by using the find/replace menu. Enter the regular expression you wish to search for in the Find box, and the XPath location in which you wish to search in the XPath box. <!--- explain further --->
 
