@@ -8,6 +8,11 @@ header:
    image_fullwidth: "header_unsplash_9.jpg"
 permalink: "/changelog/"
 ---
+2017-05-12 // Version 0.09
+:   Second semester complete
+:   New, complete contents listing
+:   Change issue file serving to gitCDN.xyz for better support of updated files
+
 2017-03-15 // Version 0.05
 :   Added `@elements` attribute to recurring elements and tables
 
