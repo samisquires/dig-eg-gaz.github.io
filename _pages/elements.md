@@ -26,7 +26,7 @@ Section name|element (or deprecated xml:id)|Usual page(s)|Frequency|Notes
 **Shipping Movements** |"shippingMovements"|4,6|Almost daily. Begins November 13, 1905?|
 **[Mouvement Maritime](https://dig-eg-gaz.github.io/templates/#mouvement-maritime)** |"mouvementMaritime"|4|Almost daily. none after October 17, 1905?|French language. see [template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/mouvement-maritime.xml) for format.
 **Army and Navy / Army of Occupation / Egyptian Army** |"army"|3,4,5,7||
-**[Calendar of Coming Events](https://dig-eg-gaz.github.io/templates/#calendar-of-coming-events)** |"comingEvents"|5||see [template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/calendar-of-coming-events.xml) for format
+**[Calendar of Coming Events](https://dig-eg-gaz.github.io/templates/#calendar-of-coming-events)** |"comingEvents"|5|daily|see [template](https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/calendar-of-coming-events.xml) for format
 **[Cheap Prepaid Advertisements](https://dig-eg-gaz.github.io/templates/#cheap-prepaid-advertisements)** |"prepaidAdvertisements"|2,5,7||Section template [here](https://dig-eg-gaz.github.io/templates/#cheap-prepaid-advertisements). Treat each advertisement as an item.
 **Visitors' List** |"visitList"|3,5||Treat each hotel as an item.
 **Matters of Moment. Pith of the Press Comments.** |"mattersMoment"|5||
