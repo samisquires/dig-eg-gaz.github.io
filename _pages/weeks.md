@@ -29,7 +29,7 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 11|March 12, 1906|March 17, 1906|[Rosalyn Baxter](https://github.com/rosie-baxter)|All|6|24|
 14|April 2, 1906|April 7, 1906|[Taylor Cwikla](https://github.com/cwiklata)|All|6|35|
 15|April 9, 1906|April 14, 1906|[Adrian Martinez](https://github.com/adrianmar01)|All|5|1|1906-04-13 issue lacking
-16|April 16, 1906|April 21, 1906|[Mia Meixner](https://github.com/Miameixner)|All|5|30|1906-04-16 issue lacking
+16|April 16, 1906|April 21, 1906|[Mia Meixner](https://github.com/Miameixner)|28/32|5|30|1906-04-16 issue lacking
 17|April 23, 1906|April 28, 1906|[Marsella Migdalski](https://github.com/MarsellaM)|All|6|8|
 18|April 30, 1906|May 5, 1906|[Jonathan Morales](https://github.com/Jonmorazav)|30/40|2|5|
 19|May 7, 1906|May 12, 1906|[Anthony Muniz](https://github.com/Amuniz97)|All|6|29|
