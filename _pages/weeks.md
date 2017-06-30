@@ -6,6 +6,7 @@ header:
   image_fullwidth: front-page.jpg
 ---
 Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Notes
+---|---|---|---|---|---|---|---
 3|January 16, 1905|January 21, 1905|[Andres Acosta](https://github.com/aaa15g)|All|6|28|
 8|February 20, 1905|February 25, 1905|[Taj Ali](https://github.com/tajali016 )|All|6|35|
 9|February 27, 1905|March 4, 1905|[Jacob Baenen](https://github.com/JBaenen)|All|6|38|
@@ -47,7 +48,7 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 34|August 20, 1906|August 25, 1906|[Joshua Story](https://github.com/JoshuaStory)|All|6|14|
 35|August 27, 1906|September 1, 1906|[Kenneth Ukah](https://github.com/knu14)|All|6|32|
 36|September 3, 1906|September 8, 1906|[Caroline Vaverek](https://github.com/Carovav)|All|6|38|
-37|September 10, 1906|September 15, 1906|[Erin Webster](https://github.com/ew14e)|36/38|6|2|
+37|September 10, 1906|September 15, 1906|[Erin Webster](https://github.com/ew14e)|36/38|6|21|
 39|September 24, 1906|September 29, 1906|[Aliza Anderson](https://github.com/alizacarolyn)|All|6|36|
 40|October 1, 1906|October 6, 1906|[Will Hanley](https://github.com/whanley)|18|3|18|
 
