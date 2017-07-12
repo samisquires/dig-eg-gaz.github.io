@@ -588,6 +588,10 @@ xml text: [mil02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [mma01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/mma01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/mma01-Messageries-Maritimes.png?raw=true)
 
+### mmw01 Masters' Military Watch
+xml text: [mmw01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/mmw01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/mmw01-masters-military-watch.png?raw=true)
+
 ### msp01 McLaren's Steam Ploughs
 xml text: [msp01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/msp01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/msp01-mclarens-steam-ploughs.png?raw=true)
@@ -691,6 +695,10 @@ xml text: [per01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### phc01 P. Henderson & Co.'s Line.
 xml text: [phc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/phc01.xml). Ship names, weights, dates, and destinations change.
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/phc01-P-Henderson-Cos-Line.png?raw=true)
+
+### plc01 Peach's Lace Curtains
+xml text: [plc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/plc01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/plc01-peachs-lace-curtains.png?raw=true)
 
 ### pos01 Peninsular and Oriental S.N. Company
 xml text: [pos01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pos01.xml). Text of third paragraph and ship names and dates in the table change.
