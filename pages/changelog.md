@@ -8,6 +8,9 @@ header:
    image_fullwidth: "header_unsplash_9.jpg"
 permalink: "/changelog/"
 ---
+2017-09-17 // Version 0.10
+:   Reduce and standardize page images, using ImageMagick command `mogrify -strip -interlace Plane -gaussian-blur 0.05 -quality 85% *.jpg` (via [stackoverflow](https://stackoverflow.com/questions/7261855/recommendation-for-compressing-jpg-files-with-imagemagick#7262050))
+
 2017-05-12 // Version 0.09
 :   Second semester complete
 :   New, complete contents listing
