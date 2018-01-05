@@ -5,7 +5,11 @@ permalink: /contents/
 header:
   image_fullwidth: front-page.jpg
 ---
+CDN status:
 <script src="https://cdn.rawgit.com/whanley/71bc1fac509a23b93a3a89b51af32bf8/raw/d98c33c8fbf5ee67a89395c0e435ac9568bcd0c1/dig-eg-gaz-issues-calendar-chart.html"></script>
+
+development status:
+<script src="https://rawgit.com/whanley/71bc1fac509a23b93a3a89b51af32bf8/raw/d98c33c8fbf5ee67a89395c0e435ac9568bcd0c1/dig-eg-gaz-issues-calendar-chart.html"></script>
 
 <!--{% gist 71bc1fac509a23b93a3a89b51af32bf8 %}-->
 
