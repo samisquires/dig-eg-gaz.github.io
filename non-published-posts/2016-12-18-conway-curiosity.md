@@ -3,7 +3,7 @@ layout: page
 subheadline: Max Conway
 title: “British Ships being sunk”
 teaser: "One liner"
-date: 2016-00-00 <!--- date of post submission --->
+date: 2016-01-01 <!--- date of post submission --->
 categories:
   - curiosities
 author: maxconway <!--- all one word --->
