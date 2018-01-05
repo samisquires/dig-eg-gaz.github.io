@@ -6,10 +6,16 @@ header:
   image_fullwidth: front-page.jpg
 ---
 CDN status:
-<script src="https://cdn.rawgit.com/whanley/71bc1fac509a23b93a3a89b51af32bf8/raw/d98c33c8fbf5ee67a89395c0e435ac9568bcd0c1/dig-eg-gaz-issues-calendar-chart.html"></script>
+<iframe src="https://cdn.rawgit.com/whanley/71bc1fac509a23b93a3a89b51af32bf8/raw/d98c33c8fbf5ee67a89395c0e435ac9568bcd0c1/dig-eg-gaz-issues-calendar-chart.html"  width="90%" height="400"></iframe>
 
 development status:
-<script src="https://rawgit.com/whanley/71bc1fac509a23b93a3a89b51af32bf8/raw/d98c33c8fbf5ee67a89395c0e435ac9568bcd0c1/dig-eg-gaz-issues-calendar-chart.html"></script>
+<iframe src="https://rawgit.com/whanley/71bc1fac509a23b93a3a89b51af32bf8/raw/d98c33c8fbf5ee67a89395c0e435ac9568bcd0c1/dig-eg-gaz-issues-calendar-chart.html"  width="90%" height="400"></iframe>
+
+development status:
+<image src="https://rawgit.com/whanley/71bc1fac509a23b93a3a89b51af32bf8/raw/d98c33c8fbf5ee67a89395c0e435ac9568bcd0c1/dig-eg-gaz-issues-calendar-chart.html"  width="90%" height="400"></image>
+
+not rendered:
+<iframe src="https://gist.github.com/whanley/71bc1fac509a23b93a3a89b51af32bf8.js"  width="90%" height="400"></iframe>
 
 <!--{% gist 71bc1fac509a23b93a3a89b51af32bf8 %}-->
 
