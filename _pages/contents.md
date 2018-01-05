@@ -5,29 +5,18 @@ permalink: /contents/
 header:
   image_fullwidth: front-page.jpg
 ---
-CDN status:
-<iframe src="https://cdn.rawgit.com/whanley/71bc1fac509a23b93a3a89b51af32bf8/raw/d98c33c8fbf5ee67a89395c0e435ac9568bcd0c1/dig-eg-gaz-issues-calendar-chart.html"  width="90%" height="400"></iframe>
-
-development status:
-<iframe src="https://rawgit.com/whanley/71bc1fac509a23b93a3a89b51af32bf8/raw/d98c33c8fbf5ee67a89395c0e435ac9568bcd0c1/dig-eg-gaz-issues-calendar-chart.html"  width="90%" height="400"></iframe>
-
-development status:
-<image src="https://rawgit.com/whanley/71bc1fac509a23b93a3a89b51af32bf8/raw/d98c33c8fbf5ee67a89395c0e435ac9568bcd0c1/dig-eg-gaz-issues-calendar-chart.html"  width="90%" height="400"></image>
-
-not rendered:
-<iframe src="https://gist.github.com/whanley/71bc1fac509a23b93a3a89b51af32bf8.js"  width="90%" height="400"></iframe>
-
-<!--{% gist 71bc1fac509a23b93a3a89b51af32bf8 %}-->
-
-Page images are [here](https://github.com/dig-eg-gaz/page-images), listed by date and page number.
-
-The pages below represent TEI documents transformed to HTML using a XSL and CSS customizations by [Sarah Stanley](https://github.com/scstanley7).
+Dates available with completion status:
+<iframe src="https://cdn.rawgit.com/whanley/71bc1fac509a23b93a3a89b51af32bf8/raw/d98c33c8fbf5ee67a89395c0e435ac9568bcd0c1/dig-eg-gaz-issues-calendar-chart.html"  width="150%" height="350"></iframe>
 
 ### Key
-- `plain text box`: complete, corrected issue
-- *italics*: (mostly) complete, uncorrected issue
-- **bold text**: partial issue
-- ~~strikethrough~~: no issue
+- 1 (blue), `plain text box`: complete, corrected issue
+- 0 (white), *italics*: (mostly) complete, uncorrected issue
+- -1 (red), **bold text**: partial issue
+- hashed box, ~~strikethrough~~: no issue
+
+Page **images** are [here](https://github.com/dig-eg-gaz/page-images), listed by date and page number.
+
+The pages below represent TEI documents transformed to HTML using XSL and CSS customizations by [Sarah Stanley](https://github.com/scstanley7).
 
 # 1905
 
