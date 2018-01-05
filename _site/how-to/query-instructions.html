@@ -471,7 +471,7 @@
 <p>With a little practice, you’ll learn to search for results only in the relevant parts of the newspaper.</p>
 
 <h3 id="what-searches">“What” searches</h3>
-<p>After you tell XPath <em>where</em> you want it to search, you can tell it <em>what</em> you want it to return. (This is optional.) Probably the most common thing to search for is a word or words. To do this, add <code class="highlighter-rouge">[contains(., "searchtext")]</code> to the end of your search, putting your search word(s) between the quotation marks. For example, <code class="highlighter-rouge">//div[contains(., "plague")]</code> will return all divs that contain the word “plague.” Note that this search is case sensitive, so you may also want to search “PLAGUE” and “Plague.” <!--- how to deal with case sensitive searches? ---></p>
+<p>After you tell XPath <em>where</em> you want it to search, you can tell it <em>what</em> you want it to return. (This is optional.) Probably the most common thing to search for is a word or words. To do this, add <code class="highlighter-rouge">[contains(., "searchtext")]</code> to the end of your search, putting your search word(s) between the quotation marks. For example, <code class="highlighter-rouge">//div[contains(., "plague")]</code> will return all divs that contain the word “plague.” Note that this search is case sensitive, and will not return “PLAGUE” and “Plague.” To remedy this ,use the <code class="highlighter-rouge">matches</code> function with the <code class="highlighter-rouge">'i'</code> flag, which makes the search case insensitive: <code class="highlighter-rouge">//div[matches(.,'the plague', 'i')]</code>.</p>
 
 <p>You can also search for particular kinds of information. Add a slash to the end of the location, then tell it you want
 - <code class="highlighter-rouge">count()</code> – how many of these things are there?
@@ -532,6 +532,11 @@
   <li>Count the number of items containing the term ‘native’: <code class="highlighter-rouge">count(//div[contains(., 'native')])</code></li>
   <li>count the number of ads (divs) on page 1 (div n=”1”): <code class="highlighter-rouge">count(//div[@n="1"]//div)</code></li>
   <li>count the number of paragraphs in the division whose heading contains “MARCHE DE MINET”: <code class="highlighter-rouge">count(//div/head[contains(.,'MARCHE DE MINET')]/following-sibling::p)</code></li>
+</ul>
+
+<h3 id="item-length">Item length</h3>
+<ul>
+  <li>Find all paragraphs longer than 5000 characters: <code class="highlighter-rouge">//p[string-length() &gt; 5000]</code></li>
 </ul>
 
 <h2 id="searching-with-regular-expressions">7. Searching with regular expressions</h2>

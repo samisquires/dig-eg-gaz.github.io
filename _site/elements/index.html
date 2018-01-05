@@ -444,53 +444,63 @@
 			<p>The Egyptian Gazette features a large number of recurring elements, which this project identifies using the <code class="highlighter-rouge">element=</code> attribute. Some of this material is captured in <a href="https://dig-eg-gaz.github.io/templates/">templates</a>, and others are <a href="https://dig-eg-gaz.github.io/advertisements">advertisements</a>. This pages lists recurring free-text elements, which are described using terms from the <a href="https://dig-eg-gaz.github.io/schema/">Digital Egyptian Gazette schema</a>. Many of the elements listed (ought to) contain sub-items with their own headlines, often also bylines and datelines.</p>
 
 <table>
-  <tbody>
+  <thead>
     <tr>
-      <td>Section name</td>
-      <td>element (or deprecated xml:id)</td>
-      <td>Usual page(s)</td>
-      <td>Notes</td>
+      <th>Section name</th>
+      <th>element (or deprecated xml:id)</th>
+      <th>Usual page(s)</th>
+      <th>Frequency</th>
+      <th>Notes</th>
     </tr>
+  </thead>
+  <tbody>
     <tr>
       <td><strong><a href="https://dig-eg-gaz.github.io/advertisements/">Advertisements</a></strong></td>
       <td>various</td>
       <td>1,2</td>
+      <td>daily</td>
       <td>Use <a href="https://dig-eg-gaz.github.io/advertisements/">templates</a></td>
     </tr>
     <tr>
       <td><strong><a href="https://dig-eg-gaz.github.io/templates/#daily-weather-report">Daily Weather Report</a></strong></td>
       <td>“weather”</td>
       <td>2</td>
+      <td>daily</td>
       <td><a href="https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/daily-weather-report.xml">tempate</a> <a href="https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/daily-weather-report-02.xml">alternate tempate</a></td>
     </tr>
     <tr>
       <td><strong>Telegrams / Wire Reports</strong> (international news)</td>
       <td>“wire”</td>
       <td>2,3</td>
+      <td>daily</td>
       <td>Sometimes appears as “To-day’s telegrams”, but typically there is no heading for this section. Treat wire reports as individual divs (<code class="highlighter-rouge">type="wireReport"</code>), each with its own <code class="highlighter-rouge">&lt;dateline&gt;</code> and <code class="highlighter-rouge">&lt;title&gt;</code>. This section is sometimes spread over two pages; when this is the case, you can use the <code class="highlighter-rouge">next</code> and <code class="highlighter-rouge">prev</code> attributes.</td>
     </tr>
     <tr>
       <td><strong>Local and General</strong></td>
       <td>“local”</td>
       <td>3</td>
+      <td>daily</td>
       <td>Treat individual paragraphs as individual divs (<code class="highlighter-rouge">type="item"</code>), each with its own <code class="highlighter-rouge">&lt;head&gt;</code>.</td>
     </tr>
     <tr>
       <td><strong>Sport and Play</strong></td>
       <td>“sport”</td>
       <td>3</td>
+      <td>daily?</td>
       <td>Treat contents as items, each with own headline.</td>
     </tr>
     <tr>
       <td><strong>Personal and Social</strong></td>
       <td>“social”</td>
       <td>3</td>
+      <td>daily?</td>
       <td>Treat contents as paragraphs</td>
     </tr>
     <tr>
       <td><strong>The Khedive</strong></td>
       <td>“khedive”</td>
       <td>3</td>
+      <td>daily?</td>
       <td> </td>
     </tr>
     <tr>
@@ -498,17 +508,13 @@
       <td>“councilMinisters”</td>
       <td>3</td>
       <td> </td>
-    </tr>
-    <tr>
-      <td><strong>Steamer Movements</strong></td>
-      <td>“steamerMovements”</td>
-      <td>3</td>
-      <td>Treat contents as paragraphs.</td>
+      <td> </td>
     </tr>
     <tr>
       <td><strong>Letters to the Editor</strong></td>
       <td>“letters”</td>
       <td>3</td>
+      <td> </td>
       <td>Treat each letter as an item, with <code class="highlighter-rouge">&lt;byline&gt;</code> and <code class="highlighter-rouge">&lt;dateline&gt;</code></td>
     </tr>
     <tr>
@@ -516,59 +522,76 @@
       <td>“nativePress”</td>
       <td>3</td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td><strong>Naval Notes</strong></td>
       <td>“navalNotes”</td>
       <td>3</td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td><strong>Esbekieh Gardens</strong></td>
       <td>“esbekieh”</td>
       <td>3</td>
+      <td> </td>
       <td>Format concert program as a <code class="highlighter-rouge">list</code></td>
     </tr>
     <tr>
       <td><strong>Passenger List</strong></td>
       <td>“passList”</td>
       <td>3,4,5,6,7</td>
+      <td> </td>
       <td>Treat arrivals and departures as items.</td>
+    </tr>
+    <tr>
+      <td><strong>Steamer Movements</strong></td>
+      <td>“steamerMovements”</td>
+      <td>3</td>
+      <td>Almost daily.</td>
+      <td>Treat contents as paragraphs.</td>
     </tr>
     <tr>
       <td><strong>Shipping Movements</strong></td>
       <td>“shippingMovements”</td>
       <td>4,6</td>
+      <td>Almost daily. Begins November 13, 1905?</td>
       <td> </td>
     </tr>
     <tr>
       <td><strong><a href="https://dig-eg-gaz.github.io/templates/#mouvement-maritime">Mouvement Maritime</a></strong></td>
       <td>“mouvementMaritime”</td>
       <td>4</td>
-      <td>French language. see <a href="https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/mouvement-maritime.xml">template</a> for format</td>
+      <td>Almost daily. none after October 17, 1905?</td>
+      <td>French language. see <a href="https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/mouvement-maritime.xml">template</a> for format.</td>
     </tr>
     <tr>
       <td><strong>Army and Navy / Army of Occupation / Egyptian Army</strong></td>
       <td>“army”</td>
       <td>3,4,5,7</td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td><strong><a href="https://dig-eg-gaz.github.io/templates/#calendar-of-coming-events">Calendar of Coming Events</a></strong></td>
       <td>“comingEvents”</td>
       <td>5</td>
+      <td>daily</td>
       <td>see <a href="https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/calendar-of-coming-events.xml">template</a> for format</td>
     </tr>
     <tr>
       <td><strong><a href="https://dig-eg-gaz.github.io/templates/#cheap-prepaid-advertisements">Cheap Prepaid Advertisements</a></strong></td>
       <td>“prepaidAdvertisements”</td>
       <td>2,5,7</td>
+      <td> </td>
       <td>Section template <a href="https://dig-eg-gaz.github.io/templates/#cheap-prepaid-advertisements">here</a>. Treat each advertisement as an item.</td>
     </tr>
     <tr>
       <td><strong>Visitors’ List</strong></td>
       <td>“visitList”</td>
       <td>3,5</td>
+      <td> </td>
       <td>Treat each hotel as an item.</td>
     </tr>
     <tr>
@@ -576,11 +599,13 @@
       <td>“mattersMoment”</td>
       <td>5</td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td><strong>Legal Notes / Chronique Judiciare</strong></td>
       <td>“legal”</td>
       <td>3,4,6</td>
+      <td> </td>
       <td>French language</td>
     </tr>
     <tr>
@@ -588,34 +613,40 @@
       <td>“londonLetter”</td>
       <td>7</td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td><strong>Our Paris Letter</strong></td>
       <td>“parisLetter”</td>
       <td>7</td>
       <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td><strong>Egyptian Share Market</strong></td>
       <td>“shareMarket”</td>
       <td>3,5</td>
+      <td> </td>
       <td>contains items (Egyptians, Mining, Consols, Rails, etc.) with own heads; often closes with a table.</td>
     </tr>
     <tr>
       <td><strong>Bulletin de la bourse</strong></td>
       <td>“bulletinBourse”</td>
       <td>3,4,6</td>
+      <td> </td>
       <td>French language</td>
     </tr>
     <tr>
       <td><strong>Chronique Financiere</strong></td>
       <td>“chroniqueFinanciere”</td>
       <td>3,4</td>
+      <td> </td>
       <td>French language</td>
     </tr>
     <tr>
       <td><strong><a href="https://dig-eg-gaz.github.io/templates/#export-manifests">Export Manifests</a></strong></td>
       <td>“exportManifests”</td>
+      <td> </td>
       <td> </td>
       <td>See <a href="https://github.com/dig-eg-gaz/boilerplates/blob/master/boilerplates-text/export-manifests.xml">template</a> for format</td>
     </tr>
@@ -626,12 +657,14 @@
 <p>These notes typically appear on page 3. They are sourced to “Our Own Correspondent”. Treat individual stories as <code class="highlighter-rouge">&lt;div type="item"&gt;</code>, each with its own <code class="highlighter-rouge">&lt;head&gt;</code>. It is not always clear how many stories belong to the section.</p>
 
 <table>
-  <tbody>
+  <thead>
     <tr>
-      <td>Place</td>
-      <td>element</td>
-      <td>Notes</td>
+      <th>Place</th>
+      <th>element</th>
+      <th>Notes</th>
     </tr>
+  </thead>
+  <tbody>
     <tr>
       <td>Constantinople</td>
       <td>“notesConstantinople”</td>

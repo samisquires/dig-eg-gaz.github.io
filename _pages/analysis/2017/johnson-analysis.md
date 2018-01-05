@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Domino Effect: The Impact of Strikes, 1905-1906
+title: "The Domino Effect: The Impact of Strikes, 1905-1906"
 author: JasmineJohnson
 date: 2017-05-04
 subheadline: "Jasmine Johnson"
