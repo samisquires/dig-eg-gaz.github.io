@@ -18,6 +18,7 @@ header:
 8. [How to query the full contents](query-instructions)
 9. [How to use regular expressions](regular-expression-instructions)
 10. [How to create data visualizations](visualization-instructions)
+11. [How to embed visualizations in markdown](embed-visualization-instructions)
 
 ## Course-specific instructions
 
