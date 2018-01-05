@@ -7,6 +7,8 @@ header:
 ---
 <script src="https://gist.github.com/whanley/71bc1fac509a23b93a3a89b51af32bf8.js"></script>
 
+{% gist 71bc1fac509a23b93a3a89b51af32bf8 %}
+
 Page images are [here](https://github.com/dig-eg-gaz/page-images), listed by date and page number.
 
 The pages below represent TEI documents transformed to HTML using a XSL and CSS customizations by [Sarah Stanley](https://github.com/scstanley7).
