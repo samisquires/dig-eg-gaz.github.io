@@ -320,6 +320,10 @@ xml text: [emp01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [ems01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ems01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ems01-emulsion-scott.png?raw=true)
 
+### ens01 Express Nile Steamer Co.
+xml text: [ens01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ens01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ens01-express-nile-steamer.png?raw=true)
+
 ### epi01 English Pension, Italian Riviera
 xml text: [epi01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/epi01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/epi01-English-Pension-Italian-Riviera.png?raw=true)
