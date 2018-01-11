@@ -10,7 +10,7 @@ header:
 Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Notes
 ---|---|---|---|---|---|---|---
 7|February 13, 1905|February 18, 1905|[India Anderson](https://github.com/Indiaa)||||
-29|July 17, 1905|July 22, 1905|[Daniel Arenas](https://github.com/)||||
+29|July 17, 1905|July 22, 1905|[Daniel Arenas](https://github.com/Daniel1815)||||
 4|January 15, 1906|January 20, 1906|[Parker Beasley](https://github.com/ParkerB21)||||
 10|March 5, 1906|March 10, 1906|[Ian Bolger](https://github.com/ieb17)||||
 13|March 26, 1906|March 31, 1906|[Hannah Bridges](https://github.com/hlb17)||||
@@ -22,7 +22,7 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 40|October 1, 1906|October 6, 1906|[Will Hanley](https://github.com/whanley)|18|3|18|
 41|October 8, 1906|October 13, 1906|[Leyna Castro](https://github.com/ley06)||||
 42|October 15, 1906|October 20, 1906|[Kailen Chapple](https://github.com/wavyncurly)||||
-43|October 22, 1906|October 27, 1906|[GavinC lark](https://github.com/gavinclark30)||||
+43|October 22, 1906|October 27, 1906|[Gavin Clark](https://github.com/gavinclark30)||||
 44|October 29, 1906|November 3, 1906|[Gillian D'Onofrio](https://github.com/gillidonof)||||
 45|November 5, 1906|November 10, 1906|[Kami Dawson](https://github.com/)||||
 46|November 12, 1906|November 17, 1906|[Michael Ebert](https://github.com/)||||
@@ -47,7 +47,7 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 13|March 25, 1907|March 30, 1907|[Greyson Porter](https://github.com/)||||
 14|April 1, 1907|April 6, 1907|[Will Hanley](https://github.com/whanley)||||
 15|April 8, 1907|April 13, 1907|[Melissa Pregasen](https://github.com/melissap17)||||
-16|April 15, 1907|April 20, 1907|[SonaliPustam](https://github.com/sonalipustam)||||
+16|April 15, 1907|April 20, 1907|[Sonali Pustam](https://github.com/sonalipustam)||||
 17|April 22, 1907|April 27, 1907|[Claudia Richardson](https://github.com/)||||
 18|April 29, 1907|May 4, 1907|[Max Sherman](https://github.com/)||||
 19|May 6, 1907|May 11, 1907|[Spencer Smith](https://github.com/spencer-R-smith)||||
