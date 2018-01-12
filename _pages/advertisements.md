@@ -716,6 +716,10 @@ xml text: [pos02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [pri01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pri01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pri01-Prince-Line.png?raw=true)
 
+### pri02 Prince Line
+xml text: [pri02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pri02.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pri02-prince-line.png?raw=true)
+
 ### pss01 Port Said Savoy Hotel
 xml text: [pss01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pss01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pss01-Port-Said-Savoy-Hotel.png?raw=true)
@@ -775,6 +779,10 @@ xml text: [sgr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### sgr02 Sudan Government Railways
 xml text: [sgr02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sgr02.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sgr02-sudan-government-railways.png?raw=true)
+
+### sgr03 Sudan Government Railways
+xml text: [sgr03](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sgr03.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sgr03-sudan-government-railways.png?raw=true)
 
 ### sha01 Shannon System
 xml text: [sha01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sha01.xml)
