@@ -36,6 +36,10 @@ xml text: [aan03](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [aan04](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/aan04.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/aan04-anglo-american-nile-steamer.png?raw=true)
 
+### aan05 Hamburg & Anglo-American Nile Co.
+xml text: [aan05](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/aan05.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/aan05-Hamburg-Anglo-American-Nile.png?raw=true)
+
 ### aaw01 Ariston Aerated Waters
 xml text: [aaw01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/aaw01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/aaw01-Ariston-Aerated-Waters.png?raw=true)
@@ -83,6 +87,10 @@ xml text: [als01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### als02 Austrian Lloyd's Steam Navigation
 xml text: [als02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/als02.xml). Ship dates, names, and captains' names change. Near bottom, destination dates change.
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/als02-Austrian-Lloyds-Steam-Navigation.png?raw=true)
+
+### als03 Austrian Lloyd's Steam Navigation
+xml text: [als03](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/als03.xml). Ship dates, names, and captains' names change. Near bottom, destination dates change.
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/als03-Austrian-Lloyds-Steam-Navigation.png?raw=true)
 
 ### api01 Apiol
 xml text: [api01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/api01.xml)
@@ -239,6 +247,10 @@ xml text: [cun01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### cun02 Cunard Line
 xml text: [cun02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cun02.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cun02-Cunard-Line.png?raw=true)
+
+### cun03 Cunard Line
+xml text: [cun03](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cun03.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cun03-Cunard-Line.png?raw=true)
 
 ### dia01 Diamonds
 xml text: [dia01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/dia01.xml)
@@ -712,6 +724,10 @@ xml text: [pos01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [pos02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pos02.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pos02-p-o-weekly.png?raw=true)
 
+### pos03 Peninsular and Oriental S.N. Company
+xml text: [pos03](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pos03.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pos03-Peninsular-and-Oriental-S-N-Company.png?raw=true)
+
 ### pri01 Prince Line
 xml text: [pri01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pri01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/pri01-Prince-Line.png?raw=true)
@@ -747,6 +763,10 @@ xml text: [rob01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### rsn01 Russian Steam Navigation
 xml text: [rsn01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/rsn01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/rsn01-Russian-Steam-Navigation.png?raw=true)
+
+### rsn02 Russian Steam Navigation
+xml text: [rsn02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/rsn02.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/rsn02-Russian-Steam-Navigation.png?raw=true)
 
 ### rwc01 R. Warner & Co.
 xml text: [rwc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/rwc01.xml)
@@ -880,6 +900,10 @@ xml text: [vdt01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [wam01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/wam01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/wam01-Walker-and-Meimarachi.png?raw=true)
 
+### wbl01 Waterlow Bros. & Layton
+xml text: [wbl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/wbl01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/wbl01-waterlow-bros-layton.png?raw=true)
+
 ### wha01 W. H. Allen
 xml text: [wha01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/wha01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/wha01-w-h-allen.png?raw=true)
@@ -903,6 +927,10 @@ xml text: [wlb01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### wsl01 White Star Line
 xml text: [wsl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/wsl01.xml) produced by Madison Flick.
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/wsl01-white-star-line.png?raw=true)
+
+### wsl02 White Star Line
+xml text: [wsl02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/wsl02.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/wsl02-white-star-line.png?raw=true)
 
 ### yos01 Yost Typewriter
 xml text: [yos01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/yos01.xml)
