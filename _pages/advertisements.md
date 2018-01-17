@@ -60,6 +60,10 @@ xml text: [adr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [aeb01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/aeb01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/aeb01-The-Anglo-Egyptian-Bank.png?raw=true)
 
+### aeb02 Anglo-Egyptian Bank
+xml text: [aeb02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/aeb02.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/aeb02-Anglo-Egyptian-Bank.png?raw=true)
+
 ### afc01 African Commerce
 xml text: [afc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/afc01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/afc01-African-Commerce.png?raw=true)
@@ -160,9 +164,17 @@ xml text: [blm01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [blm02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/blm02.xml). Ship names, weights, dates change.
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/blm02-biddy-line-mail.png?raw=true)
 
+### boe01 Bank of Egypt, Limited
+xml text: [boe01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/boe01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/boe01-bank-of-egypt.png?raw=true)
+
 ### bor01 Borwick's Baking Powder
 xml text: [bor01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bor01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bor01-Borwicks-Baking-Powder.png?raw=true)
+
+### bos01 Bank of Salonica
+xml text: [bos01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bos01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bos01-bank-of-salonica.png?raw=true)
 
 ### bov01 Bovril
 xml text: [bov01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bov01.xml)
@@ -201,8 +213,12 @@ xml text: [cgg01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cgg01-Champagne-George-Goulet.png?raw=true)
 
 ### cgh01 Cairo Grand Hammam
-xml text: [cgh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cgg01.xml)
+xml text: [cgh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cgh01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cgh01-cairo-grand-hammam.png?raw=true)
+
+### cgr01 Cyprus Government railways
+xml text: [cgr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cgr01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cgr01-cyrpus-government-railways.png?raw=true)
 
 ### che01 Charles Evans
 xml text: [che01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/che01.xml)
@@ -236,6 +252,14 @@ xml text: [cps01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [crl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/crl01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/crl01-Credit-Lyonnais.png?raw=true)
 
+### crl02 Credit Lyonnais
+xml text: [crl02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/crl02.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/crl02-Credit-Lyonnais.png?raw=true)
+
+### csr01 Cassa di Sconto e di Risparmio
+xml text: [csr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/csr01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/csr01-cassa-di-sconto-e-di-risparmio.png?raw=true)
+
 ### cst01 Cairo Sewage Transport Co.
 xml text: [cst01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cst01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cst01-Cairo-Sewage-Transport.png?raw=true)
@@ -267,6 +291,10 @@ xml text: [dcl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### ddg01 Direction der Disconto-Gesellschaft
 xml text: [ddg01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ddg01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ddg01-Direction-der-Disconto-Gesellschaft.png?raw=true)
+
+### ddg02 Direction der Disconto-Gesellschaft
+xml text: [ddg02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ddg02.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ddg02-Direction-der-Disconto-Gesellschaft.png?raw=true)
 
 ### deb01 Deutsche Bank
 xml text: [deb01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/deb01.xml)
