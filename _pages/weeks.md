@@ -45,7 +45,7 @@ Week|Start date (Monday)|End date (Saturday)|Assigned to|Images|Files|Pages|Note
 11|March 11, 1907|March 16, 1907|[Carter Pfost](https://github.com/44Silver4)||||
 12|March 18, 1907|March 23, 1907|[Handy Pierre](https://github.com/)||||
 13|March 25, 1907|March 30, 1907|[Greyson Porter](https://github.com/)||||
-14|April 1, 1907|April 6, 1907|[Will Hanley](https://github.com/whanley)|7|1|1|
+14|April 1, 1907|April 6, 1907|[Will Hanley](https://github.com/whanley)|7|2|2|
 15|April 8, 1907|April 13, 1907|[Melissa Pregasen](https://github.com/melissap17)||||
 16|April 15, 1907|April 20, 1907|[Sonali Pustam](https://github.com/sonalipustam)||||
 17|April 22, 1907|April 27, 1907|[Claudia Richardson](https://github.com/)||||
