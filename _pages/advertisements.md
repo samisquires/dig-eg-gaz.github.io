@@ -164,6 +164,10 @@ xml text: [blm01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [blm02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/blm02.xml). Ship names, weights, dates change.
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/blm02-biddy-line-mail.png?raw=true)
 
+### blm03 Bibby Line Mail Steamers
+xml text: [blm03](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/blm03.xml). Ship names, weights, dates change.
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/blm03-biddy-line-mail.png?raw=true)
+
 ### boe01 Bank of Egypt, Limited
 xml text: [boe01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/boe01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/boe01-bank-of-egypt.png?raw=true)
