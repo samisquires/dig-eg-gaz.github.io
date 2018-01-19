@@ -960,6 +960,10 @@ xml text: [whr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [wlb01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/wlb01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/wlb01-Wrexham-Lager-Beer.png?raw=true)
 
+### wmc01 Whitehead Morris & Co.
+xml text: [wmc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/wmc01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/wmc01-whitehead-morris-co.png?raw=true)
+
 ### wsl01 White Star Line
 xml text: [wsl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/wsl01.xml) produced by Madison Flick.
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/wsl01-white-star-line.png?raw=true)
