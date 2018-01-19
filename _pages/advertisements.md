@@ -717,8 +717,12 @@ xml text: [opl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/opl01-Orient-Pacific-Line-of-Royal-Mail-Steamers.png?raw=true)
 
 ### orm01 Orient-Royal Mail
-xml text: Outwards/homewards ship names and sailing dates change. Variant of opl01. [orm01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/orm01.xml)
+xml text: [orm01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/orm01.xml)  Outwards/homewards ship names and sailing dates change. Variant of opl01.
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/orm01-orient-royal-mail.png?raw=true)
+
+### orm02 Orient-Royal Mail
+xml text: [orm02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/orm02.xml)  Outwards/homewards ship names and sailing dates change. Variant of opl01.
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/orm02-orient-royal-mail.png?raw=true)
 
 ### pap01 The Papyanni Line
 xml text: [pap01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/pap01.xml). Dates, ships and destinations vary in third paragraph.
