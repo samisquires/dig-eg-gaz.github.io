@@ -222,7 +222,7 @@ xml text: [cgh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 
 ### cgr01 Cyprus Government railways
 xml text: [cgr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cgr01.xml)
-![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cgr01-cyrpus-government-railways.png?raw=true)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cgr01-cyprus-government-railways.png?raw=true)
 
 ### che01 Charles Evans
 xml text: [che01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/che01.xml)
