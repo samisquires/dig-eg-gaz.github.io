@@ -144,6 +144,10 @@ xml text: [bcp02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [bct01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bct01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bct01-british-commercial-travellers.png?raw=true)
 
+### bdc01 Banque du Caire
+xml text: [bdc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bdc01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bdc01-banque-du-caire.png?raw=true)
+
 ### bis01 British India S. N. Company, Limited
 xml text: [bis01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/bis01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/bis01-British-India-SN-Company-Limited.png?raw=true)
