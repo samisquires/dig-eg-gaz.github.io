@@ -13,15 +13,22 @@ We will manage our digitization of the Egyptian Gazette using GitHub. Each of us
 GitHub is a tool to manage versioning.
 
 ## How to access GitHub?
-You can approach GitHub three ways: using a web browser to access [github.com](https://github.com/), using the [GitHub Desktop](https://desktop.github.com/) client , or using [the command line](http://programminghistorian.org/lessons/intro-to-bash). We'll be using the Desktop client mostly, but in a pinch you can use the web browser.
+You can approach GitHub three ways:
+- using a web browser to access [github.com](https://github.com/),
+- using the [GitHub Desktop](https://desktop.github.com/) client , or
+- using [the command line](http://programminghistorian.org/lessons/intro-to-bash).
 
-## How to
+We'll be using the Desktop client mostly, but in a pinch you can use the web browser.
+
+## How to use the organization repository and your own fork of it
 1. Create an account, and email me your username so that I can add you to the dig-eg-gaz organization..
-2. Navigate to the organization [content repository](https://github.com/dig-eg-gaz/content), and fork the repository, using the button at the top left.
+2. Navigate to the organization [content repository](https://github.com/dig-eg-gaz/content), and **fork** the repository by clicking on the "fork" icon on the top right. You will be offered the chance to fork the repository under your own username--do so. This will make a copy of the repository in your own GitHub account.
 3. Clone this repository in your Desktop.
 4. In Desktop, right click the "content" repository, and choose "View in Finder." This will show where the content files you've just cloned are stored on your hard drive. Move your xml files here, and continue to edit them in this location. Desktop will help you to send these edits to Github.
-5. When you're ready to save your changes to github, write a summary of your changes (e.g., "creating page 1"), hit "Commit to Master", then hit "Sync".
-6. Send a pull request, following instructions under step 6 of the [TEI-XML instructions](https://dig-eg-gaz.github.io/how-to/tei-xml-instructions/)).
+5. When you're ready to save your changes to github, write a summary of your changes (e.g., "creating page 1"), hit "Commit to Master", then hit "Sync". This will backup your work on your fork to github's servers.
+
+## How to submit your deliverables
+When your page files are complete, you can fold them from your own fork into the **master** organization content repository by sending me a **pull request**. You do this by clicking the "new pull request" button the top left above your list of files, following the instructions there. I will then see the pull request and either merge your files into the organization's content or request that you change something before doing so.
 
 ## How do I make sure that my content fork is up to date?
 It's very important to make sure that you are working on an up-to-date version of the content files. When you look at your fork of the `dig-eg-gaz/content` repository, you will see a line comparing your repository to the organization repository:
