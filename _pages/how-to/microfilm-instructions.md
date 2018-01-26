@@ -7,7 +7,7 @@ image:
   image_fullwidth: masthead.jpg
 ---
 ## Objective
-This tutorial explains how to produced high-quality, [OCR](https://dig-eg-gaz.github.io/how-to/OCR-instructions/)-readable images from microfilm of a historical newspaper.
+This tutorial explains how to produced high-quality, [OCR](https://dig-eg-gaz.github.io/how-to/OCR-instructions/)-readable images from microfilm of a historical newspaper. **Note:** Library staff may offer you some help in using the microfilm readers, but they are not responsible to do the work for you. This tutorial explains everything you need to know to do this task.
 
 ## 1. Setup
 1. Get film NP 486 for the appropriate month and year from the reserve desk in the basement in Strozier. You can sign it out for two hours. Each film contains three months' worth of issues. You might have to scroll through a lot of film to find your date.
@@ -25,7 +25,7 @@ Make sure that you leave a bit of overlap, so that the image stitching software 
 4. Stitch the four quarters into a single high-resolution file using the [Microsoft Image Composite Editor](http://research.microsoft.com/en-us/um/redmond/projects/ice/). The program is loaded on all of the scanning computers at Strozier. If you use a Windows computer, it is free to download for your own computer. When you open the program, click "New Panorama," import the four quarter images you just produced, click "Stitch," then click "Export." Choose image quality "superb," and save the file with the name "YYYY-MM-DD-p1.jpg". This is the file that you will use for subsequent work--save it to your hard drive.
 4. Go ahead and do the same for all the pages of the issue. **Note:** You may find that certain pages (often page 1) are doubled on the microfilm. When this is the case, you only need scan one version of the doubled page.
 
-## 2. Save your files
+## 4. Save your files
 5. Find the stitched image files you've created on the computer's hard drive, and copy them to a USB key, save them to Dropbox, or save them some other way. Do not simply leave them on the microfilm computer. You do not need to save the quarter page images.
 6. Return the microfilm to the checkout desk--your classmates will need to find it.
 7. Once you are satisfied with your images, upload them directly to the appropriate subfolder within the [page-images repository](https://github.com/dig-eg-gaz/page-images) repository on GitHub. There are four subfolders (one for each quarter of the year). Make doubly sure *before you upload* that your images are named exactly according to this format: `YYYY-MM-DD-p1.jpg` (substitute .png or .pdf if using those format).
