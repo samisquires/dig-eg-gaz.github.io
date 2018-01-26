@@ -3,7 +3,7 @@ layout: page
 title: Microfilm instructions
 permalink: /how-to/microfilm-instructions/
 author: Will Hanley
-image:
+header:
   image_fullwidth: masthead.jpg
 ---
 ## Objective

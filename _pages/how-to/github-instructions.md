@@ -3,7 +3,7 @@ layout: page
 title: GitHub instructions
 permalink: /how-to/github-instructions/
 author: Will Hanley
-image:
+header:
   image_fullwidth: masthead.jpg
 ---
 
