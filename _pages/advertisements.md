@@ -44,7 +44,7 @@ xml text: [aan05](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [aaw01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/aaw01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/aaw01-Ariston-Aerated-Waters.png?raw=true)
 
-### abp01 The Artesan Boring and Prospecting Company
+### abp01 The Artesian Boring and Prospecting Company
 xml text: [abp01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/abp01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/abp01-The-Artesan-Boring-and-Prospecting-Company.png?raw=true)
 
@@ -212,6 +212,10 @@ xml text: [cbb01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [ccc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ccc01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ccc01-The-Cleopatra-Cigarette-Co.png?raw=true)
 
+### cct01 Calvert's Carbolic Toilet Soap
+xml text: [cct01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cct01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cct01-calverts-carbolic.png?raw=true)
+
 ### cfe01 Credit Franco-Egyptien
 xml text: [cfe01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/cfe01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/cfe01-credit-franco-egyptien.png?raw=true)
@@ -344,6 +348,10 @@ xml text: [edl01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [eeh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/eeh01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/eeh01-Eastern-Exchange-Hotel.png?raw=true)
 
+### eeh02 Eastern Exchange Hotel
+xml text: [eeh02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/eeh02.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/eeh02-Eastern-Exchange-Hotel.png?raw=true)
+
 ### ela01 Edinburgh Life Assurance Company.
 xml text: [ela01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ela01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ela01-Edinburgh-Life-Assurance-Company.png?raw=true)
@@ -455,6 +463,10 @@ xml text: [hbh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### hbr01 Hotel Beau-Rivage
 xml text: [hbr01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hbr01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hbr01-Hotel-Beau-Rivage.png?raw=true)
+
+### hcp01 Paris Hotel Continental
+xml text: [hcp01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hcp01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/hcp01-paris-hotel-continental.png?raw=true)
 
 ### hcs01 Hotel-Casino San Stefano
 xml text: [hcs01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/hcs01.xml)
@@ -688,6 +700,10 @@ xml text: [nkh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [nkh02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nkh02.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nkh02-new-khedivial-hotel-cairo.png?raw=true)
 
+### nkh03 New Khedivial Hotel Cairo
+xml text: [nkh03](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nkh03.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nkh03-new-khedivial-hotel-cairo.png?raw=true)
+
 ### nll01 Norddeutscher Lloyd
 xml text: [nll01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nll01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nll01-Norddeutscher-Lloyd.png?raw=true)
@@ -711,6 +727,10 @@ xml text (containing errors?): [nrp01](https://github.com/dig-eg-gaz/advertiseme
 ### nsa01 N. Spathis
 xml text: [nsa01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nsa01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nsa01-N-Spathis.png?raw=true)
+
+### nsa02 N. Spathis
+xml text: [nsa02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nsa02.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/nsa02-N-Spathis.png?raw=true)
 
 ### nvh01 New Victoria Hotel
 xml text: [nvh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/nvh01.xml)
@@ -872,6 +892,10 @@ xml text: [smw01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [spa01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/spa01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/spa01-Spathis-Grill-Room.png?raw=true)
 
+### sph01 Savoy Palace Hotel
+xml text: [sph01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/sph01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/sph01-savoy-palace-hotel.png?raw=true)
+
 ### ssw01 Siemens Schuckert Werke
 xml text: [ssw01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ssw01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ssw01-Siemens-Schuckert-Werke.png?raw=true)
@@ -935,6 +959,10 @@ xml text: [twh01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### vdt01 Val de Travers
 xml text: [vdt01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/vdt01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/vdt01-Val-de-Travers.png?raw=true)
+
+### vhb01 Vienna Hotel Bristol
+xml text: [vhb01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/vhb01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/vhb01-vienna-hotel-bristol.png?raw=true)
 
 ### wam01 Walker & Meimarachi
 xml text: [wam01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/wam01.xml)
