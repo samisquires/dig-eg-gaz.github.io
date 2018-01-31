@@ -376,6 +376,10 @@ xml text: [emp01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 xml text: [ems01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ems01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ems01-emulsion-scott.png?raw=true)
 
+### ems02 Emulsion Scott
+xml text: [ems02](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ems02.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ems02-emulsion-scott.png?raw=true)
+
 ### ens01 Express Nile Steamer Co.
 xml text: [ens01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ens01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ens01-express-nile-steamer.png?raw=true)
@@ -515,6 +519,10 @@ xml text: [ici01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-te
 ### imc01 Irish Manufactured Collars
 xml text: [imc01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/imc01.xml)
 ![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/imc01-irish-manufactured-collars.png?raw=true)
+
+### ind01 Indicateur Egyptien
+xml text: [ind01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/ind01.xml)
+![Image of Ad](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-images/ind01-indicateur-egyptien.png?raw=true)
 
 ### inv01 "Investments"
 xml text: [inv01](https://github.com/dig-eg-gaz/advertisements/blob/master/ad-text/inv01.xml)
